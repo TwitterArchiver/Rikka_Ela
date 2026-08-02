@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2078725245029196140",
+    "created_at": "2026-07-19T06:14:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T07:14:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078725245029196140"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/hsn8086/status/2078701974388895880",
+          "start": 7,
+          "url": "https://t.co/RAGcLxJQrG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078725245029196140",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078701974388895880",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这真没绷住💀 https://t.co/RAGcLxJQrG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2078701956756074496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNkIao5a8AAx44k.jpg",
+        "width": 1015
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2078725245029196140",
+        "created_at": "2026-07-19T06:14:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T07:14:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078725245029196140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/hsn8086/status/2078701974388895880",
+              "start": 7,
+              "url": "https://t.co/RAGcLxJQrG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078725245029196140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078701974388895880",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这真没绷住💀 https://t.co/RAGcLxJQrG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078701956756074496"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "2078701974388895880",
+        "created_at": "2026-07-19T04:42:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T05:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078701974388895880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4VW34rUbsX",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/2078701974388895880/photo/1",
+              "media_key": "3_2078701956756074496",
+              "start": 0,
+              "url": "https://t.co/4VW34rUbsX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078701974388895880",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1840,
+          "like_count": 55,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/4VW34rUbsX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6346,
+          "following_count": 3772,
+          "like_count": 86074,
+          "listed_count": 9,
+          "media_count": 448,
+          "tweet_count": 9988
+        },
+        "url": "",
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐, 真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "2056395915003650409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121759,
+          "following_count": 1115,
+          "like_count": 52149,
+          "listed_count": 300,
+          "media_count": 23202,
+          "tweet_count": 33746
+        },
+        "url": "",
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

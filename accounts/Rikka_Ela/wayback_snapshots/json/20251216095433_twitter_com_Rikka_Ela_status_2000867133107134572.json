@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2000708040585076762",
+    "created_at": "2025-12-16T09:54:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T10:54:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000867133107134572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1792933283040284673",
+          "start": 0,
+          "username": "tuamitx0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000867133107134572",
+    "in_reply_to_user_id": "1792933283040284673",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000789400331165961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tuamitx0 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2000708040585076762",
+        "created_at": "2025-12-16T09:54:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T10:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000867133107134572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1792933283040284673",
+              "start": 0,
+              "username": "tuamitx0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000867133107134572",
+        "in_reply_to_user_id": "1792933283040284673",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000789400331165961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tuamitx0 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792933283040284673",
+        "conversation_id": "2000708040585076762",
+        "created_at": "2025-12-16T04:45:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T05:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000789400331165961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000789400331165961",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 150,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000708040585076762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 😔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4760,
+          "following_count": 3667,
+          "like_count": 77487,
+          "listed_count": 8,
+          "media_count": 344,
+          "tweet_count": 7714
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-21T15:00:28.000Z",
+        "description": "我希望我爱的人都好好的🥺♥️",
+        "id": "1792933283040284673",
+        "location": "臺灣 ",
+        "name": "catalyst",
+        "pinned_tweet_id": "1976573659189015037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988498253508399104/toazK1iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 667,
+          "like_count": 17431,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 11708
+        },
+        "username": "tuamitx0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,578 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968345615026495488"
+      ],
+      "media_source_tweet_id": [
+        "1968345808421671153"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1135979287733948416",
+          "name": "Elden Ring"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1135979287733948416",
+          "name": "Elden Ring"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898668479250438",
+          "name": "Fantasy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      }
+    ],
+    "conversation_id": "1968584578202812684",
+    "created_at": "2025-09-18T07:55:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T08:55:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968584578202812684"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "Godfrey",
+          "probability": 0.7563,
+          "start": 14,
+          "type": "Person"
+        },
+        {
+          "end": 31,
+          "normalized_text": "ELDENRING",
+          "probability": 0.6706,
+          "start": 23,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 22,
+          "tag": "ELDENRING"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1231242178816430081",
+          "start": 3,
+          "username": "Ron__567"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EqKw1XdTyB",
+          "end": 56,
+          "expanded_url": "https://x.com/Ron__567/status/1968345808421671153/photo/1",
+          "media_key": "3_1968345615026495488",
+          "start": 33,
+          "url": "https://t.co/EqKw1XdTyB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968584578202812684",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968345808421671153",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ron__567: Godfrey\n#ELDENRING https://t.co/EqKw1XdTyB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1968345615026495488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1D36HraIAASDqQ.jpg",
+        "width": 1255
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968345615026495488"
+          ],
+          "media_source_tweet_id": [
+            "1968345808421671153"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "1968584578202812684",
+        "created_at": "2025-09-18T07:55:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T08:55:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968584578202812684"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "Godfrey",
+              "probability": 0.7563,
+              "start": 14,
+              "type": "Person"
+            },
+            {
+              "end": 31,
+              "normalized_text": "ELDENRING",
+              "probability": 0.6706,
+              "start": 23,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 22,
+              "tag": "ELDENRING"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1231242178816430081",
+              "start": 3,
+              "username": "Ron__567"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EqKw1XdTyB",
+              "end": 56,
+              "expanded_url": "https://x.com/Ron__567/status/1968345808421671153/photo/1",
+              "media_key": "3_1968345615026495488",
+              "start": 33,
+              "url": "https://t.co/EqKw1XdTyB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968584578202812684",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968345808421671153",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ron__567: Godfrey\n#ELDENRING https://t.co/EqKw1XdTyB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968345615026495488"
+          ]
+        },
+        "author_id": "1231242178816430081",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          }
+        ],
+        "conversation_id": "1968345808421671153",
+        "created_at": "2025-09-17T16:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T17:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968345808421671153"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "Godfrey",
+              "probability": 0.7832,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 17,
+              "normalized_text": "ELDENRING",
+              "probability": 0.7281,
+              "start": 9,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 8,
+              "tag": "ELDENRING"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EqKw1XdTyB",
+              "end": 42,
+              "expanded_url": "https://x.com/Ron__567/status/1968345808421671153/photo/1",
+              "media_key": "3_1968345615026495488",
+              "start": 19,
+              "url": "https://t.co/EqKw1XdTyB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968345808421671153",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 7557,
+          "like_count": 532,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "Godfrey\n#ELDENRING https://t.co/EqKw1XdTyB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4525,
+          "following_count": 3552,
+          "like_count": 73029,
+          "listed_count": 9,
+          "media_count": 298,
+          "tweet_count": 6955
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-22T15:40:40.000Z",
+        "description": "I mainly update photos of Elden Ring, Dark Souls3, and Sekiro.",
+        "id": "1231242178816430081",
+        "name": "Longfield",
+        "pinned_tweet_id": "1805287420239429835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958791634516312064/_x0HZNwp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17353,
+          "following_count": 46,
+          "like_count": 37351,
+          "listed_count": 48,
+          "media_count": 998,
+          "tweet_count": 6308
+        },
+        "username": "Ron__567",
+        "verified": false
+      }
+    ]
+  }
+}

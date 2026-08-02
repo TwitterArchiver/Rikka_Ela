@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1905024665745309831",
+    "created_at": "2025-03-27T10:29:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-27T11:29:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905205523680764031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1295167822973173760",
+          "start": 0,
+          "username": "Kyrg1989"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905205523680764031",
+    "in_reply_to_user_id": "1295167822973173760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905024665745309831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kyrg1989 啥都不干，先享受和总书记共度良宵的机会🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1905024665745309831",
+        "created_at": "2025-03-27T10:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T11:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905205523680764031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1295167822973173760",
+              "start": 0,
+              "username": "Kyrg1989"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905205523680764031",
+        "in_reply_to_user_id": "1295167822973173760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905024665745309831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kyrg1989 啥都不干，先享受和总书记共度良宵的机会🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1295167822973173760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1905024665745309831",
+        "created_at": "2025-03-26T22:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T23:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905024665745309831"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1905024665745309831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 64841,
+          "like_count": 418,
+          "quote_count": 5,
+          "reply_count": 105,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "问一下推油们，如果习近平把你拉进攻台微信群了，详细的和常委们讨论了攻台计划，你会干什么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4001,
+          "following_count": 3311,
+          "like_count": 63222,
+          "listed_count": 7,
+          "media_count": 183,
+          "tweet_count": 5390
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-17T01:20:57.000Z",
+        "description": "#blacklivesmatter #Pride2022 #Metoo 性别男",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 17,
+                "start": 0,
+                "tag": "blacklivesmatter"
+              },
+              {
+                "end": 28,
+                "start": 18,
+                "tag": "Pride2022"
+              },
+              {
+                "end": 35,
+                "start": 29,
+                "tag": "Metoo"
+              }
+            ]
+          }
+        },
+        "id": "1295167822973173760",
+        "location": "妙蛙底",
+        "name": "一个兴趣使然的黑人留学生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1598085086318333953/j5yEKoD4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5647,
+          "following_count": 597,
+          "like_count": 107884,
+          "listed_count": 25,
+          "media_count": 1488,
+          "tweet_count": 57764
+        },
+        "username": "Kyrg1989",
+        "verified": false
+      }
+    ]
+  }
+}

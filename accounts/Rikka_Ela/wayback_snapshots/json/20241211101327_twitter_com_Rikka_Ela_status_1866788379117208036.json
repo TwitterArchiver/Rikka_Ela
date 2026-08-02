@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1866779823135453227",
+    "created_at": "2024-12-11T10:13:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-11T11:13:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866788379117208036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1618679808896147456",
+          "start": 0,
+          "username": "alangol84212172"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866788379117208036",
+    "in_reply_to_user_id": "1618679808896147456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866786383299481955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alangol84212172 可能过段时间就死了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1866779823135453227",
+        "created_at": "2024-12-11T10:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T11:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866788379117208036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1618679808896147456",
+              "start": 0,
+              "username": "alangol84212172"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866788379117208036",
+        "in_reply_to_user_id": "1618679808896147456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866786383299481955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alangol84212172 可能过段时间就死了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618679808896147456",
+        "conversation_id": "1866779823135453227",
+        "created_at": "2024-12-11T10:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T11:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866786383299481955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866786383299481955",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866779823135453227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 熟悉的兔兔回来了🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文\n\n@Y32010705",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 43,
+                "username": "Y32010705"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3162,
+          "following_count": 3108,
+          "like_count": 54200,
+          "listed_count": 7,
+          "media_count": 146,
+          "tweet_count": 4121
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-26T18:39:57.000Z",
+        "description": "",
+        "id": "1618679808896147456",
+        "name": "EQeater",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836309521683353602/w2W3SqcW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 19,
+          "like_count": 330,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 45
+        },
+        "username": "alangol84212172",
+        "verified": false
+      }
+    ]
+  }
+}

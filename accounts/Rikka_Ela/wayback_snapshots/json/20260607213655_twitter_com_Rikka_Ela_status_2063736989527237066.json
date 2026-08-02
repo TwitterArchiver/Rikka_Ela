@@ -1,0 +1,751 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063510236531732480",
+        "3_2063510236502355968"
+      ],
+      "media_source_tweet_id": [
+        "2063510239417405858",
+        "2063510239417405858"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "872842877063147521",
+          "name": "Bloodborne"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "872842877063147521",
+          "name": "Bloodborne"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Bloodborne",
+          "id": "10049908034",
+          "name": "Bloodborne"
+        }
+      }
+    ],
+    "conversation_id": "2063736989527237066",
+    "created_at": "2026-06-07T21:36:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T22:36:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063736989527237066"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 16,
+          "tag": "Bloodborne"
+        },
+        {
+          "end": 36,
+          "start": 28,
+          "tag": "cosplay"
+        },
+        {
+          "end": 45,
+          "start": 37,
+          "tag": "cosㅤㅤㅤㅤ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1640290478422913024",
+          "start": 3,
+          "username": "Card0Lotus"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5MyqDPRZR1",
+          "end": 94,
+          "expanded_url": "https://x.com/Card0Lotus/status/2063510239417405858/photo/1",
+          "media_key": "3_2063510236531732480",
+          "start": 71,
+          "url": "https://t.co/5MyqDPRZR1"
+        },
+        {
+          "display_url": "pic.x.com/5MyqDPRZR1",
+          "end": 94,
+          "expanded_url": "https://x.com/Card0Lotus/status/2063510239417405858/photo/1",
+          "media_key": "3_2063510236502355968",
+          "start": 71,
+          "url": "https://t.co/5MyqDPRZR1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063736989527237066",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 188
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063510239417405858",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Card0Lotus: #Bloodborne #cosplay #cosㅤㅤㅤㅤ\nMy Amelia cosplay（No AI） https://t.co/5MyqDPRZR1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1131,
+        "media_key": "3_2063510236531732480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMPoI7bMAAKgNG.jpg",
+        "width": 1729
+      },
+      {
+        "height": 765,
+        "media_key": "3_2063510236502355968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMPoI0a8AAXLzs.jpg",
+        "width": 1077
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063510236531732480",
+            "3_2063510236502355968"
+          ],
+          "media_source_tweet_id": [
+            "2063510239417405858",
+            "2063510239417405858"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "872842877063147521",
+              "name": "Bloodborne"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "872842877063147521",
+              "name": "Bloodborne"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Bloodborne",
+              "id": "10049908034",
+              "name": "Bloodborne"
+            }
+          }
+        ],
+        "conversation_id": "2063736989527237066",
+        "created_at": "2026-06-07T21:36:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T22:36:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063736989527237066"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 16,
+              "tag": "Bloodborne"
+            },
+            {
+              "end": 36,
+              "start": 28,
+              "tag": "cosplay"
+            },
+            {
+              "end": 45,
+              "start": 37,
+              "tag": "cosㅤㅤㅤㅤ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1640290478422913024",
+              "start": 3,
+              "username": "Card0Lotus"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5MyqDPRZR1",
+              "end": 94,
+              "expanded_url": "https://x.com/Card0Lotus/status/2063510239417405858/photo/1",
+              "media_key": "3_2063510236531732480",
+              "start": 71,
+              "url": "https://t.co/5MyqDPRZR1"
+            },
+            {
+              "display_url": "pic.x.com/5MyqDPRZR1",
+              "end": 94,
+              "expanded_url": "https://x.com/Card0Lotus/status/2063510239417405858/photo/1",
+              "media_key": "3_2063510236502355968",
+              "start": 71,
+              "url": "https://t.co/5MyqDPRZR1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063736989527237066",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 188
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063510239417405858",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Card0Lotus: #Bloodborne #cosplay #cosㅤㅤㅤㅤ\nMy Amelia cosplay（No AI） https://t.co/5MyqDPRZR1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063510236531732480",
+            "3_2063510236502355968"
+          ]
+        },
+        "author_id": "1640290478422913024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "872842877063147521",
+              "name": "Bloodborne"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "872842877063147521",
+              "name": "Bloodborne"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Bloodborne",
+              "id": "10049908034",
+              "name": "Bloodborne"
+            }
+          }
+        ],
+        "conversation_id": "2063510239417405858",
+        "created_at": "2026-06-07T06:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T07:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063510239417405858"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "Bloodborne"
+            },
+            {
+              "end": 20,
+              "start": 12,
+              "tag": "cosplay"
+            },
+            {
+              "end": 29,
+              "start": 21,
+              "tag": "cosㅤㅤㅤㅤ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5MyqDPRZR1",
+              "end": 78,
+              "expanded_url": "https://x.com/Card0Lotus/status/2063510239417405858/photo/1",
+              "media_key": "3_2063510236531732480",
+              "start": 55,
+              "url": "https://t.co/5MyqDPRZR1"
+            },
+            {
+              "display_url": "pic.x.com/5MyqDPRZR1",
+              "end": 78,
+              "expanded_url": "https://x.com/Card0Lotus/status/2063510239417405858/photo/1",
+              "media_key": "3_2063510236502355968",
+              "start": 55,
+              "url": "https://t.co/5MyqDPRZR1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063510239417405858",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 146,
+          "impression_count": 23455,
+          "like_count": 1477,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 188
+        },
+        "reply_settings": "everyone",
+        "text": "#Bloodborne #cosplay #cosㅤㅤㅤㅤ\nMy Amelia cosplay（No AI） https://t.co/5MyqDPRZR1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5391,
+          "following_count": 3770,
+          "like_count": 85850,
+          "listed_count": 6,
+          "media_count": 440,
+          "tweet_count": 9698
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-27T09:51:50.000Z",
+        "description": "A artistic creator\n//Communicate with translators\n总有一天，我们会抵达爱的彼岸……",
+        "id": "1640290478422913024",
+        "name": "kallen Apocalypse",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061483458246168576/L7N1H4EV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2391,
+          "following_count": 109,
+          "like_count": 3299,
+          "listed_count": 11,
+          "media_count": 272,
+          "tweet_count": 1890
+        },
+        "username": "Card0Lotus",
+        "verified": false
+      }
+    ]
+  }
+}

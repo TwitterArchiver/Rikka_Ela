@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1882793167512293422",
+    "created_at": "2025-01-25T05:04:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T06:04:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883018027392004531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1397924779219292167",
+          "start": 0,
+          "username": "KawawaShota"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883018027392004531",
+    "in_reply_to_user_id": "1397924779219292167",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882793167512293422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KawawaShota 佩洛洛一号变佩洛西一号了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1882793167512293422",
+        "created_at": "2025-01-25T05:04:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T06:04:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883018027392004531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1397924779219292167",
+              "start": 0,
+              "username": "KawawaShota"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883018027392004531",
+        "in_reply_to_user_id": "1397924779219292167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882793167512293422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KawawaShota 佩洛洛一号变佩洛西一号了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882793164068835328",
+            "3_1882793165956222976"
+          ]
+        },
+        "author_id": "1397924779219292167",
+        "conversation_id": "1882793167512293422",
+        "created_at": "2025-01-24T14:10:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T15:10:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882793167512293422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IYbllZGI07",
+              "end": 70,
+              "expanded_url": "https://x.com/KawawaShota/status/1882793167512293422/photo/1",
+              "media_key": "3_1882793164068835328",
+              "start": 47,
+              "url": "https://t.co/IYbllZGI07"
+            },
+            {
+              "display_url": "pic.x.com/IYbllZGI07",
+              "end": 70,
+              "expanded_url": "https://x.com/KawawaShota/status/1882793167512293422/photo/1",
+              "media_key": "3_1882793165956222976",
+              "start": 47,
+              "url": "https://t.co/IYbllZGI07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882793167512293422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 26379,
+          "like_count": 556,
+          "quote_count": 3,
+          "reply_count": 40,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "每次看到⏰因为对方没说全“台湾省”就哈气掀桌狠锤自家打工人展现自己高尚的“政治敏感度”就想笑 https://t.co/IYbllZGI07"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3614,
+          "following_count": 3203,
+          "like_count": 58069,
+          "listed_count": 6,
+          "media_count": 163,
+          "tweet_count": 4638
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-27T14:37:03.000Z",
+        "description": "包蜜&Minecraft船大工&Flight enthusiast👨‍✈️&僵毁老司机\n日本語⭕、English⭕、蜀语⭕\n爱支TV全国模范汉奸候选人\n对线推文不留＞5h\n拉面仙人🍜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "17roco.qq.com",
+                "end": 23,
+                "expanded_url": "https://17roco.qq.com/",
+                "start": 0,
+                "url": "https://t.co/kN90VkOrf9"
+              }
+            ]
+          }
+        },
+        "id": "1397924779219292167",
+        "location": "卡洛西亚大陆",
+        "name": "翔太くん✈️",
+        "pinned_tweet_id": "1818618506080141480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789605085322072065/MLtOe3d__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12153,
+          "following_count": 1966,
+          "like_count": 43873,
+          "listed_count": 60,
+          "media_count": 941,
+          "tweet_count": 5873
+        },
+        "url": "https://t.co/kN90VkOrf9",
+        "username": "KawawaShota",
+        "verified": true
+      }
+    ]
+  }
+}

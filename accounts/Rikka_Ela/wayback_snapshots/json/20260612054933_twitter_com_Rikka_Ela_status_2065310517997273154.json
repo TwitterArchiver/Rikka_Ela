@@ -1,0 +1,429 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "2064699766215164241",
+    "created_at": "2026-06-12T05:49:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T06:49:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065310517997273154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "75343905",
+          "start": 0,
+          "username": "calvinrobinson"
+        },
+        {
+          "end": 27,
+          "id": "1434450096557596680",
+          "start": 16,
+          "username": "PolitlcsUK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065310517997273154",
+    "in_reply_to_user_id": "75343905",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064710189945659702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@calvinrobinson @PolitlcsUK President Xi cooperates with Nottingham City to build the China’s first sino-foreign cooperative university, it has been over 20 years🫨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2064699766215164241",
+        "created_at": "2026-06-12T05:49:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T06:49:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065310517997273154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "75343905",
+              "start": 0,
+              "username": "calvinrobinson"
+            },
+            {
+              "end": 27,
+              "id": "1434450096557596680",
+              "start": 16,
+              "username": "PolitlcsUK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065310517997273154",
+        "in_reply_to_user_id": "75343905",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064710189945659702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@calvinrobinson @PolitlcsUK President Xi cooperates with Nottingham City to build the China’s first sino-foreign cooperative university, it has been over 20 years🫨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "75343905",
+        "conversation_id": "2064699766215164241",
+        "created_at": "2026-06-10T14:04:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064710189945659702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1434450096557596680",
+              "start": 0,
+              "username": "PolitlcsUK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064710189945659702",
+        "in_reply_to_user_id": "1434450096557596680",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 28697,
+          "like_count": 211,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064699766215164241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PolitlcsUK Why does the University of Nottingham have a campus in China?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5509,
+          "following_count": 3776,
+          "like_count": 86047,
+          "listed_count": 7,
+          "media_count": 442,
+          "tweet_count": 9725
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2009-09-18T18:04:16.000Z",
+        "description": "🇬🇧🇺🇸 Priest ☩ Catholic Orders, Anglican Patrimony.\nTV/Radio/Online Broadcaster: @CommandMediaTV, @nxrstudios, @media_reclaim.\nPastor @StPaulsGR.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "CommandMediaTV"
+              },
+              {
+                "end": 108,
+                "start": 97,
+                "username": "nxrstudios"
+              },
+              {
+                "end": 124,
+                "start": 110,
+                "username": "media_reclaim"
+              },
+              {
+                "end": 143,
+                "start": 133,
+                "username": "StPaulsGR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "CalvinRobinson.com",
+                "end": 23,
+                "expanded_url": "http://CalvinRobinson.com",
+                "start": 0,
+                "url": "https://t.co/xj9fVej37a"
+              }
+            ]
+          }
+        },
+        "id": "75343905",
+        "location": "Grand Rapids, MI",
+        "name": "Fr Calvin Robinson ©️®️",
+        "pinned_tweet_id": "2064950758592729223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063786397744439297/vCqx8HKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456311,
+          "following_count": 2271,
+          "like_count": 822056,
+          "listed_count": 1348,
+          "media_count": 6996,
+          "tweet_count": 65828
+        },
+        "url": "https://t.co/xj9fVej37a",
+        "username": "calvinrobinson",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-05T09:35:36.000Z",
+        "description": "The Home of UK Political News. Follow & turn on notifications for impartial coverage first. For global & U.S. coverage, follow @PolitlcsGlobal & @PolitlcsUS.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 127,
+                "username": "PolitlcsGlobal"
+              },
+              {
+                "end": 156,
+                "start": 145,
+                "username": "PolitlcsUS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "politicsuk.com/about-us",
+                "end": 23,
+                "expanded_url": "https://politicsuk.com/about-us",
+                "start": 0,
+                "url": "https://t.co/Wf8UGWc4SF"
+              }
+            ]
+          }
+        },
+        "id": "1434450096557596680",
+        "location": "United Kingdom",
+        "name": "Politics UK",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1688954450675740688/t1aS9_3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448695,
+          "following_count": 727,
+          "like_count": 17053,
+          "listed_count": 1364,
+          "media_count": 4505,
+          "tweet_count": 21372
+        },
+        "url": "https://t.co/Wf8UGWc4SF",
+        "username": "PolitlcsUK",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1819868528515620931",
+    "created_at": "2024-08-04T23:02:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-05T00:02:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1820233892504510499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1586332050528915457",
+          "start": 0,
+          "username": "lilaoshizuikeai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820233892504510499",
+    "in_reply_to_user_id": "1586332050528915457",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819868528515620931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lilaoshizuikeai 给留学生一个电话一个电话推销过去（×"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1819868528515620931",
+        "created_at": "2024-08-04T23:02:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-05T00:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820233892504510499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1586332050528915457",
+              "start": 0,
+              "username": "lilaoshizuikeai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820233892504510499",
+        "in_reply_to_user_id": "1586332050528915457",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819868528515620931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lilaoshizuikeai 给留学生一个电话一个电话推销过去（×"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1586332050528915457",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "1819868528515620931",
+        "created_at": "2024-08-03T22:50:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T23:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1819868528515620931"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1819868528515620931",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 282,
+          "impression_count": 1237826,
+          "like_count": 2760,
+          "quote_count": 21,
+          "reply_count": 262,
+          "retweet_count": 134
+        },
+        "reply_settings": "everyone",
+        "text": "最近接到很多反馈，陆续有不少在海外生活或者留学的网友，家里接到警察电话，询问是否在推特上关注李颖（注意，是我的真名，不是之前挨个询问关注者时候的“李老师”了\n而且很多从没关注过我的也被打了电话，最夸张的是还有些从来不用推特的留学生也有家里被打电话了\n非常诡异，感觉级别又高了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2312,
+          "following_count": 2854,
+          "like_count": 44897,
+          "listed_count": 6,
+          "tweet_count": 2936
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-29T12:20:25.000Z",
+        "description": "与你进退也共鸣",
+        "id": "1586332050528915457",
+        "location": "猴管",
+        "name": "Lee1ng",
+        "pinned_tweet_id": "1657814793439289346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600861407104335873/PIQM5Ii9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218035,
+          "following_count": 670,
+          "like_count": 4245,
+          "listed_count": 1226,
+          "tweet_count": 6416
+        },
+        "username": "lilaoshizuikeai",
+        "verified": true
+      }
+    ]
+  }
+}

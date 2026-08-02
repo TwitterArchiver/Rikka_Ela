@@ -1,0 +1,162 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1812076718615830858",
+    "created_at": "2024-07-13T11:03:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-13T12:03:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812080413323497751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1597512919155372033",
+          "start": 0,
+          "username": "KannkouJakusets"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812080413323497751",
+    "in_reply_to_user_id": "1597512919155372033",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812076718615830858",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KannkouJakusets 早就可以啦（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1812076718615830858",
+        "created_at": "2024-07-13T11:03:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T12:03:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812080413323497751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1597512919155372033",
+              "start": 0,
+              "username": "KannkouJakusets"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812080413323497751",
+        "in_reply_to_user_id": "1597512919155372033",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812076718615830858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KannkouJakusets 早就可以啦（）"
+      },
+      {
+        "attachments": {},
+        "author_id": "1597512919155372033",
+        "conversation_id": "1812076718615830858",
+        "created_at": "2024-07-13T10:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T11:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1812076718615830858"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1812076718615830858",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "APEX可以四排啦😲？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UNNC‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2163,
+          "following_count": 2767,
+          "like_count": 41709,
+          "listed_count": 6,
+          "tweet_count": 2627
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-29T08:49:08.000Z",
+        "description": "",
+        "id": "1597512919155372033",
+        "name": "寒江若雪❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760301966364930048/7R7lBLk2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 312,
+          "like_count": 7056,
+          "listed_count": 2,
+          "tweet_count": 1713
+        },
+        "username": "KannkouJakusets",
+        "verified": false
+      }
+    ]
+  }
+}

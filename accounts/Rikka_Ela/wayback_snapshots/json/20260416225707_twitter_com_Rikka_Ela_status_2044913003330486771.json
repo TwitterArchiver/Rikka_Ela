@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2044806743918551511",
+    "created_at": "2026-04-16T22:57:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T23:57:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044913003330486771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1424779836938022913",
+          "start": 0,
+          "username": "amber_toffee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044913003330486771",
+    "in_reply_to_user_id": "1424779836938022913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044806743918551511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_toffee 有Jolibee附近的吗，真人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2044806743918551511",
+        "created_at": "2026-04-16T22:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T23:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044913003330486771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1424779836938022913",
+              "start": 0,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044913003330486771",
+        "in_reply_to_user_id": "1424779836938022913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044806743918551511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_toffee 有Jolibee附近的吗，真人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424779836938022913",
+        "conversation_id": "2044806743918551511",
+        "created_at": "2026-04-16T15:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T16:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044806743918551511"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mranti/status/…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/mranti/status/2044776605005062238",
+              "start": 21,
+              "url": "https://t.co/2WqGapygWb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044806743918551511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5847,
+          "like_count": 18,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044776605005062238",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有 union station 附近的吗 https://t.co/2WqGapygWb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5065,
+          "following_count": 3733,
+          "like_count": 82011,
+          "listed_count": 10,
+          "media_count": 413,
+          "tweet_count": 9001
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "❤︎ @noaayoyaoaya / ✦ @amber_medusozoa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 37,
+                "start": 21,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/P9msNZnPLs"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "☭ 🏳️‍⚧️ ⚢ / 🇨🇦 ᴛʀᴛ / ᴢʜ, ᴇɴ",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2040939467280674867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25381,
+          "following_count": 2748,
+          "like_count": 40901,
+          "listed_count": 13,
+          "media_count": 619,
+          "tweet_count": 21816
+        },
+        "url": "https://t.co/P9msNZnPLs",
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

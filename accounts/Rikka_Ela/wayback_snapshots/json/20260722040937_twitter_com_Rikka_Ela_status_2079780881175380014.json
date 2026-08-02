@@ -1,0 +1,668 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079727231807451137"
+      ],
+      "media_source_tweet_id": [
+        "2079770911385722883"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1135979287733948416",
+          "name": "Elden Ring"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1135979287733948416",
+          "name": "Elden Ring"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898668479250438",
+          "name": "Fantasy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      }
+    ],
+    "conversation_id": "2079780881175380014",
+    "created_at": "2026-07-22T04:09:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T05:09:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079780881175380014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "839280506931924992",
+          "start": 3,
+          "username": "VideoArtGame"
+        },
+        {
+          "end": 56,
+          "id": "829022949579517952",
+          "start": 48,
+          "username": "shimhaq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XIP1iHC0oO",
+          "end": 80,
+          "expanded_url": "https://x.com/VideoArtGame/status/2079770911385722883/photo/1",
+          "media_key": "3_2079727231807451137",
+          "start": 57,
+          "url": "https://t.co/XIP1iHC0oO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079780881175380014",
+    "lang": "no",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079770911385722883",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @VideoArtGame: Fan art | Elden Ring\n\nArtist: @shimhaq https://t.co/XIP1iHC0oO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079727231807451137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNys5gGW8AEElLP.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079727231807451137"
+          ]
+        },
+        "author_id": "839280506931924992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2079770911385722883",
+        "created_at": "2026-07-22T03:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T04:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079770911385722883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 38,
+              "id": "829022949579517952",
+              "start": 30,
+              "username": "shimhaq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XIP1iHC0oO",
+              "end": 62,
+              "expanded_url": "https://x.com/VideoArtGame/status/2079770911385722883/photo/1",
+              "media_key": "3_2079727231807451137",
+              "start": 39,
+              "url": "https://t.co/XIP1iHC0oO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079770911385722883",
+        "lang": "no",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 2603,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "Fan art | Elden Ring\n\nArtist: @shimhaq https://t.co/XIP1iHC0oO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079727231807451137"
+          ],
+          "media_source_tweet_id": [
+            "2079770911385722883"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2079780881175380014",
+        "created_at": "2026-07-22T04:09:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T05:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079780881175380014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "839280506931924992",
+              "start": 3,
+              "username": "VideoArtGame"
+            },
+            {
+              "end": 56,
+              "id": "829022949579517952",
+              "start": 48,
+              "username": "shimhaq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XIP1iHC0oO",
+              "end": 80,
+              "expanded_url": "https://x.com/VideoArtGame/status/2079770911385722883/photo/1",
+              "media_key": "3_2079727231807451137",
+              "start": 57,
+              "url": "https://t.co/XIP1iHC0oO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079780881175380014",
+        "lang": "no",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079770911385722883",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @VideoArtGame: Fan art | Elden Ring\n\nArtist: @shimhaq https://t.co/XIP1iHC0oO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6354,
+          "following_count": 3777,
+          "like_count": 85913,
+          "listed_count": 9,
+          "media_count": 449,
+          "tweet_count": 10004
+        },
+        "url": "",
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-08T01:04:00.000Z",
+        "description": "Dedicated to art: animation, concept art, illustration, pixel art, etc. Video games, anime and more. Follow our alt account for retro nostalgia @MemoryCardFiles",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 144,
+                "username": "MemoryCardFiles"
+              }
+            ]
+          }
+        },
+        "id": "839280506931924992",
+        "location": "videoartgameofficial@gmail.com",
+        "name": "VideoArtGame",
+        "pinned_tweet_id": "1869065024922071247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/909705555098443777/h2LZE2he_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473035,
+          "following_count": 100,
+          "like_count": 6556,
+          "listed_count": 2126,
+          "media_count": 47485,
+          "tweet_count": 52623
+        },
+        "url": "",
+        "username": "VideoArtGame",
+        "verified": true
+      },
+      {
+        "created_at": "2017-02-07T17:44:08.000Z",
+        "description": "Digital Artist▫️ Dark Fantasy ▫️ Member of @posterposse ▫️ Commissions/ Other Enquiries:\nShimhaq@gmail.com ▫️ https://t.co/ORLl55jwjV",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 43,
+                "username": "posterposse"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/preparetoart",
+                "end": 133,
+                "expanded_url": "http://youtube.com/preparetoart",
+                "start": 110,
+                "url": "https://t.co/ORLl55jwjV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "artofshimhaq.com",
+                "end": 23,
+                "expanded_url": "http://www.artofshimhaq.com",
+                "start": 0,
+                "url": "https://t.co/KiHHfEge0i"
+              }
+            ]
+          }
+        },
+        "id": "829022949579517952",
+        "name": "Shimhaq",
+        "pinned_tweet_id": "1990103726762455360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1614249907539562498/9_ym0UfF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179520,
+          "following_count": 617,
+          "like_count": 29284,
+          "listed_count": 732,
+          "media_count": 1367,
+          "tweet_count": 5795
+        },
+        "url": "https://t.co/KiHHfEge0i",
+        "username": "shimhaq",
+        "verified": false
+      }
+    ]
+  }
+}

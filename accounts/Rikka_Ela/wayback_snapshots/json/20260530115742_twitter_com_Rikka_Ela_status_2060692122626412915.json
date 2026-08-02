@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2060655433920970808",
+    "created_at": "2026-05-30T11:57:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T12:57:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060692122626412915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "891159653341478912",
+          "start": 0,
+          "username": "Yuvvannn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060692122626412915",
+    "in_reply_to_user_id": "891159653341478912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060689269015171424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuvvannn 🥹好哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2060655433920970808",
+        "created_at": "2026-05-30T11:57:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T12:57:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060692122626412915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "891159653341478912",
+              "start": 0,
+              "username": "Yuvvannn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060692122626412915",
+        "in_reply_to_user_id": "891159653341478912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060689269015171424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuvvannn 🥹好哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "891159653341478912",
+        "conversation_id": "2060655433920970808",
+        "created_at": "2026-05-30T11:46:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T12:46:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060689269015171424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060689269015171424",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060655433920970808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 祝贺rika老师 srs顺利哦🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5347,
+          "following_count": 3786,
+          "like_count": 85535,
+          "listed_count": 6,
+          "media_count": 438,
+          "tweet_count": 9651
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-29T04:53:13.000Z",
+        "description": "🏳️‍⚧️Mtx | Gerontology Researcher | UNC 26 | Incoming PhD at UofLiverpool",
+        "id": "891159653341478912",
+        "location": "Chapel Hill, NC",
+        "name": "Yuviannnn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935651616817881088/zQo-ufnS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 697,
+          "like_count": 8203,
+          "listed_count": 3,
+          "media_count": 84,
+          "tweet_count": 325
+        },
+        "username": "Yuvvannn",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2022747115299258679",
+    "created_at": "2026-02-15T00:03:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T01:03:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022824038016438317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "793055642869125120",
+          "start": 0,
+          "username": "justMizuyuki"
+        },
+        {
+          "end": 29,
+          "id": "1873435432404279296",
+          "start": 14,
+          "username": "Alicia__Angela"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022824038016438317",
+    "in_reply_to_user_id": "793055642869125120",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022747115299258679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@justMizuyuki @Alicia__Angela ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2022747115299258679",
+        "created_at": "2026-02-15T00:03:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T01:03:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022824038016438317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "793055642869125120",
+              "start": 0,
+              "username": "justMizuyuki"
+            },
+            {
+              "end": 29,
+              "id": "1873435432404279296",
+              "start": 14,
+              "username": "Alicia__Angela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022824038016438317",
+        "in_reply_to_user_id": "793055642869125120",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022747115299258679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@justMizuyuki @Alicia__Angela ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "793055642869125120",
+        "conversation_id": "2022747115299258679",
+        "created_at": "2026-02-14T18:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T19:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022747115299258679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/GoodGarbadge/s…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/GoodGarbadge/status/2022393218416152854",
+              "start": 26,
+              "url": "https://t.co/xmJa9xfsjg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022747115299258679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 11876,
+          "like_count": 495,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022393218416152854",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是女爱的中国人。每天我要女朋友可是女人不喜欢我。 https://t.co/xmJa9xfsjg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4871,
+          "following_count": 3711,
+          "like_count": 79144,
+          "listed_count": 9,
+          "media_count": 372,
+          "tweet_count": 8223
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-31T11:42:54.000Z",
+        "description": "I love my wife @justmizuyuki! |Everyone's idol!| way too old stop asking|日本語がまだ下手ですけど練習したい|https://t.co/JJCEBJjyOq |she/he/they/it/fae/neos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "justmizuyuki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "paypal.me/justMeAlice",
+                "end": 114,
+                "expanded_url": "http://paypal.me/justMeAlice",
+                "start": 91,
+                "url": "https://t.co/JJCEBJjyOq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtggoldfish.com/player/justAli…",
+                "end": 23,
+                "expanded_url": "https://www.mtggoldfish.com/player/justAlice",
+                "start": 0,
+                "url": "https://t.co/GraAj8LLPH"
+              }
+            ]
+          }
+        },
+        "id": "793055642869125120",
+        "name": "read love bullet right fucking now",
+        "pinned_tweet_id": "2016226995487834428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986823292083478528/ge5A22dA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1949,
+          "following_count": 1308,
+          "like_count": 293638,
+          "listed_count": 49,
+          "media_count": 14186,
+          "tweet_count": 266483
+        },
+        "url": "https://t.co/GraAj8LLPH",
+        "username": "justMizuyuki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-29T18:27:15.000Z",
+        "description": "soy una chica trans con autismo por la bioquimica Gen Eng y neurociencia Lesb Viva la humanidad Modo Marcille activado I experiment on puppygirls 18 yo",
+        "id": "1873435432404279296",
+        "location": "nowhere",
+        "name": "✝️Alicia Angela🏳️‍⚧️",
+        "pinned_tweet_id": "2017775188436283566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017774520627564544/5f2OPSNE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 312,
+          "like_count": 185928,
+          "listed_count": 2,
+          "media_count": 778,
+          "tweet_count": 29575
+        },
+        "username": "Alicia__Angela",
+        "verified": false
+      }
+    ]
+  }
+}

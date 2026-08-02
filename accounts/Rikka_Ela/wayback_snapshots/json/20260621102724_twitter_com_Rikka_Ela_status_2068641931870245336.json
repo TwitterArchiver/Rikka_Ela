@@ -1,0 +1,622 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1913932235029225472"
+      ],
+      "media_source_tweet_id": [
+        "1913932238284107975"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1135979287733948416",
+          "name": "Elden Ring"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1135979287733948416",
+          "name": "Elden Ring"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898668479250438",
+          "name": "Fantasy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      }
+    ],
+    "conversation_id": "2068641931870245336",
+    "created_at": "2026-06-21T10:27:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T11:27:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068641931870245336"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 16,
+          "tag": "ELDENRING"
+        },
+        {
+          "end": 35,
+          "start": 27,
+          "tag": "Messmer"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1724494930439962624",
+          "start": 3,
+          "username": "XRhaellaXx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eWs0u3oDGT",
+          "end": 59,
+          "expanded_url": "https://x.com/rhaella_x/status/1913932238284107975/photo/1",
+          "media_key": "3_1913932235029225472",
+          "start": 36,
+          "url": "https://t.co/eWs0u3oDGT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068641931870245336",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 59
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913932238284107975",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XRhaellaXx: #ELDENRING #Messmer https://t.co/eWs0u3oDGT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1913932235029225472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go-nOjEWIAAlNp7.jpg",
+        "width": 1258
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913932235029225472"
+          ],
+          "media_source_tweet_id": [
+            "1913932238284107975"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2068641931870245336",
+        "created_at": "2026-06-21T10:27:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T11:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068641931870245336"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 16,
+              "tag": "ELDENRING"
+            },
+            {
+              "end": 35,
+              "start": 27,
+              "tag": "Messmer"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1724494930439962624",
+              "start": 3,
+              "username": "XRhaellaXx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eWs0u3oDGT",
+              "end": 59,
+              "expanded_url": "https://x.com/rhaella_x/status/1913932238284107975/photo/1",
+              "media_key": "3_1913932235029225472",
+              "start": 36,
+              "url": "https://t.co/eWs0u3oDGT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068641931870245336",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913932238284107975",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XRhaellaXx: #ELDENRING #Messmer https://t.co/eWs0u3oDGT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913932235029225472"
+          ]
+        },
+        "author_id": "1724494930439962624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "1913932238284107975",
+        "created_at": "2025-04-20T12:26:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T13:26:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913932238284107975"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "ELDENRING"
+            },
+            {
+              "end": 19,
+              "start": 11,
+              "tag": "Messmer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eWs0u3oDGT",
+              "end": 43,
+              "expanded_url": "https://x.com/rhaella_x/status/1913932238284107975/photo/1",
+              "media_key": "3_1913932235029225472",
+              "start": 20,
+              "url": "https://t.co/eWs0u3oDGT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913932238284107975",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 4074,
+          "like_count": 349,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "#ELDENRING #Messmer https://t.co/eWs0u3oDGT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5860,
+          "following_count": 3774,
+          "like_count": 86362,
+          "listed_count": 7,
+          "media_count": 442,
+          "tweet_count": 9796
+        },
+        "url": "",
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-14T18:30:17.000Z",
+        "description": "31 ||⚔️|| I take pics of pixel men || NSFW.🔞💫🌟ER/bloodborne/LiesOfP/BG3/soulsborne/skyrim || all images/VP my own 🐍🐍",
+        "id": "1724494930439962624",
+        "location": "Messmer's Dark Chamber",
+        "name": "⛧⭒ℜ𝔥𝔞𝔢𝔩𝔩𝔞⭒⛧ is reading many book🐍🔞",
+        "pinned_tweet_id": "1924172122387091963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063698269511811072/gas6rsLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1320,
+          "following_count": 604,
+          "like_count": 15642,
+          "listed_count": 3,
+          "media_count": 1976,
+          "tweet_count": 8904
+        },
+        "url": "",
+        "username": "XRhaellaXx",
+        "verified": false
+      }
+    ]
+  }
+}

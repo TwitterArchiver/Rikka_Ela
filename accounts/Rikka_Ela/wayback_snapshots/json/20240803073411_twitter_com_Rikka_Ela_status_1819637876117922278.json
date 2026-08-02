@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1819507887846445370",
+    "created_at": "2024-08-03T07:34:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-03T08:34:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819637876117922278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1488160142436667396",
+          "start": 0,
+          "username": "killerbirdbird"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819637876117922278",
+    "in_reply_to_user_id": "1488160142436667396",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819507887846445370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@killerbirdbird 季风气候区都是洼地中的洼地😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1819507887846445370",
+        "created_at": "2024-08-03T07:34:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T08:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819637876117922278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1488160142436667396",
+              "start": 0,
+              "username": "killerbirdbird"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819637876117922278",
+        "in_reply_to_user_id": "1488160142436667396",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819507887846445370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@killerbirdbird 季风气候区都是洼地中的洼地😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1488160142436667396",
+        "conversation_id": "1819507887846445370",
+        "created_at": "2024-08-02T22:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-02T23:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1819507887846445370"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1819507887846445370",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "东亚是一块气候恶劣的土地，南方极度潮湿，北方极度寒冷。季风气候夏天极热冬天极冷，适合植物生长，却不适合人居，并且因为前者繁衍出庞大人口。东亚是彻头彻尾的地狱，东亚人的祖先必定是loser,得不到西亚东欧的好地，才不得不进入这鬼地方求生。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2308,
+          "following_count": 2850,
+          "like_count": 44709,
+          "listed_count": 6,
+          "tweet_count": 2913
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-31T14:40:12.000Z",
+        "description": "",
+        "id": "1488160142436667396",
+        "name": "烧杯白鸟鸟",
+        "pinned_tweet_id": "1810467589321064741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815402795765297152/nAFfIubx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 54,
+          "like_count": 1356,
+          "listed_count": 0,
+          "tweet_count": 770
+        },
+        "username": "killerbirdbird",
+        "verified": false
+      }
+    ]
+  }
+}

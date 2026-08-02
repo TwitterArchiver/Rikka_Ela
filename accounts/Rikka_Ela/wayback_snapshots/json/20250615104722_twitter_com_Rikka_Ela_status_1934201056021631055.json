@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1934156992098213888"
+      ],
+      "media_source_tweet_id": [
+        "1934157337440428360"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "conversation_id": "1934201056021631055",
+    "created_at": "2025-06-15T10:47:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T11:47:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934201056021631055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1604798472896811008",
+          "start": 3,
+          "username": "UDC_500"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BkzekawxcT",
+          "end": 42,
+          "expanded_url": "https://x.com/UDC_500/status/1934157337440428360/photo/1",
+          "media_key": "3_1934156992098213888",
+          "start": 19,
+          "url": "https://t.co/BkzekawxcT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934201056021631055",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 256
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934157337440428360",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UDC_500: +100$ https://t.co/BkzekawxcT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1934156992098213888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GteBiWXaIAA1PuJ.jpg",
+        "width": 2692
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934156992098213888"
+          ],
+          "media_source_tweet_id": [
+            "1934157337440428360"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "1934201056021631055",
+        "created_at": "2025-06-15T10:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T11:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934201056021631055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1604798472896811008",
+              "start": 3,
+              "username": "UDC_500"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BkzekawxcT",
+              "end": 42,
+              "expanded_url": "https://x.com/UDC_500/status/1934157337440428360/photo/1",
+              "media_key": "3_1934156992098213888",
+              "start": 19,
+              "url": "https://t.co/BkzekawxcT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934201056021631055",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 256
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934157337440428360",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @UDC_500: +100$ https://t.co/BkzekawxcT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934156992098213888"
+          ]
+        },
+        "author_id": "1604798472896811008",
+        "conversation_id": "1934157337440428360",
+        "created_at": "2025-06-15T07:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T08:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934157337440428360"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BkzekawxcT",
+              "end": 29,
+              "expanded_url": "https://x.com/UDC_500/status/1934157337440428360/photo/1",
+              "media_key": "3_1934156992098213888",
+              "start": 6,
+              "url": "https://t.co/BkzekawxcT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934157337440428360",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 178,
+          "impression_count": 15608,
+          "like_count": 1943,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 256
+        },
+        "reply_settings": "everyone",
+        "text": "+100$ https://t.co/BkzekawxcT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4337,
+          "following_count": 3503,
+          "like_count": 68960,
+          "listed_count": 7,
+          "media_count": 232,
+          "tweet_count": 6198
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-19T11:19:19.000Z",
+        "description": "",
+        "id": "1604798472896811008",
+        "name": "⍖",
+        "pinned_tweet_id": "1927001945694228610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927870310218399744/CLmOG_hD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17248,
+          "following_count": 118,
+          "like_count": 757,
+          "listed_count": 100,
+          "media_count": 14,
+          "tweet_count": 257
+        },
+        "username": "UDC_500",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1857098036121403392"
+      ],
+      "media_source_tweet_id": [
+        "1857098038470193267"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "conversation_id": "1857592165599436887",
+    "created_at": "2024-11-16T01:10:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-16T02:10:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857592165599436887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1460562205406027784",
+          "start": 3,
+          "username": "FemboysGang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7qvMaTtXtf",
+          "end": 40,
+          "expanded_url": "https://x.com/FemboysGang/status/1857098038470193267/photo/1",
+          "media_key": "3_1857098036121403392",
+          "start": 17,
+          "url": "https://t.co/7qvMaTtXtf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857592165599436887",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5918
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857098038470193267",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FemboysGang: https://t.co/7qvMaTtXtf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1744,
+        "media_key": "3_1857098036121403392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcW80xQXgAAheps.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857098036121403392"
+          ],
+          "media_source_tweet_id": [
+            "1857098038470193267"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "1857592165599436887",
+        "created_at": "2024-11-16T01:10:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T02:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857592165599436887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1460562205406027784",
+              "start": 3,
+              "username": "FemboysGang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7qvMaTtXtf",
+              "end": 40,
+              "expanded_url": "https://x.com/FemboysGang/status/1857098038470193267/photo/1",
+              "media_key": "3_1857098036121403392",
+              "start": 17,
+              "url": "https://t.co/7qvMaTtXtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857592165599436887",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5918
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857098038470193267",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FemboysGang: https://t.co/7qvMaTtXtf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857098036121403392"
+          ]
+        },
+        "author_id": "1460562205406027784",
+        "conversation_id": "1857098038470193267",
+        "created_at": "2024-11-14T16:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T17:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857098038470193267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7qvMaTtXtf",
+              "end": 23,
+              "expanded_url": "https://x.com/FemboysGang/status/1857098038470193267/photo/1",
+              "media_key": "3_1857098036121403392",
+              "start": 0,
+              "url": "https://t.co/7qvMaTtXtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857098038470193267",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15928,
+          "impression_count": 1525593,
+          "like_count": 89882,
+          "quote_count": 243,
+          "reply_count": 155,
+          "retweet_count": 5918
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/7qvMaTtXtf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文\n\nwife:@Y32010705",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "Y32010705"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3084,
+          "following_count": 3056,
+          "like_count": 52861,
+          "listed_count": 5,
+          "tweet_count": 3885
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-16T10:55:54.000Z",
+        "description": "femboy memes | | Follow my IG",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/33tici/profile…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/33tici/profilecard/?igsh=MW41dDUzd29na3ZxdQ==",
+                "start": 0,
+                "url": "https://t.co/gesvNUddna"
+              }
+            ]
+          }
+        },
+        "id": "1460562205406027784",
+        "name": "Femboy Gang",
+        "pinned_tweet_id": "1809042612596125745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794923520348028928/pIKpU3an_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49537,
+          "following_count": 81,
+          "like_count": 93,
+          "listed_count": 33,
+          "tweet_count": 225
+        },
+        "url": "https://t.co/gesvNUddna",
+        "username": "FemboysGang",
+        "verified": false
+      }
+    ]
+  }
+}

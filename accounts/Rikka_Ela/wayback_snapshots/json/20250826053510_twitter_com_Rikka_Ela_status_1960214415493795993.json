@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1959510476242776064"
+      ],
+      "media_source_tweet_id": [
+        "1959510481158431170"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      }
+    ],
+    "conversation_id": "1960214415493795993",
+    "created_at": "2025-08-26T05:35:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T06:35:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960214415493795993"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 15,
+          "tag": "prsk_FA"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1580809683778301952",
+          "start": 3,
+          "username": "chasu_ice"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gDxaB6KReH",
+          "end": 51,
+          "expanded_url": "https://x.com/chasu_ice/status/1959510481158431170/photo/1",
+          "media_key": "3_1959510476242776064",
+          "start": 28,
+          "url": "https://t.co/gDxaB6KReH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960214415493795993",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3824
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959510481158431170",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chasu_ice: #prsk_FA\nやっと https://t.co/gDxaB6KReH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1224,
+        "media_key": "3_1959510476242776064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzGUZW4bcAALelJ.jpg",
+        "width": 930
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959510476242776064"
+          ],
+          "media_source_tweet_id": [
+            "1959510481158431170"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "1960214415493795993",
+        "created_at": "2025-08-26T05:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T06:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960214415493795993"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 15,
+              "tag": "prsk_FA"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1580809683778301952",
+              "start": 3,
+              "username": "chasu_ice"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gDxaB6KReH",
+              "end": 51,
+              "expanded_url": "https://x.com/chasu_ice/status/1959510481158431170/photo/1",
+              "media_key": "3_1959510476242776064",
+              "start": 28,
+              "url": "https://t.co/gDxaB6KReH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960214415493795993",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3824
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959510481158431170",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chasu_ice: #prsk_FA\nやっと https://t.co/gDxaB6KReH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959510476242776064"
+          ]
+        },
+        "author_id": "1580809683778301952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "1959510481158431170",
+        "created_at": "2025-08-24T06:57:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T07:57:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959510481158431170"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "prsk_FA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gDxaB6KReH",
+              "end": 36,
+              "expanded_url": "https://x.com/chasu_ice/status/1959510481158431170/photo/1",
+              "media_key": "3_1959510476242776064",
+              "start": 13,
+              "url": "https://t.co/gDxaB6KReH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959510481158431170",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1573,
+          "impression_count": 294175,
+          "like_count": 33956,
+          "quote_count": 28,
+          "reply_count": 1,
+          "retweet_count": 3824
+        },
+        "reply_settings": "everyone",
+        "text": "#prsk_FA\nやっと https://t.co/gDxaB6KReH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4499,
+          "following_count": 3545,
+          "like_count": 72261,
+          "listed_count": 9,
+          "media_count": 290,
+          "tweet_count": 6843
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-14T06:36:42.000Z",
+        "description": "絵描いてます。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/chasu_0013",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/chasu_0013",
+                "start": 0,
+                "url": "https://t.co/K4JxQ5gZjk"
+              }
+            ]
+          }
+        },
+        "id": "1580809683778301952",
+        "name": "チャス",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1622531056745480192/iHFT5jUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10129,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 27,
+          "media_count": 130,
+          "tweet_count": 798
+        },
+        "url": "https://t.co/K4JxQ5gZjk",
+        "username": "chasu_ice",
+        "verified": false
+      }
+    ]
+  }
+}

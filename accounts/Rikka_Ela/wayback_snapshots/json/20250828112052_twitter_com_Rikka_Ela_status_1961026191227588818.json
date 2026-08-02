@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1961026191227588818",
+    "created_at": "2025-08-28T11:20:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T12:20:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1961026191227588818"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aotfa_atme/sta…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/aotfa_atme/status/1961022676476285202",
+          "start": 30,
+          "url": "https://t.co/CxL7qpe67o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961026191227588818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961022676476285202",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我觉得我这辈子学不会女声了我真的完全完全就是什么都做不好😭 https://t.co/CxL7qpe67o"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1961026191227588818",
+        "created_at": "2025-08-28T11:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T12:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961026191227588818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aotfa_atme/sta…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/aotfa_atme/status/1961022676476285202",
+              "start": 30,
+              "url": "https://t.co/CxL7qpe67o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961026191227588818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961022676476285202",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得我这辈子学不会女声了我真的完全完全就是什么都做不好😭 https://t.co/CxL7qpe67o"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1485932433031647233",
+        "conversation_id": "1961022676476285202",
+        "created_at": "2025-08-28T11:06:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T12:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961022676476285202"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961022676476285202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得我这辈子学不会女声了我真的完全完全就是什么都做不好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4503,
+          "following_count": 3542,
+          "like_count": 72323,
+          "listed_count": 9,
+          "media_count": 290,
+          "tweet_count": 6856
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-25T11:08:05.000Z",
+        "description": "我是跨妹🏳️‍⚧️｜状态不稳定负能时不时大爆炸预警",
+        "id": "1485932433031647233",
+        "name": "秋苓",
+        "pinned_tweet_id": "1932396504301670533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776345122122420224/TbYiI6nt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 630,
+          "like_count": 823,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 1078
+        },
+        "username": "aotfa_atme",
+        "verified": false
+      }
+    ]
+  }
+}

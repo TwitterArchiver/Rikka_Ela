@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2066564338832609717",
+    "created_at": "2026-06-15T23:44:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T00:44:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066668229297365053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1698896439206944769",
+          "start": 0,
+          "username": "combodiabestboy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066668229297365053",
+    "in_reply_to_user_id": "1698896439206944769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066586179580117262",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@combodiabestboy 没事我本身DSD就没啥前列腺🧎‍♀️）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2066586179580117262].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2066586179580117262",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2066586179580117262"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2066564338832609717",
+        "created_at": "2026-06-15T23:44:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T00:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066668229297365053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1698896439206944769",
+              "start": 0,
+              "username": "combodiabestboy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066668229297365053",
+        "in_reply_to_user_id": "1698896439206944769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066586179580117262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@combodiabestboy 没事我本身DSD就没啥前列腺🧎‍♀️）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5576,
+          "following_count": 3778,
+          "like_count": 86165,
+          "listed_count": 7,
+          "media_count": 442,
+          "tweet_count": 9739
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-05T03:11:02.000Z",
+        "description": "@tataqwq是我们的塔司令，我们是塔卫兵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "tataqwq"
+              }
+            ]
+          }
+        },
+        "id": "1698896439206944769",
+        "location": "IP属地：猕猴星球Monpainisia",
+        "name": "塔的猴小宝（洪文）",
+        "pinned_tweet_id": "1859455386925043785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922781818702487552/OKA5P4BP_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 363,
+          "like_count": 44899,
+          "listed_count": 5,
+          "media_count": 1035,
+          "tweet_count": 11505
+        },
+        "username": "combodiabestboy",
+        "verified": false
+      }
+    ]
+  }
+}

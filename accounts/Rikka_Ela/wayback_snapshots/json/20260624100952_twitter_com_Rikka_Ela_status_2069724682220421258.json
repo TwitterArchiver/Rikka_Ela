@@ -1,0 +1,594 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069432189964410880"
+      ],
+      "media_source_tweet_id": [
+        "2069432195547095054"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "872842877063147521",
+          "name": "Bloodborne"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "872842877063147521",
+          "name": "Bloodborne"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Bloodborne",
+          "id": "10049908034",
+          "name": "Bloodborne"
+        }
+      }
+    ],
+    "conversation_id": "2069724682220421258",
+    "created_at": "2026-06-24T10:09:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T11:09:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069724682220421258"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 15,
+          "tag": "Bloodborne"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1652021758893932570",
+          "start": 3,
+          "username": "sir_xebec"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UjEFPh26oD",
+          "end": 108,
+          "expanded_url": "https://x.com/sir_xebec/status/2069432195547095054/photo/1",
+          "media_key": "3_2069432189964410880",
+          "start": 85,
+          "url": "https://t.co/UjEFPh26oD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069724682220421258",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069432195547095054",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sir_xebec: #Bloodborne \n\n𝑯𝑬 𝑾𝑨𝑺 𝑻𝑯𝑬 𝑭𝑰𝑹𝑺𝑻 𝑻𝑶 𝑯𝑼𝑵𝑻, 𝑨𝑵𝑫 𝑻𝑯𝑬 𝑳𝑨𝑺𝑻 𝑻𝑶 𝑭𝑰𝑵𝑫 𝑷𝑬𝑨𝑪𝑬. 🎩 https://t.co/UjEFPh26oD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 850,
+        "media_key": "3_2069432189964410880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLgZnMmWYAA8Oea.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069432189964410880"
+          ],
+          "media_source_tweet_id": [
+            "2069432195547095054"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "872842877063147521",
+              "name": "Bloodborne"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "872842877063147521",
+              "name": "Bloodborne"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Bloodborne",
+              "id": "10049908034",
+              "name": "Bloodborne"
+            }
+          }
+        ],
+        "conversation_id": "2069724682220421258",
+        "created_at": "2026-06-24T10:09:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T11:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069724682220421258"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 15,
+              "tag": "Bloodborne"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1652021758893932570",
+              "start": 3,
+              "username": "sir_xebec"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UjEFPh26oD",
+              "end": 108,
+              "expanded_url": "https://x.com/sir_xebec/status/2069432195547095054/photo/1",
+              "media_key": "3_2069432189964410880",
+              "start": 85,
+              "url": "https://t.co/UjEFPh26oD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069724682220421258",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069432195547095054",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sir_xebec: #Bloodborne \n\n𝑯𝑬 𝑾𝑨𝑺 𝑻𝑯𝑬 𝑭𝑰𝑹𝑺𝑻 𝑻𝑶 𝑯𝑼𝑵𝑻, 𝑨𝑵𝑫 𝑻𝑯𝑬 𝑳𝑨𝑺𝑻 𝑻𝑶 𝑭𝑰𝑵𝑫 𝑷𝑬𝑨𝑪𝑬. 🎩 https://t.co/UjEFPh26oD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069432189964410880"
+          ]
+        },
+        "author_id": "1652021758893932570",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "872842877063147521",
+              "name": "Bloodborne"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "872842877063147521",
+              "name": "Bloodborne"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Bloodborne",
+              "id": "10049908034",
+              "name": "Bloodborne"
+            }
+          }
+        ],
+        "conversation_id": "2069432195547095054",
+        "created_at": "2026-06-23T14:47:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T15:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069432195547095054"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "Bloodborne"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UjEFPh26oD",
+              "end": 93,
+              "expanded_url": "https://x.com/sir_xebec/status/2069432195547095054/photo/1",
+              "media_key": "3_2069432189964410880",
+              "start": 70,
+              "url": "https://t.co/UjEFPh26oD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069432195547095054",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 279,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "#Bloodborne \n\n𝑯𝑬 𝑾𝑨𝑺 𝑻𝑯𝑬 𝑭𝑰𝑹𝑺𝑻 𝑻𝑶 𝑯𝑼𝑵𝑻, 𝑨𝑵𝑫 𝑻𝑯𝑬 𝑳𝑨𝑺𝑻 𝑻𝑶 𝑭𝑰𝑵𝑫 𝑷𝑬𝑨𝑪𝑬. 🎩 https://t.co/UjEFPh26oD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5878,
+          "following_count": 3774,
+          "like_count": 86468,
+          "listed_count": 7,
+          "media_count": 442,
+          "tweet_count": 9816
+        },
+        "url": "",
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-28T18:48:02.000Z",
+        "description": "﴿ وَمَا تَوْفِيقِي إِلَّا بِاللَّهِ ﴾ ||SOUL OF A GAMER  || #ONEPIECE",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 69,
+                "start": 60,
+                "tag": "ONEPIECE"
+              }
+            ]
+          }
+        },
+        "id": "1652021758893932570",
+        "location": "المملكة العربية السعودية",
+        "name": "𝑉𝑖𝑡𝑜",
+        "pinned_tweet_id": "2069104266476691745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069121356034183168/4gPcalG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 347,
+          "like_count": 11829,
+          "listed_count": 3,
+          "media_count": 2942,
+          "tweet_count": 8358
+        },
+        "url": "",
+        "username": "sir_xebec",
+        "verified": true
+      }
+    ]
+  }
+}

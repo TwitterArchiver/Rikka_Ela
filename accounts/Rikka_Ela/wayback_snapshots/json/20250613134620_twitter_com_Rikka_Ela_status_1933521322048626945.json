@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1933521322048626945",
+    "created_at": "2025-06-13T13:46:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T14:46:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1933521322048626945"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/crowningred/st…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/crowningred/status/1927070161611243647",
+          "start": 4,
+          "url": "https://t.co/PTuRq1FFS9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933521322048626945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927070161611243647",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好听🥰 https://t.co/PTuRq1FFS9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29373,
+        "height": 720,
+        "media_key": "13_1927070060935278592",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1927070060935278592/img/33Ytp67fAL5OYaC8.jpg",
+        "public_metrics": {
+          "view_count": 55238
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1927070060935278592/vid/avc1/478x270/Rf5gF2tksTZzoy5Y.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1927070060935278592/vid/avc1/638x360/EASqOa4LQQfCxX3z.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1927070060935278592/vid/avc1/1276x720/M-MCu-NrYVyl3wPW.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1927070060935278592/pl/s7-aYOwpG3zviISD.m3u8?v=cfc"
+          }
+        ],
+        "width": 1276
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1933521322048626945",
+        "created_at": "2025-06-13T13:46:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T14:46:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933521322048626945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/crowningred/st…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/crowningred/status/1927070161611243647",
+              "start": 4,
+              "url": "https://t.co/PTuRq1FFS9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933521322048626945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927070161611243647",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好听🥰 https://t.co/PTuRq1FFS9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1927070060935278592"
+          ]
+        },
+        "author_id": "1524138454581653504",
+        "conversation_id": "1927070161611243647",
+        "created_at": "2025-05-26T18:31:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T19:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927070161611243647"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "Lansdowne Park",
+              "probability": 0.793,
+              "start": 17,
+              "type": "Place"
+            },
+            {
+              "end": 38,
+              "normalized_text": "Ottawa",
+              "probability": 0.9459,
+              "start": 33,
+              "type": "Place"
+            },
+            {
+              "end": 50,
+              "normalized_text": "The",
+              "probability": 0.5126,
+              "start": 48,
+              "type": "Other"
+            },
+            {
+              "end": 65,
+              "normalized_text": "Queen",
+              "probability": 0.3553,
+              "start": 61,
+              "type": "Other"
+            },
+            {
+              "end": 146,
+              "normalized_text": "I Vow To Thee, My Country",
+              "probability": 0.8552,
+              "start": 122,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VXftirLRnT",
+              "end": 223,
+              "expanded_url": "https://x.com/crowningred/status/1927070161611243647/video/1",
+              "media_key": "13_1927070060935278592",
+              "start": 200,
+              "url": "https://t.co/VXftirLRnT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927070161611243647",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 124,
+          "impression_count": 143045,
+          "like_count": 1234,
+          "quote_count": 22,
+          "reply_count": 18,
+          "retweet_count": 118
+        },
+        "reply_settings": "following",
+        "text": "The orchestra in Lansdowne Park, Ottawa - where The King and Queen are attending a community event - is currently playing I Vow To Thee, My Country.\n\nThis entire tour is so based I can’t even. \n\n🇬🇧🇨🇦 https://t.co/VXftirLRnT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4334,
+          "following_count": 3500,
+          "like_count": 68813,
+          "listed_count": 6,
+          "media_count": 232,
+          "tweet_count": 6180
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-10T21:26:01.000Z",
+        "description": "loving him was red  | god save the king",
+        "id": "1524138454581653504",
+        "location": "London, United Kingdom",
+        "name": "𝐬 🇬🇧🍁 ⸆⸉",
+        "pinned_tweet_id": "1654476632223014913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930770007383781376/Vcis5wwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9092,
+          "following_count": 3080,
+          "like_count": 74884,
+          "listed_count": 55,
+          "media_count": 6439,
+          "tweet_count": 69522
+        },
+        "username": "crowningred",
+        "verified": false
+      }
+    ]
+  }
+}

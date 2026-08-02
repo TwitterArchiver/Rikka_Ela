@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      }
+    ],
+    "conversation_id": "1961728284024349074",
+    "created_at": "2025-08-30T09:50:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T10:50:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1961728284024349074"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pj_sekai/statu…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/pj_sekai/status/1958728063375782337",
+          "start": 2,
+          "url": "https://t.co/HxqtqAcijQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961728284024349074",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958728063375782337",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🥹 https://t.co/HxqtqAcijQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_1958726711912361984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy7LkROa8AA6543.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "1961728284024349074",
+        "created_at": "2025-08-30T09:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T10:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961728284024349074"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pj_sekai/statu…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/pj_sekai/status/1958728063375782337",
+              "start": 2,
+              "url": "https://t.co/HxqtqAcijQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961728284024349074",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958728063375782337",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🥹 https://t.co/HxqtqAcijQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958726711912361984"
+          ]
+        },
+        "author_id": "1158668053183266816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "1958728063375782337",
+        "created_at": "2025-08-22T03:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T04:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958728063375782337"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "キミに咲うfuzzy daisyガチャ",
+              "probability": 0.5783,
+              "start": 1,
+              "type": "Other"
+            },
+            {
+              "end": 60,
+              "normalized_text": "暁山瑞希",
+              "probability": 0.3403,
+              "start": 57,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 67,
+              "start": 62,
+              "tag": "プロセカ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hZOHfmRZ3j",
+              "end": 91,
+              "expanded_url": "https://x.com/pj_sekai/status/1958728063375782337/photo/1",
+              "media_key": "3_1958726711912361984",
+              "start": 68,
+              "url": "https://t.co/hZOHfmRZ3j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958728063375782337",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2153,
+          "impression_count": 2361550,
+          "like_count": 60942,
+          "quote_count": 3519,
+          "reply_count": 152,
+          "retweet_count": 13610
+        },
+        "reply_settings": "everyone",
+        "text": "「キミに咲うfuzzy daisyガチャ」開催中🦋\n登場する★4メンバーを紹介✨\n\n【ボクのまま描く明日】★4 暁山瑞希\n\n#プロセカ https://t.co/hZOHfmRZ3j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4513,
+          "following_count": 3543,
+          "like_count": 72408,
+          "listed_count": 9,
+          "media_count": 291,
+          "tweet_count": 6871
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-06T09:16:05.000Z",
+        "description": "SEGA×Colorful Paletteが贈る、スマートフォンリズムゲーム #プロセカ 公式アカウント\nクリスタルをお得に買える公式ストアはこちら：https://t.co/zacMyTdlWW",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 39,
+                "tag": "プロセカ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pjsekai.sega.jp/webstore",
+                "end": 98,
+                "expanded_url": "https://pjsekai.sega.jp/webstore",
+                "start": 75,
+                "url": "https://t.co/zacMyTdlWW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "app.adjust.com/iaq3ido",
+                "end": 23,
+                "expanded_url": "https://app.adjust.com/iaq3ido",
+                "start": 0,
+                "url": "https://t.co/joevC53VDM"
+              }
+            ]
+          }
+        },
+        "id": "1158668053183266816",
+        "name": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク【プロセカ】",
+        "pinned_tweet_id": "1839874318832152732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854064399478398976/W-uuO8DW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2264841,
+          "following_count": 552,
+          "like_count": 27,
+          "listed_count": 9128,
+          "media_count": 12221,
+          "tweet_count": 16930
+        },
+        "url": "https://t.co/joevC53VDM",
+        "username": "pj_sekai",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1816763598490030243",
+    "created_at": "2024-07-27T05:07:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-27T06:07:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1817064342409609472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1420962557897035781",
+          "start": 0,
+          "username": "shrinkviolet77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817064342409609472",
+    "in_reply_to_user_id": "1420962557897035781",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816763598490030243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shrinkviolet77 太贵了牛羊肉😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1816763598490030243",
+        "created_at": "2024-07-27T05:07:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T06:07:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817064342409609472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1420962557897035781",
+              "start": 0,
+              "username": "shrinkviolet77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817064342409609472",
+        "in_reply_to_user_id": "1420962557897035781",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816763598490030243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shrinkviolet77 太贵了牛羊肉😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420962557897035781",
+        "conversation_id": "1816763598490030243",
+        "created_at": "2024-07-26T09:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T10:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816763598490030243"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1816763598490030243",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 421,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么人们觉得牛肉比猪肉好吃，我觉得牛肉猪肉都不好吃，不如羊肉。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2262,
+          "following_count": 2815,
+          "like_count": 43475,
+          "listed_count": 6,
+          "tweet_count": 2788
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-30T04:20:59.000Z",
+        "description": "我是一头能榨油的老母猪～🐖🐖🐖\nShe/Her/They/Them | transgender | Demi Lesbian |",
+        "id": "1420962557897035781",
+        "name": "含羞紫罗兰 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760419597789143040/h-TfEGHj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 118,
+          "like_count": 21219,
+          "listed_count": 1,
+          "tweet_count": 9085
+        },
+        "username": "shrinkviolet77",
+        "verified": false
+      }
+    ]
+  }
+}

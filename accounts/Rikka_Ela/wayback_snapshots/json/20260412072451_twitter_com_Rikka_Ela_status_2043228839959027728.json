@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043228833932079104"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "conversation_id": "2043228839959027728",
+    "created_at": "2026-04-12T07:24:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T08:24:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043228839959027728"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DlDI5TRxd5",
+          "end": 30,
+          "expanded_url": "https://x.com/Rikka_Ela/status/2043228839959027728/photo/1",
+          "media_key": "3_2043228833932079104",
+          "start": 7,
+          "url": "https://t.co/DlDI5TRxd5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043228839959027728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "？我就这样： https://t.co/DlDI5TRxd5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1139,
+        "media_key": "3_2043228833932079104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFsBzIlbcAAe3Xk.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043228833932079104"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "2043228839959027728",
+        "created_at": "2026-04-12T07:24:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T08:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043228839959027728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DlDI5TRxd5",
+              "end": 30,
+              "expanded_url": "https://x.com/Rikka_Ela/status/2043228839959027728/photo/1",
+              "media_key": "3_2043228833932079104",
+              "start": 7,
+              "url": "https://t.co/DlDI5TRxd5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043228839959027728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？我就这样： https://t.co/DlDI5TRxd5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5035,
+          "following_count": 3731,
+          "like_count": 81745,
+          "listed_count": 10,
+          "media_count": 407,
+          "tweet_count": 8900
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      }
+    ]
+  }
+}

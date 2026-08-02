@@ -1,0 +1,706 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007509415981641728"
+      ],
+      "media_source_tweet_id": [
+        "2007509421174468818"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1135979287733948416",
+          "name": "Elden Ring"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1135979287733948416",
+          "name": "Elden Ring"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898668479250438",
+          "name": "Fantasy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      }
+    ],
+    "conversation_id": "2007551797175693750",
+    "created_at": "2026-01-03T20:37:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T21:37:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007551797175693750"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "Malenia",
+          "probability": 0.5476,
+          "start": 18,
+          "type": "Other"
+        },
+        {
+          "end": 53,
+          "normalized_text": "Goddess of Rot \nPhotography",
+          "probability": 0.6833,
+          "start": 27,
+          "type": "Other"
+        },
+        {
+          "end": 81,
+          "normalized_text": "ELDENRING",
+          "probability": 0.5119,
+          "start": 73,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 82,
+          "start": 72,
+          "tag": "ELDENRING"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1811080058427084800",
+          "start": 3,
+          "username": "DailyMalenia"
+        },
+        {
+          "end": 70,
+          "id": "1658818429099311105",
+          "start": 58,
+          "username": "dvinaamesca"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oF4TMVSeiz",
+          "end": 106,
+          "expanded_url": "https://x.com/DailyMalenia/status/2007509421174468818/photo/1",
+          "media_key": "3_2007509415981641728",
+          "start": 83,
+          "url": "https://t.co/oF4TMVSeiz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007551797175693750",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007509421174468818",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DailyMalenia: Malenia, Goddess of Rot \nPhotography by @dvinaamesca \n#ELDENRING https://t.co/oF4TMVSeiz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1644,
+        "media_key": "3_2007509415981641728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9wbLXbWcAAvJQc.jpg",
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007509415981641728"
+          ],
+          "media_source_tweet_id": [
+            "2007509421174468818"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2007551797175693750",
+        "created_at": "2026-01-03T20:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T21:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007551797175693750"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "Malenia",
+              "probability": 0.5476,
+              "start": 18,
+              "type": "Other"
+            },
+            {
+              "end": 53,
+              "normalized_text": "Goddess of Rot \nPhotography",
+              "probability": 0.6833,
+              "start": 27,
+              "type": "Other"
+            },
+            {
+              "end": 81,
+              "normalized_text": "ELDENRING",
+              "probability": 0.5119,
+              "start": 73,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 82,
+              "start": 72,
+              "tag": "ELDENRING"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1811080058427084800",
+              "start": 3,
+              "username": "DailyMalenia"
+            },
+            {
+              "end": 70,
+              "id": "1658818429099311105",
+              "start": 58,
+              "username": "dvinaamesca"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oF4TMVSeiz",
+              "end": 106,
+              "expanded_url": "https://x.com/DailyMalenia/status/2007509421174468818/photo/1",
+              "media_key": "3_2007509415981641728",
+              "start": 83,
+              "url": "https://t.co/oF4TMVSeiz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007551797175693750",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007509421174468818",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DailyMalenia: Malenia, Goddess of Rot \nPhotography by @dvinaamesca \n#ELDENRING https://t.co/oF4TMVSeiz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007509415981641728"
+          ]
+        },
+        "author_id": "1811080058427084800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2007509421174468818",
+        "created_at": "2026-01-03T17:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T18:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007509421174468818"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "Malenia",
+              "probability": 0.4375,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 35,
+              "normalized_text": "Goddess of Rot \nPhotography",
+              "probability": 0.6482,
+              "start": 9,
+              "type": "Other"
+            },
+            {
+              "end": 63,
+              "normalized_text": "ELDENRING",
+              "probability": 0.4822,
+              "start": 55,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 54,
+              "tag": "ELDENRING"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 52,
+              "id": "1658818429099311105",
+              "start": 40,
+              "username": "dvinaamesca"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oF4TMVSeiz",
+              "end": 88,
+              "expanded_url": "https://x.com/DailyMalenia/status/2007509421174468818/photo/1",
+              "media_key": "3_2007509415981641728",
+              "start": 65,
+              "url": "https://t.co/oF4TMVSeiz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007509421174468818",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1148,
+          "like_count": 92,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "Malenia, Goddess of Rot \nPhotography by @dvinaamesca \n#ELDENRING https://t.co/oF4TMVSeiz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4836,
+          "following_count": 3669,
+          "like_count": 78064,
+          "listed_count": 8,
+          "media_count": 354,
+          "tweet_count": 7896
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T16:49:01.000Z",
+        "description": "Daily picture / Art / Fan art of Malenia from Elden ring  - None art comes from me.\nDm me for any complaints.",
+        "id": "1811080058427084800",
+        "name": "Daily Malenia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811080494722715648/ckMifbQj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2216,
+          "following_count": 270,
+          "like_count": 5653,
+          "listed_count": 4,
+          "media_count": 273,
+          "tweet_count": 458
+        },
+        "username": "DailyMalenia",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-17T12:57:30.000Z",
+        "description": "🇵🇭🇨🇦 || Virtual Photographer 📸 || PC Gamer || Camtool: Otis_Inf || NO AI 🚫 || #FreePalestine🇵🇸",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 92,
+                "start": 78,
+                "tag": "FreePalestine"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/dmesca",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/dmesca",
+                "start": 0,
+                "url": "https://t.co/5DWa11SvOe"
+              }
+            ]
+          }
+        },
+        "id": "1658818429099311105",
+        "location": "Canada",
+        "name": "DMESCA 🗡️",
+        "pinned_tweet_id": "1952465639408644262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002307243400704000/HkvBJvn6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4516,
+          "following_count": 337,
+          "like_count": 14464,
+          "listed_count": 6,
+          "media_count": 1766,
+          "tweet_count": 4495
+        },
+        "url": "https://t.co/5DWa11SvOe",
+        "username": "dvinaamesca",
+        "verified": false
+      }
+    ]
+  }
+}

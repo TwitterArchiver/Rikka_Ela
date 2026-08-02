@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1869348504893784446",
+    "created_at": "2024-12-18T12:13:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-18T13:13:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869355283883163773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1701426110083563520",
+          "start": 0,
+          "username": "wongkong00538"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869355283883163773",
+    "in_reply_to_user_id": "1701426110083563520",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869348504893784446",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wongkong00538 1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1869348504893784446",
+        "created_at": "2024-12-18T12:13:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T13:13:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869355283883163773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1701426110083563520",
+              "start": 0,
+              "username": "wongkong00538"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869355283883163773",
+        "in_reply_to_user_id": "1701426110083563520",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869348504893784446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wongkong00538 1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701426110083563520",
+        "conversation_id": "1869348504893784446",
+        "created_at": "2024-12-18T11:46:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T12:46:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869348504893784446"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dianziemo/stat…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/dianziemo/status/1869316745242251362",
+              "start": 17,
+              "url": "https://t.co/lColfMYiA0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869348504893784446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869316745242251362",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "扣1️⃣回复对你的第一印象☝️🤓 https://t.co/lColfMYiA0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文\n\n@Y32010705",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 43,
+                "username": "Y32010705"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3179,
+          "following_count": 3121,
+          "like_count": 55008,
+          "listed_count": 7,
+          "media_count": 151,
+          "tweet_count": 4218
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T02:43:02.000Z",
+        "description": "现在的瓜师傅，既打不动拳，也键不动政，只能眼睁睁看着中年油腻老右白男马一龙把推特变成全民键政大奋坑，以后只能随缘发发图了。",
+        "id": "1701426110083563520",
+        "location": "西瓜星球 西瓜种植基地",
+        "name": "瓜师傅🍉涉谷凛腿上的大西瓜",
+        "pinned_tweet_id": "1864651281706701209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863867753477918720/z2foI4Nx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 857,
+          "like_count": 43473,
+          "listed_count": 2,
+          "media_count": 508,
+          "tweet_count": 16004
+        },
+        "username": "wongkong00538",
+        "verified": false
+      }
+    ]
+  }
+}

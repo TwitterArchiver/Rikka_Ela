@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1899772382325141838",
+    "created_at": "2025-03-12T10:40:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-12T11:40:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1899772382325141838"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/trailblazer215…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/trailblazer2157/status/1899455852022534568",
+          "start": 27,
+          "url": "https://t.co/hedlE0zM3i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899772382325141838",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899455852022534568",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我能当化学版的锐锐，做出一个化学题就能和我做一次🥵） https://t.co/hedlE0zM3i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_1899455830543519744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Glw5A54XUAAi_0s.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1899772382325141838",
+        "created_at": "2025-03-12T10:40:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T11:40:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899772382325141838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/trailblazer215…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/trailblazer2157/status/1899455852022534568",
+              "start": 27,
+              "url": "https://t.co/hedlE0zM3i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899772382325141838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899455852022534568",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我能当化学版的锐锐，做出一个化学题就能和我做一次🥵） https://t.co/hedlE0zM3i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1899455830543519744"
+          ]
+        },
+        "author_id": "1833113711567134720",
+        "conversation_id": "1899455852022534568",
+        "created_at": "2025-03-11T13:42:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T14:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899455852022534568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4FKupJsWmJ",
+              "end": 35,
+              "expanded_url": "https://x.com/trailblazer2157/status/1899455852022534568/photo/1",
+              "media_key": "3_1899455830543519744",
+              "start": 12,
+              "url": "https://t.co/4FKupJsWmJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899455852022534568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 9181,
+          "like_count": 238,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "大号发过了，再发一遍（ https://t.co/4FKupJsWmJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3937,
+          "following_count": 3300,
+          "like_count": 61912,
+          "listed_count": 6,
+          "media_count": 178,
+          "tweet_count": 5197
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-09T12:02:30.000Z",
+        "description": "开拓，就是沿着前人未竟的道路，走出更远的脚步",
+        "id": "1833113711567134720",
+        "location": "永恒之地「翁法罗斯」",
+        "name": "开拓者",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855363744769228800/vuc-5QA2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 198,
+          "like_count": 309,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 610
+        },
+        "username": "trailblazer2157",
+        "verified": false
+      }
+    ]
+  }
+}

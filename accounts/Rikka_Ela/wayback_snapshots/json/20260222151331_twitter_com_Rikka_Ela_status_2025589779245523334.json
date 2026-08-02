@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025583864207523840"
+      ],
+      "media_source_tweet_id": [
+        "2025583872122200388"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2025589779245523334",
+    "created_at": "2026-02-22T15:13:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T16:13:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025589779245523334"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 29,
+          "normalized_text": "Soul of Cinder",
+          "probability": 0.9767,
+          "start": 16,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "870348734147608576",
+          "start": 3,
+          "username": "graffitiGW"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BgdcoWHO9I",
+          "end": 54,
+          "expanded_url": "https://x.com/graffitiGW/status/2025583872122200388/photo/1",
+          "media_key": "3_2025583864207523840",
+          "start": 31,
+          "url": "https://t.co/BgdcoWHO9I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025589779245523334",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025583872122200388",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @graffitiGW: Soul of Cinder https://t.co/BgdcoWHO9I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025583864207523840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBxRyuDaQAA8Iej.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025583864207523840"
+          ],
+          "media_source_tweet_id": [
+            "2025583872122200388"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025589779245523334",
+        "created_at": "2026-02-22T15:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T16:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025589779245523334"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "Soul of Cinder",
+              "probability": 0.9767,
+              "start": 16,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "870348734147608576",
+              "start": 3,
+              "username": "graffitiGW"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BgdcoWHO9I",
+              "end": 54,
+              "expanded_url": "https://x.com/graffitiGW/status/2025583872122200388/photo/1",
+              "media_key": "3_2025583864207523840",
+              "start": 31,
+              "url": "https://t.co/BgdcoWHO9I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025589779245523334",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025583872122200388",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @graffitiGW: Soul of Cinder https://t.co/BgdcoWHO9I"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025583864207523840"
+          ]
+        },
+        "author_id": "870348734147608576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025583872122200388",
+        "created_at": "2026-02-22T14:50:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T15:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025583872122200388"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "Soul of Cinder",
+              "probability": 0.9764,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BgdcoWHO9I",
+              "end": 38,
+              "expanded_url": "https://x.com/graffitiGW/status/2025583872122200388/photo/1",
+              "media_key": "3_2025583864207523840",
+              "start": 15,
+              "url": "https://t.co/BgdcoWHO9I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025583872122200388",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 839,
+          "like_count": 104,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "Soul of Cinder https://t.co/BgdcoWHO9I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4900,
+          "following_count": 3725,
+          "like_count": 79537,
+          "listed_count": 9,
+          "media_count": 376,
+          "tweet_count": 8295
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-01T18:38:03.000Z",
+        "description": "絵を描いています。お仕事、個人依頼はDMもしくはこちらからClick here for commission→fencer.k.t.k@gmail.com |Skeb→https://t.co/SZVjlJIMBj|ココナラ→ https://t.co/0N1lF5tOXr | AI❌",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@graffitiGW",
+                "end": 107,
+                "expanded_url": "https://skeb.jp/@graffitiGW",
+                "start": 84,
+                "url": "https://t.co/SZVjlJIMBj"
+              },
+              {
+                "display_url": "coconala.com/users/4999066",
+                "end": 137,
+                "expanded_url": "https://coconala.com/users/4999066",
+                "start": 114,
+                "url": "https://t.co/0N1lF5tOXr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=23947473",
+                "start": 0,
+                "url": "https://t.co/NUNik8H4o4"
+              }
+            ]
+          }
+        },
+        "id": "870348734147608576",
+        "name": "剣士",
+        "pinned_tweet_id": "2022930394577043691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889970344657846272/JjIYko4F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34576,
+          "following_count": 1131,
+          "like_count": 28198,
+          "listed_count": 221,
+          "media_count": 649,
+          "tweet_count": 16011
+        },
+        "url": "https://t.co/NUNik8H4o4",
+        "username": "graffitiGW",
+        "verified": true
+      }
+    ]
+  }
+}

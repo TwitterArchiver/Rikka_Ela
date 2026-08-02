@@ -1,0 +1,473 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Information Security",
+          "id": "1047123725525479425",
+          "name": "Information security"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Information Security",
+          "id": "1047123725525479425",
+          "name": "Information security"
+        }
+      }
+    ],
+    "conversation_id": "2065346884135522472",
+    "created_at": "2026-06-12T08:14:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T09:14:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065346884135522472"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/politlcsuk/sta…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/politlcsuk/status/2064699766215164241",
+          "start": 29,
+          "url": "https://t.co/MuMpwIQdJK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065346884135522472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064699766215164241",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "黑客能不能登我的账号帮我把我的Coursework做了🙏 https://t.co/MuMpwIQdJK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 654,
+        "media_key": "3_2064699344083644416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdJHTwWcAAcdNU.png",
+        "width": 646
+      },
+      {
+        "height": 756,
+        "media_key": "3_2064699352384188416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdJHyrWsAAdRGw.png",
+        "width": 662
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Information Security",
+              "id": "1047123725525479425",
+              "name": "Information security"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Information Security",
+              "id": "1047123725525479425",
+              "name": "Information security"
+            }
+          }
+        ],
+        "conversation_id": "2065346884135522472",
+        "created_at": "2026-06-12T08:14:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T09:14:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065346884135522472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/politlcsuk/sta…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/politlcsuk/status/2064699766215164241",
+              "start": 29,
+              "url": "https://t.co/MuMpwIQdJK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065346884135522472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064699766215164241",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "黑客能不能登我的账号帮我把我的Coursework做了🙏 https://t.co/MuMpwIQdJK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064699344083644416",
+            "3_2064699352384188416"
+          ]
+        },
+        "author_id": "1434450096557596680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Information Security",
+              "id": "1047123725525479425",
+              "name": "Information security"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Information Security",
+              "id": "1047123725525479425",
+              "name": "Information security"
+            }
+          }
+        ],
+        "conversation_id": "2064699766215164241",
+        "created_at": "2026-06-10T13:22:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T14:22:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064699766215164241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uGgxf53PWv",
+              "end": 231,
+              "expanded_url": "https://x.com/PolitlcsUK/status/2064699766215164241/photo/1",
+              "media_key": "3_2064699344083644416",
+              "start": 208,
+              "url": "https://t.co/uGgxf53PWv"
+            },
+            {
+              "display_url": "pic.x.com/uGgxf53PWv",
+              "end": 231,
+              "expanded_url": "https://x.com/PolitlcsUK/status/2064699766215164241/photo/1",
+              "media_key": "3_2064699352384188416",
+              "start": 208,
+              "url": "https://t.co/uGgxf53PWv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064699766215164241",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1129,
+          "impression_count": 1825745,
+          "like_count": 6029,
+          "quote_count": 336,
+          "reply_count": 121,
+          "retweet_count": 550
+        },
+        "reply_settings": "everyone",
+        "text": "🚨 NEW: The University of Nottingham has suffered a \"serious\" data breach affecting its campuses in the UK, China and Malaysia\n\nStudents' personal and financial information are now up for sale on the dark web https://t.co/uGgxf53PWv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5513,
+          "following_count": 3776,
+          "like_count": 86063,
+          "listed_count": 7,
+          "media_count": 442,
+          "tweet_count": 9727
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-05T09:35:36.000Z",
+        "description": "The Home of UK Political News. Follow & turn on notifications for impartial coverage first. For global & U.S. coverage, follow @PolitlcsGlobal & @PolitlcsUS.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 127,
+                "username": "PolitlcsGlobal"
+              },
+              {
+                "end": 156,
+                "start": 145,
+                "username": "PolitlcsUS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "politicsuk.com/about-us",
+                "end": 23,
+                "expanded_url": "https://politicsuk.com/about-us",
+                "start": 0,
+                "url": "https://t.co/Wf8UGWc4SF"
+              }
+            ]
+          }
+        },
+        "id": "1434450096557596680",
+        "location": "United Kingdom",
+        "name": "Politics UK",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1688954450675740688/t1aS9_3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448694,
+          "following_count": 727,
+          "like_count": 17054,
+          "listed_count": 1364,
+          "media_count": 4505,
+          "tweet_count": 21373
+        },
+        "url": "https://t.co/Wf8UGWc4SF",
+        "username": "PolitlcsUK",
+        "verified": true
+      }
+    ]
+  }
+}

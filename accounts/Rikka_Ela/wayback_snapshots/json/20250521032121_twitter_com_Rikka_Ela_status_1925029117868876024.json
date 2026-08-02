@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1925029117868876024",
+    "created_at": "2025-05-21T03:21:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T04:21:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925029117868876024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1641643457214300161",
+          "start": 3,
+          "username": "satsuki__sekai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925029117868876024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924985291800183154",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @satsuki__sekai: 我绝对不会和几乎没有任何异性朋友的人交往 真的很恐怖感觉缺乏正常人类社交能力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1925029117868876024",
+        "created_at": "2025-05-21T03:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T04:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925029117868876024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1641643457214300161",
+              "start": 3,
+              "username": "satsuki__sekai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925029117868876024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924985291800183154",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @satsuki__sekai: 我绝对不会和几乎没有任何异性朋友的人交往 真的很恐怖感觉缺乏正常人类社交能力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641643457214300161",
+        "conversation_id": "1924985291800183154",
+        "created_at": "2025-05-21T00:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T01:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924985291800183154"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1924985291800183154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 169,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我绝对不会和几乎没有任何异性朋友的人交往 真的很恐怖感觉缺乏正常人类社交能力"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4217,
+          "following_count": 3442,
+          "like_count": 66996,
+          "listed_count": 8,
+          "media_count": 214,
+          "tweet_count": 5934
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-31T03:28:03.000Z",
+        "description": "サツキ セカイ｜请不要找我要互关 ｜🇨🇦",
+        "id": "1641643457214300161",
+        "location": "月月人民共和国",
+        "name": "疯糖小月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878388102420713472/fVchlPaz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1003,
+          "following_count": 1021,
+          "like_count": 59929,
+          "listed_count": 2,
+          "media_count": 1728,
+          "tweet_count": 22143
+        },
+        "username": "satsuki__sekai",
+        "verified": false
+      }
+    ]
+  }
+}

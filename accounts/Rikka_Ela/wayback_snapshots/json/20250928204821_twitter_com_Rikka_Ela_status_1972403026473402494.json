@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971976836725739520"
+      ],
+      "media_source_tweet_id": [
+        "1971976845831950836"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "conversation_id": "1972403026473402494",
+    "created_at": "2025-09-28T20:48:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T21:48:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972403026473402494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1476596519679643669",
+          "start": 3,
+          "username": "SlowEstus"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9aV64k6d21",
+          "end": 50,
+          "expanded_url": "https://x.com/SlowEstus/status/1971976845831950836/photo/1",
+          "media_key": "3_1971976836725739520",
+          "start": 27,
+          "url": "https://t.co/9aV64k6d21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972403026473402494",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 255
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971976845831950836",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SlowEstus: It's insane https://t.co/9aV64k6d21"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 978,
+        "media_key": "3_1971976836725739520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G13efCpWEAAdSfs.jpg",
+        "width": 780
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971976836725739520"
+          ],
+          "media_source_tweet_id": [
+            "1971976845831950836"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "1972403026473402494",
+        "created_at": "2025-09-28T20:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T21:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972403026473402494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1476596519679643669",
+              "start": 3,
+              "username": "SlowEstus"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9aV64k6d21",
+              "end": 50,
+              "expanded_url": "https://x.com/SlowEstus/status/1971976845831950836/photo/1",
+              "media_key": "3_1971976836725739520",
+              "start": 27,
+              "url": "https://t.co/9aV64k6d21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972403026473402494",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 255
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971976845831950836",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SlowEstus: It's insane https://t.co/9aV64k6d21"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971976836725739520"
+          ]
+        },
+        "author_id": "1476596519679643669",
+        "conversation_id": "1971976845831950836",
+        "created_at": "2025-09-27T16:34:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T17:34:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971976845831950836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9aV64k6d21",
+              "end": 35,
+              "expanded_url": "https://x.com/SlowEstus/status/1971976845831950836/photo/1",
+              "media_key": "3_1971976836725739520",
+              "start": 12,
+              "url": "https://t.co/9aV64k6d21"
+            },
+            {
+              "display_url": "x.com/16bitnostalgia…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/16bitnostalgia/status/1971940658157138117",
+              "start": 36,
+              "url": "https://t.co/5v83GhPP3P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971976845831950836",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 222,
+          "impression_count": 87680,
+          "like_count": 3609,
+          "quote_count": 12,
+          "reply_count": 43,
+          "retweet_count": 255
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971940658157138117",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "It's insane https://t.co/9aV64k6d21 https://t.co/5v83GhPP3P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4600,
+          "following_count": 3550,
+          "like_count": 73163,
+          "listed_count": 9,
+          "media_count": 304,
+          "tweet_count": 7008
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-30T16:50:25.000Z",
+        "description": "souls meme guy but I have a bow now",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@SlowEstus",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@SlowEstus",
+                "start": 0,
+                "url": "https://t.co/7yhuhtF9r4"
+              }
+            ]
+          }
+        },
+        "id": "1476596519679643669",
+        "location": "Drangleic",
+        "name": "Slow Estus Memes (archer arc🏹)",
+        "pinned_tweet_id": "1959844472398750131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930620595697332224/1paeOduP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34970,
+          "following_count": 303,
+          "like_count": 55980,
+          "listed_count": 24,
+          "media_count": 7988,
+          "tweet_count": 39398
+        },
+        "url": "https://t.co/7yhuhtF9r4",
+        "username": "SlowEstus",
+        "verified": false
+      }
+    ]
+  }
+}

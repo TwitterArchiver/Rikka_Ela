@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2076605581033635956",
+    "created_at": "2026-07-13T16:20:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T17:20:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076703239144415511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1477943682808664068",
+          "start": 0,
+          "username": "dreamdissolved"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076703239144415511",
+    "in_reply_to_user_id": "1477943682808664068",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076605581033635956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dreamdissolved 原po给我看力竭了💀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2076605581033635956",
+        "created_at": "2026-07-13T16:20:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T17:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076703239144415511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1477943682808664068",
+              "start": 0,
+              "username": "dreamdissolved"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076703239144415511",
+        "in_reply_to_user_id": "1477943682808664068",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076605581033635956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dreamdissolved 原po给我看力竭了💀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1477943682808664068",
+        "conversation_id": "2076605581033635956",
+        "created_at": "2026-07-13T09:52:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T10:52:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076605581033635956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xersy37737/sta…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/xersy37737/status/2076338792651444708",
+              "start": 33,
+              "url": "https://t.co/6xxi07YHH2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076605581033635956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 655,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076338792651444708",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看到“99.9%的顺女脑子只有雌竞和婚姻”我就知道不用看了😹😹😹 https://t.co/6xxi07YHH2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6245,
+          "following_count": 3769,
+          "like_count": 86145,
+          "listed_count": 7,
+          "media_count": 446,
+          "tweet_count": 9950
+        },
+        "url": "",
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-03T10:03:36.000Z",
+        "description": "🦉男的|@HumanoidNO19|想像力豊かな人間になりたい|雑多",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "HumanoidNO19"
+              }
+            ]
+          }
+        },
+        "id": "1477943682808664068",
+        "name": "Kagam⚨♂⚧",
+        "pinned_tweet_id": "2054506069804912956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018227224684675072/VrVKpuEI_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1160,
+          "following_count": 3407,
+          "like_count": 52930,
+          "listed_count": 6,
+          "media_count": 707,
+          "tweet_count": 8928
+        },
+        "url": "",
+        "username": "dreamdissolved",
+        "verified": false
+      }
+    ]
+  }
+}

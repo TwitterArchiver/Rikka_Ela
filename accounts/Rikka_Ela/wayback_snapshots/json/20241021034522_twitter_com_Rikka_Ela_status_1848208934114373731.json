@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1847842935330787451",
+    "created_at": "2024-10-21T03:45:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-21T04:45:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1848208934114373731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1426398762079977477",
+          "start": 0,
+          "username": "tooheavy2fly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1848208934114373731",
+    "in_reply_to_user_id": "1426398762079977477",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1848201117781368900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tooheavy2fly 现在当个学生会干事就咄咄逼人，霸凌班里的“异类”的同龄人还少吗，这不是同龄人的问题，这就是中国的基本盘，即使往后再过三四代，中国的主流思想永远也不会改变，除非中国这片土地上的文化哪一天四分五裂，最后再被重新拼好成另一个样子或许才有可能改变"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1848201117781368900].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1848201117781368900",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1848201117781368900"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1847842935330787451",
+        "created_at": "2024-10-21T03:45:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-21T04:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1848208934114373731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1426398762079977477",
+              "start": 0,
+              "username": "tooheavy2fly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1848208934114373731",
+        "in_reply_to_user_id": "1426398762079977477",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1848201117781368900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tooheavy2fly 现在当个学生会干事就咄咄逼人，霸凌班里的“异类”的同龄人还少吗，这不是同龄人的问题，这就是中国的基本盘，即使往后再过三四代，中国的主流思想永远也不会改变，除非中国这片土地上的文化哪一天四分五裂，最后再被重新拼好成另一个样子或许才有可能改变"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文\n\nwife:@Y32010705",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "Y32010705"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2980,
+          "following_count": 2990,
+          "like_count": 50863,
+          "listed_count": 5,
+          "tweet_count": 3667
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-14T04:22:36.000Z",
+        "description": "hrt断点续传中/白日梦想家/顶级试睡员/手残程序员/想当个烧饭女仆",
+        "id": "1426398762079977477",
+        "location": "幻想乡 距离您1145.14海里",
+        "name": "瓦尔莉基🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753679394642821120/2DaRYHNo_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 966,
+          "following_count": 468,
+          "like_count": 16414,
+          "listed_count": 2,
+          "tweet_count": 5060
+        },
+        "username": "tooheavy2fly",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2043205949029224531",
+    "created_at": "2026-04-12T07:06:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T08:06:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043224326090973291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1526965927748571136",
+          "start": 0,
+          "username": "Natsumejuri"
+        },
+        {
+          "end": 22,
+          "id": "1792933283040284673",
+          "start": 13,
+          "username": "tuamitx0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043224326090973291",
+    "in_reply_to_user_id": "1526965927748571136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043205949029224531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Natsumejuri @tuamitx0 你好可爱🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043205938912595968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFrs-d_akAAjamI.jpg",
+        "width": 1422
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2043205949029224531",
+        "created_at": "2026-04-12T07:06:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T08:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043224326090973291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1526965927748571136",
+              "start": 0,
+              "username": "Natsumejuri"
+            },
+            {
+              "end": 22,
+              "id": "1792933283040284673",
+              "start": 13,
+              "username": "tuamitx0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043224326090973291",
+        "in_reply_to_user_id": "1526965927748571136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043205949029224531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Natsumejuri @tuamitx0 你好可爱🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043205938912595968"
+          ]
+        },
+        "author_id": "1526965927748571136",
+        "conversation_id": "2043205949029224531",
+        "created_at": "2026-04-12T05:53:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T06:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043205949029224531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vuVnefGmep",
+              "end": 34,
+              "expanded_url": "https://x.com/Natsumejuri/status/2043205949029224531/photo/1",
+              "media_key": "3_2043205938912595968",
+              "start": 11,
+              "url": "https://t.co/vuVnefGmep"
+            },
+            {
+              "display_url": "x.com/natsumejuri/st…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/natsumejuri/status/2042904809762885718",
+              "start": 35,
+              "url": "https://t.co/jrcKhMgXPE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043205949029224531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 778,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042904809762885718",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不当手机脸就这样🐽 https://t.co/vuVnefGmep https://t.co/jrcKhMgXPE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5034,
+          "following_count": 3731,
+          "like_count": 81740,
+          "listed_count": 10,
+          "media_count": 406,
+          "tweet_count": 8899
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-18T16:41:01.000Z",
+        "description": "MtF | Computer Science",
+        "id": "1526965927748571136",
+        "location": "亚空间",
+        "name": "夏子",
+        "pinned_tweet_id": "2032355055467446683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996966756427218944/EWv7GHnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3382,
+          "following_count": 454,
+          "like_count": 15828,
+          "listed_count": 5,
+          "media_count": 435,
+          "tweet_count": 1846
+        },
+        "username": "Natsumejuri",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-21T15:00:28.000Z",
+        "description": "我希望我爱的人都好好的🥺♥️/裏垢：https://t.co/q7AzGVPC4y /联络方式：https://t.co/2eUjAnLNoF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pari.cafe/@poi",
+                "end": 41,
+                "expanded_url": "https://pari.cafe/@poi",
+                "start": 18,
+                "url": "https://t.co/q7AzGVPC4y"
+              },
+              {
+                "display_url": "matrix.to/#/@ai0bsw6k:ma…",
+                "end": 71,
+                "expanded_url": "https://matrix.to/#/@ai0bsw6k:matrix.org",
+                "start": 48,
+                "url": "https://t.co/2eUjAnLNoF"
+              }
+            ]
+          }
+        },
+        "id": "1792933283040284673",
+        "location": "🌕月球",
+        "name": "catalyst🍫🐢🌈",
+        "pinned_tweet_id": "2039217404102996391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013987958014296065/ZXpt5StP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 814,
+          "like_count": 27690,
+          "listed_count": 1,
+          "media_count": 265,
+          "tweet_count": 16710
+        },
+        "username": "tuamitx0",
+        "verified": false
+      }
+    ]
+  }
+}

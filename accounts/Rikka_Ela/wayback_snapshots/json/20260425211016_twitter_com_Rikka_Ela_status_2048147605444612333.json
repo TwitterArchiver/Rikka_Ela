@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2047882319877509580",
+    "created_at": "2026-04-25T21:10:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T22:10:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048147605444612333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "906829343480938496",
+          "start": 0,
+          "username": "Nevernessian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048147605444612333",
+    "in_reply_to_user_id": "906829343480938496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047882319877509580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nevernessian 需要🥺🤲）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2047880734892060672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGuIraGbcAA3H7K.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2047882319877509580",
+        "created_at": "2026-04-25T21:10:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T22:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048147605444612333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "906829343480938496",
+              "start": 0,
+              "username": "Nevernessian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048147605444612333",
+        "in_reply_to_user_id": "906829343480938496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047882319877509580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nevernessian 需要🥺🤲）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047880734892060672"
+          ]
+        },
+        "author_id": "906829343480938496",
+        "conversation_id": "2047882319877509580",
+        "created_at": "2026-04-25T03:36:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T04:36:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047882319877509580"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jd34bcRZES",
+              "end": 150,
+              "expanded_url": "https://x.com/Nevernessian/status/2047882319877509580/photo/1",
+              "media_key": "3_2047880734892060672",
+              "start": 127,
+              "url": "https://t.co/Jd34bcRZES"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047882319877509580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1294,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "之前一直说想做个社群前辈支持服务的项目，主要针对的是出柜后没有暴力冲突但态度摇摆回避的家庭，最近梳理了一个方案。其实轻量极简方式的话我现在倒是能直接跑起来，不过还是想搭个项目协作的框架便于将来运转，如果有人有兴趣的话我下午录个space大概捋一捋思路？ https://t.co/Jd34bcRZES"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5109,
+          "following_count": 3751,
+          "like_count": 82652,
+          "listed_count": 10,
+          "media_count": 418,
+          "tweet_count": 9124
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-10T10:38:58.000Z",
+        "description": "穷打工的👩‍💼不善良😈所以也不怎么焦虑🤷‍♀️没有社群联系🙅‍♀️性冷淡😐相关专业出身但不会coding⌨️掌勺但不懂美食🍚前电务但不懂铁路🚆更不懂民航✈️不懂数学🔢不懂语言学🔡不懂军武🔫也不会拍照📷不懂穿搭👗裤子比裙子多👖但是mtf🤔\n@nevernessian@m.cmx.im",
+        "id": "906829343480938496",
+        "name": "魏淑淑淑芬芬芬",
+        "pinned_tweet_id": "1892401849107415113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1486710720834117636/8z2GHsnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2500,
+          "following_count": 94,
+          "like_count": 5850,
+          "listed_count": 8,
+          "media_count": 882,
+          "tweet_count": 6677
+        },
+        "username": "Nevernessian",
+        "verified": false
+      }
+    ]
+  }
+}

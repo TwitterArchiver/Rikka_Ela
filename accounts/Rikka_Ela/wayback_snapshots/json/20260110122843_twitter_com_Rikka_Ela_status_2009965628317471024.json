@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2009957486196080833",
+    "created_at": "2026-01-10T12:28:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T13:28:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009965628317471024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2004989620224933888",
+          "start": 0,
+          "username": "Linziliy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009965628317471024",
+    "in_reply_to_user_id": "2004989620224933888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009961791053504810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Linziliy 是的，我是因为还没毕业所以去骚扰了几位教授了解一下情况（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2009957486196080833",
+        "created_at": "2026-01-10T12:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T13:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009965628317471024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2004989620224933888",
+              "start": 0,
+              "username": "Linziliy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009965628317471024",
+        "in_reply_to_user_id": "2004989620224933888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009961791053504810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Linziliy 是的，我是因为还没毕业所以去骚扰了几位教授了解一下情况（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004989620224933888",
+        "conversation_id": "2009957486196080833",
+        "created_at": "2026-01-10T12:13:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T13:13:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009961791053504810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009961791053504810",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009957486196080833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 这个项目申请的时候不指定导师不限定具体研究方向也不需要套瓷，过committee就行。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4854,
+          "following_count": 3683,
+          "like_count": 78461,
+          "listed_count": 8,
+          "media_count": 357,
+          "tweet_count": 7988
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-27T18:56:00.000Z",
+        "description": "🏳️‍⚧️ / Earth Science PhD Student",
+        "id": "2004989620224933888",
+        "location": "Paris, France",
+        "name": "Linzi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008311594099363840/q6Tlt8G-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 59,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "Linziliy",
+        "verified": false
+      }
+    ]
+  }
+}

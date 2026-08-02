@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1898644442086768932",
+    "created_at": "2025-03-09T08:03:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T09:03:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898645720997183737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1462419807173677059",
+          "start": 0,
+          "username": "Jane_S_Eye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898645720997183737",
+    "in_reply_to_user_id": "1462419807173677059",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898644442086768932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jane_S_Eye 我们化学的怎么办😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1898644442086768932",
+        "created_at": "2025-03-09T08:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T09:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898645720997183737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1462419807173677059",
+              "start": 0,
+              "username": "Jane_S_Eye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898645720997183737",
+        "in_reply_to_user_id": "1462419807173677059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898644442086768932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jane_S_Eye 我们化学的怎么办😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462419807173677059",
+        "conversation_id": "1898644442086768932",
+        "created_at": "2025-03-09T07:58:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T08:58:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898644442086768932"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1898644442086768932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "坐标中等9，今年学校转专业报名情况：\n电气&gt;&gt;&gt;自动化、仪器、电子信息、ic&gt;网安、AI、生医工、机械、车辆&gt;计算机&gt;材料、能动&gt;软工。\n我觉得能读出一些结论，现在大多数人都知道有硬件壁垒更好，大多数人也都以读研后再工作为目的，但是也会被各种自媒体调动，这让电气、ic和生医显然过热了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3926,
+          "following_count": 3296,
+          "like_count": 61704,
+          "listed_count": 7,
+          "media_count": 177,
+          "tweet_count": 5155
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-21T13:58:25.000Z",
+        "description": "A reader and insane writer",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tw04.damoplane1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://tw04.damoplane1.com/#/register?code=khRH22kV",
+                "start": 0,
+                "url": "https://t.co/CQ0rWuJGb1"
+              }
+            ]
+          }
+        },
+        "id": "1462419807173677059",
+        "location": "自用梯子🪜",
+        "name": "Véronique🏳️‍🌈🏳️‍⚧️🇺🇦",
+        "pinned_tweet_id": "1894757840914616664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895125071854804992/MZ4rxrB6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9670,
+          "following_count": 2342,
+          "like_count": 9791,
+          "listed_count": 21,
+          "media_count": 814,
+          "tweet_count": 9352
+        },
+        "url": "https://t.co/CQ0rWuJGb1",
+        "username": "Jane_S_Eye",
+        "verified": false
+      }
+    ]
+  }
+}

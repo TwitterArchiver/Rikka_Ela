@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1999267343843885059"
+      ],
+      "media_source_tweet_id": [
+        "1999267436445728816"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1999575863721893919",
+    "created_at": "2025-12-12T20:23:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T21:23:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999575863721893919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1769209725181464576",
+          "start": 3,
+          "username": "Maximas_Rema"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E67Q6pjYIO",
+          "end": 41,
+          "expanded_url": "https://x.com/Maximas_Rema/status/1999267436445728816/video/1",
+          "media_key": "13_1999267343843885059",
+          "start": 18,
+          "url": "https://t.co/E67Q6pjYIO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999575863721893919",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 257
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999267436445728816",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Maximas_Rema: https://t.co/E67Q6pjYIO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28240,
+        "height": 1280,
+        "media_key": "13_1999267343843885059",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1999267343843885059/img/fW_ajnNEkTY-d-i8.jpg",
+        "public_metrics": {
+          "view_count": 25464
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1999267343843885059/vid/avc1/320x568/5H0ttgSkBCm6Ie4K.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1999267343843885059/vid/avc1/480x852/pgpwnQ6Ev3PdI2LE.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1999267343843885059/vid/avc1/720x1280/hRs_Tm2NUWE7CJQh.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1999267343843885059/pl/N-SKbuWqDDjPFOtS.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1999267343843885059"
+          ],
+          "media_source_tweet_id": [
+            "1999267436445728816"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1999575863721893919",
+        "created_at": "2025-12-12T20:23:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T21:23:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999575863721893919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1769209725181464576",
+              "start": 3,
+              "username": "Maximas_Rema"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E67Q6pjYIO",
+              "end": 41,
+              "expanded_url": "https://x.com/Maximas_Rema/status/1999267436445728816/video/1",
+              "media_key": "13_1999267343843885059",
+              "start": 18,
+              "url": "https://t.co/E67Q6pjYIO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999575863721893919",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 257
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999267436445728816",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Maximas_Rema: https://t.co/E67Q6pjYIO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1999267343843885059"
+          ]
+        },
+        "author_id": "1769209725181464576",
+        "conversation_id": "1999267436445728816",
+        "created_at": "2025-12-11T23:57:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T00:57:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999267436445728816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E67Q6pjYIO",
+              "end": 23,
+              "expanded_url": "https://x.com/Maximas_Rema/status/1999267436445728816/video/1",
+              "media_key": "13_1999267343843885059",
+              "start": 0,
+              "url": "https://t.co/E67Q6pjYIO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999267436445728816",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 684,
+          "impression_count": 34855,
+          "like_count": 2411,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 257
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/E67Q6pjYIO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4752,
+          "following_count": 3658,
+          "like_count": 77341,
+          "listed_count": 8,
+          "media_count": 342,
+          "tweet_count": 7683
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-17T03:51:08.000Z",
+        "description": "",
+        "id": "1769209725181464576",
+        "name": "MaxiMas",
+        "pinned_tweet_id": "1981249603044540477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987532828058460160/pb199t0d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2548,
+          "following_count": 79,
+          "like_count": 3855,
+          "listed_count": 5,
+          "media_count": 555,
+          "tweet_count": 3643
+        },
+        "username": "Maximas_Rema",
+        "verified": false
+      }
+    ]
+  }
+}

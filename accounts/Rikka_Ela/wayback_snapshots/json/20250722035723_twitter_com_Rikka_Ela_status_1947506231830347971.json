@@ -1,0 +1,118 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1947506065857515524"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "conversation_id": "1947506231830347971",
+    "created_at": "2025-07-22T03:57:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T04:57:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947506231830347971"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GX1FVNcDk1",
+          "end": 119,
+          "expanded_url": "https://x.com/Rikka_Ela/status/1947506231830347971/video/1",
+          "media_key": "13_1947506065857515524",
+          "start": 96,
+          "url": "https://t.co/GX1FVNcDk1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947506231830347971",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 188,
+      "like_count": 4,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "匹诺曹的谎言DLC最终Boss（好短的DLC，三天就打完了）血艺师阿米诺斯\n米塔恩在他面前都像是修了十五年的活佛\n这二阶段开场多少连，二十几连了吧，设计这Boss的你自己能打得过吗我问你了😃 https://t.co/GX1FVNcDk1"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1947506231830347971].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1947506231830347971",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1947506231830347971"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 92066,
+        "height": 720,
+        "media_key": "13_1947506065857515524",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1947506065857515524/img/YazU-TvCN9c1dYQO.jpg",
+        "public_metrics": {
+          "view_count": 46
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1947506065857515524/vid/avc1/480x270/83WDgPP2dcJS-wrJ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1947506065857515524/vid/avc1/640x360/4cZU-f0qpqcNaiRU.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1947506065857515524/vid/avc1/1280x720/KWJej9nDhgx6Lkb1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1947506065857515524/pl/E_zJGB-vjxWbv-Od.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4444,
+          "following_count": 3537,
+          "like_count": 71091,
+          "listed_count": 7,
+          "media_count": 266,
+          "tweet_count": 6531
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2046020674402025868",
+    "created_at": "2026-04-20T06:13:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T07:13:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046109995448648087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1424779836938022913",
+          "start": 0,
+          "username": "amber_toffee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046109995448648087",
+    "in_reply_to_user_id": "1424779836938022913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046020674402025868",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_toffee 对不起🧎‍♀️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2046020674402025868",
+        "created_at": "2026-04-20T06:13:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T07:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046109995448648087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1424779836938022913",
+              "start": 0,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046109995448648087",
+        "in_reply_to_user_id": "1424779836938022913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046020674402025868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_toffee 对不起🧎‍♀️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424779836938022913",
+        "conversation_id": "2046020674402025868",
+        "created_at": "2026-04-20T00:18:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T01:18:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046020674402025868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aliieastrea/st…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/aliieastrea/status/2045874517575143480",
+              "start": 69,
+              "url": "https://t.co/DnUgShkLtG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046020674402025868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 93,
+          "impression_count": 17580,
+          "like_count": 342,
+          "quote_count": 3,
+          "reply_count": 18,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045874517575143480",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是真的，跨女一定要好好打理一下发型，对于改善脸型整体形象提高pass度事半功倍，如果只是单纯头发很长但没层次感只会让人觉得是邋遢长发男（ https://t.co/DnUgShkLtG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5085,
+          "following_count": 3737,
+          "like_count": 82214,
+          "listed_count": 10,
+          "media_count": 413,
+          "tweet_count": 9042
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "☭ 🏳️‍⚧️ ⚢ / ᴢʜ, ᴇɴ / ❤︎ @noaayoyaoaya / ✦ @amber_medusozoa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 58,
+                "start": 42,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/P9msNZnPLs"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "Toronto, Ontario",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2040939467280674867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26015,
+          "following_count": 2786,
+          "like_count": 41370,
+          "listed_count": 14,
+          "media_count": 633,
+          "tweet_count": 22008
+        },
+        "url": "https://t.co/P9msNZnPLs",
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

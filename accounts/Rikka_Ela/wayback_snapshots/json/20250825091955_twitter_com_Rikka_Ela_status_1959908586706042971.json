@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1959908586706042971",
+    "created_at": "2025-08-25T09:19:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T10:19:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959908586706042971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1424779836938022913",
+          "start": 3,
+          "username": "amber_toffee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959908586706042971",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959681263272603963",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_toffee: 为什么男的老是换着花样地觉得自己找不到女朋友是没钱导致的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1959908586706042971",
+        "created_at": "2025-08-25T09:19:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T10:19:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959908586706042971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1424779836938022913",
+              "start": 3,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959908586706042971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959681263272603963",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_toffee: 为什么男的老是换着花样地觉得自己找不到女朋友是没钱导致的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424779836938022913",
+        "conversation_id": "1959681263272603963",
+        "created_at": "2025-08-24T18:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T19:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959681263272603963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/horizon_tem/st…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/horizon_tem/status/1959217420897263680",
+              "start": 29,
+              "url": "https://t.co/eB1wjvSTK2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959681263272603963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9229,
+          "like_count": 110,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959217420897263680",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么男的老是换着花样地觉得自己找不到女朋友是没钱导致的 https://t.co/eB1wjvSTK2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4492,
+          "following_count": 3544,
+          "like_count": 72245,
+          "listed_count": 8,
+          "media_count": 290,
+          "tweet_count": 6837
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "ଳ ❤︎ @noaayoyaoaya / mtf / intp / ☭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "🚪¥128 / 256",
+        "name": "amber🪼",
+        "pinned_tweet_id": "1947181057348165686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897152328362233856/uJFVlByt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17395,
+          "following_count": 2295,
+          "like_count": 33408,
+          "listed_count": 50,
+          "media_count": 589,
+          "tweet_count": 16039
+        },
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

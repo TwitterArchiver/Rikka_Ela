@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2082136473764266321",
+    "created_at": "2026-07-28T16:29:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T17:29:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082141328008425795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1546716470293446661",
+          "start": 0,
+          "username": "xiaoyue520131"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082141328008425795",
+    "in_reply_to_user_id": "1546716470293446661",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082140399016047084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyue520131 9111！？（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2082136473764266321",
+        "created_at": "2026-07-28T16:29:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T17:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082141328008425795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1546716470293446661",
+              "start": 0,
+              "username": "xiaoyue520131"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082141328008425795",
+        "in_reply_to_user_id": "1546716470293446661",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082140399016047084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyue520131 9111！？（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1546716470293446661",
+        "conversation_id": "2082136473764266321",
+        "created_at": "2026-07-28T16:25:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T17:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082140399016047084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082140399016047084",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082136473764266321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 91暗广吓哭了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6524,
+          "following_count": 3767,
+          "like_count": 86131,
+          "listed_count": 10,
+          "media_count": 451,
+          "tweet_count": 10054
+        },
+        "url": "",
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-12T04:42:04.000Z",
+        "description": "只是想要拥有一个爱我的人 🏳️‍⚧️",
+        "id": "1546716470293446661",
+        "name": "雪❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852095928053698560/M9GiPRjV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 855,
+          "like_count": 3242,
+          "listed_count": 4,
+          "media_count": 40,
+          "tweet_count": 1452
+        },
+        "url": "",
+        "username": "xiaoyue520131",
+        "verified": false
+      }
+    ]
+  }
+}

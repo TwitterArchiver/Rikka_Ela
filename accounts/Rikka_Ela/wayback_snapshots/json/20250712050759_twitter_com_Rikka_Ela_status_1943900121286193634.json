@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1943367124598018048"
+      ],
+      "media_source_tweet_id": [
+        "1943367146676846846"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1277995430236680192",
+          "name": "Outdoors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1288087370361757696",
+          "name": "Survival skills"
+        }
+      }
+    ],
+    "conversation_id": "1943900121286193634",
+    "created_at": "2025-07-12T05:07:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T06:07:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943900121286193634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1310275768191193088",
+          "start": 3,
+          "username": "ShouldHaveCat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2Qp7zHvSqV",
+          "end": 65,
+          "expanded_url": "https://x.com/ShouldHaveCat/status/1943367146676846846/video/1",
+          "media_key": "7_1943367124598018048",
+          "start": 42,
+          "url": "https://t.co/2Qp7zHvSqV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943900121286193634",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12494
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943367146676846846",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ShouldHaveCat: zero survival skills 😂 https://t.co/2Qp7zHvSqV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11380,
+        "height": 1280,
+        "media_key": "7_1943367124598018048",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1943367124598018048/pu/img/NsuEfuCatVkIDfPT.jpg",
+        "public_metrics": {
+          "view_count": 6587784
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1943367124598018048/pu/vid/avc1/320x568/pQY37ffQ0FHDNDW1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1943367124598018048/pu/vid/avc1/480x852/GksT2rXZF10PnmGG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1943367124598018048/pu/vid/avc1/720x1280/NxQGlcEy6ss3SJ8g.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1943367124598018048/pu/pl/QFUGORBBY9xDskig.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1943367124598018048"
+          ],
+          "media_source_tweet_id": [
+            "1943367146676846846"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1277995430236680192",
+              "name": "Outdoors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1288087370361757696",
+              "name": "Survival skills"
+            }
+          }
+        ],
+        "conversation_id": "1943900121286193634",
+        "created_at": "2025-07-12T05:07:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T06:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943900121286193634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1310275768191193088",
+              "start": 3,
+              "username": "ShouldHaveCat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Qp7zHvSqV",
+              "end": 65,
+              "expanded_url": "https://x.com/ShouldHaveCat/status/1943367146676846846/video/1",
+              "media_key": "7_1943367124598018048",
+              "start": 42,
+              "url": "https://t.co/2Qp7zHvSqV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943900121286193634",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12494
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943367146676846846",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ShouldHaveCat: zero survival skills 😂 https://t.co/2Qp7zHvSqV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1943367124598018048"
+          ]
+        },
+        "author_id": "1310275768191193088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1277995430236680192",
+              "name": "Outdoors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1288087370361757696",
+              "name": "Survival skills"
+            }
+          }
+        ],
+        "conversation_id": "1943367146676846846",
+        "created_at": "2025-07-10T17:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T18:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943367146676846846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Qp7zHvSqV",
+              "end": 46,
+              "expanded_url": "https://x.com/ShouldHaveCat/status/1943367146676846846/video/1",
+              "media_key": "7_1943367124598018048",
+              "start": 23,
+              "url": "https://t.co/2Qp7zHvSqV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943367146676846846",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9986,
+          "impression_count": 13312693,
+          "like_count": 144532,
+          "quote_count": 480,
+          "reply_count": 746,
+          "retweet_count": 12494
+        },
+        "reply_settings": "everyone",
+        "text": "zero survival skills 😂 https://t.co/2Qp7zHvSqV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4395,
+          "following_count": 3530,
+          "like_count": 70525,
+          "listed_count": 7,
+          "media_count": 262,
+          "tweet_count": 6428
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-27T17:51:08.000Z",
+        "description": "The perfect account to show to your parents when you want a cat 😺❤ @FoundationOfWen",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 67,
+                "username": "FoundationOfWen"
+              }
+            ]
+          }
+        },
+        "id": "1310275768191193088",
+        "location": "USA",
+        "name": "Why you should have a cat",
+        "pinned_tweet_id": "1805301353578705240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1365068242918780928/m278bxAZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4249460,
+          "following_count": 247,
+          "like_count": 1006,
+          "listed_count": 8464,
+          "media_count": 13024,
+          "tweet_count": 13222
+        },
+        "username": "ShouldHaveCat",
+        "verified": true
+      }
+    ]
+  }
+}

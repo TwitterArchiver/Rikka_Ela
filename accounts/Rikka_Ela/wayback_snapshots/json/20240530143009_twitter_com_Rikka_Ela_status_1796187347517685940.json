@@ -1,0 +1,163 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1796187347517685940",
+    "created_at": "2024-05-30T14:30:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-30T15:30:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1796187347517685940"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/B_cat38324/sta…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/B_cat38324/status/1793827096596521080",
+          "start": 2,
+          "url": "https://t.co/3qRHXMdwj7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796187347517685940",
+    "lang": "art",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793827096596521080",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🥺 https://t.co/3qRHXMdwj7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1796187347517685940",
+        "created_at": "2024-05-30T14:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-30T15:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1796187347517685940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/B_cat38324/sta…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/B_cat38324/status/1793827096596521080",
+              "start": 2,
+              "url": "https://t.co/3qRHXMdwj7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796187347517685940",
+        "lang": "art",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793827096596521080",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🥺 https://t.co/3qRHXMdwj7"
+      },
+      {
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "1793827096596521080",
+        "created_at": "2024-05-24T02:11:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T03:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793827096596521080"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1793827096596521080",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 9261,
+          "like_count": 239,
+          "quote_count": 7,
+          "reply_count": 16,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "\"你看你，像其他小药娘一样\"\n：\"不准管我叫药娘，杀了你\"\n\"那当你是男孩子还是女孩子啊\"\n：\"……随便你……\"\n\"摸摸你的头好不好\"\n：\"拿开你的手，你敢摸就咬你\"\n\"你不会的\"\n：\"……\"\n\"你看，果然没有咬我，带你去治易性症好不好……\"\n：\"……\"\n：\"好……\"\n——《无题》"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UNNC‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2061,
+          "following_count": 2663,
+          "like_count": 36907,
+          "listed_count": 5,
+          "tweet_count": 2246
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "黑猫",
+        "pinned_tweet_id": "1788987285796712719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1803,
+          "following_count": 88,
+          "like_count": 39,
+          "listed_count": 5,
+          "tweet_count": 1875
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1933498348948107488",
+    "created_at": "2025-06-13T12:15:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T13:15:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1933498348948107488"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kanzlerscholz/…",
+          "end": 85,
+          "expanded_url": "https://twitter.com/kanzlerscholz/status/1919505799052702103",
+          "start": 62,
+          "url": "https://t.co/fO9hnfgytA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933498348948107488",
+    "lang": "de",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919505799052702103",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "starkes Deutschland不应该是Deutschland, Deutschland über alles吗(x https://t.co/fO9hnfgytA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 71800,
+        "height": 720,
+        "media_key": "13_1919505698066460673",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1919505698066460673/img/BDa_fr5WHOVfsoiO.jpg",
+        "public_metrics": {
+          "view_count": 324598
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1919505698066460673/vid/avc1/320x320/OW0IJ2zN6Oo_Hcmv.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1919505698066460673/vid/avc1/540x540/lDVmOEiMfiYeaqAh.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1919505698066460673/vid/avc1/720x720/eIR71ceYQ7Mfo2N-.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1919505698066460673/pl/lVGfgSdvjrzS7AX3.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1933498348948107488",
+        "created_at": "2025-06-13T12:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T13:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933498348948107488"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kanzlerscholz/…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/kanzlerscholz/status/1919505799052702103",
+              "start": 62,
+              "url": "https://t.co/fO9hnfgytA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933498348948107488",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919505799052702103",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "starkes Deutschland不应该是Deutschland, Deutschland über alles吗(x https://t.co/fO9hnfgytA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1919505698066460673"
+          ]
+        },
+        "author_id": "1489164711652466688",
+        "conversation_id": "1919505799052702103",
+        "created_at": "2025-05-05T21:33:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T22:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919505799052702103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fWNtrrDYs1",
+              "end": 99,
+              "expanded_url": "https://x.com/Bundeskanzler/status/1919505799052702103/video/1",
+              "media_key": "13_1919505698066460673",
+              "start": 76,
+              "url": "https://t.co/fWNtrrDYs1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919505799052702103",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 725,
+          "impression_count": 855614,
+          "like_count": 5513,
+          "quote_count": 351,
+          "reply_count": 1273,
+          "retweet_count": 409
+        },
+        "reply_settings": "everyone",
+        "text": "Deutschland ist stark, wenn wir es zusammenhalten. Mit Respekt voreinander. https://t.co/fWNtrrDYs1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4335,
+          "following_count": 3501,
+          "like_count": 68803,
+          "listed_count": 6,
+          "media_count": 232,
+          "tweet_count": 6178
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-03T09:12:06.000Z",
+        "description": "Archiv-Account. Europäer. Demokrat. Für #Respekt und eine starke #Demokratie. Former Federal Chancellor\n\nhttps://t.co/IUiGhTawb4",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 48,
+                "start": 40,
+                "tag": "Respekt"
+              },
+              {
+                "end": 76,
+                "start": 65,
+                "tag": "Demokratie"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bundesregierung.de/breg-de/impres…",
+                "end": 128,
+                "expanded_url": "https://www.bundesregierung.de/breg-de/impressum",
+                "start": 105,
+                "url": "https://t.co/IUiGhTawb4"
+              }
+            ]
+          }
+        },
+        "id": "1489164711652466688",
+        "name": "Bundeskanzler a.D. Olaf Scholz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919789858278490112/XR2Jyde__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 978893,
+          "following_count": 128,
+          "like_count": 591,
+          "listed_count": 2783,
+          "media_count": 925,
+          "tweet_count": 2176
+        },
+        "username": "KanzlerScholz",
+        "verified": true
+      }
+    ]
+  }
+}

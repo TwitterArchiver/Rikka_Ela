@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1807109037861044680",
+    "created_at": "2024-06-30T02:02:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-30T03:02:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807233130887348632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1271831155071844352",
+          "start": 0,
+          "username": "kir1same7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807233130887348632",
+    "in_reply_to_user_id": "1271831155071844352",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807222019806920739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kir1same7 只是老师的任务罢了）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1807109037861044680",
+        "created_at": "2024-06-30T02:02:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-30T03:02:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807233130887348632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1271831155071844352",
+              "start": 0,
+              "username": "kir1same7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807233130887348632",
+        "in_reply_to_user_id": "1271831155071844352",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807222019806920739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kir1same7 只是老师的任务罢了）"
+      },
+      {
+        "attachments": {},
+        "author_id": "1271831155071844352",
+        "conversation_id": "1807109037861044680",
+        "created_at": "2024-06-30T01:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-30T02:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807222019806920739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807222019806920739",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807109037861044680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 好厉害！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UNNC‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2128,
+          "following_count": 2727,
+          "like_count": 40408,
+          "listed_count": 5,
+          "tweet_count": 2549
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-13T15:46:01.000Z",
+        "description": "想去bw出cos的雾雨狐，很高兴和你做朋友！\n🌈|出没在杭州，请随意捕捉。",
+        "id": "1271831155071844352",
+        "location": "雾雨的魔法店",
+        "name": "Kir1same雾雨⭐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1718435767226417152/_4KNDguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 682,
+          "like_count": 5969,
+          "listed_count": 1,
+          "tweet_count": 1815
+        },
+        "username": "kir1same7",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2025351259293646962",
+    "created_at": "2026-02-22T09:13:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T10:13:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025499237446783121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1515668818013696000",
+          "start": 0,
+          "username": "jym66662"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025499237446783121",
+    "in_reply_to_user_id": "1515668818013696000",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025386202732642628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jym66662 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2025351259293646962",
+        "created_at": "2026-02-22T09:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T10:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025499237446783121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1515668818013696000",
+              "start": 0,
+              "username": "jym66662"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025499237446783121",
+        "in_reply_to_user_id": "1515668818013696000",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025386202732642628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jym66662 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1515668818013696000",
+        "conversation_id": "2025351259293646962",
+        "created_at": "2026-02-22T01:44:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T02:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025386202732642628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025386202732642628",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025351259293646962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4897,
+          "following_count": 3723,
+          "like_count": 79520,
+          "listed_count": 9,
+          "media_count": 376,
+          "tweet_count": 8291
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-17T12:29:50.000Z",
+        "description": "假如生活欺骗了你，不要悲伤，不要心急！忧郁的日子里须要镇静，相信吧，快乐的日子将会来临！心儿永远向往着未来…",
+        "id": "1515668818013696000",
+        "location": "加拿大 温哥华",
+        "name": "作业homework",
+        "pinned_tweet_id": "1992563536263049420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024807860392296448/Juy1qxhi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 491,
+          "like_count": 772,
+          "listed_count": 1,
+          "media_count": 490,
+          "tweet_count": 2812
+        },
+        "username": "jym66662",
+        "verified": false
+      }
+    ]
+  }
+}

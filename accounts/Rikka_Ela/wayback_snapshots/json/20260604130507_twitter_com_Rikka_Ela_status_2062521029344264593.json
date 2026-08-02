@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2062443560872374730",
+    "created_at": "2026-06-04T13:05:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T14:05:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062521029344264593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "623965569",
+          "start": 0,
+          "username": "nothousand"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062521029344264593",
+    "in_reply_to_user_id": "623965569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062520753887875151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nothousand 还没，但是我电话派出所他们是这个答复"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2062443560872374730",
+        "created_at": "2026-06-04T13:05:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T14:05:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062521029344264593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "623965569",
+              "start": 0,
+              "username": "nothousand"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062521029344264593",
+        "in_reply_to_user_id": "623965569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062520753887875151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nothousand 还没，但是我电话派出所他们是这个答复"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "623965569",
+        "conversation_id": "2062443560872374730",
+        "created_at": "2026-06-04T13:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T14:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062520753887875151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062520753887875151",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062519860899287370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 所以已经在走流程了嘛。这个是派出所给你的要求吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5378,
+          "following_count": 3775,
+          "like_count": 85766,
+          "listed_count": 6,
+          "media_count": 439,
+          "tweet_count": 9685
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-01T16:27:02.000Z",
+        "description": "并非这个世界的生命体",
+        "id": "623965569",
+        "location": "earth",
+        "name": "芊茉音華",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053291654728364032/lNmB5dJH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2364,
+          "following_count": 123,
+          "like_count": 8772,
+          "listed_count": 6,
+          "media_count": 530,
+          "tweet_count": 5620
+        },
+        "username": "nothousand",
+        "verified": false
+      }
+    ]
+  }
+}

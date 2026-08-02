@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2068885277372710976",
+    "created_at": "2026-06-22T05:11:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T06:11:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068924938543837238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1745799972576968705",
+          "start": 0,
+          "username": "bubblepipe42"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068924938543837238",
+    "in_reply_to_user_id": "1745799972576968705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068885277372710976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bubblepipe42 不是我现在就这样怎么办😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2068885277372710976",
+        "created_at": "2026-06-22T05:11:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T06:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068924938543837238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1745799972576968705",
+              "start": 0,
+              "username": "bubblepipe42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068924938543837238",
+        "in_reply_to_user_id": "1745799972576968705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068885277372710976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bubblepipe42 不是我现在就这样怎么办😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745799972576968705",
+        "conversation_id": "2068885277372710976",
+        "created_at": "2026-06-22T02:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T03:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068885277372710976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/inasya_kram/st…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/inasya_kram/status/2068430716267106498",
+              "start": 37,
+              "url": "https://t.co/DtEkiK1Au6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068885277372710976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1357,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068430716267106498",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要是去读phd了我也这样 手术也没做 伪声也不会 头发更不知道怎么打理 https://t.co/DtEkiK1Au6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5869,
+          "following_count": 3776,
+          "like_count": 86389,
+          "listed_count": 7,
+          "media_count": 442,
+          "tweet_count": 9800
+        },
+        "url": "",
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-12T13:29:34.000Z",
+        "description": "一个伪人",
+        "id": "1745799972576968705",
+        "location": "未来的代糖空泡故居",
+        "name": "全推最权威恐术咨询",
+        "pinned_tweet_id": "2020023264811315232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997240850732961792/1_d8Kddi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1917,
+          "following_count": 941,
+          "like_count": 9333,
+          "listed_count": 5,
+          "media_count": 368,
+          "tweet_count": 2695
+        },
+        "url": "",
+        "username": "bubblepipe42",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1797139093492805951",
+    "created_at": "2024-06-02T06:22:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-02T07:22:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797151691294597219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1657055349982244865",
+          "start": 0,
+          "username": "Glagagapot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797151691294597219",
+    "in_reply_to_user_id": "1657055349982244865",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797139093492805951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Glagagapot 之前那帖怎么没了，本来还想来个合照的（×"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1797139093492805951",
+        "created_at": "2024-06-02T06:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T07:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797151691294597219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1657055349982244865",
+              "start": 0,
+              "username": "Glagagapot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797151691294597219",
+        "in_reply_to_user_id": "1657055349982244865",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797139093492805951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Glagagapot 之前那帖怎么没了，本来还想来个合照的（×"
+      },
+      {
+        "attachments": {},
+        "author_id": "1657055349982244865",
+        "conversation_id": "1797139093492805951",
+        "created_at": "2024-06-02T05:32:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T06:32:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797139093492805951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tk199919/statu…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/tk199919/status/1796978722706461014",
+              "start": 6,
+              "url": "https://t.co/7s239Ud5fy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797139093492805951",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796978722706461014",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有后续？ https://t.co/7s239Ud5fy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UNNC‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2064,
+          "following_count": 2668,
+          "like_count": 37244,
+          "listed_count": 5,
+          "tweet_count": 2265
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-12T16:09:28.000Z",
+        "description": "我是Gla嘎拉｜关注点赞不代表立场｜友可以正常沟通的人",
+        "id": "1657055349982244865",
+        "location": "嘎拉国",
+        "name": "魔法香嘎",
+        "pinned_tweet_id": "1777051573228863856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797030932131483650/EGcrkmS0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1337,
+          "following_count": 859,
+          "like_count": 24436,
+          "listed_count": 2,
+          "tweet_count": 8642
+        },
+        "username": "Glagagapot",
+        "verified": false
+      }
+    ]
+  }
+}

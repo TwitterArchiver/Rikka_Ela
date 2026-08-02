@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2017813702427414784",
+    "created_at": "2026-02-01T13:45:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T14:45:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017957388964249823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1657055349982244865",
+          "start": 0,
+          "username": "Glagagapot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017957388964249823",
+    "in_reply_to_user_id": "1657055349982244865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017813702427414784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Glagagapot 怎么把我发出来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2017813702427414784",
+        "created_at": "2026-02-01T13:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T14:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017957388964249823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1657055349982244865",
+              "start": 0,
+              "username": "Glagagapot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017957388964249823",
+        "in_reply_to_user_id": "1657055349982244865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017813702427414784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Glagagapot 怎么把我发出来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657055349982244865",
+        "conversation_id": "2017813702427414784",
+        "created_at": "2026-02-01T04:14:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T05:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017813702427414784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/annayanamisuki…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/annayanamisuki/status/2017782514652225674",
+              "start": 4,
+              "url": "https://t.co/mpW4AxBWmX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017813702427414784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 703,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017782514652225674",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们谁 https://t.co/mpW4AxBWmX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4872,
+          "following_count": 3701,
+          "like_count": 78831,
+          "listed_count": 9,
+          "media_count": 367,
+          "tweet_count": 8138
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-12T16:09:28.000Z",
+        "description": "胡言乱语账号，不建议关注",
+        "id": "1657055349982244865",
+        "location": "我永远是嘎国人",
+        "name": "香嘎",
+        "pinned_tweet_id": "2013048657990312418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007459506989756416/y42qkWgm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2114,
+          "following_count": 1073,
+          "like_count": 76662,
+          "listed_count": 6,
+          "media_count": 2146,
+          "tweet_count": 25931
+        },
+        "username": "Glagagapot",
+        "verified": false
+      }
+    ]
+  }
+}

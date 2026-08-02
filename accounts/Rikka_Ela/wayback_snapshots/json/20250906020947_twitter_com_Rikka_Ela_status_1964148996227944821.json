@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1964048330595717121"
+      ],
+      "media_source_tweet_id": [
+        "1964048339424682144"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "conversation_id": "1964148996227944821",
+    "created_at": "2025-09-06T02:09:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T03:09:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964148996227944821"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 16,
+          "tag": "NIGHTREIGN"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "870348734147608576",
+          "start": 3,
+          "username": "graffitiGW"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/azjENru3dG",
+          "end": 51,
+          "expanded_url": "https://x.com/graffitiGW/status/1964048339424682144/photo/1",
+          "media_key": "3_1964048330595717121",
+          "start": 28,
+          "url": "https://t.co/azjENru3dG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964148996227944821",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 570
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964048339424682144",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @graffitiGW: #NIGHTREIGN https://t.co/azjENru3dG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1964048330595717121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0GzjPrbUAEmNXz.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964048330595717121"
+          ],
+          "media_source_tweet_id": [
+            "1964048339424682144"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "1964148996227944821",
+        "created_at": "2025-09-06T02:09:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T03:09:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964148996227944821"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 16,
+              "tag": "NIGHTREIGN"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "870348734147608576",
+              "start": 3,
+              "username": "graffitiGW"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/azjENru3dG",
+              "end": 51,
+              "expanded_url": "https://x.com/graffitiGW/status/1964048339424682144/photo/1",
+              "media_key": "3_1964048330595717121",
+              "start": 28,
+              "url": "https://t.co/azjENru3dG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964148996227944821",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 570
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964048339424682144",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @graffitiGW: #NIGHTREIGN https://t.co/azjENru3dG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964048330595717121"
+          ]
+        },
+        "author_id": "870348734147608576",
+        "conversation_id": "1964048339424682144",
+        "created_at": "2025-09-05T19:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T20:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964048339424682144"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "NIGHTREIGN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/azjENru3dG",
+              "end": 35,
+              "expanded_url": "https://x.com/graffitiGW/status/1964048339424682144/photo/1",
+              "media_key": "3_1964048330595717121",
+              "start": 12,
+              "url": "https://t.co/azjENru3dG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964048339424682144",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 335,
+          "impression_count": 63050,
+          "like_count": 3792,
+          "quote_count": 8,
+          "reply_count": 11,
+          "retweet_count": 570
+        },
+        "reply_settings": "everyone",
+        "text": "#NIGHTREIGN https://t.co/azjENru3dG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4511,
+          "following_count": 3549,
+          "like_count": 72612,
+          "listed_count": 9,
+          "media_count": 292,
+          "tweet_count": 6909
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-01T18:38:03.000Z",
+        "description": "絵を描いています。お仕事、ご依頼はDMもしくはこちらからClick here for commission→fencer.k.t.k@gmail.com |個人依頼→ https://t.co/SZVjlJIMBj|ココナラ→ https://t.co/0N1lF5tOXr | AI❌",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@graffitiGW",
+                "end": 107,
+                "expanded_url": "https://skeb.jp/@graffitiGW",
+                "start": 84,
+                "url": "https://t.co/SZVjlJIMBj"
+              },
+              {
+                "display_url": "coconala.com/users/4999066",
+                "end": 137,
+                "expanded_url": "https://coconala.com/users/4999066",
+                "start": 114,
+                "url": "https://t.co/0N1lF5tOXr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=23947473",
+                "start": 0,
+                "url": "https://t.co/NUNik8H4o4"
+              }
+            ]
+          }
+        },
+        "id": "870348734147608576",
+        "name": "剣士",
+        "pinned_tweet_id": "1964048339424682144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889970344657846272/JjIYko4F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32447,
+          "following_count": 1083,
+          "like_count": 26344,
+          "listed_count": 213,
+          "media_count": 549,
+          "tweet_count": 15028
+        },
+        "url": "https://t.co/NUNik8H4o4",
+        "username": "graffitiGW",
+        "verified": true
+      }
+    ]
+  }
+}

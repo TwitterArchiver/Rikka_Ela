@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2076205522580332765",
+    "created_at": "2026-07-12T08:58:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T09:58:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076229790810751057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1499442786453663745",
+          "start": 0,
+          "username": "Ted_yeet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076229790810751057",
+    "in_reply_to_user_id": "1499442786453663745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076205522580332765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ted_yeet 我也可以0721吗😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2076205522580332765",
+        "created_at": "2026-07-12T08:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T09:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076229790810751057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1499442786453663745",
+              "start": 0,
+              "username": "Ted_yeet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076229790810751057",
+        "in_reply_to_user_id": "1499442786453663745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076205522580332765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ted_yeet 我也可以0721吗😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499442786453663745",
+        "conversation_id": "2076205522580332765",
+        "created_at": "2026-07-12T07:22:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T08:22:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076205522580332765"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076205522580332765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1105,
+          "like_count": 27,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自从解锁0721之后每天都在爽🥵\n玉玉药不吃了，精神病也好了🥵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6200,
+          "following_count": 3770,
+          "like_count": 86102,
+          "listed_count": 7,
+          "media_count": 445,
+          "tweet_count": 9940
+        },
+        "url": "",
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-03T17:53:30.000Z",
+        "description": "神秘旅商/🏳️‍🌈🏳️‍⚧️/姛/brat/毛绒玩具/📸/贝斯/说LaTeX的人形编译器\n有偿SRS咨询请私信 10€/h",
+        "id": "1499442786453663745",
+        "location": "Cantonia",
+        "name": "Ted",
+        "pinned_tweet_id": "2055181133973954997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057063305681002496/0duENI7-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6577,
+          "following_count": 1802,
+          "like_count": 54849,
+          "listed_count": 24,
+          "media_count": 549,
+          "tweet_count": 12990
+        },
+        "url": "",
+        "username": "Ted_yeet",
+        "verified": true
+      }
+    ]
+  }
+}

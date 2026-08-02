@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1998593667913916913",
+    "created_at": "2026-04-07T06:13:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T07:13:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041398938092142831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1261560609214087168",
+          "start": 0,
+          "username": "Cathy_eko"
+        },
+        {
+          "end": 24,
+          "id": "1767161673566359552",
+          "start": 11,
+          "username": "willa_citrus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041398938092142831",
+    "in_reply_to_user_id": "1261560609214087168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998613518258680048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cathy_eko @willa_citrus 羡慕博士😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1998593667913916913",
+        "created_at": "2026-04-07T06:13:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T07:13:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041398938092142831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1261560609214087168",
+              "start": 0,
+              "username": "Cathy_eko"
+            },
+            {
+              "end": 24,
+              "id": "1767161673566359552",
+              "start": 11,
+              "username": "willa_citrus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041398938092142831",
+        "in_reply_to_user_id": "1261560609214087168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998613518258680048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cathy_eko @willa_citrus 羡慕博士😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1261560609214087168",
+        "conversation_id": "1998593667913916913",
+        "created_at": "2025-12-10T04:39:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T05:39:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998613518258680048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1767161673566359552",
+              "start": 0,
+              "username": "willa_citrus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998613518258680048",
+        "in_reply_to_user_id": "1767161673566359552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 601,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998593667913916913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@willa_citrus 我觉得他们是嫉妒你术后+博士身份，而且那群人经常拿你去年在阿联酋海关的遭遇说事还蛮无语的…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5024,
+          "following_count": 3737,
+          "like_count": 81369,
+          "listed_count": 9,
+          "media_count": 397,
+          "tweet_count": 8801
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-16T07:34:41.000Z",
+        "description": "备用 @Cathylp1984",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Cathylp1984"
+              }
+            ]
+          }
+        },
+        "id": "1261560609214087168",
+        "location": "奇美拉咖啡馆",
+        "name": "南茜",
+        "pinned_tweet_id": "2004776930277818567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995015582014738436/pqwajC9S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4725,
+          "following_count": 1354,
+          "like_count": 152032,
+          "listed_count": 57,
+          "media_count": 6050,
+          "tweet_count": 62474
+        },
+        "username": "Cathy_eko",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T12:12:39.000Z",
+        "description": "试图照见自己 / 杭州三本工科PhD在读 / 怪猎&魂 / 光明果派漫宿研习者 / 彻夜飞旋，直至甜美的生诞 / 家人们动动发财的小手点个赞/ 如果空下来一定要做个播客 / 甜甜同居快六年 @rat_miyari",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 95,
+                "username": "rat_miyari"
+              }
+            ]
+          }
+        },
+        "id": "1767161673566359552",
+        "location": "杭州",
+        "name": "王小檬𝖂𝖎𝖑𝖑𝖆🍋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978691032192782336/2rH_jGCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11914,
+          "following_count": 210,
+          "like_count": 7050,
+          "listed_count": 34,
+          "media_count": 326,
+          "tweet_count": 8081
+        },
+        "username": "willa_citrus",
+        "verified": false
+      }
+    ]
+  }
+}

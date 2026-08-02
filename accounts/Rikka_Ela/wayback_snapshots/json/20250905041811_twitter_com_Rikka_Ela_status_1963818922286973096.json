@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1963585137020399616"
+      ],
+      "media_source_tweet_id": [
+        "1963585214384402840"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1963818922286973096",
+    "created_at": "2025-09-05T04:18:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T05:18:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963818922286973096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1818015508488232960",
+          "start": 3,
+          "username": "chosenundeadone"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E7W4yDTWIt",
+          "end": 44,
+          "expanded_url": "https://x.com/chosenundeadone/status/1963585214384402840/video/1",
+          "media_key": "13_1963585137020399616",
+          "start": 21,
+          "url": "https://t.co/E7W4yDTWIt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963818922286973096",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 137
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963585214384402840",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chosenundeadone: https://t.co/E7W4yDTWIt"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1963818922286973096].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1963818922286973096",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1963818922286973096"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20176,
+        "height": 720,
+        "media_key": "13_1963585137020399616",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1963585137020399616/img/v9tWdaLDYHE3-Kpf.jpg",
+        "public_metrics": {
+          "view_count": 3117
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963585137020399616/vid/avc1/360x270/z70-77uV4A86BZig.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963585137020399616/vid/avc1/480x360/rJxei0lPfsn6v3O_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963585137020399616/vid/avc1/960x720/v_jdVXl_5PbBodYt.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1963585137020399616/pl/hKqOIN92xVA1msNb.m3u8?v=e5d"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1963585137020399616"
+          ]
+        },
+        "author_id": "1818015508488232960",
+        "conversation_id": "1963585214384402840",
+        "created_at": "2025-09-04T12:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T13:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963585214384402840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E7W4yDTWIt",
+              "end": 23,
+              "expanded_url": "https://x.com/chosenundeadone/status/1963585214384402840/video/1",
+              "media_key": "13_1963585137020399616",
+              "start": 0,
+              "url": "https://t.co/E7W4yDTWIt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963585214384402840",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 93,
+          "impression_count": 9498,
+          "like_count": 577,
+          "quote_count": 6,
+          "reply_count": 6,
+          "retweet_count": 137
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/E7W4yDTWIt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4509,
+          "following_count": 3546,
+          "like_count": 72605,
+          "listed_count": 9,
+          "media_count": 292,
+          "tweet_count": 6902
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-29T20:07:41.000Z",
+        "description": "edits, memes and much more. DM open for business.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/chosenundeadone",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/chosenundeadone",
+                "start": 0,
+                "url": "https://t.co/em9fnla9XZ"
+              }
+            ]
+          }
+        },
+        "id": "1818015508488232960",
+        "name": "chosen undead",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874530486904586241/1mLkp4Zz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52306,
+          "following_count": 2,
+          "like_count": 256,
+          "listed_count": 50,
+          "media_count": 785,
+          "tweet_count": 1035
+        },
+        "url": "https://t.co/em9fnla9XZ",
+        "username": "chosenundeadone",
+        "verified": true
+      }
+    ]
+  }
+}

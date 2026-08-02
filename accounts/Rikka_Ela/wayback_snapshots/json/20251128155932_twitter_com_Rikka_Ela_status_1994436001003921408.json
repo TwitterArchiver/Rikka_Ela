@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1994227742670221746",
+    "created_at": "2025-11-28T15:59:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T16:59:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994436001003921408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1880325371280912386",
+          "start": 0,
+          "username": "genya1976"
+        },
+        {
+          "end": 21,
+          "id": "2970384772",
+          "start": 11,
+          "username": "milk_g0re"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994436001003921408",
+    "in_reply_to_user_id": "1880325371280912386",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994361978522055003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@genya1976 @milk_g0re ？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1994361978522055003].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1994361978522055003",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1994361978522055003"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1994227742670221746",
+        "created_at": "2025-11-28T15:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T16:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994436001003921408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1880325371280912386",
+              "start": 0,
+              "username": "genya1976"
+            },
+            {
+              "end": 21,
+              "id": "2970384772",
+              "start": 11,
+              "username": "milk_g0re"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994436001003921408",
+        "in_reply_to_user_id": "1880325371280912386",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994361978522055003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@genya1976 @milk_g0re ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4754,
+          "following_count": 3647,
+          "like_count": 76830,
+          "listed_count": 8,
+          "media_count": 332,
+          "tweet_count": 7567
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T18:44:47.000Z",
+        "description": "圣彼得堡/莫斯科/叶卡捷琳堡/阿拉木图 偶尔兼职公狗 可线上线下 优先回复私信备注地区长度 拒绝回复小于18cm的男的 小鸡巴的勿扰除了@zhu6hua\n不定时活跃或视奸\n大号 @hy1194527",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 68,
+                "username": "zhu6hua"
+              },
+              {
+                "end": 99,
+                "start": 89,
+                "username": "hy1194527"
+              }
+            ]
+          }
+        },
+        "id": "1880325371280912386",
+        "name": "井冈山上的的江上清风游",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988511957402468352/Xig1tDba_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 625,
+          "like_count": 95300,
+          "listed_count": 2,
+          "media_count": 60,
+          "tweet_count": 649
+        },
+        "username": "genya1976",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-09T20:26:34.000Z",
+        "description": "@ratyolk is my twin sister",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "ratyolk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "link.me/milkgore",
+                "end": 23,
+                "expanded_url": "https://link.me/milkgore",
+                "start": 0,
+                "url": "https://t.co/I5ybALJyRy"
+              }
+            ]
+          }
+        },
+        "id": "2970384772",
+        "location": "Norway",
+        "name": "MILK",
+        "pinned_tweet_id": "1830132498119967083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927661809768497152/4deumwut_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587275,
+          "following_count": 1115,
+          "like_count": 24317,
+          "listed_count": 1031,
+          "media_count": 374,
+          "tweet_count": 2494
+        },
+        "url": "https://t.co/I5ybALJyRy",
+        "username": "milk_g0re",
+        "verified": true
+      }
+    ]
+  }
+}

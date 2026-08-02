@@ -1,0 +1,609 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042591471270797312"
+      ],
+      "media_source_tweet_id": [
+        "2042591474244583746"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1135979287733948416",
+          "name": "Elden Ring"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1135979287733948416",
+          "name": "Elden Ring"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898668479250438",
+          "name": "Fantasy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      }
+    ],
+    "conversation_id": "2042913704841256984",
+    "created_at": "2026-04-11T10:32:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T11:32:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042913704841256984"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 60,
+          "start": 50,
+          "tag": "ELDENRING"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1542947711657320451",
+          "start": 3,
+          "username": "CollegeArtist1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9vwSkhGtN1",
+          "end": 84,
+          "expanded_url": "https://x.com/CollegeArtist1/status/2042591474244583746/photo/1",
+          "media_key": "3_2042591471270797312",
+          "start": 61,
+          "url": "https://t.co/9vwSkhGtN1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042913704841256984",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 74
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042591474244583746",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CollegeArtist1: Midra Lord of Frenzied Flame\n\n#ELDENRING https://t.co/9vwSkhGtN1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042591471270797312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFi-HvpWoAAWKZX.jpg",
+        "width": 1261
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042591471270797312"
+          ],
+          "media_source_tweet_id": [
+            "2042591474244583746"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2042913704841256984",
+        "created_at": "2026-04-11T10:32:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T11:32:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042913704841256984"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 60,
+              "start": 50,
+              "tag": "ELDENRING"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1542947711657320451",
+              "start": 3,
+              "username": "CollegeArtist1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9vwSkhGtN1",
+              "end": 84,
+              "expanded_url": "https://x.com/CollegeArtist1/status/2042591474244583746/photo/1",
+              "media_key": "3_2042591471270797312",
+              "start": 61,
+              "url": "https://t.co/9vwSkhGtN1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042913704841256984",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 74
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042591474244583746",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CollegeArtist1: Midra Lord of Frenzied Flame\n\n#ELDENRING https://t.co/9vwSkhGtN1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042591471270797312"
+          ]
+        },
+        "author_id": "1542947711657320451",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2042591474244583746",
+        "created_at": "2026-04-10T13:12:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T14:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042591474244583746"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 30,
+              "tag": "ELDENRING"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9vwSkhGtN1",
+              "end": 64,
+              "expanded_url": "https://x.com/CollegeArtist1/status/2042591474244583746/photo/1",
+              "media_key": "3_2042591471270797312",
+              "start": 41,
+              "url": "https://t.co/9vwSkhGtN1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042591474244583746",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 6233,
+          "like_count": 691,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "Midra Lord of Frenzied Flame\n\n#ELDENRING https://t.co/9vwSkhGtN1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5023,
+          "following_count": 3728,
+          "like_count": 81658,
+          "listed_count": 10,
+          "media_count": 404,
+          "tweet_count": 8886
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-01T19:06:31.000Z",
+        "description": "Illustrator - Commissions open - contact:Collegeartist1@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Collegeartist",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Collegeartist",
+                "start": 0,
+                "url": "https://t.co/jRCFBdC27c"
+              }
+            ]
+          }
+        },
+        "id": "1542947711657320451",
+        "name": "Collegeartist",
+        "pinned_tweet_id": "1945137702845743285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838970010233892864/YHDR93bq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12571,
+          "following_count": 94,
+          "like_count": 19346,
+          "listed_count": 54,
+          "media_count": 2343,
+          "tweet_count": 4357
+        },
+        "url": "https://t.co/jRCFBdC27c",
+        "username": "CollegeArtist1",
+        "verified": false
+      }
+    ]
+  }
+}

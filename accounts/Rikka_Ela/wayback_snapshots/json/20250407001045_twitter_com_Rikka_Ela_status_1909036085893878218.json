@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Author\n",
+          "id": "808408440301232128",
+          "name": "JK Rowling"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Author\n",
+          "id": "808408440301232128",
+          "name": "JK Rowling"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166408461485101056",
+          "name": "Authors"
+        }
+      }
+    ],
+    "conversation_id": "1909036085893878218",
+    "created_at": "2025-04-07T00:10:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T01:10:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909036085893878218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1540803508890259456",
+          "start": 3,
+          "username": "legaltweetz"
+        },
+        {
+          "end": 29,
+          "id": "62513246",
+          "start": 18,
+          "username": "jk_rowling"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909036085893878218",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 65
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908922726943002840",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @legaltweetz: .@jk_rowling letting us all know that she’s not getting laid by worrying about what everyone else is doing or not doing #k…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1484,
+        "media_key": "3_1908922722886778881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn3bGkFWgAEKvka.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166408461485101056",
+              "name": "Authors"
+            }
+          }
+        ],
+        "conversation_id": "1909036085893878218",
+        "created_at": "2025-04-07T00:10:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T01:10:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909036085893878218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1540803508890259456",
+              "start": 3,
+              "username": "legaltweetz"
+            },
+            {
+              "end": 29,
+              "id": "62513246",
+              "start": 18,
+              "username": "jk_rowling"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909036085893878218",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908922726943002840",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @legaltweetz: .@jk_rowling letting us all know that she’s not getting laid by worrying about what everyone else is doing or not doing #k…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908922722886778881"
+          ]
+        },
+        "author_id": "1540803508890259456",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166408461485101056",
+              "name": "Authors"
+            }
+          }
+        ],
+        "conversation_id": "1908922726943002840",
+        "created_at": "2025-04-06T16:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T17:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908922726943002840"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 125,
+              "normalized_text": "karen",
+              "probability": 0.4719,
+              "start": 121,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 126,
+              "start": 120,
+              "tag": "karen"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "62513246",
+              "start": 1,
+              "username": "jk_rowling"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mDAXny1wTn",
+              "end": 150,
+              "expanded_url": "https://x.com/legaltweetz/status/1908922726943002840/photo/1",
+              "media_key": "3_1908922722886778881",
+              "start": 127,
+              "url": "https://t.co/mDAXny1wTn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908922726943002840",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 20653,
+          "like_count": 721,
+          "quote_count": 5,
+          "reply_count": 82,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": ".@jk_rowling letting us all know that she’s not getting laid by worrying about what everyone else is doing or not doing #karen https://t.co/mDAXny1wTn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4025,
+          "following_count": 3324,
+          "like_count": 64321,
+          "listed_count": 9,
+          "media_count": 189,
+          "tweet_count": 5499
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-25T21:06:12.000Z",
+        "description": "Pissed off lawyer. LGBTQ rights activist 🏳️‍🌈🏳️‍⚧️ Rebellious Romani Soul 🖤 Trans & Proud. He/Him. Host of the Podcast The Uprising Is Here 🎙️",
+        "id": "1540803508890259456",
+        "location": "Detroit, MI",
+        "name": "The Pissed Off Lawyer",
+        "pinned_tweet_id": "1906664402922700851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1540811960664702985/WWiSpwWD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24560,
+          "following_count": 5234,
+          "like_count": 48769,
+          "listed_count": 386,
+          "media_count": 4911,
+          "tweet_count": 42210
+        },
+        "username": "legaltweetz",
+        "verified": true
+      },
+      {
+        "created_at": "2009-08-03T13:23:45.000Z",
+        "description": "Writer sometimes known as Robert Galbraith",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jkrowling.com",
+                "end": 23,
+                "expanded_url": "http://www.jkrowling.com",
+                "start": 0,
+                "url": "https://t.co/sQiPGyMaQ2"
+              }
+            ]
+          }
+        },
+        "id": "62513246",
+        "location": "Scotland",
+        "name": "J.K. Rowling",
+        "pinned_tweet_id": "1838649713261699328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908267773077188611/8NW-7j66_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14327150,
+          "following_count": 1148,
+          "like_count": 63377,
+          "listed_count": 30664,
+          "media_count": 1386,
+          "tweet_count": 20323
+        },
+        "url": "https://t.co/sQiPGyMaQ2",
+        "username": "jk_rowling",
+        "verified": true
+      }
+    ]
+  }
+}

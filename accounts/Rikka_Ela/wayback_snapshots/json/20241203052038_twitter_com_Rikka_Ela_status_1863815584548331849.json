@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1863813211025207560",
+    "created_at": "2024-12-03T05:20:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-03T06:20:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863815584548331849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2885028194",
+          "start": 0,
+          "username": "MizukawaYui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863815584548331849",
+    "in_reply_to_user_id": "2885028194",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863814145117983079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MizukawaYui 后面导师来看了，就是真空泵，但是她也搞不清楚为什么会变成吹气了，后面她让我干脆就重力过滤算了😇"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1863814145117983079].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1863814145117983079",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1863814145117983079"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1863813211025207560",
+        "created_at": "2024-12-03T05:20:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T06:20:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863815584548331849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2885028194",
+              "start": 0,
+              "username": "MizukawaYui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863815584548331849",
+        "in_reply_to_user_id": "2885028194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863814145117983079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MizukawaYui 后面导师来看了，就是真空泵，但是她也搞不清楚为什么会变成吹气了，后面她让我干脆就重力过滤算了😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文\n\n@Y32010705",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 43,
+                "username": "Y32010705"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3158,
+          "following_count": 3083,
+          "like_count": 53527,
+          "listed_count": 5,
+          "media_count": 142,
+          "tweet_count": 4022
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-31T12:37:59.000Z",
+        "description": "Transfem🏳️‍⚧️/She,Her/INFP-T/♏️/HRTing/Depression/Vegetarian/Feminist/#ProtectTransKids #AnimalRights #AbortionRightsAreHumanRights CP:@EN__Ien",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 70,
+                "tag": "ProtectTransKids"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "tag": "AnimalRights"
+              },
+              {
+                "end": 131,
+                "start": 102,
+                "tag": "AbortionRightsAreHumanRights"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 135,
+                "username": "EN__Ien"
+              }
+            ]
+          }
+        },
+        "id": "2885028194",
+        "location": "光启市精神卫生中心",
+        "name": "水川ゆい/🤏🏻#AbortionRightsAreHumanRights",
+        "pinned_tweet_id": "1434361967280488448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852007271028658178/klRRvFpp_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 5232,
+          "following_count": 903,
+          "like_count": 23166,
+          "listed_count": 17,
+          "media_count": 5524,
+          "tweet_count": 26519
+        },
+        "username": "MizukawaYui",
+        "verified": false
+      }
+    ]
+  }
+}

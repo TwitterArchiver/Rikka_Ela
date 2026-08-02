@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1897841026510770675",
+    "created_at": "2025-03-07T06:35:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T07:35:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897898905037099302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1235586332321296385",
+          "start": 0,
+          "username": "Kvasaari_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897898905037099302",
+    "in_reply_to_user_id": "1235586332321296385",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897898724833051109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kvasaari_ 这不academic,这report)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1897841026510770675",
+        "created_at": "2025-03-07T06:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T07:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897898905037099302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1235586332321296385",
+              "start": 0,
+              "username": "Kvasaari_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897898905037099302",
+        "in_reply_to_user_id": "1235586332321296385",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897898724833051109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kvasaari_ 这不academic,这report)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1235586332321296385",
+        "conversation_id": "1897841026510770675",
+        "created_at": "2025-03-07T06:34:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T07:34:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897898724833051109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897898724833051109",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897841026510770675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 什么玩意要3%，这academic吗😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3881,
+          "following_count": 3294,
+          "like_count": 61430,
+          "listed_count": 7,
+          "media_count": 176,
+          "tweet_count": 5108
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-05T15:22:09.000Z",
+        "description": "🏳‍⚧ enby | Math & Physics Student in Quantum Many-Body | Social and Cultural History / Historical Anthropology | Wertfreiheit | 好像变成碎碎念吐槽号了x",
+        "id": "1235586332321296385",
+        "location": "Rome, Lazio",
+        "name": "鶸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892411653448486912/w9oe1kuL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 574,
+          "like_count": 27444,
+          "listed_count": 2,
+          "media_count": 325,
+          "tweet_count": 1533
+        },
+        "username": "Kvasaari_",
+        "verified": false
+      }
+    ]
+  }
+}

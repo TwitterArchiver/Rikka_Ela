@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1920480253715100106",
+    "created_at": "2025-05-08T14:32:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-08T15:32:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920486894455927119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1434608964629639168",
+          "start": 0,
+          "username": "Sharkie_4005"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920486894455927119",
+    "in_reply_to_user_id": "1434608964629639168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920480253715100106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sharkie_4005 我高中都是自己玩的😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1920480253715100106",
+        "created_at": "2025-05-08T14:32:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T15:32:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920486894455927119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1434608964629639168",
+              "start": 0,
+              "username": "Sharkie_4005"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920486894455927119",
+        "in_reply_to_user_id": "1434608964629639168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920480253715100106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sharkie_4005 我高中都是自己玩的😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1434608964629639168",
+        "conversation_id": "1920480253715100106",
+        "created_at": "2025-05-08T14:05:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T15:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920480253715100106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rikka_ela/stat…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/rikka_ela/status/1920351461545804252",
+              "start": 10,
+              "url": "https://t.co/rPJsNZRgHy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920480253715100106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920351461545804252",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗚嗚，誰陪我玩窒息 https://t.co/rPJsNZRgHy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4181,
+          "following_count": 3394,
+          "like_count": 66086,
+          "listed_count": 8,
+          "media_count": 210,
+          "tweet_count": 5820
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-05T20:07:08.000Z",
+        "description": "Canadienne |18 years old | Speak 🏴󠁧󠁢󠁥󠁮󠁧󠁿🇹🇼⚜️｜海豹姊姊@Siyan_Xiao| 頻道：https://t.co/qdWrorhEHa｜楓葉永恆🍁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 49,
+                "username": "Siyan_Xiao"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+VzcKaxiMaJ5mM…",
+                "end": 88,
+                "expanded_url": "https://t.me/+VzcKaxiMaJ5mM2E8",
+                "start": 65,
+                "url": "https://t.co/qdWrorhEHa"
+              }
+            ]
+          }
+        },
+        "id": "1434608964629639168",
+        "location": "Québec, Dominion of Canada",
+        "name": "Atlantic_Sea Shark ☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891641996462174208/hu5f1xyy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 461,
+          "like_count": 31731,
+          "listed_count": 1,
+          "media_count": 444,
+          "tweet_count": 7946
+        },
+        "username": "Sharkie_4005",
+        "verified": false
+      }
+    ]
+  }
+}

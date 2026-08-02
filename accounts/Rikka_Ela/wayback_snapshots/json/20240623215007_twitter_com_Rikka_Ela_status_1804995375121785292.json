@@ -1,0 +1,177 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1804861127760990702",
+    "created_at": "2024-06-23T21:50:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-23T22:50:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804995375121785292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1597512919155372033",
+          "start": 0,
+          "username": "KannkouJakusets"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804995375121785292",
+    "in_reply_to_user_id": "1597512919155372033",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804861127760990702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KannkouJakusets 我也🥺）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1804861127760990702",
+        "created_at": "2024-06-23T21:50:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T22:50:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804995375121785292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1597512919155372033",
+              "start": 0,
+              "username": "KannkouJakusets"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804995375121785292",
+        "in_reply_to_user_id": "1597512919155372033",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804861127760990702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KannkouJakusets 我也🥺）"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1804861124757872640"
+          ]
+        },
+        "author_id": "1597512919155372033",
+        "conversation_id": "1804861127760990702",
+        "created_at": "2024-06-23T12:56:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T13:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804861127760990702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/gKY5BZVk69",
+              "end": 55,
+              "expanded_url": "https://twitter.com/KannkouJakusets/status/1804861127760990702/photo/1",
+              "media_key": "3_1804861124757872640",
+              "start": 32,
+              "url": "https://t.co/gKY5BZVk69"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804861127760990702",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近老发情x 想艾草了\n对不起，雪酱也是控制不住自己信誉的孩子 https://t.co/gKY5BZVk69"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UNNC‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2129,
+          "following_count": 2721,
+          "like_count": 39539,
+          "listed_count": 5,
+          "tweet_count": 2479
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-29T08:49:08.000Z",
+        "description": "爱你 今天也请继续努力～",
+        "id": "1597512919155372033",
+        "name": "寒江若雪❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760301966364930048/7R7lBLk2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 311,
+          "like_count": 6909,
+          "listed_count": 2,
+          "tweet_count": 1638
+        },
+        "username": "KannkouJakusets",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1933493260011327488"
+      ],
+      "media_source_tweet_id": [
+        "1933493336305734100"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1933737421558181955",
+    "created_at": "2025-06-14T04:05:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T05:05:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933737421558181955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1546639149872168960",
+          "start": 3,
+          "username": "visualscat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yby9hG6XGM",
+          "end": 39,
+          "expanded_url": "https://x.com/visualscat/status/1933493336305734100/video/1",
+          "media_key": "13_1933493260011327488",
+          "start": 16,
+          "url": "https://t.co/yby9hG6XGM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933737421558181955",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 411
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933493336305734100",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @visualscat: https://t.co/yby9hG6XGM"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 60500,
+        "height": 1024,
+        "media_key": "13_1933493260011327488",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1933493260011327488/img/f1CZ1ZVEppB8-bNY.jpg",
+        "public_metrics": {
+          "view_count": 34784
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1933493260011327488/vid/avc1/320x568/AMuqV45oaLj6Ho2U.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1933493260011327488/vid/avc1/480x852/9c1BcwA_j1JHwfM0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1933493260011327488/vid/avc1/576x1024/24nFIOQ3uf5WIjTS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1933493260011327488/pl/C1J7kkbbBqnH_rJj.m3u8?v=12d"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1933493260011327488"
+          ],
+          "media_source_tweet_id": [
+            "1933493336305734100"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1933737421558181955",
+        "created_at": "2025-06-14T04:05:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T05:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933737421558181955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1546639149872168960",
+              "start": 3,
+              "username": "visualscat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yby9hG6XGM",
+              "end": 39,
+              "expanded_url": "https://x.com/visualscat/status/1933493336305734100/video/1",
+              "media_key": "13_1933493260011327488",
+              "start": 16,
+              "url": "https://t.co/yby9hG6XGM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933737421558181955",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 411
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933493336305734100",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @visualscat: https://t.co/yby9hG6XGM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1933493260011327488"
+          ]
+        },
+        "author_id": "1546639149872168960",
+        "conversation_id": "1933493336305734100",
+        "created_at": "2025-06-13T11:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T12:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933493336305734100"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yby9hG6XGM",
+              "end": 23,
+              "expanded_url": "https://x.com/visualscat/status/1933493336305734100/video/1",
+              "media_key": "13_1933493260011327488",
+              "start": 0,
+              "url": "https://t.co/yby9hG6XGM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933493336305734100",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 429,
+          "impression_count": 71863,
+          "like_count": 3335,
+          "quote_count": 15,
+          "reply_count": 6,
+          "retweet_count": 411
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/yby9hG6XGM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4335,
+          "following_count": 3503,
+          "like_count": 68852,
+          "listed_count": 6,
+          "media_count": 232,
+          "tweet_count": 6184
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-11T23:34:53.000Z",
+        "description": "Black Cats are not bad luck. They are elegant loving and delightful companions 🐈‍⬛❤️ / Business inquiries : visualscats@gmail.com 📨",
+        "id": "1546639149872168960",
+        "name": "Black cats are not bad luck",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789834661281079296/EbSdsCSi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269754,
+          "following_count": 25,
+          "like_count": 350,
+          "listed_count": 618,
+          "media_count": 6722,
+          "tweet_count": 6765
+        },
+        "username": "visualscat",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2073820768165921249",
+    "created_at": "2026-07-05T17:26:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T18:26:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073820768165921249"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ccshuile/statu…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/ccshuile/status/2073767675734720965",
+          "start": 23,
+          "url": "https://t.co/eJKOAe8O52"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073820768165921249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073767675734720965",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我现在就这样😭为什么…..为什么要这样对我😭 https://t.co/eJKOAe8O52"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2073820768165921249",
+        "created_at": "2026-07-05T17:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073820768165921249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ccshuile/statu…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/ccshuile/status/2073767675734720965",
+              "start": 23,
+              "url": "https://t.co/eJKOAe8O52"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073820768165921249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073767675734720965",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我现在就这样😭为什么…..为什么要这样对我😭 https://t.co/eJKOAe8O52"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041687695424950273",
+        "conversation_id": "2073767675734720965",
+        "created_at": "2026-07-05T13:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073767675734720965"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073767675734720965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 356,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好难过。我感觉自己好像一直都在做错误的事情，永远都在后悔。那些对过去的悔意压得我喘不过气，也让我完全没有办法去面对未来。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6070,
+          "following_count": 3775,
+          "like_count": 85876,
+          "listed_count": 7,
+          "media_count": 444,
+          "tweet_count": 9886
+        },
+        "url": "",
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-08T01:21:03.000Z",
+        "description": "我不要再喜欢任何人了",
+        "id": "2041687695424950273",
+        "name": "cc🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041688275296120832/e5yGXjI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1459,
+          "following_count": 33,
+          "like_count": 1880,
+          "listed_count": 6,
+          "media_count": 46,
+          "tweet_count": 302
+        },
+        "url": "",
+        "username": "ccshuile",
+        "verified": true
+      }
+    ]
+  }
+}

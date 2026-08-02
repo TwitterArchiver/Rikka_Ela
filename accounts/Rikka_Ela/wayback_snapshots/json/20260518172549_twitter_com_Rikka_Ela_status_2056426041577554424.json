@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2056420547312153046",
+    "created_at": "2026-05-18T17:25:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T18:25:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056426041577554424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1401733664682102786",
+          "start": 0,
+          "username": "mukdengise"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056426041577554424",
+    "in_reply_to_user_id": "1401733664682102786",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056420547312153046",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mukdengise 羡慕😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2056420547312153046",
+        "created_at": "2026-05-18T17:25:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T18:25:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056426041577554424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1401733664682102786",
+              "start": 0,
+              "username": "mukdengise"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056426041577554424",
+        "in_reply_to_user_id": "1401733664682102786",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056420547312153046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mukdengise 羡慕😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1401733664682102786",
+        "conversation_id": "2056420547312153046",
+        "created_at": "2026-05-18T17:03:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T18:03:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056420547312153046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 130,
+              "expanded_url": "https://twitter.com/amber_digit2/status/2056191510048121335",
+              "start": 107,
+              "url": "https://t.co/ZBay4JfwRx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056420547312153046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056191510048121335",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是我24年的状态，特别享受在工作中stealth，在交朋友时stealth，还会为了体验stealth特意参加那种很二元很异性恋中心的交友活动。后来就是无感了，如果觉得一个人值得交朋友我基本上必会告诉对方我是跨 https://t.co/ZBay4JfwRx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5245,
+          "following_count": 3777,
+          "like_count": 84561,
+          "listed_count": 8,
+          "media_count": 429,
+          "tweet_count": 9511
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-07T02:52:13.000Z",
+        "description": "爱人类的探险者/IG: ilhajugvn/烹饪日常在 #花路食堂/好诡秘：@__Ju___Ju__/里：@Lulu_ilha",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 28,
+                "tag": "花路食堂"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 50,
+                "start": 38,
+                "username": "__Ju___Ju__"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "Lulu_ilha"
+              }
+            ]
+          }
+        },
+        "id": "1401733664682102786",
+        "name": "花路探險記",
+        "pinned_tweet_id": "2045520898812481725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021635233884598273/yaJUaGpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10370,
+          "following_count": 765,
+          "like_count": 140666,
+          "listed_count": 53,
+          "media_count": 1890,
+          "tweet_count": 25163
+        },
+        "username": "mukdengise",
+        "verified": false
+      }
+    ]
+  }
+}

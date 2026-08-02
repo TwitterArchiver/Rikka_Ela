@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047608539850416128"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "conversation_id": "2047608543407227038",
+    "created_at": "2026-04-24T09:28:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T10:28:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047608543407227038"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lieOIgakJ0",
+          "end": 41,
+          "expanded_url": "https://x.com/Rikka_Ela/status/2047608543407227038/photo/1",
+          "media_key": "3_2047608539850416128",
+          "start": 18,
+          "url": "https://t.co/lieOIgakJ0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047608543407227038",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "冷知识：出这张有机考卷的教授是人类 https://t.co/lieOIgakJ0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 637,
+        "media_key": "3_2047608539850416128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqRHkjXIAAKK9S.jpg",
+        "width": 972
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047608539850416128"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "2047608543407227038",
+        "created_at": "2026-04-24T09:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T10:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047608543407227038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lieOIgakJ0",
+              "end": 41,
+              "expanded_url": "https://x.com/Rikka_Ela/status/2047608543407227038/photo/1",
+              "media_key": "3_2047608539850416128",
+              "start": 18,
+              "url": "https://t.co/lieOIgakJ0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047608543407227038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "冷知识：出这张有机考卷的教授是人类 https://t.co/lieOIgakJ0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5082,
+          "following_count": 3740,
+          "like_count": 82497,
+          "listed_count": 10,
+          "media_count": 417,
+          "tweet_count": 9099
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      }
+    ]
+  }
+}

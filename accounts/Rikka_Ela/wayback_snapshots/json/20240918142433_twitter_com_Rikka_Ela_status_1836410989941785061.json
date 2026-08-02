@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1836392754995433568",
+    "created_at": "2024-09-18T14:24:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-18T15:24:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836410989941785061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1746169774147776512",
+          "start": 0,
+          "username": "A1sakuMenh3ra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836410989941785061",
+    "in_reply_to_user_id": "1746169774147776512",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836392754995433568",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A1sakuMenh3ra 对不起😭）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1836392754995433568].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1836392754995433568",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1836392754995433568"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1836392754995433568",
+        "created_at": "2024-09-18T14:24:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-18T15:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836410989941785061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1746169774147776512",
+              "start": 0,
+              "username": "A1sakuMenh3ra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836410989941785061",
+        "in_reply_to_user_id": "1746169774147776512",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836392754995433568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A1sakuMenh3ra 对不起😭）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文\n\nwife:@Y32010705",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "Y32010705"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2418,
+          "following_count": 2912,
+          "like_count": 48696,
+          "listed_count": 6,
+          "tweet_count": 3276
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-13T13:58:25.000Z",
+        "description": "🤍Interested in FPGA, ASIC & WBS\n🏥ADHD & ASD\n\n自我认同是鸟巢蕨 \n问性别一律当性骚扰处理\n童权 堕胎权是人权的基础\n性别/性取向歧视 &纯看黄号会拉黑\n食品工程 博物学 金融分析 爱好者\n\nWe are sick, fucked up and complicated",
+        "id": "1746169774147776512",
+        "location": "Enceladus",
+        "name": "藍朔🌘l92374y14n4X",
+        "pinned_tweet_id": "1828301292571439573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822660399034163200/Wndwgn1V_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 703,
+          "like_count": 27361,
+          "listed_count": 2,
+          "tweet_count": 26741
+        },
+        "username": "A1sakuMenh3ra",
+        "verified": false
+      }
+    ]
+  }
+}

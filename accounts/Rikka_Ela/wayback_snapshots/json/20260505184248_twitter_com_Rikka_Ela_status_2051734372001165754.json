@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051397708468887552"
+      ],
+      "media_source_tweet_id": [
+        "2051397714034798838"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "conversation_id": "2051734372001165754",
+    "created_at": "2026-05-05T18:42:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T19:42:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051734372001165754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1631356697145925646",
+          "start": 3,
+          "username": "Parsifel1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kSWSYvlAAa",
+          "end": 57,
+          "expanded_url": "https://x.com/Parsifel1/status/2051397714034798838/photo/1",
+          "media_key": "3_2051397708468887552",
+          "start": 34,
+          "url": "https://t.co/kSWSYvlAAa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051734372001165754",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 89
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051397714034798838",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Parsifel1: Faust in his study https://t.co/kSWSYvlAAa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1332,
+        "media_key": "3_2051397708468887552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHgHWNpWoAAQHCe.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051397708468887552"
+          ],
+          "media_source_tweet_id": [
+            "2051397714034798838"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "2051734372001165754",
+        "created_at": "2026-05-05T18:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T19:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051734372001165754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1631356697145925646",
+              "start": 3,
+              "username": "Parsifel1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kSWSYvlAAa",
+              "end": 57,
+              "expanded_url": "https://x.com/Parsifel1/status/2051397714034798838/photo/1",
+              "media_key": "3_2051397708468887552",
+              "start": 34,
+              "url": "https://t.co/kSWSYvlAAa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051734372001165754",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 89
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051397714034798838",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Parsifel1: Faust in his study https://t.co/kSWSYvlAAa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051397708468887552"
+          ]
+        },
+        "author_id": "1631356697145925646",
+        "conversation_id": "2051397714034798838",
+        "created_at": "2026-05-04T20:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T21:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051397714034798838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kSWSYvlAAa",
+              "end": 42,
+              "expanded_url": "https://x.com/Parsifel1/status/2051397714034798838/photo/1",
+              "media_key": "3_2051397708468887552",
+              "start": 19,
+              "url": "https://t.co/kSWSYvlAAa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051397714034798838",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 8080,
+          "like_count": 702,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "Faust in his study https://t.co/kSWSYvlAAa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5180,
+          "following_count": 3761,
+          "like_count": 83408,
+          "listed_count": 10,
+          "media_count": 422,
+          "tweet_count": 9296
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-02T18:12:28.000Z",
+        "description": "\"What good is there to be done? Then lend me to that cause, while I am able.\" \nTheology | History | Literature | Art | Legends",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "parsifel.grailandlance.com/subscribe",
+                "end": 23,
+                "expanded_url": "https://parsifel.grailandlance.com/subscribe",
+                "start": 0,
+                "url": "https://t.co/xnKlFQPzht"
+              }
+            ]
+          }
+        },
+        "id": "1631356697145925646",
+        "location": "📜 Knights & wisdom await 👉",
+        "name": "PARSIFEL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1668472496662753280/H9sBWWZ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56814,
+          "following_count": 1001,
+          "like_count": 54086,
+          "listed_count": 386,
+          "media_count": 18569,
+          "tweet_count": 25071
+        },
+        "url": "https://t.co/xnKlFQPzht",
+        "username": "Parsifel1",
+        "verified": true
+      }
+    ]
+  }
+}

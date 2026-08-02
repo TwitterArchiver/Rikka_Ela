@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1882147539161436670",
+    "created_at": "2025-01-23T02:56:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-23T03:56:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882261161418346907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1794154221194932224",
+          "start": 0,
+          "username": "NagiVictoria"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882261161418346907",
+    "in_reply_to_user_id": "1794154221194932224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882147539161436670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NagiVictoria 笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1882147539161436670",
+        "created_at": "2025-01-23T02:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T03:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882261161418346907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1794154221194932224",
+              "start": 0,
+              "username": "NagiVictoria"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882261161418346907",
+        "in_reply_to_user_id": "1794154221194932224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882147539161436670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NagiVictoria 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794154221194932224",
+        "conversation_id": "1882147539161436670",
+        "created_at": "2025-01-22T19:25:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T20:25:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882147539161436670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/carafutaba/sta…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/carafutaba/status/1882020981373628747",
+              "start": 17,
+              "url": "https://t.co/14Kamka5x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882147539161436670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 494,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882020981373628747",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真正的英国留学生会把它看成lse https://t.co/14Kamka5x2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3614,
+          "following_count": 3202,
+          "like_count": 57923,
+          "listed_count": 6,
+          "media_count": 163,
+          "tweet_count": 4622
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-24T23:51:25.000Z",
+        "description": "阅尽人生冷暖后 保有童心与对生活的热爱 做到包容 笃定 自然向美 我希望拥有这样的人生 爸爸@nekomakiQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "nekomakiQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/vic…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/victoria/",
+                "start": 0,
+                "url": "https://t.co/xPejExTBHF"
+              }
+            ]
+          }
+        },
+        "id": "1794154221194932224",
+        "location": "Victoria line",
+        "name": "Nagi 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️🤤",
+        "pinned_tweet_id": "1877385462731468895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869586825230372864/WAgebx9m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1695,
+          "following_count": 713,
+          "like_count": 11070,
+          "listed_count": 4,
+          "media_count": 1371,
+          "tweet_count": 10520
+        },
+        "url": "https://t.co/xPejExTBHF",
+        "username": "NagiVictoria",
+        "verified": false
+      }
+    ]
+  }
+}

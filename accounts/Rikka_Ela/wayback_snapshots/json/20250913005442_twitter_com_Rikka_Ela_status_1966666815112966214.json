@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1966666815112966214",
+    "created_at": "2025-09-13T00:54:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T01:54:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966666815112966214"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gelm01/status/…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/gelm01/status/1966365472301133947",
+          "start": 23,
+          "url": "https://t.co/ryPRhcmdbK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966666815112966214",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966365472301133947",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "金星为什么能这么有名的，因为她是红三代吗😭） https://t.co/ryPRhcmdbK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1966666815112966214",
+        "created_at": "2025-09-13T00:54:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T01:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966666815112966214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gelm01/status/…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/gelm01/status/1966365472301133947",
+              "start": 23,
+              "url": "https://t.co/ryPRhcmdbK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966666815112966214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966365472301133947",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "金星为什么能这么有名的，因为她是红三代吗😭） https://t.co/ryPRhcmdbK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "471019735",
+        "conversation_id": "1966365472301133947",
+        "created_at": "2025-09-12T04:57:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T05:57:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966365472301133947"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1966365472301133947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 771,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说起来，日本有像金星一样的，国民级别的跨性别人物吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4522,
+          "following_count": 3552,
+          "like_count": 72874,
+          "listed_count": 9,
+          "media_count": 297,
+          "tweet_count": 6936
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-22T12:07:07.000Z",
+        "description": "🏳️‍⚧️海洋生物",
+        "id": "471019735",
+        "location": "月まで届け",
+        "name": "少年期の終り🏵✝️",
+        "pinned_tweet_id": "1949143480732651775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960359102070362112/OogCw3Io_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 562,
+          "like_count": 2893,
+          "listed_count": 6,
+          "media_count": 230,
+          "tweet_count": 3286
+        },
+        "username": "Gelm01",
+        "verified": false
+      }
+    ]
+  }
+}

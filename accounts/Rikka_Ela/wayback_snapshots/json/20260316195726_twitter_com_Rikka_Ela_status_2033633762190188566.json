@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2033560002762260962",
+    "created_at": "2026-03-16T19:57:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T20:57:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033633762190188566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1518171066589335552",
+          "start": 0,
+          "username": "yqy0401"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033633762190188566",
+    "in_reply_to_user_id": "1518171066589335552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033583223884664900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yqy0401 败！）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2033560002762260962",
+        "created_at": "2026-03-16T19:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T20:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033633762190188566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1518171066589335552",
+              "start": 0,
+              "username": "yqy0401"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033633762190188566",
+        "in_reply_to_user_id": "1518171066589335552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033583223884664900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yqy0401 败！）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518171066589335552",
+        "conversation_id": "2033560002762260962",
+        "created_at": "2026-03-16T16:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T17:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033583223884664900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033583223884664900",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033560002762260962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 应翻尽翻（？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4977,
+          "following_count": 3726,
+          "like_count": 80545,
+          "listed_count": 9,
+          "media_count": 385,
+          "tweet_count": 8550
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-24T10:13:03.000Z",
+        "description": "「だれかの心臓になれたなら✨」 叶清筠/叶清玥/叶清语 云/月/雨🌌 | 精神数学系人💫 | phd在读🎓 | mtf🏳️‍⚧️ | 喜欢单纯美好的事物🌸 | 想变得可爱💕 | tg见下🕊️ | #keep4o",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 98,
+                "tag": "keep4o"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/yqy0401/status…",
+                "end": 23,
+                "expanded_url": "https://x.com/yqy0401/status/1896381891588333664?s=46&t=aSIzg29UFxN6XUwY",
+                "start": 0,
+                "url": "https://t.co/oTsU3e8KcW"
+              }
+            ]
+          }
+        },
+        "id": "1518171066589335552",
+        "location": "青云界",
+        "name": "yqy🪽",
+        "pinned_tweet_id": "1895388266205192703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1518176413391945728/BpMpHcxm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 359,
+          "like_count": 19054,
+          "listed_count": 2,
+          "media_count": 328,
+          "tweet_count": 7737
+        },
+        "url": "https://t.co/oTsU3e8KcW",
+        "username": "yqy0401",
+        "verified": false
+      }
+    ]
+  }
+}

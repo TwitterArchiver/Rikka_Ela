@@ -1,0 +1,712 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031115333747060736"
+      ],
+      "media_source_tweet_id": [
+        "2031115340940259591"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1135979287733948416",
+          "name": "Elden Ring"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1135979287733948416",
+          "name": "Elden Ring"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898668479250438",
+          "name": "Fantasy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      }
+    ],
+    "conversation_id": "2031137193066995724",
+    "created_at": "2026-03-09T22:36:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T23:36:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031137193066995724"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "Radagon",
+          "probability": 0.6061,
+          "start": 13,
+          "type": "Other"
+        },
+        {
+          "end": 39,
+          "normalized_text": "Golden Order",
+          "probability": 0.5087,
+          "start": 28,
+          "type": "Other"
+        },
+        {
+          "end": 56,
+          "normalized_text": "JunJiuk",
+          "probability": 0.7972,
+          "start": 50,
+          "type": "Person"
+        },
+        {
+          "end": 67,
+          "normalized_text": "ELDENRING",
+          "probability": 0.6579,
+          "start": 59,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 68,
+          "start": 58,
+          "tag": "ELDENRING"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1355399244090372096",
+          "start": 3,
+          "username": "FSoulsM"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fhcjBFdWKe",
+          "end": 92,
+          "expanded_url": "https://x.com/FSoulsM/status/2031115340940259591/photo/1",
+          "media_key": "3_2031115333747060736",
+          "start": 69,
+          "url": "https://t.co/fhcjBFdWKe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031137193066995724",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031115340940259591",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FSoulsM: Radagon of The Golden Order\n\nArtist: JunJiuk\n#ELDENRING https://t.co/fhcjBFdWKe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1237,
+        "media_key": "3_2031115333747060736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC_4on3XsAA6v3Q.jpg",
+        "width": 827
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031115333747060736"
+          ],
+          "media_source_tweet_id": [
+            "2031115340940259591"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2031137193066995724",
+        "created_at": "2026-03-09T22:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T23:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031137193066995724"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "Radagon",
+              "probability": 0.6061,
+              "start": 13,
+              "type": "Other"
+            },
+            {
+              "end": 39,
+              "normalized_text": "Golden Order",
+              "probability": 0.5087,
+              "start": 28,
+              "type": "Other"
+            },
+            {
+              "end": 56,
+              "normalized_text": "JunJiuk",
+              "probability": 0.7972,
+              "start": 50,
+              "type": "Person"
+            },
+            {
+              "end": 67,
+              "normalized_text": "ELDENRING",
+              "probability": 0.6579,
+              "start": 59,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 68,
+              "start": 58,
+              "tag": "ELDENRING"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1355399244090372096",
+              "start": 3,
+              "username": "FSoulsM"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fhcjBFdWKe",
+              "end": 92,
+              "expanded_url": "https://x.com/FSoulsM/status/2031115340940259591/photo/1",
+              "media_key": "3_2031115333747060736",
+              "start": 69,
+              "url": "https://t.co/fhcjBFdWKe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031137193066995724",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031115340940259591",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FSoulsM: Radagon of The Golden Order\n\nArtist: JunJiuk\n#ELDENRING https://t.co/fhcjBFdWKe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031115333747060736"
+          ]
+        },
+        "author_id": "1355399244090372096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2031115340940259591",
+        "created_at": "2026-03-09T21:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T22:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031115340940259591"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "Radagon",
+              "probability": 0.6003,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 26,
+              "normalized_text": "Golden Order",
+              "probability": 0.6176,
+              "start": 15,
+              "type": "Other"
+            },
+            {
+              "end": 43,
+              "normalized_text": "JunJiuk",
+              "probability": 0.8452,
+              "start": 37,
+              "type": "Person"
+            },
+            {
+              "end": 54,
+              "normalized_text": "ELDENRING",
+              "probability": 0.614,
+              "start": 46,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 45,
+              "tag": "ELDENRING"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fhcjBFdWKe",
+              "end": 79,
+              "expanded_url": "https://x.com/FSoulsM/status/2031115340940259591/photo/1",
+              "media_key": "3_2031115333747060736",
+              "start": 56,
+              "url": "https://t.co/fhcjBFdWKe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031115340940259591",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 1534,
+          "like_count": 220,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "Radagon of The Golden Order\n\nArtist: JunJiuk\n#ELDENRING https://t.co/fhcjBFdWKe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4970,
+          "following_count": 3735,
+          "like_count": 80252,
+          "listed_count": 9,
+          "media_count": 384,
+          "tweet_count": 8465
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-30T06:15:45.000Z",
+        "description": "“A Tarnished destined for the Elden Throne.” ⚔️ \n #ELDENRING🗡️ #ResidentEvil 🏚️ #TheWitcher 🪄 #ClaireRedfield ❤️",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 60,
+                "start": 50,
+                "tag": "ELDENRING"
+              },
+              {
+                "end": 76,
+                "start": 63,
+                "tag": "ResidentEvil"
+              },
+              {
+                "end": 91,
+                "start": 80,
+                "tag": "TheWitcher"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "tag": "ClaireRedfield"
+              }
+            ]
+          }
+        },
+        "id": "1355399244090372096",
+        "location": "The Lands between",
+        "name": "𝙵𝚊𝚑𝚊𝚍 / 𝔼𝕝𝕕𝕖𝕟 🗡️",
+        "pinned_tweet_id": "2028423114586034467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948291664319295488/JQfHNKHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5917,
+          "following_count": 307,
+          "like_count": 2125,
+          "listed_count": 14,
+          "media_count": 2181,
+          "tweet_count": 15451
+        },
+        "username": "FSoulsM",
+        "verified": true
+      }
+    ]
+  }
+}

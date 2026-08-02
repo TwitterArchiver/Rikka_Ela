@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1977322141378105811",
+    "created_at": "2025-10-12T11:56:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T12:56:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977342680033108120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "873489613934927872",
+          "start": 0,
+          "username": "taro_puree"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977342680033108120",
+    "in_reply_to_user_id": "873489613934927872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977322141378105811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@taro_puree 不敢直接冲突那就受着😜"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1977322141378105811].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1977322141378105811",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1977322141378105811"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1977322141378105811",
+        "created_at": "2025-10-12T11:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T12:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977342680033108120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "873489613934927872",
+              "start": 0,
+              "username": "taro_puree"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977342680033108120",
+        "in_reply_to_user_id": "873489613934927872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977322141378105811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taro_puree 不敢直接冲突那就受着😜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4670,
+          "following_count": 3575,
+          "like_count": 73820,
+          "listed_count": 9,
+          "media_count": 307,
+          "tweet_count": 7109
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-10T10:38:47.000Z",
+        "description": "(she/her) /本体是4i女/深柜潜在家暴党/专业自我扭转10余年成为精神跨男（不是）/梦想是早日经济和心理独立/社工专业濒临退学中/个人音乐工作室营业中🥺",
+        "id": "873489613934927872",
+        "name": "果泥泥",
+        "pinned_tweet_id": "1947368625045967299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787304549323288576/A8oJBe68_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1125,
+          "following_count": 264,
+          "like_count": 20397,
+          "listed_count": 2,
+          "media_count": 282,
+          "tweet_count": 3149
+        },
+        "username": "taro_puree",
+        "verified": false
+      }
+    ]
+  }
+}

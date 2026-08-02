@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Video Game Publisher like 'Activision'",
+          "id": "78",
+          "name": "Video Game Publisher"
+        },
+        "entity": {
+          "id": "1131284511411458048",
+          "name": "FromSoftware"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Publisher",
+          "id": "1070028312276127746",
+          "name": "Game development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1131284511411458048",
+          "name": "FromSoftware"
+        }
+      }
+    ],
+    "conversation_id": "1977462971808071779",
+    "created_at": "2025-10-12T19:54:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T20:54:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1977462971808071779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 78,
+          "id": "150151699",
+          "start": 62,
+          "username": "fromsoftware_pr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/y0zarashi/stat…",
+          "end": 174,
+          "expanded_url": "https://twitter.com/y0zarashi/status/1976162098297352517",
+          "start": 151,
+          "url": "https://t.co/st74g5EzLx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977462971808071779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976162098297352517",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你有什么资历？我09年的时候就开始玩魂游了，当时玩了半年左右的恶魔之魂。我们那个圈子玩的都是谁，你知道吗？我艾特一个给你看看@fromsoftware_pr，只不过后面我们发现国内根本就没有魂游的土壤，就在23年左右都退圈了也不玩魂了。结果你们这些魂五自顾自又玩起法环了。我只是在感叹你们悲惨结局而已 https://t.co/st74g5EzLx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "1131284511411458048",
+              "name": "FromSoftware"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1131284511411458048",
+              "name": "FromSoftware"
+            }
+          }
+        ],
+        "conversation_id": "1977462971808071779",
+        "created_at": "2025-10-12T19:54:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T20:54:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977462971808071779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 78,
+              "id": "150151699",
+              "start": 62,
+              "username": "fromsoftware_pr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/y0zarashi/stat…",
+              "end": 174,
+              "expanded_url": "https://twitter.com/y0zarashi/status/1976162098297352517",
+              "start": 151,
+              "url": "https://t.co/st74g5EzLx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977462971808071779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976162098297352517",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你有什么资历？我09年的时候就开始玩魂游了，当时玩了半年左右的恶魔之魂。我们那个圈子玩的都是谁，你知道吗？我艾特一个给你看看@fromsoftware_pr，只不过后面我们发现国内根本就没有魂游的土壤，就在23年左右都退圈了也不玩魂了。结果你们这些魂五自顾自又玩起法环了。我只是在感叹你们悲惨结局而已 https://t.co/st74g5EzLx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811690667720212480",
+        "conversation_id": "1975851291915235332",
+        "created_at": "2025-10-09T05:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T06:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976162098297352517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1639816523190763521",
+              "start": 0,
+              "username": "ggdxfulan"
+            },
+            {
+              "end": 83,
+              "id": "1224250577086906369",
+              "start": 71,
+              "username": "Husurusheng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976162098297352517",
+        "in_reply_to_user_id": "1639816523190763521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 24897,
+          "like_count": 20,
+          "quote_count": 56,
+          "reply_count": 38,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975895677868880192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ggdxfulan 你有什么资历？我21年的时候就是跨性别了，当时吃了半年左右的补佳乐。我们那个圈子玩的都是谁，你知道吗？我艾特一个给你看看@Husurusheng ，只不过后面我们发现国内根本就没有跨性别的土壤，就在22年左右都退圈了也不吃药了。结果你们这些新生代自顾自的又跨起来了。我只是在感叹你们悲惨的结局而已"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4673,
+          "following_count": 3576,
+          "like_count": 73843,
+          "listed_count": 9,
+          "media_count": 307,
+          "tweet_count": 7113
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-31T06:22:05.000Z",
+        "description": "株式会社フロム・ソフトウェアの公式アカウントです。\nThe Official X of FromSoftware, Inc.\n自社ゲームタイトルに関する情報をお伝えします。\ncontact: https://t.co/HRadAItosz…",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fromsoftware.jp/pc/inquiry_per",
+                "end": 119,
+                "expanded_url": "http://fromsoftware.jp/pc/inquiry_per",
+                "start": 96,
+                "url": "https://t.co/HRadAItosz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fromsoftware.jp",
+                "end": 23,
+                "expanded_url": "http://www.fromsoftware.jp/",
+                "start": 0,
+                "url": "https://t.co/JrTlJl0FD2"
+              }
+            ]
+          }
+        },
+        "id": "150151699",
+        "location": "Tokyo",
+        "name": "FROMSOFTWARE",
+        "pinned_tweet_id": "1889675860782817614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/875586745479249922/GYekVrNZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779000,
+          "following_count": 15,
+          "like_count": 0,
+          "listed_count": 1,
+          "media_count": 435,
+          "tweet_count": 2007
+        },
+        "url": "https://t.co/JrTlJl0FD2",
+        "username": "fromsoftware_pr",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-12T09:15:04.000Z",
+        "description": "无糖不术 mtf 不要在我的帖子下面谈论政治。谢谢！ 不要试图去救任何人。。。这不是个人问题造成，也不是个人能力能解决的，相反会把他们推的更深",
+        "id": "1811690667720212480",
+        "location": "坐牢中",
+        "name": "yozarashi🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1977451053349265466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977242514815172611/L4QZACw8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 12,
+          "like_count": 19,
+          "listed_count": 3,
+          "media_count": 181,
+          "tweet_count": 2467
+        },
+        "username": "y0zarashi",
+        "verified": false
+      }
+    ]
+  }
+}

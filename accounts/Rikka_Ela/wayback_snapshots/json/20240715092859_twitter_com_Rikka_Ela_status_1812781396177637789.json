@@ -1,0 +1,276 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1812508516915032065"
+      ],
+      "media_source_tweet_id": [
+        "1812508525450375640"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity for 14 Juillet (Bastille Day) for all years.",
+          "id": "1263051944723021824",
+          "name": "14 Juillet (Bastille Day) "
+        }
+      }
+    ],
+    "conversation_id": "1812781396177637789",
+    "created_at": "2024-07-15T09:28:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-15T10:28:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812781396177637789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "16717501",
+          "start": 3,
+          "username": "Elysee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/nT9ct7zoM8",
+          "end": 58,
+          "expanded_url": "https://twitter.com/Elysee/status/1812508525450375640/photo/1",
+          "media_key": "3_1812508516915032065",
+          "start": 35,
+          "url": "https://t.co/nT9ct7zoM8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812781396177637789",
+    "lang": "fr",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 323
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812508525450375640",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Elysee: Bonne fête nationale ! https://t.co/nT9ct7zoM8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_1812508516915032065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GSdS5J8XMAEq-72.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1812508516915032065"
+          ],
+          "media_source_tweet_id": [
+            "1812508525450375640"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity for 14 Juillet (Bastille Day) for all years.",
+              "id": "1263051944723021824",
+              "name": "14 Juillet (Bastille Day) "
+            }
+          }
+        ],
+        "conversation_id": "1812781396177637789",
+        "created_at": "2024-07-15T09:28:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-15T10:28:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812781396177637789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "16717501",
+              "start": 3,
+              "username": "Elysee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/nT9ct7zoM8",
+              "end": 58,
+              "expanded_url": "https://twitter.com/Elysee/status/1812508525450375640/photo/1",
+              "media_key": "3_1812508516915032065",
+              "start": 35,
+              "url": "https://t.co/nT9ct7zoM8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812781396177637789",
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 323
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812508525450375640",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Elysee: Bonne fête nationale ! https://t.co/nT9ct7zoM8"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1812508516915032065"
+          ]
+        },
+        "author_id": "16717501",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity for 14 Juillet (Bastille Day) for all years.",
+              "id": "1263051944723021824",
+              "name": "14 Juillet (Bastille Day) "
+            }
+          }
+        ],
+        "conversation_id": "1812508525450375640",
+        "created_at": "2024-07-14T15:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-14T16:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1812508525450375640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/nT9ct7zoM8",
+              "end": 46,
+              "expanded_url": "https://twitter.com/Elysee/status/1812508525450375640/photo/1",
+              "media_key": "3_1812508516915032065",
+              "start": 23,
+              "url": "https://t.co/nT9ct7zoM8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812508525450375640",
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 59900,
+          "like_count": 2033,
+          "quote_count": 8,
+          "reply_count": 59,
+          "retweet_count": 323
+        },
+        "reply_settings": "everyone",
+        "text": "Bonne fête nationale ! https://t.co/nT9ct7zoM8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UNNC‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2172,
+          "following_count": 2769,
+          "like_count": 41971,
+          "listed_count": 6,
+          "tweet_count": 2646
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2008-10-13T06:23:33.000Z",
+        "description": "Bienvenue sur le compte officiel de la Présidence de la République française et du Palais de l'Élysée.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "elysee.fr",
+                "end": 23,
+                "expanded_url": "http://www.elysee.fr",
+                "start": 0,
+                "url": "https://t.co/80tEp4oo3C"
+              }
+            ]
+          }
+        },
+        "id": "16717501",
+        "location": "France",
+        "name": "Élysée",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1181902227490914304/X21iEaEv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2847718,
+          "following_count": 332,
+          "like_count": 114,
+          "listed_count": 7736,
+          "tweet_count": 25629
+        },
+        "url": "https://t.co/80tEp4oo3C",
+        "username": "Elysee",
+        "verified": true
+      }
+    ]
+  }
+}

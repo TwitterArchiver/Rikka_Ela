@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1654251184037957633",
+        "3_1654251230498287616",
+        "3_1654251249573978112",
+        "3_1654251265554272257"
+      ],
+      "media_source_tweet_id": [
+        "1654251527484342274",
+        "1654251527484342274",
+        "1654251527484342274",
+        "1654251527484342274"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "conversation_id": "1999186619790737772",
+    "created_at": "2025-12-11T18:36:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T19:36:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999186619790737772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1616889854",
+          "start": 3,
+          "username": "toro_yori_ebi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZlnG8axhxs",
+          "end": 71,
+          "expanded_url": "https://x.com/toro_yori_ebi/status/1654251527484342274/photo/1",
+          "media_key": "3_1654251184037957633",
+          "start": 48,
+          "url": "https://t.co/ZlnG8axhxs"
+        },
+        {
+          "display_url": "pic.x.com/ZlnG8axhxs",
+          "end": 71,
+          "expanded_url": "https://x.com/toro_yori_ebi/status/1654251527484342274/photo/1",
+          "media_key": "3_1654251230498287616",
+          "start": 48,
+          "url": "https://t.co/ZlnG8axhxs"
+        },
+        {
+          "display_url": "pic.x.com/ZlnG8axhxs",
+          "end": 71,
+          "expanded_url": "https://x.com/toro_yori_ebi/status/1654251527484342274/photo/1",
+          "media_key": "3_1654251249573978112",
+          "start": 48,
+          "url": "https://t.co/ZlnG8axhxs"
+        },
+        {
+          "display_url": "pic.x.com/ZlnG8axhxs",
+          "end": 71,
+          "expanded_url": "https://x.com/toro_yori_ebi/status/1654251527484342274/photo/1",
+          "media_key": "3_1654251265554272257",
+          "start": 48,
+          "url": "https://t.co/ZlnG8axhxs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999186619790737772",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 267
+    },
+    "referenced_tweets": [
+      {
+        "id": "1654251527484342274",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @toro_yori_ebi: 3月～４月でCG63枚描いたよっ\nあとCG150枚ぐらい https://t.co/ZlnG8axhxs"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1999186619790737772].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1999186619790737772",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1999186619790737772"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 780,
+        "media_key": "3_1654251184037957633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FvUUr_HaEAEwuZE.jpg",
+        "width": 1040
+      },
+      {
+        "height": 780,
+        "media_key": "3_1654251230498287616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FvUUusMacAAcszL.jpg",
+        "width": 1040
+      },
+      {
+        "height": 780,
+        "media_key": "3_1654251249573978112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FvUUvzQaYAAQ2Wy.jpg",
+        "width": 1040
+      },
+      {
+        "height": 780,
+        "media_key": "3_1654251265554272257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FvUUwuyaUAEMNhE.jpg",
+        "width": 1040
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1654251184037957633",
+            "3_1654251230498287616",
+            "3_1654251249573978112",
+            "3_1654251265554272257"
+          ]
+        },
+        "author_id": "1616889854",
+        "conversation_id": "1654251527484342274",
+        "created_at": "2023-05-04T22:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2023-05-04T22:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1654251527484342274"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZlnG8axhxs",
+              "end": 52,
+              "expanded_url": "https://x.com/toro_yori_ebi/status/1654251527484342274/photo/1",
+              "media_key": "3_1654251184037957633",
+              "start": 29,
+              "url": "https://t.co/ZlnG8axhxs"
+            },
+            {
+              "display_url": "pic.x.com/ZlnG8axhxs",
+              "end": 52,
+              "expanded_url": "https://x.com/toro_yori_ebi/status/1654251527484342274/photo/1",
+              "media_key": "3_1654251230498287616",
+              "start": 29,
+              "url": "https://t.co/ZlnG8axhxs"
+            },
+            {
+              "display_url": "pic.x.com/ZlnG8axhxs",
+              "end": 52,
+              "expanded_url": "https://x.com/toro_yori_ebi/status/1654251527484342274/photo/1",
+              "media_key": "3_1654251249573978112",
+              "start": 29,
+              "url": "https://t.co/ZlnG8axhxs"
+            },
+            {
+              "display_url": "pic.x.com/ZlnG8axhxs",
+              "end": 52,
+              "expanded_url": "https://x.com/toro_yori_ebi/status/1654251527484342274/photo/1",
+              "media_key": "3_1654251265554272257",
+              "start": 29,
+              "url": "https://t.co/ZlnG8axhxs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1654251527484342274",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 133,
+          "impression_count": 116459,
+          "like_count": 1626,
+          "quote_count": 3,
+          "reply_count": 21,
+          "retweet_count": 267
+        },
+        "reply_settings": "everyone",
+        "text": "3月～４月でCG63枚描いたよっ\nあとCG150枚ぐらい https://t.co/ZlnG8axhxs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4756,
+          "following_count": 3661,
+          "like_count": 77311,
+          "listed_count": 8,
+          "media_count": 340,
+          "tweet_count": 7676
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-24T05:04:03.000Z",
+        "description": "ホラーとクリーチャーだいすきっ！\n同人サークル「イニミニマニモ？」でゲーム作ってるよっ！\nニコニコで東方異形郷（R-18G）という動画も投稿してるよんっ！\nファンティアもやってるよっhttps://t.co/YfbaSTp8zp\nヘッダーは憧れの洗濯船さんから",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fantia.jp/fanclubs/22621",
+                "end": 114,
+                "expanded_url": "http://fantia.jp/fanclubs/22621",
+                "start": 91,
+                "url": "https://t.co/YfbaSTp8zp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.me/susiyuusilya",
+                "end": 23,
+                "expanded_url": "http://pixiv.me/susiyuusilya",
+                "start": 0,
+                "url": "https://t.co/ag8rBAPJud"
+              }
+            ]
+          }
+        },
+        "id": "1616889854",
+        "location": "異形郷",
+        "name": "寿司勇者トロ",
+        "pinned_tweet_id": "1901791111586439545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1606925251858034690/EUfyUNjS_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75878,
+          "following_count": 1977,
+          "like_count": 31493,
+          "listed_count": 238,
+          "media_count": 2503,
+          "tweet_count": 48619
+        },
+        "url": "https://t.co/ag8rBAPJud",
+        "username": "toro_yori_ebi",
+        "verified": false
+      }
+    ]
+  }
+}

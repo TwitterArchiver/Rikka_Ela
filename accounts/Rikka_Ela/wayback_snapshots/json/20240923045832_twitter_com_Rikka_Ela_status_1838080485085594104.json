@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1838044460158161192",
+    "created_at": "2024-09-23T04:58:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-23T05:58:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838080485085594104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1690388233778331649",
+          "start": 0,
+          "username": "m1zukiqaqaqaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838080485085594104",
+    "in_reply_to_user_id": "1690388233778331649",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838044460158161192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@m1zukiqaqaqaq 😭😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1838044460158161192",
+        "created_at": "2024-09-23T04:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T05:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838080485085594104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1690388233778331649",
+              "start": 0,
+              "username": "m1zukiqaqaqaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838080485085594104",
+        "in_reply_to_user_id": "1690388233778331649",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838044460158161192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m1zukiqaqaqaq 😭😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690388233778331649",
+        "conversation_id": "1838044460158161192",
+        "created_at": "2024-09-23T02:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T03:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838044460158161192"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1838044460158161192",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1965,
+          "like_count": 56,
+          "quote_count": 3,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我草啊我们学校宿舍是按性别认同分的 真好直接开始rle"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文\n\nwife:@Y32010705",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "Y32010705"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2823,
+          "following_count": 2923,
+          "like_count": 49028,
+          "listed_count": 6,
+          "tweet_count": 3328
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-12T15:42:26.000Z",
+        "description": "06年MtF | HRT2023.8.11 | 170cm/46kg | UCSB Physics | Borderline Personality Disorder | 只是用来记录生活的工具哦不会有任何NSFW内容出现 | Game Dev & Player | Call me Dorothy! | INFP-T",
+        "id": "1690388233778331649",
+        "location": "Santa Barbara, CA",
+        "name": "MizukiQAQAQAQ🏳️‍⚧️",
+        "pinned_tweet_id": "1833862060125655186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732029592968572928/J51WOOh4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 700,
+          "like_count": 3800,
+          "listed_count": 1,
+          "tweet_count": 1467
+        },
+        "username": "m1zukiqaqaqaq",
+        "verified": false
+      }
+    ]
+  }
+}

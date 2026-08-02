@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052102324961546240"
+      ],
+      "media_source_tweet_id": [
+        "2052102331701858361"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "conversation_id": "2052400988359680125",
+    "created_at": "2026-05-07T14:51:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T15:51:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052400988359680125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1609650538135650312",
+          "start": 3,
+          "username": "nimrodelf"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yY2FMoR8TL",
+          "end": 38,
+          "expanded_url": "https://x.com/nimrodelf/status/2052102331701858361/photo/1",
+          "media_key": "3_2052102324961546240",
+          "start": 15,
+          "url": "https://t.co/yY2FMoR8TL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052400988359680125",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052102331701858361",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nimrodelf: https://t.co/yY2FMoR8TL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2052102324961546240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHqIMSoWEAAzkCQ.jpg",
+        "width": 810
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052102324961546240"
+          ],
+          "media_source_tweet_id": [
+            "2052102331701858361"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "2052400988359680125",
+        "created_at": "2026-05-07T14:51:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T15:51:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052400988359680125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1609650538135650312",
+              "start": 3,
+              "username": "nimrodelf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yY2FMoR8TL",
+              "end": 38,
+              "expanded_url": "https://x.com/nimrodelf/status/2052102331701858361/photo/1",
+              "media_key": "3_2052102324961546240",
+              "start": 15,
+              "url": "https://t.co/yY2FMoR8TL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052400988359680125",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052102331701858361",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nimrodelf: https://t.co/yY2FMoR8TL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052102324961546240"
+          ]
+        },
+        "author_id": "1609650538135650312",
+        "conversation_id": "2052102331701858361",
+        "created_at": "2026-05-06T19:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T20:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052102331701858361"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yY2FMoR8TL",
+              "end": 23,
+              "expanded_url": "https://x.com/nimrodelf/status/2052102331701858361/photo/1",
+              "media_key": "3_2052102324961546240",
+              "start": 0,
+              "url": "https://t.co/yY2FMoR8TL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052102331701858361",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 2384,
+          "like_count": 307,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/yY2FMoR8TL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5190,
+          "following_count": 3763,
+          "like_count": 83550,
+          "listed_count": 10,
+          "media_count": 423,
+          "tweet_count": 9329
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-01T20:39:39.000Z",
+        "description": "Falling Leaves",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/fallorium",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/fallorium",
+                "start": 0,
+                "url": "https://t.co/XmmjtxHnze"
+              }
+            ]
+          }
+        },
+        "id": "1609650538135650312",
+        "name": "Nimrodel",
+        "pinned_tweet_id": "2024209531748692121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850149325558648832/sOXnXunl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36443,
+          "following_count": 7,
+          "like_count": 4756,
+          "listed_count": 156,
+          "media_count": 4872,
+          "tweet_count": 5049
+        },
+        "url": "https://t.co/XmmjtxHnze",
+        "username": "nimrodelf",
+        "verified": true
+      }
+    ]
+  }
+}

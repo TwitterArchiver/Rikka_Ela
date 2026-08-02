@@ -1,0 +1,1284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1135979287733948416",
+          "name": "Elden Ring"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Video Game Publisher like 'Activision'",
+          "id": "78",
+          "name": "Video Game Publisher"
+        },
+        "entity": {
+          "id": "1131284511411458048",
+          "name": "FromSoftware"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Video Game Publisher like 'Activision'",
+          "id": "78",
+          "name": "Video Game Publisher"
+        },
+        "entity": {
+          "id": "1181015430711758848",
+          "name": "Bandai Namco"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Publisher",
+          "id": "1070028312276127746",
+          "name": "Game development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Movies",
+          "id": "1072936713134071808",
+          "name": "Movies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1131284511411458048",
+          "name": "FromSoftware"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1135979287733948416",
+          "name": "Elden Ring"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1181015430711758848",
+          "name": "Bandai Namco"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898668479250438",
+          "name": "Fantasy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "A24",
+          "id": "10049658204",
+          "name": "A24"
+        }
+      }
+    ],
+    "conversation_id": "2047694517092921535",
+    "created_at": "2026-04-24T15:09:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T16:09:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047694517092921535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2542866616",
+          "start": 3,
+          "username": "DA_Artworks"
+        },
+        {
+          "end": 68,
+          "id": "1135707841879085059",
+          "start": 58,
+          "username": "ELDENRING"
+        },
+        {
+          "end": 86,
+          "id": "150151699",
+          "start": 70,
+          "username": "fromsoftware_pr"
+        },
+        {
+          "end": 102,
+          "id": "2341914594",
+          "start": 88,
+          "username": "BandaiNamcoEU"
+        },
+        {
+          "end": 112,
+          "id": "110949274",
+          "start": 104,
+          "username": "bnam_jp"
+        },
+        {
+          "end": 117,
+          "id": "546076148",
+          "start": 113,
+          "username": "A24"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/Bm2h2SGc",
+          "end": 139,
+          "start": 118,
+          "url": "https://t.co/Bm2h2SGc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047694517092921535",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047332945334034629",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DA_Artworks: Some Elden Ring illustrations I've done.\n@ELDENRING \n@fromsoftware_pr \n@BandaiNamcoEU \n@bnam_jp\n@A24 https://t.co/Bm2h2SGc…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047327934466129921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGmR6MCWgAEMbCY.jpg",
+        "width": 1448
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047327962005897216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGmR7yoWAAAu9p9.jpg",
+        "width": 1448
+      },
+      {
+        "height": 2560,
+        "media_key": "3_2047327979747909632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGmR80uXoAAP-P8.jpg",
+        "width": 1810
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "1131284511411458048",
+              "name": "FromSoftware"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "1181015430711758848",
+              "name": "Bandai Namco"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Movies",
+              "id": "1072936713134071808",
+              "name": "Movies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1131284511411458048",
+              "name": "FromSoftware"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1181015430711758848",
+              "name": "Bandai Namco"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "A24",
+              "id": "10049658204",
+              "name": "A24"
+            }
+          }
+        ],
+        "conversation_id": "2047694517092921535",
+        "created_at": "2026-04-24T15:09:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T16:09:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047694517092921535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2542866616",
+              "start": 3,
+              "username": "DA_Artworks"
+            },
+            {
+              "end": 68,
+              "id": "1135707841879085059",
+              "start": 58,
+              "username": "ELDENRING"
+            },
+            {
+              "end": 86,
+              "id": "150151699",
+              "start": 70,
+              "username": "fromsoftware_pr"
+            },
+            {
+              "end": 102,
+              "id": "2341914594",
+              "start": 88,
+              "username": "BandaiNamcoEU"
+            },
+            {
+              "end": 112,
+              "id": "110949274",
+              "start": 104,
+              "username": "bnam_jp"
+            },
+            {
+              "end": 117,
+              "id": "546076148",
+              "start": 113,
+              "username": "A24"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/Bm2h2SGc",
+              "end": 139,
+              "start": 118,
+              "url": "https://t.co/Bm2h2SGc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047694517092921535",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047332945334034629",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DA_Artworks: Some Elden Ring illustrations I've done.\n@ELDENRING \n@fromsoftware_pr \n@BandaiNamcoEU \n@bnam_jp\n@A24 https://t.co/Bm2h2SGc…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047327934466129921",
+            "3_2047327962005897216",
+            "3_2047327979747909632"
+          ]
+        },
+        "author_id": "2542866616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "1131284511411458048",
+              "name": "FromSoftware"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "1181015430711758848",
+              "name": "Bandai Namco"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Movies",
+              "id": "1072936713134071808",
+              "name": "Movies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1131284511411458048",
+              "name": "FromSoftware"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1181015430711758848",
+              "name": "Bandai Namco"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "A24",
+              "id": "10049658204",
+              "name": "A24"
+            }
+          }
+        ],
+        "conversation_id": "2047332945334034629",
+        "created_at": "2026-04-23T15:13:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T16:13:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047332945334034629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 51,
+              "id": "1135707841879085059",
+              "start": 41,
+              "username": "ELDENRING"
+            },
+            {
+              "end": 69,
+              "id": "150151699",
+              "start": 53,
+              "username": "fromsoftware_pr"
+            },
+            {
+              "end": 85,
+              "id": "2341914594",
+              "start": 71,
+              "username": "BandaiNamcoEU"
+            },
+            {
+              "end": 95,
+              "id": "110949274",
+              "start": 87,
+              "username": "bnam_jp"
+            },
+            {
+              "end": 100,
+              "id": "546076148",
+              "start": 96,
+              "username": "A24"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bm2h2SGcC6",
+              "end": 124,
+              "expanded_url": "https://x.com/DA_Artworks/status/2047332945334034629/photo/1",
+              "media_key": "3_2047327934466129921",
+              "start": 101,
+              "url": "https://t.co/Bm2h2SGcC6"
+            },
+            {
+              "display_url": "pic.x.com/Bm2h2SGcC6",
+              "end": 124,
+              "expanded_url": "https://x.com/DA_Artworks/status/2047332945334034629/photo/1",
+              "media_key": "3_2047327962005897216",
+              "start": 101,
+              "url": "https://t.co/Bm2h2SGcC6"
+            },
+            {
+              "display_url": "pic.x.com/Bm2h2SGcC6",
+              "end": 124,
+              "expanded_url": "https://x.com/DA_Artworks/status/2047332945334034629/photo/1",
+              "media_key": "3_2047327979747909632",
+              "start": 101,
+              "url": "https://t.co/Bm2h2SGcC6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047332945334034629",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 5361,
+          "like_count": 339,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "Some Elden Ring illustrations I've done.\n@ELDENRING \n@fromsoftware_pr \n@BandaiNamcoEU \n@bnam_jp\n@A24 https://t.co/Bm2h2SGcC6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5083,
+          "following_count": 3740,
+          "like_count": 82528,
+          "listed_count": 10,
+          "media_count": 417,
+          "tweet_count": 9103
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2014-05-12T11:52:20.000Z",
+        "description": "Concept Artist 🎨 Illustrator",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "artstation.com/davidalsina",
+                "end": 23,
+                "expanded_url": "https://www.artstation.com/davidalsina",
+                "start": 0,
+                "url": "https://t.co/tI4oLGfbND"
+              }
+            ]
+          }
+        },
+        "id": "2542866616",
+        "location": "ᴀᴜʟᴜʀɪᴀ",
+        "name": "David Alsina | 𝗖𝗢𝗠𝗠𝗜𝗦𝗦𝗜𝗢𝗡𝗦 𝗖𝗟𝗢𝗦𝗘𝗗",
+        "pinned_tweet_id": "1854566639754207535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999541895840632834/pkJLs4u1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3066,
+          "following_count": 302,
+          "like_count": 69496,
+          "listed_count": 36,
+          "media_count": 1870,
+          "tweet_count": 39083
+        },
+        "url": "https://t.co/tI4oLGfbND",
+        "username": "DA_Artworks",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-04T00:40:24.000Z",
+        "description": "#ELDENRING ushers in a new world created by Hidetaka Miyazaki & George R. R. Martin. ESRB rating: M | PEGI 16",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "ELDENRING"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "eldenring.com",
+                "end": 23,
+                "expanded_url": "http://eldenring.com",
+                "start": 0,
+                "url": "https://t.co/X9ExUTRSVH"
+              }
+            ]
+          }
+        },
+        "id": "1135707841879085059",
+        "name": "ELDEN RING",
+        "pinned_tweet_id": "1996595830770344257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1137841998906322944/VAIJ9bxI_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1204716,
+          "following_count": 5,
+          "like_count": 1999,
+          "listed_count": 1461,
+          "media_count": 338,
+          "tweet_count": 609
+        },
+        "url": "https://t.co/X9ExUTRSVH",
+        "username": "ELDENRING",
+        "verified": true
+      },
+      {
+        "created_at": "2010-05-31T06:22:05.000Z",
+        "description": "株式会社フロム・ソフトウェアの公式アカウントです。\nThe Official X of FromSoftware, Inc.\n自社ゲームタイトルに関する情報をお伝えします。\ncontact: https://t.co/HRadAItosz…",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fromsoftware.jp/pc/inquiry_per",
+                "end": 119,
+                "expanded_url": "http://fromsoftware.jp/pc/inquiry_per",
+                "start": 96,
+                "url": "https://t.co/HRadAItosz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fromsoftware.jp",
+                "end": 23,
+                "expanded_url": "http://www.fromsoftware.jp/",
+                "start": 0,
+                "url": "https://t.co/JrTlJl0FD2"
+              }
+            ]
+          }
+        },
+        "id": "150151699",
+        "location": "Tokyo",
+        "name": "FROMSOFTWARE",
+        "pinned_tweet_id": "1988376870765949317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/875586745479249922/GYekVrNZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835454,
+          "following_count": 15,
+          "like_count": 0,
+          "listed_count": 2915,
+          "media_count": 451,
+          "tweet_count": 2052
+        },
+        "url": "https://t.co/JrTlJl0FD2",
+        "username": "fromsoftware_pr",
+        "verified": true
+      },
+      {
+        "created_at": "2014-02-13T12:35:37.000Z",
+        "description": "Home for all games published by Bandai Namco Entertainment: ELDEN RING, TEKKEN, Dragon Ball games, Little Nightmares, Dark Souls, Tales of & more!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/bandainamcoeu",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/bandainamcoeu",
+                "start": 0,
+                "url": "https://t.co/FYlSItxlQP"
+              }
+            ]
+          }
+        },
+        "id": "2341914594",
+        "location": "EMEA",
+        "name": "Bandai Namco Entertainment Europe",
+        "pinned_tweet_id": "2045988244022526090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1509807191955550213/gTTJ4A34_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216704,
+          "following_count": 98,
+          "like_count": 5153,
+          "listed_count": 494,
+          "media_count": 4656,
+          "tweet_count": 14170
+        },
+        "url": "https://t.co/FYlSItxlQP",
+        "username": "BandaiNamcoEU",
+        "verified": true
+      },
+      {
+        "created_at": "2010-02-03T09:18:22.000Z",
+        "description": "バンダイナムコ アミューズメントユニット公式アカウントです。バンダイナムコのリアルエンタメを担う各会社をまとめてアミューズメントユニットといいます！各社の製品・施設等の最新情報や日常の楽しかったことを発信しますでのお楽しみに！お問い合わせはこちらhttps://t.co/d5hSr6YP0B",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bandainamco-am.co.jp/contact",
+                "end": 146,
+                "expanded_url": "http://bandainamco-am.co.jp/contact",
+                "start": 123,
+                "url": "https://t.co/d5hSr6YP0B"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bandainamco-am.co.jp",
+                "end": 23,
+                "expanded_url": "https://bandainamco-am.co.jp/",
+                "start": 0,
+                "url": "https://t.co/ZCzblKW7i9"
+              }
+            ]
+          }
+        },
+        "id": "110949274",
+        "location": "東京都港区",
+        "name": "バンダイナムコ アミューズメントユニット公式アカウント",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1509709048140099584/Lh4YyVcn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584268,
+          "following_count": 1014,
+          "like_count": 7918,
+          "listed_count": 1512,
+          "media_count": 36174,
+          "tweet_count": 741548
+        },
+        "url": "https://t.co/ZCzblKW7i9",
+        "username": "bnam_jp",
+        "verified": true
+      },
+      {
+        "created_at": "2012-04-05T15:54:35.000Z",
+        "description": "𝗡𝗢𝗪 𝗣𝗟𝗔𝗬𝗜𝗡𝗚: The Drama, Mother Mary, Euphoria on @hbo, Beef on @netflix\n𝗖𝗢𝗠𝗜𝗡𝗚 𝗦𝗢𝗢𝗡: Backrooms, The Death of Robin Hood, The Invite & more",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 49,
+                "username": "hbo"
+              },
+              {
+                "end": 71,
+                "start": 63,
+                "username": "netflix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "a24films.com",
+                "end": 23,
+                "expanded_url": "http://a24films.com",
+                "start": 0,
+                "url": "https://t.co/wSpcv7tdDg"
+              }
+            ]
+          }
+        },
+        "id": "546076148",
+        "name": "A24",
+        "pinned_tweet_id": "2041504835971735737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912950681859723264/vJlKHuQS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1865824,
+          "following_count": 1060,
+          "like_count": 14320,
+          "listed_count": 3140,
+          "media_count": 4038,
+          "tweet_count": 13344
+        },
+        "url": "https://t.co/wSpcv7tdDg",
+        "username": "A24",
+        "verified": true
+      }
+    ]
+  }
+}

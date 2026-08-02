@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046243458344800256"
+      ],
+      "media_source_tweet_id": [
+        "2046243490611544217"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "conversation_id": "2046503761065971896",
+    "created_at": "2026-04-21T08:18:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T09:18:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046503761065971896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1268439647887036416",
+          "start": 3,
+          "username": "sentter2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FuGFJP76Bx",
+          "end": 40,
+          "expanded_url": "https://x.com/sentter2/status/2046243490611544217/photo/1",
+          "media_key": "3_2046243458344800256",
+          "start": 17,
+          "url": "https://t.co/FuGFJP76Bx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046503761065971896",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 110
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046243490611544217",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sentter2: oc https://t.co/FuGFJP76Bx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3508,
+        "media_key": "3_2046243458344800256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGW3lXqb0AA4avL.jpg",
+        "width": 2480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046243458344800256"
+          ],
+          "media_source_tweet_id": [
+            "2046243490611544217"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "2046503761065971896",
+        "created_at": "2026-04-21T08:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T09:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046503761065971896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1268439647887036416",
+              "start": 3,
+              "username": "sentter2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FuGFJP76Bx",
+              "end": 40,
+              "expanded_url": "https://x.com/sentter2/status/2046243490611544217/photo/1",
+              "media_key": "3_2046243458344800256",
+              "start": 17,
+              "url": "https://t.co/FuGFJP76Bx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046503761065971896",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 110
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046243490611544217",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sentter2: oc https://t.co/FuGFJP76Bx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046243458344800256"
+          ]
+        },
+        "author_id": "1268439647887036416",
+        "conversation_id": "2046243490611544217",
+        "created_at": "2026-04-20T15:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T16:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046243490611544217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FuGFJP76Bx",
+              "end": 26,
+              "expanded_url": "https://x.com/sentter2/status/2046243490611544217/photo/1",
+              "media_key": "3_2046243458344800256",
+              "start": 3,
+              "url": "https://t.co/FuGFJP76Bx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046243490611544217",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 10161,
+          "like_count": 1051,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 110
+        },
+        "reply_settings": "everyone",
+        "text": "oc https://t.co/FuGFJP76Bx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5087,
+          "following_count": 3738,
+          "like_count": 82312,
+          "listed_count": 10,
+          "media_count": 413,
+          "tweet_count": 9057
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-04T07:09:26.000Z",
+        "description": "イラストレーターです。\nエレガントでかわいい女の子を描くのが好きです。\n中文/English/簡単な日本語\n連絡はこちらへ: syd284410@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/42385610",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/42385610",
+                "start": 0,
+                "url": "https://t.co/AbwCA95yTE"
+              }
+            ]
+          }
+        },
+        "id": "1268439647887036416",
+        "name": "Sentter",
+        "pinned_tweet_id": "2000519411124625823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827356283860873220/1afLypXu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28379,
+          "following_count": 33,
+          "like_count": 671,
+          "listed_count": 237,
+          "media_count": 330,
+          "tweet_count": 1026
+        },
+        "url": "https://t.co/AbwCA95yTE",
+        "username": "sentter2",
+        "verified": false
+      }
+    ]
+  }
+}

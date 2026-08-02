@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Biology",
+          "id": "847896837532995585",
+          "name": "Biology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Biotech and biomedical",
+          "id": "847529984717537280",
+          "name": "Biotech and biomedical"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Biology",
+          "id": "847896837532995585",
+          "name": "Biology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Chemistry",
+          "id": "847896929698668544",
+          "name": "Chemistry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2050504379568882156",
+    "created_at": "2026-05-02T09:15:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T10:15:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050504379568882156"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rikka_ela/stat…",
+          "end": 188,
+          "expanded_url": "https://twitter.com/rikka_ela/status/2049245302784237709",
+          "start": 165,
+          "url": "https://t.co/yTRV9AeIeZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050504379568882156",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049245302784237709",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "昨天和学校的Tutor聊天\n他问我毕业了要干啥，我说读博\n问了方向我说大概率BME吧\n他说你是trans，以后细化方向应该是基因工程吧，可惜我是做有机金属催化的，不然你就可以来我组了\n我:“So what’s the relationship between biomedical engineering and trans“🤯 https://t.co/yTRV9AeIeZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Biology",
+              "id": "847896837532995585",
+              "name": "Biology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Biotech and biomedical",
+              "id": "847529984717537280",
+              "name": "Biotech and biomedical"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Biology",
+              "id": "847896837532995585",
+              "name": "Biology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Chemistry",
+              "id": "847896929698668544",
+              "name": "Chemistry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2050504379568882156",
+        "created_at": "2026-05-02T09:15:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T10:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050504379568882156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rikka_ela/stat…",
+              "end": 188,
+              "expanded_url": "https://twitter.com/rikka_ela/status/2049245302784237709",
+              "start": 165,
+              "url": "https://t.co/yTRV9AeIeZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050504379568882156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049245302784237709",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "昨天和学校的Tutor聊天\n他问我毕业了要干啥，我说读博\n问了方向我说大概率BME吧\n他说你是trans，以后细化方向应该是基因工程吧，可惜我是做有机金属催化的，不然你就可以来我组了\n我:“So what’s the relationship between biomedical engineering and trans“🤯 https://t.co/yTRV9AeIeZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Biology",
+              "id": "847896837532995585",
+              "name": "Biology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Chemistry",
+              "id": "847896929698668544",
+              "name": "Chemistry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2049245302784237709",
+        "created_at": "2026-04-28T21:52:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T22:52:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049245302784237709"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049245302784237709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2296,
+          "like_count": 70,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最后一年选课选了基因编辑与工程，蛋白与基因组学，生物化学与酶三门课，等我博士进了BME的项目就闭门偷偷搞基因工程，然后成帮全球Trans进行基因改造嗯嗯，成为北美贺建奎😋（bushi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5170,
+          "following_count": 3757,
+          "like_count": 83031,
+          "listed_count": 10,
+          "media_count": 422,
+          "tweet_count": 9216
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      }
+    ]
+  }
+}

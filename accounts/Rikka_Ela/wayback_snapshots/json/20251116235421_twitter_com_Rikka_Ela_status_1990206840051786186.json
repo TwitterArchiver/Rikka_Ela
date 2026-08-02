@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1990044297916485996",
+    "created_at": "2025-11-16T23:54:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T00:54:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990206840051786186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1254442404410621958",
+          "start": 0,
+          "username": "zwh20081"
+        },
+        {
+          "end": 23,
+          "id": "1678117449508753408",
+          "start": 10,
+          "username": "Chunliang2nd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990206840051786186",
+    "in_reply_to_user_id": "1254442404410621958",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990044297916485996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zwh20081 @Chunliang2nd 化学专业可以吗（x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1990044297916485996",
+        "created_at": "2025-11-16T23:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T00:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990206840051786186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1254442404410621958",
+              "start": 0,
+              "username": "zwh20081"
+            },
+            {
+              "end": 23,
+              "id": "1678117449508753408",
+              "start": 10,
+              "username": "Chunliang2nd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990206840051786186",
+        "in_reply_to_user_id": "1254442404410621958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990044297916485996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zwh20081 @Chunliang2nd 化学专业可以吗（x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254442404410621958",
+        "conversation_id": "1990044297916485996",
+        "created_at": "2025-11-16T13:08:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T14:08:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990044297916485996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zwh20081/statu…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/zwh20081/status/1990043175759777967",
+              "start": 81,
+              "url": "https://t.co/yulOvtCapy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990044297916485996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1064,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990043175759777967",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "欢迎来蹭实习。有中国，美国，日本实体可用。\n实习除非水平到位否则默认无工资。\n来干活的请保证至少做100天，我们会确认有专属的工作内容，工作结果，请不要磨洋工🥺 https://t.co/yulOvtCapy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4753,
+          "following_count": 3647,
+          "like_count": 76054,
+          "listed_count": 8,
+          "media_count": 327,
+          "tweet_count": 7472
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-26T16:09:22.000Z",
+        "description": "17岁笨蛋高中生 服务器运维&深度学习业余人士 ＆Solart Tech打工人\n北京素鳞智绘科技有限公司 CEO\n北京素鳞科技产业有限公司 AIGC Lab技术开发总监\n异构平台适配+tg@zwh20081 支持各类国产卡与AMD rocm，Intel oneapi喵\nzwh20081@solart.pro 商务",
+        "id": "1254442404410621958",
+        "location": "福州",
+        "name": "zwh20081",
+        "pinned_tweet_id": "1984571952846283182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976944068505878529/FfNVRc4y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 89,
+          "like_count": 1833,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 1516
+        },
+        "username": "zwh20081",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-09T19:02:54.000Z",
+        "description": "我说老大哥，我刚刚在电幕旁边写日记的时候，你偷看了对吧？(错乱 ADHD/AS Bipolar Chaos-Evil 恐直🏳️‍⚧️Enby🍥HRT2023.6.9 半吊子geek ❄️NixOS Android SukiSU 在押中HKer🇭🇰 贝贝珈毒唯 厌食/ED 维生素不足 @liminfin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 142,
+                "username": "liminfin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ouka.ro",
+                "end": 23,
+                "expanded_url": "http://ouka.ro",
+                "start": 0,
+                "url": "https://t.co/wpEdl7tMRJ"
+              }
+            ]
+          }
+        },
+        "id": "1678117449508753408",
+        "location": "乡北茶舍",
+        "name": "虚拟粘同学会梦到一般通过赛博李颖吗☆",
+        "pinned_tweet_id": "1845803069252260212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907089784285392896/lOGGYplb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1339,
+          "following_count": 1360,
+          "like_count": 13133,
+          "listed_count": 12,
+          "media_count": 946,
+          "tweet_count": 20376
+        },
+        "url": "https://t.co/wpEdl7tMRJ",
+        "username": "Chunliang2nd",
+        "verified": false
+      }
+    ]
+  }
+}

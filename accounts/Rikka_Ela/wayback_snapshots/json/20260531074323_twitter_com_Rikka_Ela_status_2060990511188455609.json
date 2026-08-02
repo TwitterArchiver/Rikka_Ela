@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2060907401671504236",
+    "created_at": "2026-05-31T07:43:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T08:43:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060990511188455609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1526965927748571136",
+          "start": 0,
+          "username": "Natsumejuri"
+        },
+        {
+          "end": 28,
+          "id": "2031363005557211136",
+          "start": 13,
+          "username": "Maruitikyuutan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060990511188455609",
+    "in_reply_to_user_id": "1526965927748571136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060907401671504236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Natsumejuri @Maruitikyuutan 可爱爱….."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2060907396575498242",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJnQW6fbkAIl3W2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2060907401671504236",
+        "created_at": "2026-05-31T07:43:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T08:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060990511188455609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1526965927748571136",
+              "start": 0,
+              "username": "Natsumejuri"
+            },
+            {
+              "end": 28,
+              "id": "2031363005557211136",
+              "start": 13,
+              "username": "Maruitikyuutan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060990511188455609",
+        "in_reply_to_user_id": "1526965927748571136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060907401671504236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Natsumejuri @Maruitikyuutan 可爱爱….."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060907396575498242"
+          ]
+        },
+        "author_id": "1526965927748571136",
+        "conversation_id": "2060907401671504236",
+        "created_at": "2026-05-31T02:13:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T03:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060907401671504236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "2031363005557211136",
+              "start": 7,
+              "username": "Maruitikyuutan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9rjU2KCh0t",
+              "end": 46,
+              "expanded_url": "https://x.com/Natsumejuri/status/2060907401671504236/photo/1",
+              "media_key": "3_2060907396575498242",
+              "start": 23,
+              "url": "https://t.co/9rjU2KCh0t"
+            },
+            {
+              "display_url": "x.com/natsumejuri/st…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/natsumejuri/status/2057402219700605036",
+              "start": 47,
+              "url": "https://t.co/4XQRUvTNve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060907401671504236",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3466,
+          "like_count": 132,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057402219700605036",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "泳装回\n\n📷：@Maruitikyuutan https://t.co/9rjU2KCh0t https://t.co/4XQRUvTNve"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5369,
+          "following_count": 3786,
+          "like_count": 85574,
+          "listed_count": 6,
+          "media_count": 438,
+          "tweet_count": 9661
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-18T16:41:01.000Z",
+        "description": "MtF | Computer Science",
+        "id": "1526965927748571136",
+        "location": "亚空间",
+        "name": "夏子",
+        "pinned_tweet_id": "2032355055467446683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996966756427218944/EWv7GHnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4358,
+          "following_count": 491,
+          "like_count": 23355,
+          "listed_count": 5,
+          "media_count": 597,
+          "tweet_count": 3568
+        },
+        "username": "Natsumejuri",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-10T13:36:00.000Z",
+        "description": "中国語日本語⭕️｜人間女| maimaiオンゲキ プロセカ Apex Overwatch cosplay イラスト｜20歳↓|関東|夏色花梨推しです。ぜひ！仲良くなってください🎵日本語垢@Tikyumaru",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 93,
+                "username": "Tikyumaru"
+              }
+            ]
+          }
+        },
+        "id": "2031363005557211136",
+        "name": "地球丸（草莓牛奶版）",
+        "pinned_tweet_id": "2033105074042630224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033983240986669057/ij9VUtk5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 93,
+          "like_count": 1298,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 544
+        },
+        "username": "Maruitikyuutan",
+        "verified": false
+      }
+    ]
+  }
+}

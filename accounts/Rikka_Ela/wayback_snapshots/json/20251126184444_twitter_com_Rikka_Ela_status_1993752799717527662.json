@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Society",
+          "id": "847896364256067584",
+          "name": "Society"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Marriage",
+          "id": "847896538105782272",
+          "name": "Marriage"
+        }
+      }
+    ],
+    "conversation_id": "1993752799717527662",
+    "created_at": "2025-11-26T18:44:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T19:44:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993752799717527662"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/popcrave/statu…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/popcrave/status/1993624145398255626",
+          "start": 7,
+          "url": "https://t.co/8tYPwoE5qJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993752799717527662",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993624145398255626",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🇪🇺上大分🤲 https://t.co/8tYPwoE5qJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 724,
+        "media_key": "3_1993624138502582272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6rGl18XMAAVFSS.jpg",
+        "width": 724
+      },
+      {
+        "height": 674,
+        "media_key": "3_1993624138502549504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6rGl18WsAAHUT4.jpg",
+        "width": 674
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "1993752799717527662",
+        "created_at": "2025-11-26T18:44:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T19:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993752799717527662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/popcrave/statu…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/popcrave/status/1993624145398255626",
+              "start": 7,
+              "url": "https://t.co/8tYPwoE5qJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993752799717527662",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993624145398255626",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🇪🇺上大分🤲 https://t.co/8tYPwoE5qJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993624138502582272",
+            "3_1993624138502549504"
+          ]
+        },
+        "author_id": "4429003533",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "1993624145398255626",
+        "created_at": "2025-11-26T10:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T11:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993624145398255626"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "European Court of Justice",
+              "probability": 0.5746,
+              "start": 4,
+              "type": "Organization"
+            },
+            {
+              "end": 50,
+              "normalized_text": "EU",
+              "probability": 0.8937,
+              "start": 49,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sODRcOYkmh",
+              "end": 205,
+              "expanded_url": "https://x.com/PopCrave/status/1993624145398255626/photo/1",
+              "media_key": "3_1993624138502582272",
+              "start": 182,
+              "url": "https://t.co/sODRcOYkmh"
+            },
+            {
+              "display_url": "pic.x.com/sODRcOYkmh",
+              "end": 205,
+              "expanded_url": "https://x.com/PopCrave/status/1993624145398255626/photo/1",
+              "media_key": "3_1993624138502549504",
+              "start": 182,
+              "url": "https://t.co/sODRcOYkmh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993624145398255626",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3136,
+          "impression_count": 1302506,
+          "like_count": 94086,
+          "quote_count": 1315,
+          "reply_count": 557,
+          "retweet_count": 8047
+        },
+        "reply_settings": "everyone",
+        "text": "The European Court of Justice has ruled that all EU nations must recognize same-sex marriages recorded in another member state, even if their domestic legislation does not allow it. https://t.co/sODRcOYkmh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4759,
+          "following_count": 3648,
+          "like_count": 76733,
+          "listed_count": 8,
+          "media_count": 331,
+          "tweet_count": 7550
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-09T18:00:33.000Z",
+        "description": "Craving Pop Culture.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "PopCrave.com",
+                "end": 23,
+                "expanded_url": "http://PopCrave.com",
+                "start": 0,
+                "url": "https://t.co/oNqbtKvApl"
+              }
+            ]
+          }
+        },
+        "id": "4429003533",
+        "name": "Pop Crave",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1394266006395228162/qIjjvzl7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2262336,
+          "following_count": 3550,
+          "like_count": 6329,
+          "listed_count": 5265,
+          "media_count": 114992,
+          "tweet_count": 148370
+        },
+        "url": "https://t.co/oNqbtKvApl",
+        "username": "PopCrave",
+        "verified": true
+      }
+    ]
+  }
+}

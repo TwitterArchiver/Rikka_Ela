@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1819395276169437644",
+    "created_at": "2024-08-03T03:42:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-03T04:42:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819579677117501801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1385239266985271299",
+          "start": 0,
+          "username": "ARASHIqianye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819579677117501801",
+    "in_reply_to_user_id": "1385239266985271299",
+    "lang": "qam",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819395276169437644",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ARASHIqianye ？？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1819395276169437644",
+        "created_at": "2024-08-03T03:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T04:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819579677117501801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1385239266985271299",
+              "start": 0,
+              "username": "ARASHIqianye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819579677117501801",
+        "in_reply_to_user_id": "1385239266985271299",
+        "lang": "qam",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819395276169437644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ARASHIqianye ？？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1385239266985271299",
+        "conversation_id": "1819395276169437644",
+        "created_at": "2024-08-02T15:30:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-02T16:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1819395276169437644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ARASHIqianye/s…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/ARASHIqianye/status/1819335328924082629",
+              "start": 16,
+              "url": "https://t.co/fxE6kPEvwa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819395276169437644",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7512,
+          "like_count": 47,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819335328924082629",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "cnm\n疯狂打飞机把唧唧打爆了 https://t.co/fxE6kPEvwa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2310,
+          "following_count": 2851,
+          "like_count": 44645,
+          "listed_count": 6,
+          "tweet_count": 2907
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-22T14:29:20.000Z",
+        "description": "CSGO/雀魂/业余coser/ISTJ",
+        "id": "1385239266985271299",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "王溪茗",
+        "pinned_tweet_id": "1778031104488087778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793297696918507521/uP2qcPh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1905,
+          "following_count": 1116,
+          "like_count": 17803,
+          "listed_count": 25,
+          "tweet_count": 4024
+        },
+        "username": "ARASHIqianye",
+        "verified": false
+      }
+    ]
+  }
+}

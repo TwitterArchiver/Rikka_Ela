@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997720132949348352",
+        "3_1997720132915728384",
+        "3_1997720132915732481",
+        "3_1997720132945051648"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1997720137299046413",
+    "created_at": "2025-12-07T17:29:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T18:29:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997720137299046413"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2SRhr2jWXH",
+          "end": 35,
+          "expanded_url": "https://x.com/Rikka_Ela/status/1997720137299046413/photo/1",
+          "media_key": "3_1997720132949348352",
+          "start": 12,
+          "url": "https://t.co/2SRhr2jWXH"
+        },
+        {
+          "display_url": "pic.x.com/2SRhr2jWXH",
+          "end": 35,
+          "expanded_url": "https://x.com/Rikka_Ela/status/1997720137299046413/photo/1",
+          "media_key": "3_1997720132915728384",
+          "start": 12,
+          "url": "https://t.co/2SRhr2jWXH"
+        },
+        {
+          "display_url": "pic.x.com/2SRhr2jWXH",
+          "end": 35,
+          "expanded_url": "https://x.com/Rikka_Ela/status/1997720137299046413/photo/1",
+          "media_key": "3_1997720132915732481",
+          "start": 12,
+          "url": "https://t.co/2SRhr2jWXH"
+        },
+        {
+          "display_url": "pic.x.com/2SRhr2jWXH",
+          "end": 35,
+          "expanded_url": "https://x.com/Rikka_Ela/status/1997720137299046413/photo/1",
+          "media_key": "3_1997720132945051648",
+          "start": 12,
+          "url": "https://t.co/2SRhr2jWXH"
+        },
+        {
+          "display_url": "x.com/rikka_ela/stat…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/rikka_ela/status/1997658883599331371",
+          "start": 36,
+          "url": "https://t.co/EpbkC4T03u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997720137299046413",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997658883599331371",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就这样🧎‍♀️🥺🥵） https://t.co/2SRhr2jWXH https://t.co/EpbkC4T03u"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1997720137299046413].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1997720137299046413",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1997720137299046413"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "3_1997720132949348352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7lT4GUXkAAuBp5.jpg",
+        "width": 640
+      },
+      {
+        "height": 480,
+        "media_key": "3_1997720132915728384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7lT4GMWkAAWXRe.jpg",
+        "width": 640
+      },
+      {
+        "height": 480,
+        "media_key": "3_1997720132915732481",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7lT4GMWoAEhfQ_.jpg",
+        "width": 640
+      },
+      {
+        "height": 480,
+        "media_key": "3_1997720132945051648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7lT4GTWAAA3pfC.jpg",
+        "width": 640
+      },
+      {
+        "height": 480,
+        "media_key": "3_1997658878717169664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7kcKohXkAAf-Ml.jpg",
+        "width": 640
+      },
+      {
+        "height": 480,
+        "media_key": "3_1997658878725537792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7kcKojXQAAobus.jpg",
+        "width": 640
+      },
+      {
+        "height": 480,
+        "media_key": "3_1997658878729744384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7kcKokXcAAQ2h6.jpg",
+        "width": 640
+      },
+      {
+        "height": 480,
+        "media_key": "3_1997658878733864961",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7kcKolWUAEpYz3.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997658878717169664",
+            "3_1997658878725537792",
+            "3_1997658878729744384",
+            "3_1997658878733864961"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1997658883599331371",
+        "created_at": "2025-12-07T13:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T14:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997658883599331371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M4eIgmhWt5",
+              "end": 79,
+              "expanded_url": "https://x.com/Rikka_Ela/status/1997658883599331371/photo/1",
+              "media_key": "3_1997658878717169664",
+              "start": 56,
+              "url": "https://t.co/M4eIgmhWt5"
+            },
+            {
+              "display_url": "pic.x.com/M4eIgmhWt5",
+              "end": 79,
+              "expanded_url": "https://x.com/Rikka_Ela/status/1997658883599331371/photo/1",
+              "media_key": "3_1997658878725537792",
+              "start": 56,
+              "url": "https://t.co/M4eIgmhWt5"
+            },
+            {
+              "display_url": "pic.x.com/M4eIgmhWt5",
+              "end": 79,
+              "expanded_url": "https://x.com/Rikka_Ela/status/1997658883599331371/photo/1",
+              "media_key": "3_1997658878729744384",
+              "start": 56,
+              "url": "https://t.co/M4eIgmhWt5"
+            },
+            {
+              "display_url": "pic.x.com/M4eIgmhWt5",
+              "end": 79,
+              "expanded_url": "https://x.com/Rikka_Ela/status/1997658883599331371/photo/1",
+              "media_key": "3_1997658878733864961",
+              "start": 56,
+              "url": "https://t.co/M4eIgmhWt5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997658883599331371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 241,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？？？你们做魂游的就这么喜欢在游戏中加入阴暗中世纪修女/女巫系的Femboy吗🥵\n➡️侵犯\n➡️侵犯\n➡️侵犯 https://t.co/M4eIgmhWt5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4757,
+          "following_count": 3660,
+          "like_count": 77186,
+          "listed_count": 8,
+          "media_count": 338,
+          "tweet_count": 7634
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      }
+    ]
+  }
+}

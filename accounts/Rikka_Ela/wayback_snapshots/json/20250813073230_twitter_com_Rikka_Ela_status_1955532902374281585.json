@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1955288779050057728"
+      ],
+      "media_source_tweet_id": [
+        "1955288952274891026"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "conversation_id": "1955532902374281585",
+    "created_at": "2025-08-13T07:32:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T08:32:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955532902374281585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1323554856464867328",
+          "start": 3,
+          "username": "Riva_k86"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SBWY757Wdt",
+          "end": 59,
+          "expanded_url": "https://x.com/Riva_k86/status/1955288952274891026/video/1",
+          "media_key": "13_1955288779050057728",
+          "start": 36,
+          "url": "https://t.co/SBWY757Wdt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955532902374281585",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1013
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955288952274891026",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Riva_k86: What type care is it? https://t.co/SBWY757Wdt"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14975,
+        "height": 1280,
+        "media_key": "13_1955288779050057728",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1955288779050057728/img/s1N8D5rTp6kwXhf-.jpg",
+        "public_metrics": {
+          "view_count": 23206
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1955288779050057728/vid/avc1/320x568/_HK16UdPKeWNr8zc.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1955288779050057728/vid/avc1/480x852/C_vAiqs2_Xmrlqn1.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1955288779050057728/vid/avc1/720x1280/gSThoG7awHYPWVs8.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1955288779050057728/pl/RtRG0y_mV8KVYK6q.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1955288779050057728"
+          ],
+          "media_source_tweet_id": [
+            "1955288952274891026"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "1955532902374281585",
+        "created_at": "2025-08-13T07:32:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T08:32:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955532902374281585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1323554856464867328",
+              "start": 3,
+              "username": "Riva_k86"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SBWY757Wdt",
+              "end": 59,
+              "expanded_url": "https://x.com/Riva_k86/status/1955288952274891026/video/1",
+              "media_key": "13_1955288779050057728",
+              "start": 36,
+              "url": "https://t.co/SBWY757Wdt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955532902374281585",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1013
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955288952274891026",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Riva_k86: What type care is it? https://t.co/SBWY757Wdt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1955288779050057728"
+          ]
+        },
+        "author_id": "1323554856464867328",
+        "conversation_id": "1955288952274891026",
+        "created_at": "2025-08-12T15:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T16:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955288952274891026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SBWY757Wdt",
+              "end": 45,
+              "expanded_url": "https://x.com/Riva_k86/status/1955288952274891026/video/1",
+              "media_key": "13_1955288779050057728",
+              "start": 22,
+              "url": "https://t.co/SBWY757Wdt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955288952274891026",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 801,
+          "impression_count": 87226,
+          "like_count": 6449,
+          "quote_count": 106,
+          "reply_count": 11,
+          "retweet_count": 1013
+        },
+        "reply_settings": "everyone",
+        "text": "What type care is it? https://t.co/SBWY757Wdt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4450,
+          "following_count": 3543,
+          "like_count": 71815,
+          "listed_count": 7,
+          "media_count": 283,
+          "tweet_count": 6740
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-03T09:17:43.000Z",
+        "description": "World's one of the greatest #rabbit lover! \nOn https://t.co/Afsbo0IYIP 👇 Available Domains\nhttps://t.co/WN3ixzikqq\nhttps://t.co/Vp4Gt8sb9h\nhttps://t.co/OsR2RIWmsD",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 28,
+                "tag": "rabbit"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "Sedo.com",
+                "end": 70,
+                "expanded_url": "http://Sedo.com",
+                "start": 47,
+                "url": "https://t.co/Afsbo0IYIP"
+              },
+              {
+                "display_url": "spaarizona.com",
+                "end": 114,
+                "expanded_url": "http://spaarizona.com",
+                "start": 91,
+                "url": "https://t.co/WN3ixzikqq"
+              },
+              {
+                "display_url": "huncity.com",
+                "end": 138,
+                "expanded_url": "http://huncity.com",
+                "start": 115,
+                "url": "https://t.co/Vp4Gt8sb9h"
+              },
+              {
+                "display_url": "divorceattorneyAlaska.com",
+                "end": 162,
+                "expanded_url": "http://divorceattorneyAlaska.com",
+                "start": 139,
+                "url": "https://t.co/OsR2RIWmsD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jaarashop.com/collections/bu…",
+                "end": 23,
+                "expanded_url": "https://jaarashop.com/collections/bunny-callection",
+                "start": 0,
+                "url": "https://t.co/lXr1hgh7tM"
+              }
+            ]
+          }
+        },
+        "id": "1323554856464867328",
+        "location": "United State",
+        "name": "Riva",
+        "pinned_tweet_id": "1955290537675595842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1628937856461979648/etsZkN_E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17803,
+          "following_count": 6616,
+          "like_count": 4873,
+          "listed_count": 43,
+          "media_count": 2097,
+          "tweet_count": 3641
+        },
+        "url": "https://t.co/lXr1hgh7tM",
+        "username": "Riva_k86",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2076718453491466553",
+    "created_at": "2026-07-13T17:20:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T18:20:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076718453491466553"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tttt_pics/stat…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/tttt_pics/status/2076481670589354479",
+          "start": 9,
+          "url": "https://t.co/jMTifZtBX9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076718453491466553",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076481670589354479",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我每天：🧎‍♀️ https://t.co/jMTifZtBX9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1134,
+        "media_key": "3_2076481664750907392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNElEooW8AADbFT.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2076718453491466553",
+        "created_at": "2026-07-13T17:20:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T18:20:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076718453491466553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tttt_pics/stat…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/tttt_pics/status/2076481670589354479",
+              "start": 9,
+              "url": "https://t.co/jMTifZtBX9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076718453491466553",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076481670589354479",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我每天：🧎‍♀️ https://t.co/jMTifZtBX9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076481664750907392"
+          ]
+        },
+        "author_id": "1939738635353436160",
+        "conversation_id": "2076481670589354479",
+        "created_at": "2026-07-13T01:39:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T02:39:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076481670589354479"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q58JzF0Mlx",
+              "end": 23,
+              "expanded_url": "https://x.com/tttt_pics/status/2076481670589354479/photo/1",
+              "media_key": "3_2076481664750907392",
+              "start": 0,
+              "url": "https://t.co/Q58JzF0Mlx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076481670589354479",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 326,
+          "impression_count": 26257,
+          "like_count": 2617,
+          "quote_count": 13,
+          "reply_count": 5,
+          "retweet_count": 150
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Q58JzF0Mlx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6247,
+          "following_count": 3769,
+          "like_count": 86153,
+          "listed_count": 7,
+          "media_count": 446,
+          "tweet_count": 9952
+        },
+        "url": "",
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-30T17:32:09.000Z",
+        "description": "20 | personal acc @gimmickmoder | pfp and banner by @utututuna",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "gimmickmoder"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "utututuna"
+              }
+            ]
+          }
+        },
+        "id": "1939738635353436160",
+        "location": "Asia",
+        "name": "/tttt/ pics",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007363670615986176/yjp0n1L6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22932,
+          "following_count": 240,
+          "like_count": 41363,
+          "listed_count": 28,
+          "media_count": 1007,
+          "tweet_count": 1354
+        },
+        "url": "",
+        "username": "tttt_pics",
+        "verified": false
+      }
+    ]
+  }
+}

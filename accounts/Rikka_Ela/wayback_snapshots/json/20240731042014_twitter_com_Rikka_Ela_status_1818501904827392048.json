@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1818305300430233604",
+    "created_at": "2024-07-31T04:20:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-31T05:20:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1818501904827392048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1922360214",
+          "start": 0,
+          "username": "sandorpetofi34"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1818501904827392048",
+    "in_reply_to_user_id": "1922360214",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818487310293315903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sandorpetofi34 伊朗效果肯定没有泰国好吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1818305300430233604",
+        "created_at": "2024-07-31T04:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-31T05:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818501904827392048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1922360214",
+              "start": 0,
+              "username": "sandorpetofi34"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818501904827392048",
+        "in_reply_to_user_id": "1922360214",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818487310293315903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sandorpetofi34 伊朗效果肯定没有泰国好吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922360214",
+        "conversation_id": "1818305300430233604",
+        "created_at": "2024-07-31T03:22:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-31T04:22:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818487310293315903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818487310293315903",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818305300430233604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 听说伊朗只要$10k左右，于是有欧美跨性别人士跑去伊朗做手术😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2289,
+          "following_count": 2837,
+          "like_count": 44099,
+          "listed_count": 6,
+          "tweet_count": 2851
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-01T05:48:16.000Z",
+        "description": "",
+        "id": "1922360214",
+        "location": "Solberg",
+        "name": "小罗放",
+        "pinned_tweet_id": "1767905145424167248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747218787206615040/US_mzALU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1458,
+          "following_count": 1842,
+          "like_count": 159354,
+          "listed_count": 15,
+          "tweet_count": 30767
+        },
+        "username": "sandorpetofi34",
+        "verified": true
+      }
+    ]
+  }
+}

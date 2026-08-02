@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2060655433920970808",
+    "created_at": "2026-05-31T07:11:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T08:11:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060982383982071819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1512114573108822020",
+          "start": 0,
+          "username": "EpsOrionis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060982383982071819",
+    "in_reply_to_user_id": "1512114573108822020",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060921193784623317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EpsOrionis 🥹🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2060655433920970808",
+        "created_at": "2026-05-31T07:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T08:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060982383982071819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1512114573108822020",
+              "start": 0,
+              "username": "EpsOrionis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060982383982071819",
+        "in_reply_to_user_id": "1512114573108822020",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060921193784623317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EpsOrionis 🥹🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512114573108822020",
+        "conversation_id": "2060655433920970808",
+        "created_at": "2026-05-31T03:07:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T04:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060921193784623317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060921193784623317",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060655433920970808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 加油啊...时间好快Rika你也要术了🥹🥹🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5369,
+          "following_count": 3786,
+          "like_count": 85570,
+          "listed_count": 6,
+          "media_count": 438,
+          "tweet_count": 9660
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-07T17:06:32.000Z",
+        "description": "ENFP-A//mtf//SRS2026.3.31//Master of Engineering\n科学技术爱好者/光机电自动化/天文学/生命科学//\ncosplay/latex胶衣/sub/m//超爱大姐姐的les// 本命真希波玛丽 喵～",
+        "id": "1512114573108822020",
+        "location": "Toronto, Ontario",
+        "name": "Kagurazaka Mari🍥",
+        "pinned_tweet_id": "2038778110213328930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006953216395649024/kMuScctj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1726,
+          "following_count": 791,
+          "like_count": 2953,
+          "listed_count": 10,
+          "media_count": 49,
+          "tweet_count": 596
+        },
+        "username": "EpsOrionis",
+        "verified": true
+      }
+    ]
+  }
+}

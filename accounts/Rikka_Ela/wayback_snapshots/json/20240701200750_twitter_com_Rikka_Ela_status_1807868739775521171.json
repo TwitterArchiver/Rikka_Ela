@@ -1,0 +1,202 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1807868739775521171",
+    "created_at": "2024-07-01T20:07:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-01T21:07:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807868739775521171"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 32,
+          "normalized_text": "France",
+          "probability": 0.9685,
+          "start": 27,
+          "type": "Place"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 26,
+          "tag": "France"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1792029527897669632",
+          "start": 3,
+          "username": "LoveEveryContry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807868739775521171",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807866767462576453",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LoveEveryContry: Love #France."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1807868739775521171",
+        "created_at": "2024-07-01T20:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-01T21:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807868739775521171"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "France",
+              "probability": 0.9685,
+              "start": 27,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 26,
+              "tag": "France"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1792029527897669632",
+              "start": 3,
+              "username": "LoveEveryContry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807868739775521171",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807866767462576453",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LoveEveryContry: Love #France."
+      },
+      {
+        "attachments": {},
+        "author_id": "1792029527897669632",
+        "conversation_id": "1807866767462576453",
+        "created_at": "2024-07-01T20:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-01T21:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1807866767462576453"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 5,
+              "tag": "France"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807866767462576453",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Love #France."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UNNC‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2133,
+          "following_count": 2734,
+          "like_count": 40688,
+          "listed_count": 5,
+          "tweet_count": 2562
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-19T03:08:46.000Z",
+        "description": "Love every country in the world.",
+        "id": "1792029527897669632",
+        "location": "World",
+        "name": "Love Every Country",
+        "pinned_tweet_id": "1795128375444377966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792030503291506688/ExF5foMi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2530,
+          "following_count": 292,
+          "like_count": 2117,
+          "listed_count": 2,
+          "tweet_count": 1050
+        },
+        "username": "LoveEveryContry",
+        "verified": true
+      }
+    ]
+  }
+}

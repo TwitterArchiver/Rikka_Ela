@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1944770352804180444",
+    "created_at": "2025-07-14T15:37:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T16:37:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944783256614035584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1668917712851181568",
+          "start": 0,
+          "username": "Astdeitee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944783256614035584",
+    "in_reply_to_user_id": "1668917712851181568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944780370718924968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Astdeitee 补药啊😭）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1944770352804180444",
+        "created_at": "2025-07-14T15:37:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T16:37:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944783256614035584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1668917712851181568",
+              "start": 0,
+              "username": "Astdeitee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944783256614035584",
+        "in_reply_to_user_id": "1668917712851181568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944780370718924968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Astdeitee 补药啊😭）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668917712851181568",
+        "conversation_id": "1944770352804180444",
+        "created_at": "2025-07-14T15:25:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T16:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944780370718924968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944780370718924968",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944770352804180444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 以后是不是还要吃糖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4396,
+          "following_count": 3532,
+          "like_count": 70691,
+          "listed_count": 7,
+          "media_count": 262,
+          "tweet_count": 6463
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-14T09:46:25.000Z",
+        "description": "",
+        "id": "1668917712851181568",
+        "name": "astdéitée",
+        "pinned_tweet_id": "1899678335237575021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683496572682747905/q4TRAlDL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2090,
+          "following_count": 529,
+          "like_count": 40266,
+          "listed_count": 1,
+          "media_count": 837,
+          "tweet_count": 22241
+        },
+        "username": "Astdeitee",
+        "verified": false
+      }
+    ]
+  }
+}

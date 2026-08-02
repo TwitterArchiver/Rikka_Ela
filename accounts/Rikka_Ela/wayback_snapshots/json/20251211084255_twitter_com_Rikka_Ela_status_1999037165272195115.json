@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998960070416281613"
+      ],
+      "media_source_tweet_id": [
+        "1998960074388353155"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "conversation_id": "1999037165272195115",
+    "created_at": "2025-12-11T08:42:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T09:42:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999037165272195115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1841402768789020672",
+          "start": 3,
+          "username": "QuantumCore06"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0piVaXSnVh",
+          "end": 69,
+          "expanded_url": "https://x.com/QuantumCore06/status/1998960074388353155/photo/1",
+          "media_key": "3_1998960070416281613",
+          "start": 46,
+          "url": "https://t.co/0piVaXSnVh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999037165272195115",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998960074388353155",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QuantumCore06: Locked in vs not locked in https://t.co/0piVaXSnVh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 878,
+        "media_key": "3_1998960070416281613",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G727l9VaMA0E_8p.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998960070416281613"
+          ],
+          "media_source_tweet_id": [
+            "1998960074388353155"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "1999037165272195115",
+        "created_at": "2025-12-11T08:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T09:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999037165272195115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1841402768789020672",
+              "start": 3,
+              "username": "QuantumCore06"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0piVaXSnVh",
+              "end": 69,
+              "expanded_url": "https://x.com/QuantumCore06/status/1998960074388353155/photo/1",
+              "media_key": "3_1998960070416281613",
+              "start": 46,
+              "url": "https://t.co/0piVaXSnVh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999037165272195115",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998960074388353155",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QuantumCore06: Locked in vs not locked in https://t.co/0piVaXSnVh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998960070416281613"
+          ]
+        },
+        "author_id": "1841402768789020672",
+        "conversation_id": "1998960074388353155",
+        "created_at": "2025-12-11T03:36:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T04:36:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998960074388353155"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0piVaXSnVh",
+              "end": 50,
+              "expanded_url": "https://x.com/QuantumCore06/status/1998960074388353155/photo/1",
+              "media_key": "3_1998960070416281613",
+              "start": 27,
+              "url": "https://t.co/0piVaXSnVh"
+            },
+            {
+              "display_url": "x.com/quantumcore06/…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/quantumcore06/status/1998639222413209615",
+              "start": 51,
+              "url": "https://t.co/t0B8N4gEtG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998960074388353155",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 11776,
+          "like_count": 955,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998639222413209615",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Locked in vs not locked in https://t.co/0piVaXSnVh https://t.co/t0B8N4gEtG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998852629305118720/IUBW68ZN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4750,
+          "following_count": 3656,
+          "like_count": 77274,
+          "listed_count": 8,
+          "media_count": 339,
+          "tweet_count": 7667
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-02T09:00:35.000Z",
+        "description": "I like to draw, cosplay, and game 24 I do more wip on insta 🙃 https://t.co/uH23uuPbX7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Hit_do_quan",
+                "end": 85,
+                "expanded_url": "https://linktr.ee/Hit_do_quan",
+                "start": 62,
+                "url": "https://t.co/uH23uuPbX7"
+              }
+            ]
+          }
+        },
+        "id": "1841402768789020672",
+        "name": "Quan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898095835931721734/G96LvtLx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 124,
+          "like_count": 7539,
+          "listed_count": 3,
+          "media_count": 223,
+          "tweet_count": 738
+        },
+        "username": "QuantumCore06",
+        "verified": false
+      }
+    ]
+  }
+}

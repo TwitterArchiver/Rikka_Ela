@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1904428045978751037",
+    "created_at": "2025-03-25T10:27:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T11:27:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904480169714131040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1889354518581878784",
+          "start": 0,
+          "username": "huanye2027"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904480169714131040",
+    "in_reply_to_user_id": "1889354518581878784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904428045978751037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huanye2027 握握你的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1904428045978751037",
+        "created_at": "2025-03-25T10:27:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T11:27:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904480169714131040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1889354518581878784",
+              "start": 0,
+              "username": "huanye2027"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904480169714131040",
+        "in_reply_to_user_id": "1889354518581878784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904428045978751037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huanye2027 握握你的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889354518581878784",
+        "conversation_id": "1904428045978751037",
+        "created_at": "2025-03-25T07:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T08:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904428045978751037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aspirinpills53…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Aspirinpills534/status/1904426327786054014",
+              "start": 3,
+              "url": "https://t.co/MAoEKy5uGl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904428045978751037",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 171,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904426327786054014",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉😖 https://t.co/MAoEKy5uGl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3994,
+          "following_count": 3309,
+          "like_count": 63099,
+          "listed_count": 7,
+          "media_count": 181,
+          "tweet_count": 5376
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T16:43:54.000Z",
+        "description": "大东亚共同水警区",
+        "id": "1889354518581878784",
+        "name": "琼",
+        "pinned_tweet_id": "1900409159746805920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904079706615586816/2b2ylc1z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 247,
+          "like_count": 20652,
+          "listed_count": 2,
+          "media_count": 138,
+          "tweet_count": 1237
+        },
+        "username": "huanye2027",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2058372846045589667",
+    "created_at": "2026-05-24T07:16:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T08:16:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058446959547969664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1526965927748571136",
+          "start": 0,
+          "username": "Natsumejuri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058446959547969664",
+    "in_reply_to_user_id": "1526965927748571136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058372846045589667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Natsumejuri 可爱死了🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2058372846045589667",
+        "created_at": "2026-05-24T07:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T08:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058446959547969664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1526965927748571136",
+              "start": 0,
+              "username": "Natsumejuri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058446959547969664",
+        "in_reply_to_user_id": "1526965927748571136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058372846045589667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Natsumejuri 可爱死了🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1526965927748571136",
+        "conversation_id": "2058372846045589667",
+        "created_at": "2026-05-24T02:21:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T03:21:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058372846045589667"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/natsumejuri/st…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/natsumejuri/status/2058372333015048345",
+              "start": 30,
+              "url": "https://t.co/ER8i55S3Ge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058372846045589667",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1192,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058372333015048345",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "昨天去コンカフェ被女仆问能不能来这兼职，或者拍宣传照也行😳 https://t.co/ER8i55S3Ge"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5269,
+          "following_count": 3783,
+          "like_count": 85108,
+          "listed_count": 7,
+          "media_count": 432,
+          "tweet_count": 9596
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-18T16:41:01.000Z",
+        "description": "MtF | Computer Science",
+        "id": "1526965927748571136",
+        "location": "亚空间",
+        "name": "夏子",
+        "pinned_tweet_id": "2032355055467446683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996966756427218944/EWv7GHnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4258,
+          "following_count": 493,
+          "like_count": 22278,
+          "listed_count": 5,
+          "media_count": 591,
+          "tweet_count": 3342
+        },
+        "username": "Natsumejuri",
+        "verified": true
+      }
+    ]
+  }
+}

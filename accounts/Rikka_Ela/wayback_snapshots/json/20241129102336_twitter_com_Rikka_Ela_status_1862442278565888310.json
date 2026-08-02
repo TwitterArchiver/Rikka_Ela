@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1862093367858844064",
+    "created_at": "2024-11-29T10:23:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-29T11:23:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862442278565888310"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1862442278565888310",
+    "in_reply_to_user_id": "1418942200457662477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862093367858844064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "现在挂的是王飚，有推友知道他怎么样吗，会劝家长吗🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1862093367858844064",
+        "created_at": "2024-11-29T10:23:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T11:23:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862442278565888310"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1862442278565888310",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862093367858844064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在挂的是王飚，有推友知道他怎么样吗，会劝家长吗🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1862093367858844064",
+        "created_at": "2024-11-28T11:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T12:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862093367858844064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rikka_Ela/stat…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/Rikka_Ela/status/1861426975807525286",
+              "start": 43,
+              "url": "https://t.co/KYQtsLE4yv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862093367858844064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 10840,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861426975807525286",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "家长说准备带我去上海精卫，但没说看哪个医生，上海精卫的医生一般会在跨上面帮我说话吗😭 https://t.co/KYQtsLE4yv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文\n\n@Y32010705",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 43,
+                "username": "Y32010705"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3157,
+          "following_count": 3080,
+          "like_count": 53296,
+          "listed_count": 5,
+          "media_count": 141,
+          "tweet_count": 3989
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      }
+    ]
+  }
+}

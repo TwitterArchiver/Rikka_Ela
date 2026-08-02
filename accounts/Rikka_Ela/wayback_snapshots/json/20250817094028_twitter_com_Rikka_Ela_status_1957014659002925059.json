@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956675074033160192"
+      ],
+      "media_source_tweet_id": [
+        "1956676216557289553"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "conversation_id": "1957014659002925059",
+    "created_at": "2025-08-17T09:40:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T10:40:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957014659002925059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2692511628",
+          "start": 3,
+          "username": "kohaku_sogo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CNaUFFCVaU",
+          "end": 40,
+          "expanded_url": "https://x.com/kohaku_sogo/status/1956676216557289553/photo/1",
+          "media_key": "3_1956675074033160192",
+          "start": 17,
+          "url": "https://t.co/CNaUFFCVaU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957014659002925059",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1195
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956676216557289553",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kohaku_sogo: https://t.co/CNaUFFCVaU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3541,
+        "media_key": "3_1956675074033160192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyeBnOibkAAHEpK.jpg",
+        "width": 2508
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956675074033160192"
+          ],
+          "media_source_tweet_id": [
+            "1956676216557289553"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "1957014659002925059",
+        "created_at": "2025-08-17T09:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T10:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957014659002925059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2692511628",
+              "start": 3,
+              "username": "kohaku_sogo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CNaUFFCVaU",
+              "end": 40,
+              "expanded_url": "https://x.com/kohaku_sogo/status/1956676216557289553/photo/1",
+              "media_key": "3_1956675074033160192",
+              "start": 17,
+              "url": "https://t.co/CNaUFFCVaU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957014659002925059",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1195
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956676216557289553",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kohaku_sogo: https://t.co/CNaUFFCVaU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956675074033160192"
+          ]
+        },
+        "author_id": "2692511628",
+        "conversation_id": "1956676216557289553",
+        "created_at": "2025-08-16T11:15:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T12:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956676216557289553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CNaUFFCVaU",
+              "end": 23,
+              "expanded_url": "https://x.com/kohaku_sogo/status/1956676216557289553/photo/1",
+              "media_key": "3_1956675074033160192",
+              "start": 0,
+              "url": "https://t.co/CNaUFFCVaU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956676216557289553",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1748,
+          "impression_count": 198783,
+          "like_count": 12846,
+          "quote_count": 7,
+          "reply_count": 10,
+          "retweet_count": 1195
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CNaUFFCVaU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4487,
+          "following_count": 3544,
+          "like_count": 72054,
+          "listed_count": 7,
+          "media_count": 285,
+          "tweet_count": 6775
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2014-07-30T11:03:38.000Z",
+        "description": "けも耳とメイド服がすき\n✦各種リンク、ご依頼についてはこちらから→https://t.co/YjTIPYeoeK┊︎\n✦skeb→https://t.co/bVTFwSMg7g┊︎\n✦sub(@8kohaku_8)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 96,
+                "username": "8kohaku_8"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/kohaku8",
+                "end": 56,
+                "expanded_url": "https://lit.link/kohaku8",
+                "start": 33,
+                "url": "https://t.co/YjTIPYeoeK"
+              },
+              {
+                "display_url": "skeb.jp/@kohaku_sogo",
+                "end": 88,
+                "expanded_url": "https://skeb.jp/@kohaku_sogo",
+                "start": 65,
+                "url": "https://t.co/bVTFwSMg7g"
+              }
+            ]
+          }
+        },
+        "id": "2692511628",
+        "name": "琥珀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912357879006318592/8BJrReGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17072,
+          "following_count": 59,
+          "like_count": 2677,
+          "listed_count": 215,
+          "media_count": 147,
+          "tweet_count": 1277
+        },
+        "username": "kohaku_sogo",
+        "verified": false
+      }
+    ]
+  }
+}

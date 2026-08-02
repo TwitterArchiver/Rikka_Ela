@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1855892719094370418",
+    "created_at": "2024-11-11T11:08:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-11T12:08:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855930483743289568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1706343123524407296",
+          "start": 0,
+          "username": "JOSIAH666666666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855930483743289568",
+    "in_reply_to_user_id": "1706343123524407296",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855902497539502430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JOSIAH666666666 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1855892719094370418",
+        "created_at": "2024-11-11T11:08:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T12:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855930483743289568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1706343123524407296",
+              "start": 0,
+              "username": "JOSIAH666666666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855930483743289568",
+        "in_reply_to_user_id": "1706343123524407296",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855902497539502430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JOSIAH666666666 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1706343123524407296",
+        "conversation_id": "1855892719094370418",
+        "created_at": "2024-11-11T09:16:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T10:16:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855902497539502430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855902497539502430",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855892719094370418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela td"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文\n\nwife:@Y32010705",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "Y32010705"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3053,
+          "following_count": 3043,
+          "like_count": 52406,
+          "listed_count": 5,
+          "tweet_count": 3834
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-25T16:21:29.000Z",
+        "description": "",
+        "id": "1706343123524407296",
+        "name": "JOSIAH",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1706343371630104576/Q-Rr2POh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 43,
+          "like_count": 9,
+          "listed_count": 0,
+          "tweet_count": 63
+        },
+        "username": "JOSIAH666666666",
+        "verified": false
+      }
+    ]
+  }
+}

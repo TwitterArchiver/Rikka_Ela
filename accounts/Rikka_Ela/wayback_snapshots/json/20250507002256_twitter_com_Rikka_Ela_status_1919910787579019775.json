@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1919910787579019775",
+    "created_at": "2025-05-07T00:22:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T01:22:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919910787579019775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1082666583846137856",
+          "start": 3,
+          "username": "shiori_1617"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919910787579019775",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917076603357827464",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shiori_1617: 中国人跑到哪里就要舔哪里的右翼，就应该让习主席把中国人都关在笼子里别放出去祸害人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1919910787579019775",
+        "created_at": "2025-05-07T00:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T01:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919910787579019775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1082666583846137856",
+              "start": 3,
+              "username": "shiori_1617"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919910787579019775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917076603357827464",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shiori_1617: 中国人跑到哪里就要舔哪里的右翼，就应该让习主席把中国人都关在笼子里别放出去祸害人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1082666583846137856",
+        "conversation_id": "1917076603357827464",
+        "created_at": "2025-04-29T04:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T05:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917076603357827464"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1917076603357827464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1801,
+          "like_count": 28,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "中国人跑到哪里就要舔哪里的右翼，就应该让习主席把中国人都关在笼子里别放出去祸害人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4174,
+          "following_count": 3383,
+          "like_count": 65986,
+          "listed_count": 8,
+          "media_count": 208,
+          "tweet_count": 5791
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-08T15:53:23.000Z",
+        "description": "うつ病八年生 「世界」という名の大きな傷に住んでる住民",
+        "id": "1082666583846137856",
+        "name": "🏴 しおり",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859284580181868547/dpYvBO_o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2610,
+          "following_count": 727,
+          "like_count": 23621,
+          "listed_count": 11,
+          "media_count": 24,
+          "tweet_count": 4030
+        },
+        "username": "shiori_1617",
+        "verified": false
+      }
+    ]
+  }
+}

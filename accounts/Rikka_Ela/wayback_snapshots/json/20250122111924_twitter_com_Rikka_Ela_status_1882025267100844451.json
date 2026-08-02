@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1881883090286793184",
+    "created_at": "2025-01-22T11:19:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T12:19:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882025267100844451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1431776320019517445",
+          "start": 0,
+          "username": "KiraRettosei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882025267100844451",
+    "in_reply_to_user_id": "1431776320019517445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881909705272074335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KiraRettosei 有时候会记混，不过是少数情况（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1881883090286793184",
+        "created_at": "2025-01-22T11:19:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T12:19:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882025267100844451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1431776320019517445",
+              "start": 0,
+              "username": "KiraRettosei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882025267100844451",
+        "in_reply_to_user_id": "1431776320019517445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881909705272074335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KiraRettosei 有时候会记混，不过是少数情况（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431776320019517445",
+        "conversation_id": "1881883090286793184",
+        "created_at": "2025-01-22T03:40:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T04:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881909705272074335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881909705272074335",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881883090286793184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 同时学这三门 单词为啥记不混"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3612,
+          "following_count": 3204,
+          "like_count": 57889,
+          "listed_count": 6,
+          "media_count": 163,
+          "tweet_count": 4614
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-29T00:32:03.000Z",
+        "description": "后天木桶饭，后天就后天呗。",
+        "id": "1431776320019517445",
+        "location": "🌏地球村！",
+        "name": "🏳️‍⚧️🇺🇦 🎉神采奕奕的劣等生🧐『女高岁月～』",
+        "pinned_tweet_id": "1881425533235577051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1710687931382501376/7zaBFCz8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1794,
+          "following_count": 2250,
+          "like_count": 32772,
+          "listed_count": 6,
+          "media_count": 809,
+          "tweet_count": 13007
+        },
+        "username": "KiraRettosei",
+        "verified": false
+      }
+    ]
+  }
+}

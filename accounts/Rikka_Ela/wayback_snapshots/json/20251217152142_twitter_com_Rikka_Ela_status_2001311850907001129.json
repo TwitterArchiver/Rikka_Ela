@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2001300524688085455",
+    "created_at": "2025-12-17T15:21:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T16:21:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001311850907001129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1800825433979797504",
+          "start": 0,
+          "username": "Fenglinnai8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001311850907001129",
+    "in_reply_to_user_id": "1800825433979797504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001300524688085455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fenglinnai8964 对不起🧎‍♀️"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2001300524688085455].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2001300524688085455",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2001300524688085455"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2001300524688085455",
+        "created_at": "2025-12-17T15:21:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T16:21:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001311850907001129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1800825433979797504",
+              "start": 0,
+              "username": "Fenglinnai8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001311850907001129",
+        "in_reply_to_user_id": "1800825433979797504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001300524688085455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fenglinnai8964 对不起🧎‍♀️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4804,
+          "following_count": 3667,
+          "like_count": 77508,
+          "listed_count": 8,
+          "media_count": 345,
+          "tweet_count": 7719
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-12T09:40:36.000Z",
+        "description": "🤐请明说不喜欢我的点，我尽量改\n\n🥺优先过熟人，陌生人请优先关注大号@VonLinne2003\n\n⚠️有阴暗碎碎念和不友善蛐蛐内容，介意者可双取\n\n🫢为了净化Timeline 会随意B，被B 不是你的错\n\n😶‍🌫️智力偏低但可以生活自理，勉强能活",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "VonLinne2003"
+              }
+            ]
+          }
+        },
+        "id": "1800825433979797504",
+        "name": "冯什么的",
+        "pinned_tweet_id": "2001146894316449805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984959976079777793/B3G-ZREb_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 140,
+          "like_count": 36018,
+          "listed_count": 0,
+          "media_count": 1565,
+          "tweet_count": 13250
+        },
+        "username": "Fenglinnai8964",
+        "verified": false
+      }
+    ]
+  }
+}

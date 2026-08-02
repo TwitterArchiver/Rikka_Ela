@@ -1,0 +1,325 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1808930719500283954",
+    "created_at": "2024-07-04T18:55:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-04T19:55:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808937764651741439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1255407520409100291",
+          "start": 0,
+          "username": "SustainablSyrup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808937764651741439",
+    "in_reply_to_user_id": "1255407520409100291",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808930719500283954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SustainablSyrup 我静息就40出头🥺，不过我心脏本来就有点问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1808930719500283954",
+        "created_at": "2024-07-04T18:55:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T19:55:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808937764651741439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1255407520409100291",
+              "start": 0,
+              "username": "SustainablSyrup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808937764651741439",
+        "in_reply_to_user_id": "1255407520409100291",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808930719500283954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SustainablSyrup 我静息就40出头🥺，不过我心脏本来就有点问题"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1808930712915226627",
+            "3_1808930712919420928"
+          ]
+        },
+        "author_id": "1255407520409100291",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1697053249440731136",
+              "name": "Apple Event 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1717672666507730944",
+              "name": "Apple Event"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044419438",
+              "name": "Apple - Watch"
+            }
+          }
+        ],
+        "conversation_id": "1808930719500283954",
+        "created_at": "2024-07-04T18:27:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T19:27:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808930719500283954"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/PBeADHbDdM",
+              "end": 102,
+              "expanded_url": "https://twitter.com/SustainablSyrup/status/1808930719500283954/photo/1",
+              "media_key": "3_1808930712915226627",
+              "start": 79,
+              "url": "https://t.co/PBeADHbDdM"
+            },
+            {
+              "display_url": "pic.twitter.com/PBeADHbDdM",
+              "end": 102,
+              "expanded_url": "https://twitter.com/SustainablSyrup/status/1808930719500283954/photo/1",
+              "media_key": "3_1808930712919420928",
+              "start": 79,
+              "url": "https://t.co/PBeADHbDdM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808930719500283954",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是，我这静息心跳好低啊，我是不是要死了。\n昨天刚收了个Apple watch就为了看这个。\n不过相比高中似乎已经快了很多，高中体检他妈能测出来47bpm。 https://t.co/PBeADHbDdM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UNNC‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2138,
+          "following_count": 2737,
+          "like_count": 40960,
+          "listed_count": 5,
+          "tweet_count": 2574
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-29T08:04:23.000Z",
+        "description": "美式话唠跨女/ HRT 2023.3 🏳️‍⚧️/家暴党/美国全奖纯艺MFA/摄影视频雕塑/ESFP/美妆咖啡拍照开车做饭)",
+        "id": "1255407520409100291",
+        "location": "Los Angeles, CA",
+        "name": "可持续糖浆🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722780515496034304/B__zhit3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1007,
+          "following_count": 1033,
+          "like_count": 4090,
+          "listed_count": 2,
+          "tweet_count": 2070
+        },
+        "username": "SustainablSyrup",
+        "verified": false
+      }
+    ]
+  }
+}

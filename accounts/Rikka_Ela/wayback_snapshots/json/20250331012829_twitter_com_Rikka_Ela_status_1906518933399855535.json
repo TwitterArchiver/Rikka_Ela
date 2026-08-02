@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1906359383031751125",
+    "created_at": "2025-03-31T01:28:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T02:28:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906518933399855535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1874104856375693312",
+          "start": 0,
+          "username": "shaoxiancao520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906518933399855535",
+    "in_reply_to_user_id": "1874104856375693312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906359383031751125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shaoxiancao520 女chaser其实并不少（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1906359383031751125",
+        "created_at": "2025-03-31T01:28:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T02:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906518933399855535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1874104856375693312",
+              "start": 0,
+              "username": "shaoxiancao520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906518933399855535",
+        "in_reply_to_user_id": "1874104856375693312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906359383031751125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shaoxiancao520 女chaser其实并不少（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874104856375693312",
+        "conversation_id": "1906359383031751125",
+        "created_at": "2025-03-30T14:54:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T15:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906359383031751125"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1906359383031751125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 735,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跨女真的能找到顺女当情侣嘛？感觉这种很少见诶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4023,
+          "following_count": 3319,
+          "like_count": 63589,
+          "listed_count": 8,
+          "media_count": 184,
+          "tweet_count": 5422
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-31T14:46:44.000Z",
+        "description": "mtf丨09年161cm药娘丨性别认知障碍丨双向情感障碍丨中度抑郁丨焦虑症丨高浓度二次元丨坐标郑州丨《蛊真人》死忠粉",
+        "id": "1874104856375693312",
+        "location": "郑州",
+        "name": "烧仙草🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1884609840162738487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874107298957713408/dqy3PxZ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 574,
+          "like_count": 939,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 141
+        },
+        "username": "shaoxiancao520",
+        "verified": true
+      }
+    ]
+  }
+}

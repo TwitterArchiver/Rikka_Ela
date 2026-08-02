@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1987895714270109905",
+    "created_at": "2025-11-10T22:38:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T23:38:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988013480666976587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1680317760507719682",
+          "start": 0,
+          "username": "laymangao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988013480666976587",
+    "in_reply_to_user_id": "1680317760507719682",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 77,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987998461124624520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@laymangao 我英国的主流院校的化学教授基本都问过了，现在国际学生很多已经发不出钱了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1987895714270109905",
+        "created_at": "2025-11-10T22:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T23:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988013480666976587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1680317760507719682",
+              "start": 0,
+              "username": "laymangao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988013480666976587",
+        "in_reply_to_user_id": "1680317760507719682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987998461124624520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@laymangao 我英国的主流院校的化学教授基本都问过了，现在国际学生很多已经发不出钱了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680317760507719682",
+        "conversation_id": "1987895714270109905",
+        "created_at": "2025-11-10T21:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T22:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987998461124624520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987998461124624520",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987895714270109905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 不知道你现在身份算是 home 还是 international。我 N 多年前，拿的全奖，当时就已经非常稀少了。我拿到了 home 的全奖（home tuition fee +stipend )，然后导师 找学院又弄了钱补齐国际学生的学费差额。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4734,
+          "following_count": 3635,
+          "like_count": 75671,
+          "listed_count": 8,
+          "media_count": 325,
+          "tweet_count": 7433
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-15T20:46:00.000Z",
+        "description": "Sales in Biotech",
+        "id": "1680317760507719682",
+        "location": "London, England",
+        "name": "LaymanG",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893649335323111424/FAm--oEw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 390,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 389
+        },
+        "username": "laymangao",
+        "verified": false
+      }
+    ]
+  }
+}

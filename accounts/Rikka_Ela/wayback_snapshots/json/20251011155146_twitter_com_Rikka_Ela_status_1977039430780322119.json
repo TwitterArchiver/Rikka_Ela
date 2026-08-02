@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1976965623378067890",
+    "created_at": "2025-10-11T15:51:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T16:51:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977039430780322119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1665435256130813952",
+          "start": 0,
+          "username": "Elans0g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977039430780322119",
+    "in_reply_to_user_id": "1665435256130813952",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976978909213417665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Elans0g 🥰🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1976965623378067890",
+        "created_at": "2025-10-11T15:51:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T16:51:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977039430780322119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1665435256130813952",
+              "start": 0,
+              "username": "Elans0g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977039430780322119",
+        "in_reply_to_user_id": "1665435256130813952",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976978909213417665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Elans0g 🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1665435256130813952",
+        "conversation_id": "1976965623378067890",
+        "created_at": "2025-10-11T11:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T12:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976978909213417665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976978909213417665",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976965623378067890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 宝宝爱你🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4671,
+          "following_count": 3574,
+          "like_count": 73806,
+          "listed_count": 9,
+          "media_count": 307,
+          "tweet_count": 7103
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-04T19:08:15.000Z",
+        "description": "",
+        "id": "1665435256130813952",
+        "location": "IP location: Nanjing",
+        "name": "Henri fédrérique",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1665444448396881923/o23phKU9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 273,
+          "like_count": 132607,
+          "listed_count": 4,
+          "media_count": 15,
+          "tweet_count": 6699
+        },
+        "username": "Elans0g",
+        "verified": false
+      }
+    ]
+  }
+}

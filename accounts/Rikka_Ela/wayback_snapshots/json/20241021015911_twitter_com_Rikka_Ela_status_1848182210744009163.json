@@ -1,0 +1,141 @@
+{
+  "data": {
+    "author_id": "1418942200457662477",
+    "conversation_id": "1848182210744009163",
+    "created_at": "2024-10-21T01:59:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-21T02:59:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1848182210744009163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1162532347276738562",
+          "start": 3,
+          "username": "sanzhao41"
+        }
+      ]
+    },
+    "id": "1848182210744009163",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847848373480804625",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sanzhao41: 很多男性痛恨女性的原因是，世界欠我一個老婆/女友。某些老男大V對鐵鏈女事件的評論，把娶老婆都上升到人權層面了。incel 更明顯，因為找不到而外化一切都是女人的問題，愛俏愛錢愛尺寸。說得自己有得選，不會選年輕漂亮身材好似的。人之常情，女性選就成了罪…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1418942200457662477",
+        "conversation_id": "1848182210744009163",
+        "created_at": "2024-10-21T01:59:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-21T02:59:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1848182210744009163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1162532347276738562",
+              "start": 3,
+              "username": "sanzhao41"
+            }
+          ]
+        },
+        "id": "1848182210744009163",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847848373480804625",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sanzhao41: 很多男性痛恨女性的原因是，世界欠我一個老婆/女友。某些老男大V對鐵鏈女事件的評論，把娶老婆都上升到人權層面了。incel 更明顯，因為找不到而外化一切都是女人的問題，愛俏愛錢愛尺寸。說得自己有得選，不會選年輕漂亮身材好似的。人之常情，女性選就成了罪…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文\n\n@Y32010705",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 43,
+                "username": "Y32010705"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3165,
+          "following_count": 3099,
+          "like_count": 53885,
+          "listed_count": 5,
+          "media_count": 145,
+          "tweet_count": 4068
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-17T01:11:36.000Z",
+        "description": "願榮光歸香港 和理非舊移民HKer, 本人言論，全是私貨。不接任何廣告，勿擾。",
+        "id": "1162532347276738562",
+        "name": "四爪",
+        "pinned_tweet_id": "1858456107783774345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602675255906308096/BDJfUEqP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53626,
+          "following_count": 4169,
+          "like_count": 335996,
+          "listed_count": 220,
+          "media_count": 6931,
+          "tweet_count": 131096
+        },
+        "username": "sanzhao41",
+        "verified": false
+      }
+    ]
+  }
+}

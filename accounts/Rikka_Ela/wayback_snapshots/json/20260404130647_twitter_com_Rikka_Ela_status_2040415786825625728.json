@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2040413995904233551",
+    "created_at": "2026-04-04T13:06:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T14:06:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040415786825625728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1462419807173677059",
+          "start": 0,
+          "username": "Jane_S_Eye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040415786825625728",
+    "in_reply_to_user_id": "1462419807173677059",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040413995904233551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jane_S_Eye 妈妈😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040413982000103424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFEBtL_bQAAPHGR.jpg",
+        "width": 1164
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2040413995904233551",
+        "created_at": "2026-04-04T13:06:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T14:06:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040415786825625728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1462419807173677059",
+              "start": 0,
+              "username": "Jane_S_Eye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040415786825625728",
+        "in_reply_to_user_id": "1462419807173677059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040413995904233551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jane_S_Eye 妈妈😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040413982000103424"
+          ]
+        },
+        "author_id": "1462419807173677059",
+        "conversation_id": "2040413995904233551",
+        "created_at": "2026-04-04T12:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T13:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040413995904233551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oNLSGQ0m4B",
+              "end": 43,
+              "expanded_url": "https://x.com/Jane_S_Eye/status/2040413995904233551/photo/1",
+              "media_key": "3_2040413982000103424",
+              "start": 20,
+              "url": "https://t.co/oNLSGQ0m4B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040413995904233551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 76,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "保守主义变性女人要去享受她的夜生活了😡 https://t.co/oNLSGQ0m4B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5004,
+          "following_count": 3734,
+          "like_count": 81186,
+          "listed_count": 9,
+          "media_count": 394,
+          "tweet_count": 8747
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-21T13:58:25.000Z",
+        "description": "she/her but Not a whore.",
+        "id": "1462419807173677059",
+        "name": "Muriel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029156960873136132/u-emapK9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11137,
+          "following_count": 3134,
+          "like_count": 12758,
+          "listed_count": 21,
+          "media_count": 462,
+          "tweet_count": 8156
+        },
+        "username": "Jane_S_Eye",
+        "verified": false
+      }
+    ]
+  }
+}

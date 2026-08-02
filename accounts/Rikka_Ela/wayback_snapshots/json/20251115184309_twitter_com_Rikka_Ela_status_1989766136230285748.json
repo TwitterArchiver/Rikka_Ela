@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1989720769065300129",
+    "created_at": "2025-11-15T18:43:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T19:43:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989766136230285748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1792933283040284673",
+          "start": 0,
+          "username": "tuamitx0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989766136230285748",
+    "in_reply_to_user_id": "1792933283040284673",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989720769065300129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tuamitx0 🥺🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1989720769065300129",
+        "created_at": "2025-11-15T18:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T19:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989766136230285748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1792933283040284673",
+              "start": 0,
+              "username": "tuamitx0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989766136230285748",
+        "in_reply_to_user_id": "1792933283040284673",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989720769065300129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tuamitx0 🥺🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792933283040284673",
+        "conversation_id": "1989720769065300129",
+        "created_at": "2025-11-15T15:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T16:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989720769065300129"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989720769065300129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得我喜欢跨妹感觉也是一种代位补偿。我希望她们好好的，我做不到的事情，但是她们可以做到。总是觉得她们是走了另一条路的自己。我爱着我的宝宝们，我希望她们好好的，希望能得到幸福。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4760,
+          "following_count": 3646,
+          "like_count": 75982,
+          "listed_count": 8,
+          "media_count": 327,
+          "tweet_count": 7469
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-21T15:00:28.000Z",
+        "description": "我希望我爱的人都好好的🥺♥️",
+        "id": "1792933283040284673",
+        "location": "臺灣 ",
+        "name": "catalyst",
+        "pinned_tweet_id": "1976573659189015037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988498253508399104/toazK1iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 642,
+          "like_count": 15560,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 10552
+        },
+        "username": "tuamitx0",
+        "verified": false
+      }
+    ]
+  }
+}

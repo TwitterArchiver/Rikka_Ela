@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1963303301598121990"
+      ],
+      "media_source_tweet_id": [
+        "1963303304928399823"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "conversation_id": "1963804045245653484",
+    "created_at": "2025-09-05T03:19:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T04:19:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963804045245653484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1077572181989613568",
+          "start": 3,
+          "username": "ushizou001"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WHUzDgbb12",
+          "end": 43,
+          "expanded_url": "https://x.com/ushizou001/status/1963303304928399823/photo/1",
+          "media_key": "3_1963303301598121990",
+          "start": 20,
+          "url": "https://t.co/WHUzDgbb12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963804045245653484",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1482
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963303304928399823",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ushizou001: 😵😵😵 https://t.co/WHUzDgbb12"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2002,
+        "media_key": "3_1963303301598121990",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz8N82YbkAYD2Kh.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963303301598121990"
+          ],
+          "media_source_tweet_id": [
+            "1963303304928399823"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "1963804045245653484",
+        "created_at": "2025-09-05T03:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T04:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963804045245653484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1077572181989613568",
+              "start": 3,
+              "username": "ushizou001"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WHUzDgbb12",
+              "end": 43,
+              "expanded_url": "https://x.com/ushizou001/status/1963303304928399823/photo/1",
+              "media_key": "3_1963303301598121990",
+              "start": 20,
+              "url": "https://t.co/WHUzDgbb12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963804045245653484",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1482
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963303304928399823",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ushizou001: 😵😵😵 https://t.co/WHUzDgbb12"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963303301598121990"
+          ]
+        },
+        "author_id": "1077572181989613568",
+        "conversation_id": "1963303304928399823",
+        "created_at": "2025-09-03T18:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T19:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963303304928399823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WHUzDgbb12",
+              "end": 27,
+              "expanded_url": "https://x.com/ushizou001/status/1963303304928399823/photo/1",
+              "media_key": "3_1963303301598121990",
+              "start": 4,
+              "url": "https://t.co/WHUzDgbb12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963303304928399823",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 872,
+          "impression_count": 402595,
+          "like_count": 16611,
+          "quote_count": 58,
+          "reply_count": 29,
+          "retweet_count": 1482
+        },
+        "reply_settings": "everyone",
+        "text": "😵😵😵 https://t.co/WHUzDgbb12"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4510,
+          "following_count": 3546,
+          "like_count": 72593,
+          "listed_count": 9,
+          "media_count": 292,
+          "tweet_count": 6900
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-25T14:30:03.000Z",
+        "description": "フィギュア作ったりゲームしたりしてます💩\nフロムとラブライブ好き\nつくったもの：https://t.co/fRDCjIwaar",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "min.togetter.com/LfZZrIv",
+                "end": 63,
+                "expanded_url": "http://min.togetter.com/LfZZrIv",
+                "start": 40,
+                "url": "https://t.co/fRDCjIwaar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ushizou001.booth.pm",
+                "end": 23,
+                "expanded_url": "https://ushizou001.booth.pm/",
+                "start": 0,
+                "url": "https://t.co/hvWAShVH1B"
+              }
+            ]
+          }
+        },
+        "id": "1077572181989613568",
+        "name": "うしぞう",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1598553901342433281/QeaAXLR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3614,
+          "following_count": 867,
+          "like_count": 42651,
+          "listed_count": 37,
+          "media_count": 1579,
+          "tweet_count": 9437
+        },
+        "url": "https://t.co/hvWAShVH1B",
+        "username": "ushizou001",
+        "verified": false
+      }
+    ]
+  }
+}

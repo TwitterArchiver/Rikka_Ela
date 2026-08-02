@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1837762906693554432",
+    "created_at": "2024-09-22T07:56:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-22T08:56:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1837762906693554432"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/verthandiwyrd/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/verthandiwyrd/status/1837495075150221467",
+          "start": 8,
+          "url": "https://t.co/vwCpu7A302"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837762906693554432",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837495075150221467",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这完全就是我😇 https://t.co/vwCpu7A302"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1837762906693554432",
+        "created_at": "2024-09-22T07:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T08:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837762906693554432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/verthandiwyrd/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/verthandiwyrd/status/1837495075150221467",
+              "start": 8,
+              "url": "https://t.co/vwCpu7A302"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837762906693554432",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837495075150221467",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这完全就是我😇 https://t.co/vwCpu7A302"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1395099554538659840",
+        "conversation_id": "1837495075150221467",
+        "created_at": "2024-09-21T14:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T15:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837495075150221467"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1837495075150221467",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 279,
+          "like_count": 10,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的觉得，学理工的，很多都是铁憨憨，情商低点一皮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文\n\nwife:@Y32010705",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "Y32010705"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2826,
+          "following_count": 2922,
+          "like_count": 48942,
+          "listed_count": 6,
+          "tweet_count": 3316
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-19T19:30:34.000Z",
+        "description": "",
+        "id": "1395099554538659840",
+        "name": "数字生命体（惆怅版）",
+        "pinned_tweet_id": "1714220522081550370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764956848292265984/llBHjWx5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 507,
+          "like_count": 10887,
+          "listed_count": 1,
+          "tweet_count": 5565
+        },
+        "username": "verthandiwyrd",
+        "verified": false
+      }
+    ]
+  }
+}

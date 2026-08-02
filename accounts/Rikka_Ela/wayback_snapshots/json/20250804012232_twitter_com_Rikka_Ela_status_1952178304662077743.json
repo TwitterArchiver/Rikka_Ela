@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1952087972377153561",
+    "created_at": "2025-08-04T01:22:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T02:22:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952178304662077743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1792933283040284673",
+          "start": 0,
+          "username": "tuamitx0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952178304662077743",
+    "in_reply_to_user_id": "1792933283040284673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952087972377153561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tuamitx0 其实这件事不管怎么样，天龙人死了就是好似😁）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1952087972377153561",
+        "created_at": "2025-08-04T01:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T02:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952178304662077743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1792933283040284673",
+              "start": 0,
+              "username": "tuamitx0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952178304662077743",
+        "in_reply_to_user_id": "1792933283040284673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952087972377153561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tuamitx0 其实这件事不管怎么样，天龙人死了就是好似😁）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792933283040284673",
+        "conversation_id": "1952087972377153561",
+        "created_at": "2025-08-03T19:23:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T20:23:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952087972377153561"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952087972377153561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 419,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "武大图书馆，难道不是天龙人男蛆，公开性骚扰女生。女生很勇敢地站出来了，结果被扣帽子，污名化吗。天龙人又又又被洗白了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4447,
+          "following_count": 3538,
+          "like_count": 71522,
+          "listed_count": 7,
+          "media_count": 275,
+          "tweet_count": 6651
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-21T15:00:28.000Z",
+        "description": "我希望我爱的人都好好的🥺♥️",
+        "id": "1792933283040284673",
+        "location": "臺灣 ",
+        "name": "fish 🐡",
+        "pinned_tweet_id": "1942656228704063793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950475156113281031/05Pgn5Wb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 585,
+          "like_count": 12015,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 6931
+        },
+        "username": "tuamitx0",
+        "verified": false
+      }
+    ]
+  }
+}

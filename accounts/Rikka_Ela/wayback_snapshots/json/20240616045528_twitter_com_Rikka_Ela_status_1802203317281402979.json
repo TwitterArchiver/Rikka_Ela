@@ -1,0 +1,211 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1802042423293452572",
+    "created_at": "2024-06-16T04:55:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-16T05:55:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802203317281402979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1280062360170885122",
+          "start": 0,
+          "username": "kushamiyeyou"
+        },
+        {
+          "end": 23,
+          "id": "1647511661568475141",
+          "start": 14,
+          "username": "Keoxpnsr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802203317281402979",
+    "in_reply_to_user_id": "1280062360170885122",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802042883295588590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kushamiyeyou @Keoxpnsr ？😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1802042423293452572",
+        "created_at": "2024-06-16T04:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T05:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802203317281402979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1280062360170885122",
+              "start": 0,
+              "username": "kushamiyeyou"
+            },
+            {
+              "end": 23,
+              "id": "1647511661568475141",
+              "start": 14,
+              "username": "Keoxpnsr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802203317281402979",
+        "in_reply_to_user_id": "1280062360170885122",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802042883295588590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kushamiyeyou @Keoxpnsr ？😨"
+      },
+      {
+        "attachments": {},
+        "author_id": "1280062360170885122",
+        "conversation_id": "1802042423293452572",
+        "created_at": "2024-06-15T18:17:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T19:17:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802042883295588590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1647511661568475141",
+              "start": 0,
+              "username": "Keoxpnsr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802042883295588590",
+        "in_reply_to_user_id": "1647511661568475141",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 760,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802042423293452572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Keoxpnsr 为什么不能是同一个）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UNNC‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2103,
+          "following_count": 2699,
+          "like_count": 38332,
+          "listed_count": 5,
+          "tweet_count": 2394
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-06T08:53:53.000Z",
+        "description": "T'aimer est une galère",
+        "id": "1280062360170885122",
+        "location": "东方幻想乡",
+        "name": "苦沙弥夜悠",
+        "pinned_tweet_id": "1792605433904951723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755971673659260928/-PkuJr0a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3294,
+          "following_count": 1508,
+          "like_count": 55775,
+          "listed_count": 15,
+          "tweet_count": 28077
+        },
+        "username": "kushamiyeyou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-16T08:06:33.000Z",
+        "description": "我在海底躲雨，要一起吗，把伞留给岸上需要的人。",
+        "id": "1647511661568475141",
+        "location": "福瑞控之家",
+        "name": "皓什么皓🔛Athens",
+        "pinned_tweet_id": "1734965587196195201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794947125769629696/Fp7itkgz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4807,
+          "following_count": 350,
+          "like_count": 14385,
+          "listed_count": 4,
+          "tweet_count": 4837
+        },
+        "username": "Keoxpnsr",
+        "verified": false
+      }
+    ]
+  }
+}

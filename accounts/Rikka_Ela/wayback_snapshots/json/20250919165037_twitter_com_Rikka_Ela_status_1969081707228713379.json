@@ -1,0 +1,472 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1205545936786579456",
+          "name": "Hidetaka Miyazaki"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming Personalities & Esports Players",
+          "id": "1146103171086819328",
+          "name": "Gaming influencers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1205545936786579456",
+          "name": "Hidetaka Miyazaki"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1288169348553564160",
+          "name": "Game industry professionals"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "136",
+          "name": "Video Game Personality "
+        },
+        "entity": {
+          "id": "1205545936786579456",
+          "name": "Hidetaka Miyazaki"
+        }
+      }
+    ],
+    "conversation_id": "1969081707228713379",
+    "created_at": "2025-09-19T16:50:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T17:50:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969081707228713379"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/videoartgame/s…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/videoartgame/status/1969023683709591925",
+          "start": 21,
+          "url": "https://t.co/bRcH65BuP3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969081707228713379",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969023683709591925",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "他不会死，只是去他创造的游戏世界里了🥸） https://t.co/bRcH65BuP3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1213,
+        "media_key": "3_1969011915964694528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1NV58GWQAAr7V9.jpg",
+        "width": 802
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1205545936786579456",
+              "name": "Hidetaka Miyazaki"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming Personalities & Esports Players",
+              "id": "1146103171086819328",
+              "name": "Gaming influencers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1205545936786579456",
+              "name": "Hidetaka Miyazaki"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1288169348553564160",
+              "name": "Game industry professionals"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "136",
+              "name": "Video Game Personality "
+            },
+            "entity": {
+              "id": "1205545936786579456",
+              "name": "Hidetaka Miyazaki"
+            }
+          }
+        ],
+        "conversation_id": "1969081707228713379",
+        "created_at": "2025-09-19T16:50:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T17:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969081707228713379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/videoartgame/s…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/videoartgame/status/1969023683709591925",
+              "start": 21,
+              "url": "https://t.co/bRcH65BuP3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969081707228713379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969023683709591925",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他不会死，只是去他创造的游戏世界里了🥸） https://t.co/bRcH65BuP3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969011915964694528"
+          ]
+        },
+        "author_id": "839280506931924992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1205545936786579456",
+              "name": "Hidetaka Miyazaki"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming Personalities & Esports Players",
+              "id": "1146103171086819328",
+              "name": "Gaming influencers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1205545936786579456",
+              "name": "Hidetaka Miyazaki"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1288169348553564160",
+              "name": "Game industry professionals"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "136",
+              "name": "Video Game Personality "
+            },
+            "entity": {
+              "id": "1205545936786579456",
+              "name": "Hidetaka Miyazaki"
+            }
+          }
+        ],
+        "conversation_id": "1969023683709591925",
+        "created_at": "2025-09-19T13:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T14:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969023683709591925"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "Hidetaka Miyazaki",
+              "probability": 0.9086,
+              "start": 16,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lFKfq2SdAz",
+              "end": 58,
+              "expanded_url": "https://x.com/VideoArtGame/status/1969023683709591925/photo/1",
+              "media_key": "3_1969011915964694528",
+              "start": 35,
+              "url": "https://t.co/lFKfq2SdAz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969023683709591925",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 20259,
+          "like_count": 1392,
+          "quote_count": 28,
+          "reply_count": 3,
+          "retweet_count": 132
+        },
+        "reply_settings": "everyone",
+        "text": "Happy birthday, Hidetaka Miyazaki. https://t.co/lFKfq2SdAz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4523,
+          "following_count": 3549,
+          "like_count": 73065,
+          "listed_count": 9,
+          "media_count": 299,
+          "tweet_count": 6965
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-08T01:04:00.000Z",
+        "description": "Dedicated to art: official art, concept art, fan art, illustration, pixel art, 3D, etc. As an Amazon Associate I earn from qualifying purchases. DM for business",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.com/shop/videoartg…",
+                "end": 23,
+                "expanded_url": "http://www.amazon.com/shop/videoartgame",
+                "start": 0,
+                "url": "https://t.co/888hMWlqhO"
+              }
+            ]
+          }
+        },
+        "id": "839280506931924992",
+        "location": "videoartgameofficial@gmail.com",
+        "name": "VideoArtGame",
+        "pinned_tweet_id": "1869065024922071247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/909705555098443777/h2LZE2he_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418809,
+          "following_count": 100,
+          "like_count": 6407,
+          "listed_count": 2039,
+          "media_count": 38446,
+          "tweet_count": 40175
+        },
+        "url": "https://t.co/888hMWlqhO",
+        "username": "VideoArtGame",
+        "verified": true
+      }
+    ]
+  }
+}

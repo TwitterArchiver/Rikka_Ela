@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013643210870898688"
+      ],
+      "media_source_tweet_id": [
+        "2013643246132699279"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "conversation_id": "2013991185455444384",
+    "created_at": "2026-01-21T15:04:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T16:04:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013991185455444384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3149890206",
+          "start": 3,
+          "username": "RajaNandepu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LhaznMYXyM",
+          "end": 54,
+          "expanded_url": "https://x.com/RajaNandepu/status/2013643246132699279/photo/1",
+          "media_key": "3_2013643210870898688",
+          "start": 31,
+          "url": "https://t.co/LhaznMYXyM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013991185455444384",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 235
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013643246132699279",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RajaNandepu: Red and White https://t.co/LhaznMYXyM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2013643210870898688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_Hl1OBWQAA8PRa.jpg",
+        "width": 3271
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013643210870898688"
+          ],
+          "media_source_tweet_id": [
+            "2013643246132699279"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "2013991185455444384",
+        "created_at": "2026-01-21T15:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T16:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013991185455444384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3149890206",
+              "start": 3,
+              "username": "RajaNandepu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LhaznMYXyM",
+              "end": 54,
+              "expanded_url": "https://x.com/RajaNandepu/status/2013643246132699279/photo/1",
+              "media_key": "3_2013643210870898688",
+              "start": 31,
+              "url": "https://t.co/LhaznMYXyM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013991185455444384",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 235
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013643246132699279",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RajaNandepu: Red and White https://t.co/LhaznMYXyM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013643210870898688"
+          ]
+        },
+        "author_id": "3149890206",
+        "conversation_id": "2013643246132699279",
+        "created_at": "2026-01-20T16:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T17:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013643246132699279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LhaznMYXyM",
+              "end": 37,
+              "expanded_url": "https://x.com/RajaNandepu/status/2013643246132699279/photo/1",
+              "media_key": "3_2013643210870898688",
+              "start": 14,
+              "url": "https://t.co/LhaznMYXyM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013643246132699279",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 295,
+          "impression_count": 23919,
+          "like_count": 2844,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 235
+        },
+        "reply_settings": "everyone",
+        "text": "Red and White https://t.co/LhaznMYXyM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4881,
+          "following_count": 3701,
+          "like_count": 78829,
+          "listed_count": 8,
+          "media_count": 364,
+          "tweet_count": 8092
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-11T14:32:04.000Z",
+        "description": "Illustrator & concept artist :WOTC (MTG) .\nGrab 2026  calendars here https://t.co/g28z3LDJU8 💎https://t.co/RoM24phBmK 💎",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "rajanandepu.myshopify.com",
+                "end": 92,
+                "expanded_url": "https://rajanandepu.myshopify.com",
+                "start": 69,
+                "url": "https://t.co/g28z3LDJU8"
+              },
+              {
+                "display_url": "instagram.com/raja.nandepu",
+                "end": 117,
+                "expanded_url": "http://instagram.com/raja.nandepu",
+                "start": 94,
+                "url": "https://t.co/RoM24phBmK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/rajanandepu",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/rajanandepu",
+                "start": 0,
+                "url": "https://t.co/lOc4btyhRc"
+              }
+            ]
+          }
+        },
+        "id": "3149890206",
+        "location": "Artverse",
+        "name": "Raja Nandepu",
+        "pinned_tweet_id": "1892589850802462775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1519311553769709570/YaywTFEp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106389,
+          "following_count": 1696,
+          "like_count": 22382,
+          "listed_count": 958,
+          "media_count": 3268,
+          "tweet_count": 15023
+        },
+        "url": "https://t.co/lOc4btyhRc",
+        "username": "RajaNandepu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,511 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "872842877063147521",
+          "name": "Bloodborne"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "872842877063147521",
+          "name": "Bloodborne"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Bloodborne",
+          "id": "10049908034",
+          "name": "Bloodborne"
+        }
+      }
+    ],
+    "conversation_id": "1977506963547173305",
+    "created_at": "2025-10-12T22:49:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T23:49:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1977506963547173305"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/videoartgame/s…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/videoartgame/status/1977460512192630911",
+          "start": 11,
+          "url": "https://t.co/Nyj1yci2n8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977506963547173305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977460512192630911",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "“夜晚和梦都太长了” https://t.co/Nyj1yci2n8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 736,
+        "media_key": "3_1977318132151681024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3DYXWrXAAAvWfx.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "872842877063147521",
+              "name": "Bloodborne"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "872842877063147521",
+              "name": "Bloodborne"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Bloodborne",
+              "id": "10049908034",
+              "name": "Bloodborne"
+            }
+          }
+        ],
+        "conversation_id": "1977506963547173305",
+        "created_at": "2025-10-12T22:49:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T23:49:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977506963547173305"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/videoartgame/s…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/videoartgame/status/1977460512192630911",
+              "start": 11,
+              "url": "https://t.co/Nyj1yci2n8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977506963547173305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977460512192630911",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“夜晚和梦都太长了” https://t.co/Nyj1yci2n8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977318132151681024"
+          ]
+        },
+        "author_id": "839280506931924992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "872842877063147521",
+              "name": "Bloodborne"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "872842877063147521",
+              "name": "Bloodborne"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Bloodborne",
+              "id": "10049908034",
+              "name": "Bloodborne"
+            }
+          }
+        ],
+        "conversation_id": "1977460512192630911",
+        "created_at": "2025-10-12T19:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T20:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977460512192630911"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "Bloodborne",
+              "probability": 0.9716,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T9d8TkGLtG",
+              "end": 34,
+              "expanded_url": "https://x.com/VideoArtGame/status/1977460512192630911/photo/1",
+              "media_key": "3_1977318132151681024",
+              "start": 11,
+              "url": "https://t.co/T9d8TkGLtG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977460512192630911",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 9839,
+          "like_count": 581,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "Bloodborne https://t.co/T9d8TkGLtG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4675,
+          "following_count": 3577,
+          "like_count": 73853,
+          "listed_count": 9,
+          "media_count": 308,
+          "tweet_count": 7119
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-08T01:04:00.000Z",
+        "description": "Dedicated to art: official art, concept art, fan art, illustration, pixel art, 3D, etc. As an Amazon Associate I earn from qualifying purchases. DM for business",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.com/shop/videoartg…",
+                "end": 23,
+                "expanded_url": "http://www.amazon.com/shop/videoartgame",
+                "start": 0,
+                "url": "https://t.co/888hMWlqhO"
+              }
+            ]
+          }
+        },
+        "id": "839280506931924992",
+        "location": "videoartgameofficial@gmail.com",
+        "name": "VideoArtGame",
+        "pinned_tweet_id": "1869065024922071247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/909705555098443777/h2LZE2he_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419984,
+          "following_count": 100,
+          "like_count": 6415,
+          "listed_count": 2020,
+          "media_count": 39196,
+          "tweet_count": 40933
+        },
+        "url": "https://t.co/888hMWlqhO",
+        "username": "VideoArtGame",
+        "verified": true
+      }
+    ]
+  }
+}

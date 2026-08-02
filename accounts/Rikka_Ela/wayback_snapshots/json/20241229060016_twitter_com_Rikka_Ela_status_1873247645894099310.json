@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1872706712266031104"
+      ],
+      "media_source_tweet_id": [
+        "1872706727927529607"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "conversation_id": "1873247645894099310",
+    "created_at": "2024-12-29T06:00:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-29T07:00:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873247645894099310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1721736749926567936",
+          "start": 3,
+          "username": "Dr0gsneko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2g4mDbUyqR",
+          "end": 38,
+          "expanded_url": "https://x.com/Dr0gsneko/status/1872706727927529607/photo/1",
+          "media_key": "16_1872706712266031104",
+          "start": 15,
+          "url": "https://t.co/2g4mDbUyqR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873247645894099310",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 221
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872706727927529607",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dr0gsneko: https://t.co/2g4mDbUyqR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 700,
+        "media_key": "16_1872706712266031104",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/Gf0w1TEbQAAMudf.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/Gf0w1TEbQAAMudf.mp4"
+          }
+        ],
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1872706712266031104"
+          ],
+          "media_source_tweet_id": [
+            "1872706727927529607"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "1873247645894099310",
+        "created_at": "2024-12-29T06:00:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T07:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873247645894099310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1721736749926567936",
+              "start": 3,
+              "username": "Dr0gsneko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2g4mDbUyqR",
+              "end": 38,
+              "expanded_url": "https://x.com/Dr0gsneko/status/1872706727927529607/photo/1",
+              "media_key": "16_1872706712266031104",
+              "start": 15,
+              "url": "https://t.co/2g4mDbUyqR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873247645894099310",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 221
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872706727927529607",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dr0gsneko: https://t.co/2g4mDbUyqR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1872706712266031104"
+          ]
+        },
+        "author_id": "1721736749926567936",
+        "conversation_id": "1872706727927529607",
+        "created_at": "2024-12-27T18:10:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T19:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872706727927529607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2g4mDbUyqR",
+              "end": 23,
+              "expanded_url": "https://x.com/Dr0gsneko/status/1872706727927529607/photo/1",
+              "media_key": "16_1872706712266031104",
+              "start": 0,
+              "url": "https://t.co/2g4mDbUyqR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872706727927529607",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 207,
+          "impression_count": 30815,
+          "like_count": 2151,
+          "quote_count": 7,
+          "reply_count": 6,
+          "retweet_count": 221
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2g4mDbUyqR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文\n\n@Y32010705",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 43,
+                "username": "Y32010705"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3283,
+          "following_count": 3150,
+          "like_count": 56027,
+          "listed_count": 7,
+          "media_count": 156,
+          "tweet_count": 4377
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-07T03:50:27.000Z",
+        "description": "Life ruiner gang Archive 🐼💉 #麻薬ねこ / @Drugsneko18 🥩",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 28,
+                "tag": "麻薬ねこ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 48,
+                "start": 36,
+                "username": "Drugsneko18"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "suzuri.jp/drugsneko",
+                "end": 23,
+                "expanded_url": "https://suzuri.jp/drugsneko",
+                "start": 0,
+                "url": "https://t.co/Mr2oIi9D9U"
+              }
+            ]
+          }
+        },
+        "id": "1721736749926567936",
+        "location": "CM open",
+        "name": "Drugsneko",
+        "pinned_tweet_id": "1758206847855837321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871988380378292224/oeVjFBoJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38913,
+          "following_count": 46,
+          "like_count": 10293,
+          "listed_count": 46,
+          "media_count": 135,
+          "tweet_count": 1317
+        },
+        "url": "https://t.co/Mr2oIi9D9U",
+        "username": "Dr0gsneko",
+        "verified": false
+      }
+    ]
+  }
+}

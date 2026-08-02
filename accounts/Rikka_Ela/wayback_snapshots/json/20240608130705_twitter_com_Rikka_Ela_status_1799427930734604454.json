@@ -1,0 +1,163 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1799427930734604454",
+    "created_at": "2024-06-08T13:07:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-08T14:07:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1799427930734604454"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/B_cat38324/sta…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/B_cat38324/status/1799306792272589082",
+          "start": 14,
+          "url": "https://t.co/f8zNRd24Wi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799427930734604454",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799306792272589082",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "自己一个人搬不动怎么办😭） https://t.co/f8zNRd24Wi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1799427930734604454",
+        "created_at": "2024-06-08T13:07:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-08T14:07:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1799427930734604454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/B_cat38324/sta…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/B_cat38324/status/1799306792272589082",
+              "start": 14,
+              "url": "https://t.co/f8zNRd24Wi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799427930734604454",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799306792272589082",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自己一个人搬不动怎么办😭） https://t.co/f8zNRd24Wi"
+      },
+      {
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "1799306792272589082",
+        "created_at": "2024-06-08T05:05:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-08T06:05:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1799306792272589082"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1799306792272589082",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 9128,
+          "like_count": 173,
+          "quote_count": 6,
+          "reply_count": 29,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我的有些药娘姐妹跟我说，她们有的时候会有一种，男孩子操作系统没卸载干净的感觉。\n\n比如说在日常生活中，遇到搬重物的时候，如果男朋友或者男性友人要帮忙，她们会礼貌地让对方来做。但如果是一个人，🙂她们就会调用一下那个力气很大的男性人格一口气搬水上饮水机。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UNNC‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2078,
+          "following_count": 2681,
+          "like_count": 37803,
+          "listed_count": 5,
+          "tweet_count": 2309
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "黑猫",
+        "pinned_tweet_id": "1788987285796712719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3105,
+          "following_count": 93,
+          "like_count": 45,
+          "listed_count": 9,
+          "tweet_count": 2296
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

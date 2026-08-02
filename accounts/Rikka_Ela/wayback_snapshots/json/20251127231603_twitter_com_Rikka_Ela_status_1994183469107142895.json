@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993954523992477702"
+      ],
+      "media_source_tweet_id": [
+        "1993954532095877303"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "conversation_id": "1994183469107142895",
+    "created_at": "2025-11-27T23:16:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T00:16:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994183469107142895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "376063629",
+          "start": 3,
+          "username": "UKinHongKong"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rUgO9N7dNn",
+          "end": 41,
+          "expanded_url": "https://x.com/UKinHongKong/status/1993954532095877303/photo/1",
+          "media_key": "3_1993954523992477702",
+          "start": 18,
+          "url": "https://t.co/rUgO9N7dNn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994183469107142895",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 416
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993954532095877303",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UKinHongKong: https://t.co/rUgO9N7dNn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_1993954523992477702",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6vzEzza0AYRrZ6.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993954523992477702"
+          ],
+          "media_source_tweet_id": [
+            "1993954532095877303"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "1994183469107142895",
+        "created_at": "2025-11-27T23:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T00:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994183469107142895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "376063629",
+              "start": 3,
+              "username": "UKinHongKong"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rUgO9N7dNn",
+              "end": 41,
+              "expanded_url": "https://x.com/UKinHongKong/status/1993954532095877303/photo/1",
+              "media_key": "3_1993954523992477702",
+              "start": 18,
+              "url": "https://t.co/rUgO9N7dNn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994183469107142895",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 416
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993954532095877303",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @UKinHongKong: https://t.co/rUgO9N7dNn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993954523992477702"
+          ]
+        },
+        "author_id": "376063629",
+        "conversation_id": "1993954532095877303",
+        "created_at": "2025-11-27T08:06:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T09:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993954532095877303"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rUgO9N7dNn",
+              "end": 23,
+              "expanded_url": "https://x.com/UKinHongKong/status/1993954532095877303/photo/1",
+              "media_key": "3_1993954523992477702",
+              "start": 0,
+              "url": "https://t.co/rUgO9N7dNn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993954532095877303",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 121194,
+          "like_count": 3322,
+          "quote_count": 17,
+          "reply_count": 52,
+          "retweet_count": 416
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/rUgO9N7dNn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4757,
+          "following_count": 3649,
+          "like_count": 76815,
+          "listed_count": 8,
+          "media_count": 332,
+          "tweet_count": 7561
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2011-09-19T07:29:21.000Z",
+        "description": "Tweeting about the work of British Consulate-General Hong Kong, UK/HK relations \nhttps://t.co/slhEYoEqRM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ukinhongkong",
+                "end": 104,
+                "expanded_url": "http://linktr.ee/ukinhongkong",
+                "start": 81,
+                "url": "https://t.co/slhEYoEqRM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov.uk/world/hong-kong",
+                "end": 23,
+                "expanded_url": "http://www.gov.uk/world/hong-kong",
+                "start": 0,
+                "url": "https://t.co/baGwdxL5AU"
+              }
+            ]
+          }
+        },
+        "id": "376063629",
+        "location": "Hong Kong",
+        "name": "UK in Hong Kong 🇬🇧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993882315836280837/XHdR_u6U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28534,
+          "following_count": 618,
+          "like_count": 5321,
+          "listed_count": 263,
+          "media_count": 2251,
+          "tweet_count": 10724
+        },
+        "url": "https://t.co/baGwdxL5AU",
+        "username": "UKinHongKong",
+        "verified": true
+      }
+    ]
+  }
+}

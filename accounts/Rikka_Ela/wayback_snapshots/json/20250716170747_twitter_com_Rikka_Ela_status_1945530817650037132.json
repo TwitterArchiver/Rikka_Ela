@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945407803734048768"
+      ],
+      "media_source_tweet_id": [
+        "1945408065706017183"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "1945530817650037132",
+    "created_at": "2025-07-16T17:07:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T18:07:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945530817650037132"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "東京",
+          "probability": 0.8506,
+          "start": 18,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1214338734126026752",
+          "start": 3,
+          "username": "novy_jp"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NxYZk88UUf",
+          "end": 44,
+          "expanded_url": "https://x.com/novy_jp/status/1945408065706017183/photo/1",
+          "media_key": "3_1945407803734048768",
+          "start": 21,
+          "url": "https://t.co/NxYZk88UUf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945530817650037132",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 212
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945408065706017183",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @novy_jp: 記憶の中の東京 https://t.co/NxYZk88UUf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1945407803734048768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv96FxzXQAAgg5C.jpg",
+        "width": 1367
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945407803734048768"
+          ],
+          "media_source_tweet_id": [
+            "1945408065706017183"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "1945530817650037132",
+        "created_at": "2025-07-16T17:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T18:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945530817650037132"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "東京",
+              "probability": 0.8506,
+              "start": 18,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1214338734126026752",
+              "start": 3,
+              "username": "novy_jp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NxYZk88UUf",
+              "end": 44,
+              "expanded_url": "https://x.com/novy_jp/status/1945408065706017183/photo/1",
+              "media_key": "3_1945407803734048768",
+              "start": 21,
+              "url": "https://t.co/NxYZk88UUf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945530817650037132",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 212
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945408065706017183",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @novy_jp: 記憶の中の東京 https://t.co/NxYZk88UUf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945407803734048768"
+          ]
+        },
+        "author_id": "1214338734126026752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "1945408065706017183",
+        "created_at": "2025-07-16T09:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T10:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945408065706017183"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "東京",
+              "probability": 0.8457,
+              "start": 5,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NxYZk88UUf",
+              "end": 31,
+              "expanded_url": "https://x.com/novy_jp/status/1945408065706017183/photo/1",
+              "media_key": "3_1945407803734048768",
+              "start": 8,
+              "url": "https://t.co/NxYZk88UUf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945408065706017183",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 200,
+          "impression_count": 93115,
+          "like_count": 2612,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 212
+        },
+        "reply_settings": "everyone",
+        "text": "記憶の中の東京 https://t.co/NxYZk88UUf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4448,
+          "following_count": 3532,
+          "like_count": 70848,
+          "listed_count": 7,
+          "media_count": 262,
+          "tweet_count": 6477
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-07T00:11:47.000Z",
+        "description": "編集・ライター | 東京を中心にストリートスナップ・風景を撮っています | ノブとよんでください",
+        "id": "1214338734126026752",
+        "location": "Kyoto→Nagoya→Tokyo",
+        "name": "nob",
+        "pinned_tweet_id": "1940698462989045952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809781420447133697/8OApycTt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9906,
+          "following_count": 705,
+          "like_count": 168871,
+          "listed_count": 117,
+          "media_count": 1321,
+          "tweet_count": 14897
+        },
+        "username": "novy_jp",
+        "verified": true
+      }
+    ]
+  }
+}

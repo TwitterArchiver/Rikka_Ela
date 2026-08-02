@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2027775847483215898",
+    "created_at": "2026-02-28T16:12:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T17:12:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027778889808785769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1677732423667445760",
+          "start": 0,
+          "username": "wuerbangbang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027778889808785769",
+    "in_reply_to_user_id": "1677732423667445760",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027775847483215898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuerbangbang ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2027775847483215898",
+        "created_at": "2026-02-28T16:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T17:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027778889808785769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1677732423667445760",
+              "start": 0,
+              "username": "wuerbangbang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027778889808785769",
+        "in_reply_to_user_id": "1677732423667445760",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027775847483215898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuerbangbang ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677732423667445760",
+        "conversation_id": "2027775847483215898",
+        "created_at": "2026-02-28T16:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T17:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027775847483215898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ashasw114514/s…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/ashasw114514/status/2027374238571929720",
+              "start": 22,
+              "url": "https://t.co/CDyaXprkdR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027775847483215898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027374238571929720",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我都不知道我从幼儿园大班起就开始玩sm了。 https://t.co/CDyaXprkdR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4909,
+          "following_count": 3732,
+          "like_count": 79756,
+          "listed_count": 9,
+          "media_count": 382,
+          "tweet_count": 8347
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T17:32:43.000Z",
+        "description": "北大中文本硕，苗族，民俗学博士，国家博物馆前馆员。文史艺术、书画篆刻、猫科动物、三俗爱好者。对世界有旺盛的探索欲，喜欢有趣的人🤒PhDing of folklore, graduated from @PKU1898, Hmong,  lover of history, heritage, art & kitty🐾",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 99,
+                "username": "PKU1898"
+              }
+            ]
+          }
+        },
+        "id": "1677732423667445760",
+        "location": "跳回三界内，待在五行中。",
+        "name": "吴二棒",
+        "pinned_tweet_id": "2017141174021345689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010919161988595713/rE9mkr0o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7288,
+          "following_count": 921,
+          "like_count": 11486,
+          "listed_count": 30,
+          "media_count": 2000,
+          "tweet_count": 6318
+        },
+        "username": "wuerbangbang",
+        "verified": true
+      }
+    ]
+  }
+}

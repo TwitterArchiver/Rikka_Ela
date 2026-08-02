@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1895483836475351153",
+    "created_at": "2025-02-28T16:16:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T17:16:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895508263237775767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1825991186701524992",
+          "start": 0,
+          "username": "Young2568"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895508263237775767",
+    "in_reply_to_user_id": "1825991186701524992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895483836475351153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Young2568 日右还是太费拉了（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1895483836475351153",
+        "created_at": "2025-02-28T16:16:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T17:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895508263237775767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1825991186701524992",
+              "start": 0,
+              "username": "Young2568"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895508263237775767",
+        "in_reply_to_user_id": "1825991186701524992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895483836475351153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Young2568 日右还是太费拉了（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825991186701524992",
+        "conversation_id": "1895483836475351153",
+        "created_at": "2025-02-28T14:38:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T15:38:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895483836475351153"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TanukiTokyo202…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/TanukiTokyo2023/status/1895371994352492969",
+              "start": 23,
+              "url": "https://t.co/ZEx8t4VcgI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895483836475351153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895371994352492969",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就沒個老英雄給這滯日支蛆無害化一下嗎？？？？ https://t.co/ZEx8t4VcgI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3812,
+          "following_count": 3269,
+          "like_count": 60823,
+          "listed_count": 7,
+          "media_count": 169,
+          "tweet_count": 5003
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-20T20:20:06.000Z",
+        "description": "恐怖習擊",
+        "id": "1825991186701524992",
+        "location": "月球上的小小愛之孤島",
+        "name": "小營西路32號院🧋",
+        "pinned_tweet_id": "1893520953419932147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854058680452628480/NnSTDkIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 257,
+          "like_count": 15972,
+          "listed_count": 5,
+          "media_count": 458,
+          "tweet_count": 5806
+        },
+        "username": "Young2568",
+        "verified": false
+      }
+    ]
+  }
+}

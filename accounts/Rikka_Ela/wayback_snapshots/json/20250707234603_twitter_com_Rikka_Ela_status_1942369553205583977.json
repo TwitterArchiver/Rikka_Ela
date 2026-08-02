@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1942259821186888021",
+    "created_at": "2025-07-07T23:46:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T00:46:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942369553205583977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1554424317483655175",
+          "start": 0,
+          "username": "yuu00401"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942369553205583977",
+    "in_reply_to_user_id": "1554424317483655175",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942259821186888021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuu00401 每天晚上随机挑一位幸运观众上台表演"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 129474,
+        "height": 1280,
+        "media_key": "7_1942259485323808768",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1942259485323808768/pu/img/rJCMsoMYLMcRmNcl.jpg",
+        "public_metrics": {
+          "view_count": 187
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1942259485323808768/pu/vid/avc1/320x568/-ExYFhyxbC8tiMkS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1942259485323808768/pu/vid/avc1/480x852/15Zo70-7p1WkoP3R.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1942259485323808768/pu/vid/avc1/720x1280/flqtgWWt-Xtek_Sx.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1942259485323808768/pu/pl/q6vGLthk1YzIsqCk.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1942259821186888021",
+        "created_at": "2025-07-07T23:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T00:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942369553205583977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1554424317483655175",
+              "start": 0,
+              "username": "yuu00401"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942369553205583977",
+        "in_reply_to_user_id": "1554424317483655175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942259821186888021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuu00401 每天晚上随机挑一位幸运观众上台表演"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1942259485323808768"
+          ]
+        },
+        "author_id": "1554424317483655175",
+        "conversation_id": "1942259821186888021",
+        "created_at": "2025-07-07T16:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T17:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942259821186888021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v1kGvJP5xC",
+              "end": 28,
+              "expanded_url": "https://x.com/yuu00401/status/1942259821186888021/video/1",
+              "media_key": "7_1942259485323808768",
+              "start": 5,
+              "url": "https://t.co/v1kGvJP5xC"
+            },
+            {
+              "display_url": "x.com/RevolutionTide…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/RevolutionTide/status/1942164792820519307",
+              "start": 29,
+              "url": "https://t.co/YyY708tPuU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942259821186888021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 682,
+          "like_count": 17,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942164792820519307",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁家欧文 https://t.co/v1kGvJP5xC https://t.co/YyY708tPuU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4383,
+          "following_count": 3523,
+          "like_count": 70258,
+          "listed_count": 8,
+          "media_count": 256,
+          "tweet_count": 6384
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-02T11:10:23.000Z",
+        "description": "碎碎念晚期",
+        "id": "1554424317483655175",
+        "location": "拉尼亚凯亚超星系",
+        "name": "yuu🎀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931386075710365696/hZ7z3fLj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3370,
+          "following_count": 702,
+          "like_count": 67157,
+          "listed_count": 4,
+          "media_count": 2046,
+          "tweet_count": 30408
+        },
+        "username": "yuu00401",
+        "verified": false
+      }
+    ]
+  }
+}

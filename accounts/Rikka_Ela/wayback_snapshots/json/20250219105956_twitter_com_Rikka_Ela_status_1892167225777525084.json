@@ -1,0 +1,406 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1892167225777525084",
+    "created_at": "2025-02-19T10:59:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-19T11:59:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892167225777525084"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 55,
+          "normalized_text": "Queer STEM",
+          "probability": 0.585,
+          "start": 46,
+          "type": "Other"
+        },
+        {
+          "end": 101,
+          "normalized_text": "LGBTQIA",
+          "probability": 0.8809,
+          "start": 95,
+          "type": "Place"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 102,
+          "start": 94,
+          "tag": "LGBTQIA"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "570684824",
+          "start": 3,
+          "username": "UoNresearch"
+        },
+        {
+          "end": 82,
+          "id": "30196565",
+          "start": 66,
+          "username": "UniofNottingham"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892167225777525084",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891433701780701639",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UoNresearch: Take a break and explore the Queer STEM Trail at @uniofnottingham. Celebrate #LGBTQIA+ contributions to science across cam…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1892167225777525084",
+        "created_at": "2025-02-19T10:59:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T11:59:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892167225777525084"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 55,
+              "normalized_text": "Queer STEM",
+              "probability": 0.585,
+              "start": 46,
+              "type": "Other"
+            },
+            {
+              "end": 101,
+              "normalized_text": "LGBTQIA",
+              "probability": 0.8809,
+              "start": 95,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 102,
+              "start": 94,
+              "tag": "LGBTQIA"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "570684824",
+              "start": 3,
+              "username": "UoNresearch"
+            },
+            {
+              "end": 82,
+              "id": "30196565",
+              "start": 66,
+              "username": "UniofNottingham"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892167225777525084",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891433701780701639",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @UoNresearch: Take a break and explore the Queer STEM Trail at @uniofnottingham. Celebrate #LGBTQIA+ contributions to science across cam…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "570684824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1334114759952584705",
+              "name": "Quiz games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1282742272291794944",
+              "name": "Pub games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334114759952584705",
+              "name": "Quiz games"
+            }
+          }
+        ],
+        "conversation_id": "1891433701780701639",
+        "created_at": "2025-02-17T10:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-17T11:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891433701780701639"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "Queer STEM",
+              "probability": 0.5168,
+              "start": 29,
+              "type": "Other"
+            },
+            {
+              "end": 84,
+              "normalized_text": "LGBTQIA",
+              "probability": 0.8259,
+              "start": 78,
+              "type": "Place"
+            },
+            {
+              "end": 185,
+              "normalized_text": "Amazon",
+              "probability": 0.7457,
+              "start": 180,
+              "type": "Organization"
+            },
+            {
+              "end": 264,
+              "normalized_text": "PrideInSTEM",
+              "probability": 0.4777,
+              "start": 254,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 85,
+              "start": 77,
+              "tag": "LGBTQIA"
+            },
+            {
+              "end": 265,
+              "start": 253,
+              "tag": "PrideInSTEM"
+            },
+            {
+              "end": 275,
+              "start": 266,
+              "tag": "WeAreUoN"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 65,
+              "id": "30196565",
+              "start": 49,
+              "username": "UniofNottingham"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Complete the trail quiz and then go to a supporting reception to collect your prize and be entered to the amazon voucher draw.",
+              "display_url": "bit.ly/40XtqDC",
+              "end": 251,
+              "expanded_url": "https://bit.ly/40XtqDC",
+              "images": [
+                {
+                  "height": 1080,
+                  "url": "https://pbs.twimg.com/news_img/1891433709246537728/a2wgwizd?format=jpg&name=orig",
+                  "width": 1920
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1891433709246537728/a2wgwizd?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 228,
+              "status": 200,
+              "title": "Fill | Queer STEM Trail",
+              "unwound_url": "https://forms.office.com/pages/responsepage.aspx?id=7qe9Z4D970GskTWEGCkKHo6kwB8YyJdIujROR2_x2UlUNlgzV1pBUktQVlBFNlRBWTNaT05aS0xNNC4u&route=shorturl",
+              "url": "https://t.co/pFXmDKgtbd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891433701780701639",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 966,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "Take a break and explore the Queer STEM Trail at @uniofnottingham. Celebrate #LGBTQIA+ contributions to science across campuses, complete the quiz, and claim your prize. Enter the Amazon voucher draw too!\n\n🌈 Start your trail ➡️ https://t.co/pFXmDKgtbd\n\n#PrideInSTEM #WeAreUoN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3751,
+          "following_count": 3257,
+          "like_count": 59752,
+          "listed_count": 7,
+          "media_count": 168,
+          "tweet_count": 4832
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2012-05-04T09:36:35.000Z",
+        "description": "The University of Nottingham conducts world-leading research, bringing about real change and shaping our future. Ranked 7th in the UK for research power by THE.",
+        "id": "570684824",
+        "location": "Nottingham UK",
+        "name": "Nottingham Research",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810619379605786624/H3SAgGwX_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7949,
+          "following_count": 628,
+          "like_count": 2800,
+          "listed_count": 69,
+          "media_count": 2929,
+          "tweet_count": 9605
+        },
+        "username": "UoNresearch",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-10T10:47:34.000Z",
+        "description": "The official University of Nottingham Twitter, a pioneering university that transforms the lives of our 45,000 students at campuses in the UK, China, Malaysia.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nottingham.ac.uk",
+                "end": 23,
+                "expanded_url": "https://www.nottingham.ac.uk",
+                "start": 0,
+                "url": "https://t.co/Uz487hEtcO"
+              }
+            ]
+          }
+        },
+        "id": "30196565",
+        "location": "Nottingham",
+        "name": "Uni of Nottingham #WeAreUoN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1622206076715253760/cAN-DoMo_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97324,
+          "following_count": 3419,
+          "like_count": 39879,
+          "listed_count": 0,
+          "media_count": 10142,
+          "tweet_count": 45692
+        },
+        "url": "https://t.co/Uz487hEtcO",
+        "username": "UniofNottingham",
+        "verified": false
+      }
+    ]
+  }
+}

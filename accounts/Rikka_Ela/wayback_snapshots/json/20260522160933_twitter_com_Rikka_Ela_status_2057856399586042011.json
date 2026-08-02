@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2057694916353175997",
+    "created_at": "2026-05-22T16:09:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T17:09:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057856399586042011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1567061441152450560",
+          "start": 0,
+          "username": "Xe1_N0n"
+        },
+        {
+          "end": 21,
+          "id": "1233287775144693760",
+          "start": 9,
+          "username": "Yagi_Yui_Yo"
+        },
+        {
+          "end": 35,
+          "id": "1468298719447887872",
+          "start": 22,
+          "username": "dviolettchan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057856399586042011",
+    "in_reply_to_user_id": "1567061441152450560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057855896286605576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xe1_N0n @Yagi_Yui_Yo @dviolettchan 快来喵！快来喵！）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2057694916353175997",
+        "created_at": "2026-05-22T16:09:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T17:09:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057856399586042011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1567061441152450560",
+              "start": 0,
+              "username": "Xe1_N0n"
+            },
+            {
+              "end": 21,
+              "id": "1233287775144693760",
+              "start": 9,
+              "username": "Yagi_Yui_Yo"
+            },
+            {
+              "end": 35,
+              "id": "1468298719447887872",
+              "start": 22,
+              "username": "dviolettchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057856399586042011",
+        "in_reply_to_user_id": "1567061441152450560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057855896286605576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xe1_N0n @Yagi_Yui_Yo @dviolettchan 快来喵！快来喵！）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567061441152450560",
+        "conversation_id": "2057694916353175997",
+        "created_at": "2026-05-22T16:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T17:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057855896286605576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1233287775144693760",
+              "start": 0,
+              "username": "Yagi_Yui_Yo"
+            },
+            {
+              "end": 23,
+              "id": "1418942200457662477",
+              "start": 13,
+              "username": "Rikka_Ela"
+            },
+            {
+              "end": 37,
+              "id": "1468298719447887872",
+              "start": 24,
+              "username": "dviolettchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057855896286605576",
+        "in_reply_to_user_id": "1233287775144693760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057710285637693878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yagi_Yui_Yo @Rikka_Ela @dviolettchan 我也能加入吗（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5262,
+          "following_count": 3785,
+          "like_count": 85003,
+          "listed_count": 7,
+          "media_count": 431,
+          "tweet_count": 9579
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-06T08:05:48.000Z",
+        "description": "A Chemistry Geek",
+        "id": "1567061441152450560",
+        "location": "CN",
+        "name": "Kenzaki_Kazuma🍥",
+        "pinned_tweet_id": "1834084114460189092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869176809121808384/wgakVqI0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1843,
+          "following_count": 717,
+          "like_count": 665,
+          "listed_count": 4,
+          "media_count": 140,
+          "tweet_count": 1948
+        },
+        "username": "Xe1_N0n",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-28T07:08:23.000Z",
+        "description": "non-binary/mtx/#lolita/cla系/aka可昕Katherina/Ph.D student in Ch.E.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 15,
+                "tag": "lolita"
+              }
+            ]
+          }
+        },
+        "id": "1233287775144693760",
+        "location": "Australia",
+        "name": "🍔",
+        "pinned_tweet_id": "1958531914048094472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945631396875100160/B8Zd3bWP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2511,
+          "following_count": 652,
+          "like_count": 32573,
+          "listed_count": 10,
+          "media_count": 305,
+          "tweet_count": 5384
+        },
+        "username": "Yagi_Yui_Yo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-07T19:18:15.000Z",
+        "description": "制服爱好者 | 想要变得幸福 | 北美菜校ECE PhD Candidate | 魏晋名士 | 与欣宝一起期待更温柔的世界 | 🍻: @sheriyuo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "sheriyuo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "thesecatsdonotexist.com",
+                "end": 23,
+                "expanded_url": "https://thesecatsdonotexist.com/",
+                "start": 0,
+                "url": "https://t.co/XxMPM0e5ee"
+              }
+            ]
+          }
+        },
+        "id": "1468298719447887872",
+        "location": "Ontario, Canada",
+        "name": "紫云",
+        "pinned_tweet_id": "1999916217818333233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999225008120340481/KS3I1fWx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4623,
+          "following_count": 559,
+          "like_count": 10637,
+          "listed_count": 10,
+          "media_count": 59,
+          "tweet_count": 4493
+        },
+        "url": "https://t.co/XxMPM0e5ee",
+        "username": "dviolettchan",
+        "verified": true
+      }
+    ]
+  }
+}

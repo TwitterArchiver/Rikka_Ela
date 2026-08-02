@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1896792224580739427",
+    "created_at": "2025-03-04T23:37:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T00:37:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897068894617264492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1880325371280912386",
+          "start": 0,
+          "username": "genya1976"
+        },
+        {
+          "end": 21,
+          "id": "1889354518581878784",
+          "start": 11,
+          "username": "genya2027"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897068894617264492",
+    "in_reply_to_user_id": "1880325371280912386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897045591236198830",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@genya1976 @genya2027 口活厉不厉害我不知道，但我口吃是真的很厉害😭）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1897045591236198830].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1897045591236198830",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1897045591236198830"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1896792224580739427",
+        "created_at": "2025-03-04T23:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T00:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897068894617264492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1880325371280912386",
+              "start": 0,
+              "username": "genya1976"
+            },
+            {
+              "end": 21,
+              "id": "1889354518581878784",
+              "start": 11,
+              "username": "genya2027"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897068894617264492",
+        "in_reply_to_user_id": "1880325371280912386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897045591236198830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@genya1976 @genya2027 口活厉不厉害我不知道，但我口吃是真的很厉害😭）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3835,
+          "following_count": 3283,
+          "like_count": 61152,
+          "listed_count": 7,
+          "media_count": 173,
+          "tweet_count": 5057
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T18:44:47.000Z",
+        "description": "劳保岁静🌹/右上拥共🫡/反跨反同😔/高歌猛进⚡",
+        "id": "1880325371280912386",
+        "name": "江上 清风游🇷🇺Василек",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891118827171360768/JgsYPNw__normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 284,
+          "like_count": 19904,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 1260
+        },
+        "username": "genya1976",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T16:43:54.000Z",
+        "description": "无论去与往 皆是梦中人",
+        "id": "1889354518581878784",
+        "name": "陈艳琼🇷🇺Василек",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894698060879699968/WZpZzZtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 147,
+          "like_count": 6980,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 513
+        },
+        "username": "genya2027",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1932630227714527259",
+    "created_at": "2025-06-11T05:38:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T06:38:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932673819812176360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1548157400632270848",
+          "start": 0,
+          "username": "annayanamisuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932673819812176360",
+    "in_reply_to_user_id": "1548157400632270848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932630227714527259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@annayanamisuki 一想到这条评论能让互关看到这个视频我就想笑"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4031,
+        "height": 720,
+        "media_key": "13_1932630175499370496",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1932630175499370496/img/z-rBj1lV56CqdQFp.jpg",
+        "public_metrics": {
+          "view_count": 3057
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1932630175499370496/vid/avc1/402x270/egSuzZMgrEOiBMjn.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1932630175499370496/vid/avc1/536x360/WPdADR7uv14l2SYf.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1932630175499370496/vid/avc1/1074x720/hfla4pcrBqxKZVFX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1932630175499370496/pl/vDgoadakIneaD-CS.m3u8"
+          }
+        ],
+        "width": 1074
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1932630227714527259",
+        "created_at": "2025-06-11T05:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T06:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932673819812176360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1548157400632270848",
+              "start": 0,
+              "username": "annayanamisuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932673819812176360",
+        "in_reply_to_user_id": "1548157400632270848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932630227714527259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@annayanamisuki 一想到这条评论能让互关看到这个视频我就想笑"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1932630175499370496"
+          ]
+        },
+        "author_id": "1548157400632270848",
+        "conversation_id": "1932630227714527259",
+        "created_at": "2025-06-11T02:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T03:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932630227714527259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ATEJlqlnb7",
+              "end": 46,
+              "expanded_url": "https://x.com/annayanamisuki/status/1932630227714527259/video/1",
+              "media_key": "13_1932630175499370496",
+              "start": 23,
+              "url": "https://t.co/ATEJlqlnb7"
+            },
+            {
+              "display_url": "x.com/tokuumi8964/st…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/tokuumi8964/status/1932047884473757829",
+              "start": 47,
+              "url": "https://t.co/NFk4gEwm4l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932630227714527259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 11973,
+          "like_count": 173,
+          "quote_count": 12,
+          "reply_count": 43,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932047884473757829",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人郎才女貌的用的著你們殖畜在這冷嘲熱諷的嗎🤬 https://t.co/ATEJlqlnb7 https://t.co/NFk4gEwm4l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4324,
+          "following_count": 3498,
+          "like_count": 68712,
+          "listed_count": 7,
+          "media_count": 230,
+          "tweet_count": 6162
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-16T04:08:07.000Z",
+        "description": "Alt：@sima_musk｜High Commissioner of @enchenia in North America",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "sima_musk"
+              },
+              {
+                "end": 45,
+                "start": 36,
+                "username": "enchenia"
+              }
+            ]
+          }
+        },
+        "id": "1548157400632270848",
+        "location": "Boston, MA",
+        "name": "韦大厨今天吃两脚羊☭⃠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864175949681401857/nU4COn35_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4120,
+          "following_count": 994,
+          "like_count": 41693,
+          "listed_count": 16,
+          "media_count": 1374,
+          "tweet_count": 6641
+        },
+        "username": "annayanamisuki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1954758899304988721",
+    "created_at": "2025-08-11T04:37:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T05:37:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954764077588480195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1559751670057209856",
+          "start": 0,
+          "username": "SShn_30741"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954764077588480195",
+    "in_reply_to_user_id": "1559751670057209856",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954758899304988721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SShn_30741 !"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3063,
+        "media_key": "3_1954758888785666048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyCy2kObYAA5doQ.jpg",
+        "width": 2537
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1954758888802430977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyCy2kSbMAE2n93.jpg",
+        "width": 1152
+      },
+      {
+        "height": 3904,
+        "media_key": "3_1954758888798179328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyCy2kRaUAAIVdQ.jpg",
+        "width": 2928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1954758899304988721",
+        "created_at": "2025-08-11T04:37:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T05:37:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954764077588480195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1559751670057209856",
+              "start": 0,
+              "username": "SShn_30741"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954764077588480195",
+        "in_reply_to_user_id": "1559751670057209856",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954758899304988721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SShn_30741 !"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954758888785666048",
+            "3_1954758888802430977",
+            "3_1954758888798179328"
+          ]
+        },
+        "author_id": "1559751670057209856",
+        "conversation_id": "1954758899304988721",
+        "created_at": "2025-08-11T04:16:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T05:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954758899304988721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3yxmW7SG7A",
+              "end": 119,
+              "expanded_url": "https://x.com/SShn_30741/status/1954758899304988721/photo/1",
+              "media_key": "3_1954758888785666048",
+              "start": 96,
+              "url": "https://t.co/3yxmW7SG7A"
+            },
+            {
+              "display_url": "pic.x.com/3yxmW7SG7A",
+              "end": 119,
+              "expanded_url": "https://x.com/SShn_30741/status/1954758899304988721/photo/1",
+              "media_key": "3_1954758888802430977",
+              "start": 96,
+              "url": "https://t.co/3yxmW7SG7A"
+            },
+            {
+              "display_url": "pic.x.com/3yxmW7SG7A",
+              "end": 119,
+              "expanded_url": "https://x.com/SShn_30741/status/1954758899304988721/photo/1",
+              "media_key": "3_1954758888798179328",
+              "start": 96,
+              "url": "https://t.co/3yxmW7SG7A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954758899304988721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "放個「購物與服務」的 self-intro 在這。\n計畫開始售賣自己了。\n大多數時候（營業期間）可以理解為「偽娘／男娘」，營業時不會發病。\n172 cm，不適合蘿莉裝扮，姐系似乎還挺合得來。 https://t.co/3yxmW7SG7A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4456,
+          "following_count": 3539,
+          "like_count": 71832,
+          "listed_count": 7,
+          "media_count": 282,
+          "tweet_count": 6728
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-17T03:59:48.000Z",
+        "description": "みき／Miki／미기｜塞莉比・妮茜婭菈皇畿＞鐠蒞蘿蔓姬｜塔塔醬｜石油氣／PG｜\\0x｜７｜３｜🏳️‍🌈｜🏳️‍⚧️｜MtFtM｜🍥｜EDI｜♂｜INTP｜出櫃仙人｜援交妹｜家暴男｜性身分自適｜性愛一體｜性慾倒錯｜溫和革命｜皇女・乖女鵝🐱@abaablon｜女同哥們🐑@Kokoro3365｜🚪πᵉ CNY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 118,
+                "username": "abaablon"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "Kokoro3365"
+              }
+            ]
+          }
+        },
+        "id": "1559751670057209856",
+        "location": "Tokyo-to, Japan",
+        "name": "榊原美紀・三木🦦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771456506946613248/KHd1JL07_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 331,
+          "like_count": 2261,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 552
+        },
+        "username": "SShn_30741",
+        "verified": false
+      }
+    ]
+  }
+}

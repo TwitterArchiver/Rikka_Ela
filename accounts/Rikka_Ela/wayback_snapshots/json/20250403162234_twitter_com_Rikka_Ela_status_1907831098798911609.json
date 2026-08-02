@@ -1,0 +1,639 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1469040355840462848",
+          "name": "Hollow Knight"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403407197669715972",
+          "name": "Indie games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1469040355840462848",
+          "name": "Hollow Knight"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900785013129216",
+          "name": "Soulslike games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491901038063878146",
+          "name": "Metroidvanias"
+        }
+      }
+    ],
+    "conversation_id": "1907831098798911609",
+    "created_at": "2025-04-03T16:22:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T17:22:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907831098798911609"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 75,
+          "normalized_text": "Hollow Knight",
+          "probability": 0.9754,
+          "start": 63,
+          "type": "Other"
+        },
+        {
+          "end": 85,
+          "normalized_text": "Silksong",
+          "probability": 0.8159,
+          "start": 78,
+          "type": "Other"
+        },
+        {
+          "end": 115,
+          "normalized_text": "NintendoSwitch2",
+          "probability": 0.7343,
+          "start": 101,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 116,
+          "start": 100,
+          "tag": "NintendoSwitch2"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "493980491",
+          "start": 3,
+          "username": "NintendoEurope"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907831098798911609",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39324
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907430913148944627",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NintendoEurope: Ascend to the peak of a haunted kingdom in Hollow Knight: Silksong, arriving on #NintendoSwitch2 this year. https://t.c…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_1907430908900044800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GniOTj6WcAA_0O2.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1469040355840462848",
+              "name": "Hollow Knight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403407197669715972",
+              "name": "Indie games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1469040355840462848",
+              "name": "Hollow Knight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900785013129216",
+              "name": "Soulslike games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491901038063878146",
+              "name": "Metroidvanias"
+            }
+          }
+        ],
+        "conversation_id": "1907831098798911609",
+        "created_at": "2025-04-03T16:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T17:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907831098798911609"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 75,
+              "normalized_text": "Hollow Knight",
+              "probability": 0.9754,
+              "start": 63,
+              "type": "Other"
+            },
+            {
+              "end": 85,
+              "normalized_text": "Silksong",
+              "probability": 0.8159,
+              "start": 78,
+              "type": "Other"
+            },
+            {
+              "end": 115,
+              "normalized_text": "NintendoSwitch2",
+              "probability": 0.7343,
+              "start": 101,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 116,
+              "start": 100,
+              "tag": "NintendoSwitch2"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "493980491",
+              "start": 3,
+              "username": "NintendoEurope"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907831098798911609",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39324
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907430913148944627",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NintendoEurope: Ascend to the peak of a haunted kingdom in Hollow Knight: Silksong, arriving on #NintendoSwitch2 this year. https://t.c…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907430908900044800"
+          ]
+        },
+        "author_id": "493980491",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026713294",
+              "name": "Nintendo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1469040355840462848",
+              "name": "Hollow Knight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "10026713294",
+              "name": "Nintendo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026713294",
+              "name": "Nintendo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403407197669715972",
+              "name": "Indie games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1469040355840462848",
+              "name": "Hollow Knight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900785013129216",
+              "name": "Soulslike games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491901038063878146",
+              "name": "Metroidvanias"
+            }
+          }
+        ],
+        "conversation_id": "1907430913148944627",
+        "created_at": "2025-04-02T13:52:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T14:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907430913148944627"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 65,
+              "normalized_text": "Hollow Knight: Silksong",
+              "probability": 0.8144,
+              "start": 43,
+              "type": "Other"
+            },
+            {
+              "end": 95,
+              "normalized_text": "NintendoSwitch2",
+              "probability": 0.5859,
+              "start": 81,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 96,
+              "start": 80,
+              "tag": "NintendoSwitch2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GHUFjzyXeX",
+              "end": 131,
+              "expanded_url": "https://x.com/NintendoEurope/status/1907430913148944627/photo/1",
+              "media_key": "3_1907430908900044800",
+              "start": 108,
+              "url": "https://t.co/GHUFjzyXeX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907430913148944627",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10943,
+          "impression_count": 13340311,
+          "like_count": 217964,
+          "quote_count": 16574,
+          "reply_count": 3034,
+          "retweet_count": 39324
+        },
+        "reply_settings": "everyone",
+        "text": "Ascend to the peak of a haunted kingdom in Hollow Knight: Silksong, arriving on #NintendoSwitch2 this year. https://t.co/GHUFjzyXeX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4018,
+          "following_count": 3318,
+          "like_count": 63955,
+          "listed_count": 8,
+          "media_count": 186,
+          "tweet_count": 5470
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-16T11:50:53.000Z",
+        "description": "Nintendo's official European account. Our apologies for not being able to respond to questions – we'll be listening!\n\nPrivacy policy: https://t.co/3YF10BgAWn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ntdo.com/6012fU5iY",
+                "end": 157,
+                "expanded_url": "https://ntdo.com/6012fU5iY",
+                "start": 134,
+                "url": "https://t.co/3YF10BgAWn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nintendo.com/eu/",
+                "end": 23,
+                "expanded_url": "https://www.nintendo.com/eu/",
+                "start": 0,
+                "url": "https://t.co/VmIVOyvOCu"
+              }
+            ]
+          }
+        },
+        "id": "493980491",
+        "name": "Nintendo of Europe",
+        "pinned_tweet_id": "1907780984025571542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1716356898918670336/Y7XQejTq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709612,
+          "following_count": 16,
+          "like_count": 3,
+          "listed_count": 2588,
+          "media_count": 11576,
+          "tweet_count": 17660
+        },
+        "url": "https://t.co/VmIVOyvOCu",
+        "username": "NintendoEurope",
+        "verified": true
+      }
+    ]
+  }
+}

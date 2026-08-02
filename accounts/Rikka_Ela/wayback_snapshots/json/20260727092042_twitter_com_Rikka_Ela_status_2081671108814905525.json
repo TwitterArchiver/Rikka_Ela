@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081328960940769281"
+      ],
+      "media_source_tweet_id": [
+        "2081328963503423907"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "conversation_id": "2081671108814905525",
+    "created_at": "2026-07-27T09:20:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T10:20:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081671108814905525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1431904219217289223",
+          "start": 3,
+          "username": "beefkiss"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xgRVoXB66p",
+          "end": 37,
+          "expanded_url": "https://x.com/beefkiss/status/2081328963503423907/photo/1",
+          "media_key": "3_2081328960940769281",
+          "start": 14,
+          "url": "https://t.co/xgRVoXB66p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081671108814905525",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4661
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081328963503423907",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @beefkiss: https://t.co/xgRVoXB66p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 530,
+        "media_key": "3_2081328960940769281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJdqaGbgAEVkEv.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081328960940769281"
+          ]
+        },
+        "author_id": "1431904219217289223",
+        "conversation_id": "2081328963503423907",
+        "created_at": "2026-07-26T10:41:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T11:41:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081328963503423907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xgRVoXB66p",
+              "end": 23,
+              "expanded_url": "https://x.com/beefkiss/status/2081328963503423907/photo/1",
+              "media_key": "3_2081328960940769281",
+              "start": 0,
+              "url": "https://t.co/xgRVoXB66p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081328963503423907",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7713,
+          "impression_count": 847701,
+          "like_count": 85719,
+          "quote_count": 212,
+          "reply_count": 131,
+          "retweet_count": 4661
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/xgRVoXB66p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081328960940769281"
+          ],
+          "media_source_tweet_id": [
+            "2081328963503423907"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "2081671108814905525",
+        "created_at": "2026-07-27T09:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T10:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081671108814905525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1431904219217289223",
+              "start": 3,
+              "username": "beefkiss"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xgRVoXB66p",
+              "end": 37,
+              "expanded_url": "https://x.com/beefkiss/status/2081328963503423907/photo/1",
+              "media_key": "3_2081328960940769281",
+              "start": 14,
+              "url": "https://t.co/xgRVoXB66p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081671108814905525",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4661
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081328963503423907",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @beefkiss: https://t.co/xgRVoXB66p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6501,
+          "following_count": 3770,
+          "like_count": 86061,
+          "listed_count": 10,
+          "media_count": 450,
+          "tweet_count": 10037
+        },
+        "url": "",
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-29T08:59:18.000Z",
+        "description": "she/they",
+        "id": "1431904219217289223",
+        "name": "beefcase",
+        "pinned_tweet_id": "1766381419335500280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1563811482626052096/EfPOuW29_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652,
+          "following_count": 186,
+          "like_count": 8652,
+          "listed_count": 3,
+          "media_count": 67,
+          "tweet_count": 2538
+        },
+        "url": "",
+        "username": "beefkiss",
+        "verified": false
+      }
+    ]
+  }
+}

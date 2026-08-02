@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2075466095335723028",
+    "created_at": "2026-07-10T15:23:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T16:23:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075601839463309539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1119565585992392704",
+          "start": 0,
+          "username": "Carina_boutme"
+        },
+        {
+          "end": 22,
+          "id": "1374581357167341572",
+          "start": 15,
+          "username": "yzhlAa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075601839463309539",
+    "in_reply_to_user_id": "1119565585992392704",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075556962188787975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Carina_boutme @yzhlAa 同插眼+1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2075466095335723028",
+        "created_at": "2026-07-10T15:23:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T16:23:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075601839463309539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1119565585992392704",
+              "start": 0,
+              "username": "Carina_boutme"
+            },
+            {
+              "end": 22,
+              "id": "1374581357167341572",
+              "start": 15,
+              "username": "yzhlAa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075601839463309539",
+        "in_reply_to_user_id": "1119565585992392704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075556962188787975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Carina_boutme @yzhlAa 同插眼+1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1119565585992392704",
+        "conversation_id": "2075466095335723028",
+        "created_at": "2026-07-10T12:25:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T13:25:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075556962188787975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1374581357167341572",
+              "start": 0,
+              "username": "yzhlAa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075556962188787975",
+        "in_reply_to_user_id": "1374581357167341572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075538376581955585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yzhlAa 插眼，明年可能也会去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6109,
+          "following_count": 3772,
+          "like_count": 86036,
+          "listed_count": 7,
+          "media_count": 445,
+          "tweet_count": 9927
+        },
+        "url": "",
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-20T11:36:51.000Z",
+        "description": "She/her. 两猫宝妈（？？？）.姛.",
+        "id": "1119565585992392704",
+        "name": "Clara😈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1452211803761614852/7qA9LnXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2280,
+          "following_count": 3003,
+          "like_count": 56271,
+          "listed_count": 14,
+          "media_count": 55,
+          "tweet_count": 1724
+        },
+        "url": "",
+        "username": "Carina_boutme",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-24T04:38:37.000Z",
+        "description": "🍥/坐标全球随机出现/友好🏳️‍⚧️🌈/信息💬安全专业🌐/ENTP-新颖智慧的发明家/逆向工程/爱捣鼓编程最爱C++/🎂04年天蝎座/加糖☁/持证/私信可互fo/所念皆是星河✨/2023.3.19/道/不要难过，这里可以帮助你请私信我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "baidu.com",
+                "end": 23,
+                "expanded_url": "https://www.baidu.com",
+                "start": 0,
+                "url": "https://t.co/Fq2X4qtn7M"
+              }
+            ]
+          }
+        },
+        "id": "1374581357167341572",
+        "location": "地球🌎",
+        "name": "一只治愈猫🐱🌈",
+        "pinned_tweet_id": "1882290947066851389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948436633906450432/rf6W88y-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3058,
+          "following_count": 432,
+          "like_count": 3001,
+          "listed_count": 16,
+          "media_count": 31,
+          "tweet_count": 1251
+        },
+        "url": "https://t.co/Fq2X4qtn7M",
+        "username": "yzhlAa",
+        "verified": false
+      }
+    ]
+  }
+}

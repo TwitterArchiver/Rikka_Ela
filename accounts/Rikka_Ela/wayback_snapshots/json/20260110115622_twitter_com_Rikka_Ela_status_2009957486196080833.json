@@ -1,0 +1,427 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform.",
+          "id": "847546154439000064",
+          "name": "Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Graduate school",
+          "id": "852247095461371904",
+          "name": "Graduate school"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform.",
+          "id": "847546154439000064",
+          "name": "Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Graduate school",
+          "id": "852247095461371904",
+          "name": "Graduate school"
+        }
+      }
+    ],
+    "conversation_id": "2009957486196080833",
+    "created_at": "2026-01-10T11:56:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T12:56:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009957486196080833"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/steven_meme123…",
+          "end": 194,
+          "expanded_url": "https://twitter.com/steven_meme123/status/1760972409400651891",
+          "start": 171,
+          "url": "https://t.co/d0lOPXvr2D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009957486196080833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1760972409400651891",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "和隔壁🇩🇪马普所学的招，欧陆本身直博项目就屈指可数，加上因为是强制full funded，所以不光看简历和面试，还要看你申请的教授有没有fundings接收你，有些时候虽然教授的program下写着looking to recruit但因为没funding只能全刷了（另外信骚扰了几位德国的教授，欧陆的教授似乎对三年制Bachelor比较🫩 https://t.co/d0lOPXvr2D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1354,
+        "media_key": "3_1760972402475884544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GHA7EezXYAAyrRH.jpg",
+        "width": 1170
+      },
+      {
+        "height": 882,
+        "media_key": "3_1760972402442268672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GHA7EerWcAA0zE_.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1664,
+        "media_key": "3_1760972402471604224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GHA7EeyWEAA1ioi.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1760972402467495936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GHA7EexXYAAGOCv.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform.",
+              "id": "847546154439000064",
+              "name": "Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Graduate school",
+              "id": "852247095461371904",
+              "name": "Graduate school"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform.",
+              "id": "847546154439000064",
+              "name": "Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Graduate school",
+              "id": "852247095461371904",
+              "name": "Graduate school"
+            }
+          }
+        ],
+        "conversation_id": "2009957486196080833",
+        "created_at": "2026-01-10T11:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T12:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009957486196080833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/steven_meme123…",
+              "end": 194,
+              "expanded_url": "https://twitter.com/steven_meme123/status/1760972409400651891",
+              "start": 171,
+              "url": "https://t.co/d0lOPXvr2D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009957486196080833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1760972409400651891",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "和隔壁🇩🇪马普所学的招，欧陆本身直博项目就屈指可数，加上因为是强制full funded，所以不光看简历和面试，还要看你申请的教授有没有fundings接收你，有些时候虽然教授的program下写着looking to recruit但因为没funding只能全刷了（另外信骚扰了几位德国的教授，欧陆的教授似乎对三年制Bachelor比较🫩 https://t.co/d0lOPXvr2D"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1760972402475884544",
+            "3_1760972402442268672",
+            "3_1760972402471604224",
+            "3_1760972402467495936"
+          ]
+        },
+        "author_id": "1511617035247230977",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1760972409400651891",
+        "created_at": "2024-02-23T10:18:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-02-23T11:18:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1760972409400651891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/COpa36UF6K",
+              "end": 173,
+              "expanded_url": "https://x.com/darren006612/status/1760972409400651891/photo/1",
+              "media_key": "3_1760972402475884544",
+              "start": 150,
+              "url": "https://t.co/COpa36UF6K"
+            },
+            {
+              "display_url": "pic.x.com/COpa36UF6K",
+              "end": 173,
+              "expanded_url": "https://x.com/darren006612/status/1760972409400651891/photo/1",
+              "media_key": "3_1760972402442268672",
+              "start": 150,
+              "url": "https://t.co/COpa36UF6K"
+            },
+            {
+              "display_url": "pic.x.com/COpa36UF6K",
+              "end": 173,
+              "expanded_url": "https://x.com/darren006612/status/1760972409400651891/photo/1",
+              "media_key": "3_1760972402471604224",
+              "start": 150,
+              "url": "https://t.co/COpa36UF6K"
+            },
+            {
+              "display_url": "pic.x.com/COpa36UF6K",
+              "end": 173,
+              "expanded_url": "https://x.com/darren006612/status/1760972409400651891/photo/1",
+              "media_key": "3_1760972402467495936",
+              "start": 150,
+              "url": "https://t.co/COpa36UF6K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1760972409400651891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 413,
+          "impression_count": 149022,
+          "like_count": 443,
+          "quote_count": 3,
+          "reply_count": 22,
+          "retweet_count": 103
+        },
+        "reply_settings": "following",
+        "text": "学费全免+每年1万欧津贴的本科直博项目（5年硕博连读）\n\nPSL PhD Tracks，一共5年，全奖免学费。前2年相当于硕士阶段的学习，每年给1万欧津贴。之后进去博士阶段，主要做研究项目，签相应博士合同\n\n7个博士方向可以选，包括计算机科学、化学、生命科学、天体物理、物理学、工程学、地球科学…… https://t.co/COpa36UF6K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4853,
+          "following_count": 3682,
+          "like_count": 78450,
+          "listed_count": 8,
+          "media_count": 357,
+          "tweet_count": 7985
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-06T08:09:31.000Z",
+        "description": "海外留学/工作多年，致力于分享留学&移民干货信息。移民/留学咨询/留学申请，可加wx：darrenfinland123( 请备注:付费咨询）/darrenfinland2024@gmail.com",
+        "id": "1511617035247230977",
+        "location": "Helsinki, Finland",
+        "name": "戴润Darren",
+        "pinned_tweet_id": "1951579088977604873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006363371902320640/Vwkgv1iQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37759,
+          "following_count": 33,
+          "like_count": 1659,
+          "listed_count": 223,
+          "media_count": 358,
+          "tweet_count": 1791
+        },
+        "username": "Steven_meme123",
+        "verified": true
+      }
+    ]
+  }
+}

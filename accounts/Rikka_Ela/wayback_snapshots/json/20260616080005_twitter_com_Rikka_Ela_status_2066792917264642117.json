@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2066790208176050368",
+    "created_at": "2026-06-16T08:00:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T09:00:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066792917264642117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2065088028474068992",
+          "start": 0,
+          "username": "VplusVequalsW"
+        },
+        {
+          "end": 31,
+          "id": "2032516808951902208",
+          "start": 15,
+          "username": "Jeffrey20011221"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066792917264642117",
+    "in_reply_to_user_id": "2065088028474068992",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066790879617310913",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VplusVequalsW @Jeffrey20011221 👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2066790208176050368",
+        "created_at": "2026-06-16T08:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T09:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066792917264642117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2065088028474068992",
+              "start": 0,
+              "username": "VplusVequalsW"
+            },
+            {
+              "end": 31,
+              "id": "2032516808951902208",
+              "start": 15,
+              "username": "Jeffrey20011221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066792917264642117",
+        "in_reply_to_user_id": "2065088028474068992",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066790879617310913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VplusVequalsW @Jeffrey20011221 👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065088028474068992",
+        "conversation_id": "2066790208176050368",
+        "created_at": "2026-06-16T07:51:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T08:51:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066790879617310913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2032516808951902208",
+              "start": 0,
+              "username": "Jeffrey20011221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066790879617310913",
+        "in_reply_to_user_id": "2032516808951902208",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066790208176050368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jeffrey20011221 👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5605,
+          "following_count": 3778,
+          "like_count": 86179,
+          "listed_count": 7,
+          "media_count": 442,
+          "tweet_count": 9745
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-11T15:15:20.000Z",
+        "description": "03｜mtx｜hrt since 2024.09.21 | Shang族人🫪｜喜欢宝可梦&骑砍系列游戏｜爱听前摇、爵士乐等｜自我认同混乱😵‍💫，可以当我是xyn、femboy、twink…我不介意｜同类和觉得有意思的人会回fo",
+        "id": "2065088028474068992",
+        "location": "绿林大学",
+        "name": "月桂冠🏳️‍⚧️",
+        "pinned_tweet_id": "2066336603786842449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066512910936166401/UaLsxDkJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 112,
+          "like_count": 572,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 76
+        },
+        "username": "VplusVequalsW",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-13T18:00:14.000Z",
+        "description": "@Jeff12212001 转生\nMTF in progress 🏳️‍⚧️\nAlways happy to make more trans friends.\nCollecting fountain pens 🖋️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "Jeff12212001"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rheafeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rheafeng",
+                "start": 0,
+                "url": "https://t.co/UHHpuDe2ED"
+              }
+            ]
+          }
+        },
+        "id": "2032516808951902208",
+        "location": "Birmingham, England",
+        "name": "Jeff姐夫 (Rhea)",
+        "pinned_tweet_id": "2053223857318764933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052498282249650180/swsCu4G1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 499,
+          "like_count": 1878,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 489
+        },
+        "url": "https://t.co/UHHpuDe2ED",
+        "username": "Jeffrey20011221",
+        "verified": false
+      }
+    ]
+  }
+}

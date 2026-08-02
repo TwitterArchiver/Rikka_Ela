@@ -1,0 +1,454 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010265457333518336"
+      ],
+      "media_source_tweet_id": [
+        "2010265473141895570"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      }
+    ],
+    "conversation_id": "2010461574897746267",
+    "created_at": "2026-01-11T21:19:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T22:19:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010461574897746267"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "魔法少女ノ魔女裁判",
+          "probability": 0.4049,
+          "start": 15,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 29,
+          "tag": "まのさばネタバレ"
+        },
+        {
+          "end": 48,
+          "start": 39,
+          "tag": "まのさば二次創作"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1852604816377446400",
+          "start": 3,
+          "username": "Noah_273_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/a0cDAeKNpW",
+          "end": 72,
+          "expanded_url": "https://x.com/Noah_273_/status/2010265473141895570/photo/1",
+          "media_key": "3_2010265457333518336",
+          "start": 49,
+          "url": "https://t.co/a0cDAeKNpW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010461574897746267",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 316
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010265473141895570",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Noah_273_: 魔法少女ノ魔女裁判(再掲)\n#まのさばネタバレ　#まのさば二次創作 https://t.co/a0cDAeKNpW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2010265457333518336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-XlyFiaQAA1STA.jpg",
+        "width": 2298
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010265457333518336"
+          ],
+          "media_source_tweet_id": [
+            "2010265473141895570"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2010461574897746267",
+        "created_at": "2026-01-11T21:19:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T22:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010461574897746267"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "魔法少女ノ魔女裁判",
+              "probability": 0.4049,
+              "start": 15,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 29,
+              "tag": "まのさばネタバレ"
+            },
+            {
+              "end": 48,
+              "start": 39,
+              "tag": "まのさば二次創作"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1852604816377446400",
+              "start": 3,
+              "username": "Noah_273_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a0cDAeKNpW",
+              "end": 72,
+              "expanded_url": "https://x.com/Noah_273_/status/2010265473141895570/photo/1",
+              "media_key": "3_2010265457333518336",
+              "start": 49,
+              "url": "https://t.co/a0cDAeKNpW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010461574897746267",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 316
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010265473141895570",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Noah_273_: 魔法少女ノ魔女裁判(再掲)\n#まのさばネタバレ　#まのさば二次創作 https://t.co/a0cDAeKNpW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010265457333518336"
+          ]
+        },
+        "author_id": "1852604816377446400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2010265473141895570",
+        "created_at": "2026-01-11T08:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T09:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010265473141895570"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "魔法少女ノ魔女裁判",
+              "probability": 0.417,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 14,
+              "tag": "まのさばネタバレ"
+            },
+            {
+              "end": 33,
+              "start": 24,
+              "tag": "まのさば二次創作"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a0cDAeKNpW",
+              "end": 57,
+              "expanded_url": "https://x.com/Noah_273_/status/2010265473141895570/photo/1",
+              "media_key": "3_2010265457333518336",
+              "start": 34,
+              "url": "https://t.co/a0cDAeKNpW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010265473141895570",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 269,
+          "impression_count": 44238,
+          "like_count": 3392,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 316
+        },
+        "reply_settings": "everyone",
+        "text": "魔法少女ノ魔女裁判(再掲)\n#まのさばネタバレ　#まのさば二次創作 https://t.co/a0cDAeKNpW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4858,
+          "following_count": 3694,
+          "like_count": 78582,
+          "listed_count": 8,
+          "media_count": 359,
+          "tweet_count": 8011
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-02T06:53:19.000Z",
+        "description": "EN/JP. . Taking request ▶︎ ▶︎https://t.co/JbCCYVvAH8. bsky: https://t.co/Zqz0QNGYz1 ✉️:noanoa265824@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Noah_273_",
+                "end": 52,
+                "expanded_url": "http://skeb.jp/@Noah_273_",
+                "start": 29,
+                "url": "https://t.co/JbCCYVvAH8"
+              },
+              {
+                "display_url": "bsky.app/profile/noah-2…",
+                "end": 83,
+                "expanded_url": "https://bsky.app/profile/noah-273.bsky.social",
+                "start": 60,
+                "url": "https://t.co/Zqz0QNGYz1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/58599035",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/58599035",
+                "start": 0,
+                "url": "https://t.co/x5ku4pUAae"
+              }
+            ]
+          }
+        },
+        "id": "1852604816377446400",
+        "location": "無断転載AI学習＆自作発言禁止❌ 2026.3〜仕事募集開始",
+        "name": "-273℃/望歩@3月〜仕事募集開始",
+        "pinned_tweet_id": "1985305157761175784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866133564569649152/soVvvcvt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21207,
+          "following_count": 4,
+          "like_count": 2569,
+          "listed_count": 135,
+          "media_count": 510,
+          "tweet_count": 658
+        },
+        "url": "https://t.co/x5ku4pUAae",
+        "username": "Noah_273_",
+        "verified": false
+      }
+    ]
+  }
+}

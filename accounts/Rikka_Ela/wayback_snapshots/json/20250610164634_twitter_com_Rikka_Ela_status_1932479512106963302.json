@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1932065831061782694",
+    "created_at": "2025-06-10T16:46:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T17:46:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932479512106963302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1880325371280912386",
+          "start": 0,
+          "username": "genya1976"
+        },
+        {
+          "end": 20,
+          "id": "1667865236559519745",
+          "start": 11,
+          "username": "Chenuden"
+        },
+        {
+          "end": 36,
+          "id": "1812419719691186176",
+          "start": 21,
+          "username": "qweomy10364583"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932479512106963302",
+    "in_reply_to_user_id": "1880325371280912386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932428172576141711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@genya1976 @Chenuden @qweomy10364583 那我帮你好了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1932428172576141711].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1932428172576141711",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1932428172576141711"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1932065831061782694",
+        "created_at": "2025-06-10T16:46:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T17:46:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932479512106963302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1880325371280912386",
+              "start": 0,
+              "username": "genya1976"
+            },
+            {
+              "end": 20,
+              "id": "1667865236559519745",
+              "start": 11,
+              "username": "Chenuden"
+            },
+            {
+              "end": 36,
+              "id": "1812419719691186176",
+              "start": 21,
+              "username": "qweomy10364583"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932479512106963302",
+        "in_reply_to_user_id": "1880325371280912386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932428172576141711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@genya1976 @Chenuden @qweomy10364583 那我帮你好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4317,
+          "following_count": 3493,
+          "like_count": 68618,
+          "listed_count": 6,
+          "media_count": 228,
+          "tweet_count": 6155
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T18:44:47.000Z",
+        "description": "圣彼得堡/莫斯科/新西伯利亚/喀山/叶卡捷琳堡/阿拉木图 偶尔兼职公狗 可线上线下 优先回复私信备注地区长度 拒绝回复小于18cm的男的 小鸡巴的勿扰除了@zhu6hua\n不定时视奸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 77,
+                "username": "zhu6hua"
+              }
+            ]
+          }
+        },
+        "id": "1880325371280912386",
+        "name": "茳菁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891118827171360768/JgsYPNw__normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 376,
+          "like_count": 54740,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 1428
+        },
+        "username": "genya1976",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T12:04:05.000Z",
+        "description": "站在起跑线前就已经胜利。学长:@HTT_m1saka。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 15,
+                "username": "HTT_m1saka"
+              }
+            ]
+          }
+        },
+        "id": "1667865236559519745",
+        "location": "弗兰德斯",
+        "name": "無理屑人♣️程乌登",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915770407879385088/yASLDyno_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1711,
+          "following_count": 1447,
+          "like_count": 156111,
+          "listed_count": 8,
+          "media_count": 1257,
+          "tweet_count": 10936
+        },
+        "username": "Chenuden",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T09:32:04.000Z",
+        "description": "最好的老婆:@ygao1314 日更 支黑 介意请b,黑化小号:@vaslyoka9512",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "ygao1314"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "vaslyoka9512"
+              }
+            ]
+          }
+        },
+        "id": "1812419719691186176",
+        "location": "我的云宝宝是世界上最好最好最好最好的人",
+        "name": "天下第一の总书记公主殿下",
+        "pinned_tweet_id": "1926225964356313109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931186168974184448/PIag76Uo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 968,
+          "following_count": 693,
+          "like_count": 13796,
+          "listed_count": 4,
+          "media_count": 13,
+          "tweet_count": 4507
+        },
+        "username": "qweomy10364583",
+        "verified": false
+      }
+    ]
+  }
+}

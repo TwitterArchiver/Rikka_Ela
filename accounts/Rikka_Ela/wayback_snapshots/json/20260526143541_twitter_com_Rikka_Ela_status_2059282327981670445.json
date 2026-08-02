@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059282321837035520"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "conversation_id": "2059282327981670445",
+    "created_at": "2026-05-26T14:35:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T15:35:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059282327981670445"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5xbePW5Sj6",
+          "end": 51,
+          "expanded_url": "https://x.com/Rikka_Ela/status/2059282327981670445/photo/1",
+          "media_key": "3_2059282321837035520",
+          "start": 28,
+          "url": "https://t.co/5xbePW5Sj6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059282327981670445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我套瓷导师求PhD position be like: https://t.co/5xbePW5Sj6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 950,
+        "media_key": "3_2059282321837035520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQKXHVWkAAD-QF.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059282321837035520"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "2059282327981670445",
+        "created_at": "2026-05-26T14:35:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059282327981670445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5xbePW5Sj6",
+              "end": 51,
+              "expanded_url": "https://x.com/Rikka_Ela/status/2059282327981670445/photo/1",
+              "media_key": "3_2059282321837035520",
+              "start": 28,
+              "url": "https://t.co/5xbePW5Sj6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059282327981670445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我套瓷导师求PhD position be like: https://t.co/5xbePW5Sj6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5274,
+          "following_count": 3784,
+          "like_count": 85352,
+          "listed_count": 6,
+          "media_count": 435,
+          "tweet_count": 9625
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      }
+    ]
+  }
+}

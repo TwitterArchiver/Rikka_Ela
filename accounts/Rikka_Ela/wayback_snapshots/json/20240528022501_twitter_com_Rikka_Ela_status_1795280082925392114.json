@@ -1,0 +1,180 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1795277950604243355",
+    "created_at": "2024-05-28T02:25:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-28T03:25:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1795280082925392114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1642609342800338944",
+          "start": 0,
+          "username": "gotouhitori2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1795280082925392114",
+    "in_reply_to_user_id": "1642609342800338944",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1795278591867097136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gotouhitori2 😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1795277950604243355",
+        "created_at": "2024-05-28T02:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-28T03:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1795280082925392114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1642609342800338944",
+              "start": 0,
+              "username": "gotouhitori2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795280082925392114",
+        "in_reply_to_user_id": "1642609342800338944",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795278591867097136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gotouhitori2 😭😭😭"
+      },
+      {
+        "attachments": {},
+        "author_id": "1642609342800338944",
+        "conversation_id": "1795277950604243355",
+        "created_at": "2024-05-28T02:19:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-28T03:19:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1795278591867097136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795278591867097136",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795277950604243355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 至少还是帅哥，我是猥琐国男😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UNNC‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2025,
+          "following_count": 2645,
+          "like_count": 36528,
+          "listed_count": 5,
+          "tweet_count": 2222
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-02T19:26:12.000Z",
+        "description": "",
+        "id": "1642609342800338944",
+        "location": "參宿四",
+        "name": "後藤一理",
+        "pinned_tweet_id": "1780416675009151282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736674719519453184/744CYmNE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2325,
+          "following_count": 2543,
+          "like_count": 47259,
+          "listed_count": 6,
+          "tweet_count": 9698
+        },
+        "username": "gotouhitori2",
+        "verified": false
+      }
+    ]
+  }
+}

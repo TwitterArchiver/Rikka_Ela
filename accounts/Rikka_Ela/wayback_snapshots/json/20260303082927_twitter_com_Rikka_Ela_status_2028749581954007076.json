@@ -1,0 +1,420 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2028749581954007076",
+    "created_at": "2026-03-03T08:29:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T09:29:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028749581954007076"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ayayera_/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/ayayera_/status/2028283438373941305",
+          "start": 5,
+          "url": "https://t.co/UVGUqT0Syj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028749581954007076",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028283438373941305",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🧎‍♀️ https://t.co/UVGUqT0Syj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3720,
+        "media_key": "3_2028282388401258496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCXoFgDWgAAOot9.jpg",
+        "width": 3720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2028749581954007076",
+        "created_at": "2026-03-03T08:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T09:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028749581954007076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ayayera_/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/ayayera_/status/2028283438373941305",
+              "start": 5,
+              "url": "https://t.co/UVGUqT0Syj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028749581954007076",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028283438373941305",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🧎‍♀️ https://t.co/UVGUqT0Syj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028282388401258496"
+          ]
+        },
+        "author_id": "1844810967646973953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2028283438373941305",
+        "created_at": "2026-03-02T01:37:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T02:37:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028283438373941305"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "Boymoder dreams",
+              "probability": 0.4937,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fksArD1lQU",
+              "end": 62,
+              "expanded_url": "https://x.com/Ayayera_/status/2028283438373941305/photo/1",
+              "media_key": "3_2028282388401258496",
+              "start": 39,
+              "url": "https://t.co/fksArD1lQU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028283438373941305",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 2842,
+          "like_count": 456,
+          "quote_count": 6,
+          "reply_count": 6,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "Boymoder dreams of being an anime girl https://t.co/fksArD1lQU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4958,
+          "following_count": 3737,
+          "like_count": 79886,
+          "listed_count": 9,
+          "media_count": 382,
+          "tweet_count": 8387
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-11T18:43:17.000Z",
+        "description": "HI || aspiring t4t artist || 🏳️‍⚧️ very cool vtuber person || 25 || stream at https://t.co/JxVA2IVA6b || says hello a lot || :D",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/ayayera",
+                "end": 101,
+                "expanded_url": "https://www.twitch.tv/ayayera",
+                "start": 78,
+                "url": "https://t.co/JxVA2IVA6b"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/ayayera",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/ayayera",
+                "start": 0,
+                "url": "https://t.co/JxVA2IVA6b"
+              }
+            ]
+          }
+        },
+        "id": "1844810967646973953",
+        "name": "ayayera",
+        "pinned_tweet_id": "2028283438373941305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015556605652127744/amE9Ak1U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 88,
+          "like_count": 655,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 339
+        },
+        "url": "https://t.co/JxVA2IVA6b",
+        "username": "Ayayera_",
+        "verified": false
+      }
+    ]
+  }
+}

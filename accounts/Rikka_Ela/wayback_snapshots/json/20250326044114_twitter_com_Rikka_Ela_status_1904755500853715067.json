@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1904742224942031079",
+    "created_at": "2025-03-26T04:41:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-26T05:41:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904755500853715067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1467175651954200577",
+          "start": 0,
+          "username": "kjkluk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904755500853715067",
+    "in_reply_to_user_id": "1467175651954200577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904742224942031079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kjkluk 🇨🇳对🌈的态度其实就是以维稳为主，只要不搞出什么大动静基本不回来管，但是🇨🇳人对🌈的态度我就不好说咯）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1904742224942031079].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1904742224942031079",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1904742224942031079"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1904742224942031079",
+        "created_at": "2025-03-26T04:41:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T05:41:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904755500853715067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1467175651954200577",
+              "start": 0,
+              "username": "kjkluk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904755500853715067",
+        "in_reply_to_user_id": "1467175651954200577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904742224942031079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kjkluk 🇨🇳对🌈的态度其实就是以维稳为主，只要不搞出什么大动静基本不回来管，但是🇨🇳人对🌈的态度我就不好说咯）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3997,
+          "following_count": 3308,
+          "like_count": 63142,
+          "listed_count": 7,
+          "media_count": 182,
+          "tweet_count": 5383
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-04T16:55:23.000Z",
+        "description": "ssh -X guest@kitsune.qwq.io",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kjkluk.github.io",
+                "end": 23,
+                "expanded_url": "http://kjkluk.github.io",
+                "start": 0,
+                "url": "https://t.co/i3MKU3UG3m"
+              }
+            ]
+          }
+        },
+        "id": "1467175651954200577",
+        "location": "Japan",
+        "name": "kitsune’s return",
+        "pinned_tweet_id": "1903346835827331539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904135186444591104/_xtLDjwI_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2127,
+          "following_count": 2523,
+          "like_count": 206136,
+          "listed_count": 15,
+          "media_count": 659,
+          "tweet_count": 9691
+        },
+        "url": "https://t.co/i3MKU3UG3m",
+        "username": "kjkluk",
+        "verified": false
+      }
+    ]
+  }
+}

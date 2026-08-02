@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056435097830559744"
+      ],
+      "media_source_tweet_id": [
+        "2056435103643877767"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "conversation_id": "2056660289014173762",
+    "created_at": "2026-05-19T08:56:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T09:56:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056660289014173762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "4484785573",
+          "start": 3,
+          "username": "darkvibe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5ATOubfV0W",
+          "end": 37,
+          "expanded_url": "https://x.com/darkvibe/status/2056435103643877767/photo/1",
+          "media_key": "3_2056435097830559744",
+          "start": 14,
+          "url": "https://t.co/5ATOubfV0W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056660289014173762",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 169
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056435103643877767",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @darkvibe: https://t.co/5ATOubfV0W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2056435097830559744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIns03XWEAAiOf1.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056435097830559744"
+          ],
+          "media_source_tweet_id": [
+            "2056435103643877767"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "2056660289014173762",
+        "created_at": "2026-05-19T08:56:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T09:56:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056660289014173762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "4484785573",
+              "start": 3,
+              "username": "darkvibe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5ATOubfV0W",
+              "end": 37,
+              "expanded_url": "https://x.com/darkvibe/status/2056435103643877767/photo/1",
+              "media_key": "3_2056435097830559744",
+              "start": 14,
+              "url": "https://t.co/5ATOubfV0W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056660289014173762",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 169
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056435103643877767",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @darkvibe: https://t.co/5ATOubfV0W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056435097830559744"
+          ]
+        },
+        "author_id": "4484785573",
+        "conversation_id": "2056435103643877767",
+        "created_at": "2026-05-18T18:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T19:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056435103643877767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5ATOubfV0W",
+              "end": 23,
+              "expanded_url": "https://x.com/darkvibe/status/2056435103643877767/photo/1",
+              "media_key": "3_2056435097830559744",
+              "start": 0,
+              "url": "https://t.co/5ATOubfV0W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056435103643877767",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 15729,
+          "like_count": 1265,
+          "quote_count": 7,
+          "reply_count": 3,
+          "retweet_count": 169
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5ATOubfV0W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5247,
+          "following_count": 3776,
+          "like_count": 84648,
+          "listed_count": 8,
+          "media_count": 429,
+          "tweet_count": 9517
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-07T09:52:35.000Z",
+        "description": "",
+        "id": "4484785573",
+        "name": "Dark.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005390352933384192/2pJ4wuPL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136700,
+          "following_count": 627,
+          "like_count": 703,
+          "listed_count": 118,
+          "media_count": 4695,
+          "tweet_count": 4766
+        },
+        "username": "darkvibe",
+        "verified": true
+      }
+    ]
+  }
+}

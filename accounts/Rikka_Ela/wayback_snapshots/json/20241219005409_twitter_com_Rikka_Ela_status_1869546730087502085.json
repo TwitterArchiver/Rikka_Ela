@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1869418491616604544",
+    "created_at": "2024-12-19T00:54:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-19T01:54:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869546730087502085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1644328501980561409",
+          "start": 0,
+          "username": "LitangHospital2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869546730087502085",
+    "in_reply_to_user_id": "1644328501980561409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869418491616604544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LitangHospital2 撒币革命"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1869418491616604544",
+        "created_at": "2024-12-19T00:54:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T01:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869546730087502085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1644328501980561409",
+              "start": 0,
+              "username": "LitangHospital2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869546730087502085",
+        "in_reply_to_user_id": "1644328501980561409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869418491616604544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LitangHospital2 撒币革命"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644328501980561409",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1468157909318045697",
+              "name": "Solana cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1468157909318045697",
+              "name": "Solana cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Personal finance",
+              "id": "847888632711061504",
+              "name": "Personal finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          }
+        ],
+        "conversation_id": "1869418491616604544",
+        "created_at": "2024-12-18T16:24:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T17:24:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869418491616604544"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1869409838121521363",
+              "start": 7,
+              "url": "https://t.co/RRwVlbcsVv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869418491616604544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2115,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869409838121521363",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "又开始炒作了 https://t.co/RRwVlbcsVv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文\n\n@Y32010705",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 43,
+                "username": "Y32010705"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3182,
+          "following_count": 3122,
+          "like_count": 55013,
+          "listed_count": 7,
+          "media_count": 151,
+          "tweet_count": 4225
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-07T13:17:27.000Z",
+        "description": "现在的小娃娃的烟弹哟，真是多姿多彩滴很哟",
+        "id": "1644328501980561409",
+        "location": "理塘",
+        "name": "丁师傅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868283264492093440/wjLOob4h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10737,
+          "following_count": 2760,
+          "like_count": 36243,
+          "listed_count": 36,
+          "media_count": 1329,
+          "tweet_count": 9122
+        },
+        "username": "LitangHospital2",
+        "verified": false
+      }
+    ]
+  }
+}

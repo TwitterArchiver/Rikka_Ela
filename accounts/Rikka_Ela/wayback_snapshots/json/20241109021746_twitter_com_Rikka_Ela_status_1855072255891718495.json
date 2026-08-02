@@ -1,0 +1,636 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1854525953340227592"
+      ],
+      "media_source_tweet_id": [
+        "1854526032927174774"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Bitcoin Cryptocurrency",
+          "id": "1007360414114435072",
+          "name": "Bitcoin cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Bitcoin Cryptocurrency",
+          "id": "1007360414114435072",
+          "name": "Bitcoin cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1484181943616884743",
+          "name": "Cryptocoins"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491481998862348291",
+          "name": "Digital asset industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "1492162686204854274",
+          "name": "Digital assets & cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "For cryptocurrency entities",
+          "id": "174",
+          "name": "Digital Assets & Crypto"
+        },
+        "entity": {
+          "description": "Bitcoin Cryptocurrency",
+          "id": "1007360414114435072",
+          "name": "Bitcoin cryptocurrency"
+        }
+      }
+    ],
+    "conversation_id": "1855072255891718495",
+    "created_at": "2024-11-09T02:17:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-09T03:17:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855072255891718495"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "Bitcoin",
+          "probability": 0.9447,
+          "start": 16,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1465903746408321026",
+          "start": 3,
+          "username": "naiivememe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q3rkYjTJv9",
+          "end": 59,
+          "expanded_url": "https://x.com/crypto_birb/status/1854526032927174774/video/1",
+          "media_key": "13_1854525953340227592",
+          "start": 36,
+          "url": "https://t.co/Q3rkYjTJv9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855072255891718495",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 591
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854851752987967533",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @naiivememe: Bitcoin this month  https://t.co/Q3rkYjTJv9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20063,
+        "height": 644,
+        "media_key": "13_1854525953340227592",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1854525953340227592/img/RwljQ85jQ3p7Ehio.jpg",
+        "public_metrics": {
+          "view_count": 155808
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1854525953340227592/vid/avc1/370x270/vUZxWLhbE4-ZRy2x.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1854525953340227592/vid/avc1/494x360/YVykX_KvHG42PhMU.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1854525953340227592/vid/avc1/886x644/wH1Ntlkl3XqlFA2z.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1854525953340227592/pl/td2P-s505FyGphZZ.m3u8?tag=16&v=cfc"
+          }
+        ],
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1854525953340227592"
+          ],
+          "media_source_tweet_id": [
+            "1854526032927174774"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491481998862348291",
+              "name": "Digital asset industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "1855072255891718495",
+        "created_at": "2024-11-09T02:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T03:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855072255891718495"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "Bitcoin",
+              "probability": 0.9447,
+              "start": 16,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1465903746408321026",
+              "start": 3,
+              "username": "naiivememe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q3rkYjTJv9",
+              "end": 59,
+              "expanded_url": "https://x.com/crypto_birb/status/1854526032927174774/video/1",
+              "media_key": "13_1854525953340227592",
+              "start": 36,
+              "url": "https://t.co/Q3rkYjTJv9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855072255891718495",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 591
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854851752987967533",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @naiivememe: Bitcoin this month  https://t.co/Q3rkYjTJv9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1854525953340227592"
+          ],
+          "media_source_tweet_id": [
+            "1854526032927174774"
+          ]
+        },
+        "author_id": "1465903746408321026",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484181943616884743",
+              "name": "Cryptocoins"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491481998862348291",
+              "name": "Digital asset industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "description": "Bitcoin Cryptocurrency",
+              "id": "1007360414114435072",
+              "name": "Bitcoin cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "1854851752987967533",
+        "created_at": "2024-11-08T11:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-08T12:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854851752987967533"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "Bitcoin",
+              "probability": 0.9501,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q3rkYjTJv9",
+              "end": 43,
+              "expanded_url": "https://x.com/crypto_birb/status/1854526032927174774/video/1",
+              "media_key": "13_1854525953340227592",
+              "start": 20,
+              "url": "https://t.co/Q3rkYjTJv9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854851752987967533",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 398,
+          "impression_count": 207742,
+          "like_count": 3734,
+          "quote_count": 63,
+          "reply_count": 108,
+          "retweet_count": 591
+        },
+        "reply_settings": "everyone",
+        "text": "Bitcoin this month  https://t.co/Q3rkYjTJv9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文\n\nwife:@Y32010705",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "Y32010705"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3055,
+          "following_count": 3030,
+          "like_count": 52156,
+          "listed_count": 5,
+          "tweet_count": 3807
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-01T04:41:18.000Z",
+        "description": "Bitcoin",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "opensea.io/collection/nai…",
+                "end": 23,
+                "expanded_url": "http://opensea.io/collection/naiive/overview",
+                "start": 0,
+                "url": "https://t.co/2cTIzh8GN6"
+              }
+            ]
+          }
+        },
+        "id": "1465903746408321026",
+        "location": "🐈 naiive club: ",
+        "name": "naiive",
+        "pinned_tweet_id": "1775477650628427875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1712169020424933376/Y_KdDb2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177849,
+          "following_count": 144,
+          "like_count": 33601,
+          "listed_count": 970,
+          "tweet_count": 13575
+        },
+        "url": "https://t.co/2cTIzh8GN6",
+        "username": "naiivememe",
+        "verified": true
+      }
+    ]
+  }
+}

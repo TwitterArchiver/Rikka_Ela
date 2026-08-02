@@ -1,0 +1,741 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1899845099837657088"
+      ],
+      "media_source_tweet_id": [
+        "1899849555245695256"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "872842877063147521",
+          "name": "Bloodborne"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "872842877063147521",
+          "name": "Bloodborne"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Bloodborne",
+          "id": "10049908034",
+          "name": "Bloodborne"
+        }
+      }
+    ],
+    "conversation_id": "1901993202271535433",
+    "created_at": "2025-03-18T13:44:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-18T14:44:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901993202271535433"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "Lady Maria",
+          "probability": 0.6244,
+          "start": 12,
+          "type": "Person"
+        },
+        {
+          "end": 42,
+          "normalized_text": "bloodborne",
+          "probability": 0.8484,
+          "start": 33,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 23,
+          "tag": "cosplay"
+        },
+        {
+          "end": 43,
+          "start": 32,
+          "tag": "bloodborne"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "535286036",
+          "start": 3,
+          "username": "edelxl"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OjioA2kQ0Q",
+          "end": 67,
+          "expanded_url": "https://x.com/edelxl/status/1899849555245695256/photo/1",
+          "media_key": "3_1899845099837657088",
+          "start": 44,
+          "url": "https://t.co/OjioA2kQ0Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901993202271535433",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1344
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899849555245695256",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @edelxl: Lady Maria\n#cosplay #bloodborne https://t.co/OjioA2kQ0Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_1899845099837657088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl2bDXAXEAAZFWV.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1899845099837657088"
+          ],
+          "media_source_tweet_id": [
+            "1899849555245695256"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "872842877063147521",
+              "name": "Bloodborne"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "872842877063147521",
+              "name": "Bloodborne"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Bloodborne",
+              "id": "10049908034",
+              "name": "Bloodborne"
+            }
+          }
+        ],
+        "conversation_id": "1901993202271535433",
+        "created_at": "2025-03-18T13:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T14:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901993202271535433"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "Lady Maria",
+              "probability": 0.6244,
+              "start": 12,
+              "type": "Person"
+            },
+            {
+              "end": 42,
+              "normalized_text": "bloodborne",
+              "probability": 0.8484,
+              "start": 33,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 23,
+              "tag": "cosplay"
+            },
+            {
+              "end": 43,
+              "start": 32,
+              "tag": "bloodborne"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "535286036",
+              "start": 3,
+              "username": "edelxl"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OjioA2kQ0Q",
+              "end": 67,
+              "expanded_url": "https://x.com/edelxl/status/1899849555245695256/photo/1",
+              "media_key": "3_1899845099837657088",
+              "start": 44,
+              "url": "https://t.co/OjioA2kQ0Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901993202271535433",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1344
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899849555245695256",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @edelxl: Lady Maria\n#cosplay #bloodborne https://t.co/OjioA2kQ0Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1899845099837657088"
+          ]
+        },
+        "author_id": "535286036",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "872842877063147521",
+              "name": "Bloodborne"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "872842877063147521",
+              "name": "Bloodborne"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Bloodborne",
+              "id": "10049908034",
+              "name": "Bloodborne"
+            }
+          }
+        ],
+        "conversation_id": "1899849555245695256",
+        "created_at": "2025-03-12T15:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T16:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899849555245695256"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "Lady Maria",
+              "probability": 0.6769,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 30,
+              "normalized_text": "bloodborne",
+              "probability": 0.8029,
+              "start": 21,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 11,
+              "tag": "cosplay"
+            },
+            {
+              "end": 31,
+              "start": 20,
+              "tag": "bloodborne"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OjioA2kQ0Q",
+              "end": 55,
+              "expanded_url": "https://x.com/edelxl/status/1899849555245695256/photo/1",
+              "media_key": "3_1899845099837657088",
+              "start": 32,
+              "url": "https://t.co/OjioA2kQ0Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899849555245695256",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 674,
+          "impression_count": 171634,
+          "like_count": 9489,
+          "quote_count": 29,
+          "reply_count": 24,
+          "retweet_count": 1344
+        },
+        "reply_settings": "everyone",
+        "text": "Lady Maria\n#cosplay #bloodborne https://t.co/OjioA2kQ0Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3980,
+          "following_count": 3303,
+          "like_count": 62498,
+          "listed_count": 7,
+          "media_count": 180,
+          "tweet_count": 5298
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-24T12:12:32.000Z",
+        "description": "I'm Replicant. | model, cosplay | costume design | dark fantasy, game | 月蝕の瞳 #halt_AW | ご依頼はDMへ | 日常はBluesky https://t.co/VBEmmlmyZc",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 77,
+                "tag": "halt_AW"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "linktr.ee/_halt",
+                "end": 132,
+                "expanded_url": "https://linktr.ee/_halt",
+                "start": 109,
+                "url": "https://t.co/VBEmmlmyZc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/edelxl?t=FTx14…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/edelxl?t=FTx14G&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/C0QUlKWvZs"
+              }
+            ]
+          }
+        },
+        "id": "535286036",
+        "location": "Repost is prohibited",
+        "name": "𝒉𝒂𝒍𝒕",
+        "pinned_tweet_id": "1876652504035082632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1712535336017154048/wBTEg9N0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23672,
+          "following_count": 183,
+          "like_count": 9091,
+          "listed_count": 192,
+          "media_count": 760,
+          "tweet_count": 8664
+        },
+        "url": "https://t.co/C0QUlKWvZs",
+        "username": "edelxl",
+        "verified": false
+      }
+    ]
+  }
+}

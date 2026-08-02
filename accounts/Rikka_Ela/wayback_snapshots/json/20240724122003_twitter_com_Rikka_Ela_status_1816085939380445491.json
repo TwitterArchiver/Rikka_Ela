@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1815993756543598813",
+    "created_at": "2024-07-24T12:20:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-24T13:20:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816085939380445491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1657012391681605638",
+          "start": 0,
+          "username": "KANADE198964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816085939380445491",
+    "in_reply_to_user_id": "1657012391681605638",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1815993756543598813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KANADE198964 欠下乡改造了🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1815993756543598813",
+        "created_at": "2024-07-24T12:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-24T13:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816085939380445491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1657012391681605638",
+              "start": 0,
+              "username": "KANADE198964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816085939380445491",
+        "in_reply_to_user_id": "1657012391681605638",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815993756543598813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KANADE198964 欠下乡改造了🤓"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1815993745155973123"
+          ]
+        },
+        "author_id": "1657012391681605638",
+        "conversation_id": "1815993756543598813",
+        "created_at": "2024-07-24T06:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-24T07:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1815993756543598813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/eMgLchbv1f",
+              "end": 39,
+              "expanded_url": "https://twitter.com/KANADE198964/status/1815993756543598813/photo/1",
+              "media_key": "3_1815993745155973123",
+              "start": 16,
+              "url": "https://t.co/eMgLchbv1f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815993756543598813",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“社会底层”\n一看id豁然开朗 https://t.co/eMgLchbv1f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2239,
+          "following_count": 2812,
+          "like_count": 43135,
+          "listed_count": 6,
+          "tweet_count": 2739
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-12T13:18:44.000Z",
+        "description": "我是好人 mtf→mtx（？）",
+        "id": "1657012391681605638",
+        "name": "奏",
+        "pinned_tweet_id": "1810616103883997191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808793318756921344/ClYcC2HS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 312,
+          "like_count": 66664,
+          "listed_count": 0,
+          "tweet_count": 538
+        },
+        "username": "KANADE198964",
+        "verified": false
+      }
+    ]
+  }
+}

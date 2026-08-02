@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938570459941097473"
+      ],
+      "media_source_tweet_id": [
+        "1938570655794131154"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10054080790",
+          "name": "ハッピーシュガーライフ"
+        }
+      }
+    ],
+    "conversation_id": "1938782389825872020",
+    "created_at": "2025-06-28T02:11:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T03:11:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938782389825872020"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 18,
+          "tag": "ハッピーシュガーライフ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1276779920035741696",
+          "start": 3,
+          "username": "MaidCode1023"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nlhH8Zss1w",
+          "end": 60,
+          "expanded_url": "https://x.com/MaidCode1023/status/1938570655794131154/photo/1",
+          "media_key": "3_1938570459941097473",
+          "start": 37,
+          "url": "https://t.co/nlhH8Zss1w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938782389825872020",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2373
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938570655794131154",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MaidCode1023: #ハッピーシュガーライフ\n愛の終末期 https://t.co/nlhH8Zss1w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1938,
+        "media_key": "3_1938570459941097473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gucvj_Ta0AEitW_.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938570459941097473"
+          ],
+          "media_source_tweet_id": [
+            "1938570655794131154"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10054080790",
+              "name": "ハッピーシュガーライフ"
+            }
+          }
+        ],
+        "conversation_id": "1938782389825872020",
+        "created_at": "2025-06-28T02:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T03:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938782389825872020"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 18,
+              "tag": "ハッピーシュガーライフ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1276779920035741696",
+              "start": 3,
+              "username": "MaidCode1023"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nlhH8Zss1w",
+              "end": 60,
+              "expanded_url": "https://x.com/MaidCode1023/status/1938570655794131154/photo/1",
+              "media_key": "3_1938570459941097473",
+              "start": 37,
+              "url": "https://t.co/nlhH8Zss1w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938782389825872020",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2373
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938570655794131154",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MaidCode1023: #ハッピーシュガーライフ\n愛の終末期 https://t.co/nlhH8Zss1w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938570459941097473"
+          ]
+        },
+        "author_id": "1276779920035741696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10054080790",
+              "name": "ハッピーシュガーライフ"
+            }
+          }
+        ],
+        "conversation_id": "1938570655794131154",
+        "created_at": "2025-06-27T12:10:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T13:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938570655794131154"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "ハッピーシュガーライフ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nlhH8Zss1w",
+              "end": 42,
+              "expanded_url": "https://x.com/MaidCode1023/status/1938570655794131154/photo/1",
+              "media_key": "3_1938570459941097473",
+              "start": 19,
+              "url": "https://t.co/nlhH8Zss1w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938570655794131154",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2271,
+          "impression_count": 295438,
+          "like_count": 21919,
+          "quote_count": 18,
+          "reply_count": 5,
+          "retweet_count": 2373
+        },
+        "reply_settings": "everyone",
+        "text": "#ハッピーシュガーライフ\n愛の終末期 https://t.co/nlhH8Zss1w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4371,
+          "following_count": 3506,
+          "like_count": 69760,
+          "listed_count": 7,
+          "media_count": 247,
+          "tweet_count": 6306
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-27T07:31:13.000Z",
+        "description": "百合が好き！まだ絵画を練習中……さとしお, ansyが好き!\n中国人🇨🇳です！日本語は苦手ですが、よろしくお願いします。\nhttps://t.co/Tw0sVoqWkH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/17178524",
+                "end": 84,
+                "expanded_url": "https://www.pixiv.net/users/17178524",
+                "start": 61,
+                "url": "https://t.co/Tw0sVoqWkH"
+              }
+            ]
+          }
+        },
+        "id": "1276779920035741696",
+        "name": "MaidCode1023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905153161498935296/9vgfL2We_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20835,
+          "following_count": 292,
+          "like_count": 2747,
+          "listed_count": 125,
+          "media_count": 78,
+          "tweet_count": 281
+        },
+        "username": "MaidCode1023",
+        "verified": false
+      }
+    ]
+  }
+}

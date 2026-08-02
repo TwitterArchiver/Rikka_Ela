@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1898542482365002064",
+    "created_at": "2025-03-09T01:21:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T02:21:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898544578413891912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1880325371280912386",
+          "start": 0,
+          "username": "genya1976"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898544578413891912",
+    "in_reply_to_user_id": "1880325371280912386",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898542482365002064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@genya1976 ？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1898542482365002064].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1898542482365002064",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1898542482365002064"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1898542482365002064",
+        "created_at": "2025-03-09T01:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T02:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898544578413891912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1880325371280912386",
+              "start": 0,
+              "username": "genya1976"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898544578413891912",
+        "in_reply_to_user_id": "1880325371280912386",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898542482365002064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@genya1976 ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3924,
+          "following_count": 3297,
+          "like_count": 61660,
+          "listed_count": 7,
+          "media_count": 176,
+          "tweet_count": 5146
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T18:44:47.000Z",
+        "description": "劳保岁静🌹/右上拥共🫡/反跨反同😔/高歌猛进⚡",
+        "id": "1880325371280912386",
+        "name": "江上 清风游🇷🇺Василек",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891118827171360768/JgsYPNw__normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 303,
+          "like_count": 24630,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 1487
+        },
+        "username": "genya1976",
+        "verified": false
+      }
+    ]
+  }
+}

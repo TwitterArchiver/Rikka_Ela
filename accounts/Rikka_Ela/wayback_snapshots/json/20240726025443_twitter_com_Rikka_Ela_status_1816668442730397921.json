@@ -1,0 +1,175 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1816516828761575764",
+    "created_at": "2024-07-26T02:54:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-26T03:54:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816668442730397921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1803807962835890177",
+          "start": 0,
+          "username": "patchy_servant"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816668442730397921",
+    "in_reply_to_user_id": "1803807962835890177",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816516828761575764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@patchy_servant 让全人类狠狠超我（×"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1816516828761575764",
+        "created_at": "2024-07-26T02:54:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T03:54:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816668442730397921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1803807962835890177",
+              "start": 0,
+              "username": "patchy_servant"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816668442730397921",
+        "in_reply_to_user_id": "1803807962835890177",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816516828761575764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@patchy_servant 让全人类狠狠超我（×"
+      },
+      {
+        "attachments": {},
+        "author_id": "1803807962835890177",
+        "conversation_id": "1816516828761575764",
+        "created_at": "2024-07-25T16:52:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-25T17:52:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816516828761575764"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1816516828761575764",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2096,
+          "like_count": 39,
+          "quote_count": 7,
+          "reply_count": 29,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "如果你有能力现在让全人类做同一个事情你会做什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2257,
+          "following_count": 2816,
+          "like_count": 43318,
+          "listed_count": 6,
+          "tweet_count": 2764
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-20T15:11:57.000Z",
+        "description": "请fo @remilia_servant\n希望可以带来一些慰籍\n初次见面求求followers\n欢迎快来来找我互fo哦\n不接触任何政治哦抱歉\n努力初步目标冲向百fo\n日语英语国语都OK哦\n已正在努力学习韩语了\n知道我前世也不要去提",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 4,
+                "username": "remilia_servant"
+              }
+            ]
+          }
+        },
+        "id": "1803807962835890177",
+        "location": "いつもあなたのそばにいる（実は江戸城）",
+        "name": "ෆ⁠帕琪の惡魔僕ෆ⁠",
+        "pinned_tweet_id": "1813809409489015180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812177271135830016/HNsJ09Nq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 655,
+          "like_count": 983,
+          "listed_count": 0,
+          "tweet_count": 4016
+        },
+        "username": "patchy_servant",
+        "verified": false
+      }
+    ]
+  }
+}

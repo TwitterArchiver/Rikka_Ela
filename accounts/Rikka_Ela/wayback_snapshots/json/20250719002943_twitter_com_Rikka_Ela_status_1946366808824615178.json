@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946263119770341376"
+      ],
+      "media_source_tweet_id": [
+        "1946344237395853693"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "conversation_id": "1946366808824615178",
+    "created_at": "2025-07-19T00:29:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T01:29:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946366808824615178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3041419278",
+          "start": 3,
+          "username": "4ori_41"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/f4AcXLbd3y",
+          "end": 40,
+          "expanded_url": "https://x.com/4ori_41/status/1946344237395853693/photo/1",
+          "media_key": "3_1946263119770341376",
+          "start": 17,
+          "url": "https://t.co/f4AcXLbd3y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946366808824615178",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 385
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946344237395853693",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @4ori_41: 通り雨 https://t.co/f4AcXLbd3y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1946263119770341376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwKD_uVa0AAdDm8.jpg",
+        "width": 848
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946263119770341376"
+          ],
+          "media_source_tweet_id": [
+            "1946344237395853693"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "1946366808824615178",
+        "created_at": "2025-07-19T00:29:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T01:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946366808824615178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3041419278",
+              "start": 3,
+              "username": "4ori_41"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f4AcXLbd3y",
+              "end": 40,
+              "expanded_url": "https://x.com/4ori_41/status/1946344237395853693/photo/1",
+              "media_key": "3_1946263119770341376",
+              "start": 17,
+              "url": "https://t.co/f4AcXLbd3y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946366808824615178",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 385
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946344237395853693",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @4ori_41: 通り雨 https://t.co/f4AcXLbd3y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946263119770341376"
+          ]
+        },
+        "author_id": "3041419278",
+        "conversation_id": "1946344237395853693",
+        "created_at": "2025-07-18T23:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T00:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946344237395853693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f4AcXLbd3y",
+              "end": 27,
+              "expanded_url": "https://x.com/4ori_41/status/1946344237395853693/photo/1",
+              "media_key": "3_1946263119770341376",
+              "start": 4,
+              "url": "https://t.co/f4AcXLbd3y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946344237395853693",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 228,
+          "impression_count": 27437,
+          "like_count": 2190,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 385
+        },
+        "reply_settings": "everyone",
+        "text": "通り雨 https://t.co/f4AcXLbd3y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4442,
+          "following_count": 3535,
+          "like_count": 70857,
+          "listed_count": 7,
+          "media_count": 263,
+          "tweet_count": 6498
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-25T14:51:00.000Z",
+        "description": "■現在2025年9月以降納期のお仕事がお引き受け可能です✒️\n■フリーランスイラストレーター。9割メイドさん☕ \n■FANBOX▶︎https://t.co/hB77kG5Ssm \n■お仕事実績など(HP)▶︎https://t.co/SatleTjiWj\n■MAIL▶︎shiorishii.work@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "onl.la/91ayLZy",
+                "end": 89,
+                "expanded_url": "http://onl.la/91ayLZy",
+                "start": 66,
+                "url": "https://t.co/hB77kG5Ssm"
+              },
+              {
+                "display_url": "shiorishii.com",
+                "end": 128,
+                "expanded_url": "http://shiorishii.com",
+                "start": 105,
+                "url": "https://t.co/SatleTjiWj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@4ori_41",
+                "end": 23,
+                "expanded_url": "http://skeb.jp/@4ori_41",
+                "start": 0,
+                "url": "https://t.co/eZigOFPXfF"
+              }
+            ]
+          }
+        },
+        "id": "3041419278",
+        "name": "栞しい☕️",
+        "pinned_tweet_id": "1866330927212920929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1499331313681113090/kqvO483h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88324,
+          "following_count": 861,
+          "like_count": 58342,
+          "listed_count": 1204,
+          "media_count": 532,
+          "tweet_count": 43395
+        },
+        "url": "https://t.co/eZigOFPXfF",
+        "username": "4ori_41",
+        "verified": true
+      }
+    ]
+  }
+}

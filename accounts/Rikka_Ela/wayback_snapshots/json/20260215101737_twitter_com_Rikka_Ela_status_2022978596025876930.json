@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2022978596025876930",
+    "created_at": "2026-02-15T10:17:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T11:17:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022978596025876930"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/namami0115/sta…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/namami0115/status/2022596683247555048",
+          "start": 7,
+          "url": "https://t.co/P7RtU0PemD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022978596025876930",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022596683247555048",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谢谢，我不吃 https://t.co/P7RtU0PemD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2022588842017198081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBGt1e8akAE8S64.jpg",
+        "width": 2400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2022978596025876930",
+        "created_at": "2026-02-15T10:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T11:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022978596025876930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/namami0115/sta…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/namami0115/status/2022596683247555048",
+              "start": 7,
+              "url": "https://t.co/P7RtU0PemD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022978596025876930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022596683247555048",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谢谢，我不吃 https://t.co/P7RtU0PemD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022588842017198081"
+          ]
+        },
+        "author_id": "1261108497153810432",
+        "conversation_id": "2022596683247555048",
+        "created_at": "2026-02-14T09:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T10:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022596683247555048"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 10,
+              "tag": "ELDENRINGNIGHTREIGN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CSZkYtqf65",
+              "end": 54,
+              "expanded_url": "https://x.com/NAMAMI0115/status/2022596683247555048/photo/1",
+              "media_key": "3_2022588842017198081",
+              "start": 31,
+              "url": "https://t.co/CSZkYtqf65"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022596683247555048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 8061,
+          "like_count": 520,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "守護者（黎明）\n  #ELDENRINGNIGHTREIGN https://t.co/CSZkYtqf65"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4877,
+          "following_count": 3712,
+          "like_count": 79169,
+          "listed_count": 9,
+          "media_count": 372,
+          "tweet_count": 8227
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-15T01:38:11.000Z",
+        "description": "イラスト一次創作＆二次創作（MH・ブルアカ・血灰・ポケモンets）を描いてます。ご依頼やその他御用の方はDMまたは、mail: namami0115🪐https://t.co/yroi5xr7ZF(🪐→@)にご連絡ください。 過去作品pixiv: https://t.co/aLZXbQRRms",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "gmail.com",
+                "end": 98,
+                "expanded_url": "http://gmail.com",
+                "start": 75,
+                "url": "https://t.co/yroi5xr7ZF"
+              },
+              {
+                "display_url": "pixiv.net/users/87300850",
+                "end": 147,
+                "expanded_url": "http://pixiv.net/users/87300850",
+                "start": 124,
+                "url": "https://t.co/aLZXbQRRms"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@NAMAMI0115",
+                "end": 23,
+                "expanded_url": "http://skeb.jp/@NAMAMI0115",
+                "start": 0,
+                "url": "https://t.co/90Ak0wHneb"
+              }
+            ]
+          }
+        },
+        "id": "1261108497153810432",
+        "location": "※全画像AI学習禁止🚫&不使用です。無断利用も禁止です。",
+        "name": "ナマ海 NAMAMI",
+        "pinned_tweet_id": "2007073553036779862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883325694564032512/jCZnMjze_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2274,
+          "following_count": 287,
+          "like_count": 38305,
+          "listed_count": 9,
+          "media_count": 562,
+          "tweet_count": 1525
+        },
+        "url": "https://t.co/90Ak0wHneb",
+        "username": "NAMAMI0115",
+        "verified": true
+      }
+    ]
+  }
+}

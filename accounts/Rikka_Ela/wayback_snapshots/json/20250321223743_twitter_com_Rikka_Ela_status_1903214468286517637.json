@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1902764466564935681"
+      ],
+      "media_source_tweet_id": [
+        "1902767145781489909"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1903214468286517637",
+    "created_at": "2025-03-21T22:37:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-21T23:37:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903214468286517637"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 25,
+          "tag": "ChooseCanada"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2459609448",
+          "start": 3,
+          "username": "Canada"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Choose Canada in every way, especially when you buy, travel, celebrate, cheer on, explore, and adventure.",
+          "display_url": "Canada.ca/Choose-Canada",
+          "end": 67,
+          "expanded_url": "http://Canada.ca/Choose-Canada",
+          "start": 44,
+          "status": 200,
+          "title": "Choose Canada - Canada.ca",
+          "unwound_url": "https://www.canada.ca/en/canadian-heritage/campaigns/choose-canada.html?utm_campaign=pco-bcp-choose-canada-domestic-24-25&utm_medium=vanity-url&utm_source=canada-ca_choose-canada",
+          "url": "https://t.co/QpzS8MNI13"
+        },
+        {
+          "display_url": "pic.x.com/TmYyKTvtrZ",
+          "end": 91,
+          "expanded_url": "https://x.com/Canada/status/1902767145781489909/video/1",
+          "media_key": "7_1902764466564935681",
+          "start": 68,
+          "url": "https://t.co/TmYyKTvtrZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903214468286517637",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1574
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902767145781489909",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Canada: It’s time to #ChooseCanada. 🇨🇦\n\nhttps://t.co/QpzS8MNI13 https://t.co/TmYyKTvtrZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30016,
+        "height": 1080,
+        "media_key": "7_1902764466564935681",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1902764466564935681/pu/img/Sk_gC9OV5cd_uIt2.jpg",
+        "public_metrics": {
+          "view_count": 216777
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1902764466564935681/pu/vid/avc1/480x270/k6BfxLTnq60f9pVY.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1902764466564935681/pu/vid/avc1/640x360/JgDFz4CGDR6qD4tc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1902764466564935681/pu/vid/avc1/1280x720/9YiQ3mEFu0dEMyEK.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1902764466564935681/pu/pl/GP30wnlyRo58G5jH.m3u8?tag=12&v=538"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1902764466564935681"
+          ],
+          "media_source_tweet_id": [
+            "1902767145781489909"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1903214468286517637",
+        "created_at": "2025-03-21T22:37:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T23:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903214468286517637"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 25,
+              "tag": "ChooseCanada"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2459609448",
+              "start": 3,
+              "username": "Canada"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Choose Canada in every way, especially when you buy, travel, celebrate, cheer on, explore, and adventure.",
+              "display_url": "Canada.ca/Choose-Canada",
+              "end": 67,
+              "expanded_url": "http://Canada.ca/Choose-Canada",
+              "start": 44,
+              "status": 200,
+              "title": "Choose Canada - Canada.ca",
+              "unwound_url": "https://www.canada.ca/en/canadian-heritage/campaigns/choose-canada.html?utm_campaign=pco-bcp-choose-canada-domestic-24-25&utm_medium=vanity-url&utm_source=canada-ca_choose-canada",
+              "url": "https://t.co/QpzS8MNI13"
+            },
+            {
+              "display_url": "pic.x.com/TmYyKTvtrZ",
+              "end": 91,
+              "expanded_url": "https://x.com/Canada/status/1902767145781489909/video/1",
+              "media_key": "7_1902764466564935681",
+              "start": 68,
+              "url": "https://t.co/TmYyKTvtrZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903214468286517637",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1574
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902767145781489909",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Canada: It’s time to #ChooseCanada. 🇨🇦\n\nhttps://t.co/QpzS8MNI13 https://t.co/TmYyKTvtrZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1902764466564935681"
+          ]
+        },
+        "author_id": "2459609448",
+        "conversation_id": "1902767145781489909",
+        "created_at": "2025-03-20T17:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T18:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902767145781489909"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "ChooseCanada",
+              "probability": 0.5942,
+              "start": 14,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 13,
+              "tag": "ChooseCanada"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Choose Canada in every way, especially when you buy, travel, celebrate, cheer on, explore, and adventure.",
+              "display_url": "Canada.ca/Choose-Canada",
+              "end": 55,
+              "expanded_url": "http://Canada.ca/Choose-Canada",
+              "start": 32,
+              "status": 200,
+              "title": "Choose Canada - Canada.ca",
+              "unwound_url": "https://www.canada.ca/en/canadian-heritage/campaigns/choose-canada.html?utm_campaign=pco-bcp-choose-canada-domestic-24-25&utm_medium=vanity-url&utm_source=canada-ca_choose-canada",
+              "url": "https://t.co/QpzS8MNI13"
+            },
+            {
+              "display_url": "pic.x.com/TmYyKTvtrZ",
+              "end": 79,
+              "expanded_url": "https://x.com/Canada/status/1902767145781489909/video/1",
+              "media_key": "7_1902764466564935681",
+              "start": 56,
+              "url": "https://t.co/TmYyKTvtrZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902767145781489909",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 337,
+          "impression_count": 903577,
+          "like_count": 6213,
+          "quote_count": 214,
+          "reply_count": 411,
+          "retweet_count": 1574
+        },
+        "reply_settings": "everyone",
+        "text": "It’s time to #ChooseCanada. 🇨🇦\n\nhttps://t.co/QpzS8MNI13 https://t.co/TmYyKTvtrZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3979,
+          "following_count": 3305,
+          "like_count": 62809,
+          "listed_count": 7,
+          "media_count": 181,
+          "tweet_count": 5335
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2014-04-23T11:48:57.000Z",
+        "description": "Showcasing Canada to the world - français: @AuCanada - https://t.co/hKNrf2Ameu\n#StandWithUkraine🇺🇦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 96,
+                "start": 79,
+                "tag": "StandWithUkraine"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "AuCanada"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "international.gc.ca/socialmedia",
+                "end": 78,
+                "expanded_url": "http://international.gc.ca/socialmedia",
+                "start": 55,
+                "url": "https://t.co/hKNrf2Ameu"
+              }
+            ]
+          }
+        },
+        "id": "2459609448",
+        "location": "Canada",
+        "name": "Canada",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/537625264277028864/14jJPXpX_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1170284,
+          "following_count": 730,
+          "like_count": 3630,
+          "listed_count": 2480,
+          "media_count": 6292,
+          "tweet_count": 10438
+        },
+        "username": "Canada",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1900806411837448278",
+    "created_at": "2025-03-15T13:41:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-15T14:41:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900905258835968043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1880325371280912386",
+          "start": 0,
+          "username": "genya1976"
+        },
+        {
+          "end": 24,
+          "id": "1616512241947521030",
+          "start": 11,
+          "username": "Topia_Urbica"
+        },
+        {
+          "end": 37,
+          "id": "1765825463103139840",
+          "start": 25,
+          "username": "BetulaMnc08"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900905258835968043",
+    "in_reply_to_user_id": "1880325371280912386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900895465341919233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@genya1976 @Topia_Urbica @BetulaMnc08 对不起🧎‍♀️"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1900895465341919233].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1900895465341919233",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1900895465341919233"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1900806411837448278",
+        "created_at": "2025-03-15T13:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-15T14:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900905258835968043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1880325371280912386",
+              "start": 0,
+              "username": "genya1976"
+            },
+            {
+              "end": 24,
+              "id": "1616512241947521030",
+              "start": 11,
+              "username": "Topia_Urbica"
+            },
+            {
+              "end": 37,
+              "id": "1765825463103139840",
+              "start": 25,
+              "username": "BetulaMnc08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900905258835968043",
+        "in_reply_to_user_id": "1880325371280912386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900895465341919233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@genya1976 @Topia_Urbica @BetulaMnc08 对不起🧎‍♀️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3959,
+          "following_count": 3299,
+          "like_count": 62209,
+          "listed_count": 5,
+          "media_count": 180,
+          "tweet_count": 5255
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T18:44:47.000Z",
+        "description": "岁静劳保🌹/右上拥共🫡/反跨反同😔/高歌猛进⚡",
+        "id": "1880325371280912386",
+        "name": "江上 清风游🇷🇺Василек",
+        "pinned_tweet_id": "1898969059267613034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891118827171360768/JgsYPNw__normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 331,
+          "like_count": 33213,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 536
+        },
+        "username": "genya1976",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-20T19:05:38.000Z",
+        "description": "散るために咲いた命じゃない|“所有人的容身之地”||没有什么存在意义的小号：@Evtiata",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 38,
+                "username": "Evtiata"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/topia_milia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/topia_milia",
+                "start": 0,
+                "url": "https://t.co/zaKJEhCfbI"
+              }
+            ]
+          }
+        },
+        "id": "1616512241947521030",
+        "location": "IP属地：極東共和国",
+        "name": "Topia Urbica",
+        "pinned_tweet_id": "1889523296624054533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897846669464752128/c-avgQ1d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 706,
+          "like_count": 56366,
+          "listed_count": 3,
+          "media_count": 1360,
+          "tweet_count": 6633
+        },
+        "url": "https://t.co/zaKJEhCfbI",
+        "username": "Topia_Urbica",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-07T19:43:16.000Z",
+        "description": "infj｜巫婆｜電波系｜不可回收垃圾",
+        "id": "1765825463103139840",
+        "location": "貓窩",
+        "name": "白木華🎧",
+        "pinned_tweet_id": "1898709646900388331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895458537586798592/5AJyVSn3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 274,
+          "like_count": 8816,
+          "listed_count": 3,
+          "media_count": 197,
+          "tweet_count": 4071
+        },
+        "username": "BetulaMnc08",
+        "verified": false
+      }
+    ]
+  }
+}

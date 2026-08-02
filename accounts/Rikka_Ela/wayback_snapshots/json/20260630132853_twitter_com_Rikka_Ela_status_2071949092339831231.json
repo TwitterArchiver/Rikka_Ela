@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2071931206904741903",
+    "created_at": "2026-06-30T13:28:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T14:28:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071949092339831231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1945566578327916544",
+          "start": 0,
+          "username": "2477Sion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071949092339831231",
+    "in_reply_to_user_id": "1945566578327916544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071934314917532050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2477Sion 蕉麻兔….."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2071931206904741903",
+        "created_at": "2026-06-30T13:28:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T14:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071949092339831231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1945566578327916544",
+              "start": 0,
+              "username": "2477Sion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071949092339831231",
+        "in_reply_to_user_id": "1945566578327916544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071934314917532050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2477Sion 蕉麻兔….."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945566578327916544",
+        "conversation_id": "2071931206904741903",
+        "created_at": "2026-06-30T12:30:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:30:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071934314917532050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071934314917532050",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071931206904741903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 做成冷吃兔，巴适又下啤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5935,
+          "following_count": 3773,
+          "like_count": 85791,
+          "listed_count": 7,
+          "media_count": 443,
+          "tweet_count": 9847
+        },
+        "url": "",
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-16T19:30:22.000Z",
+        "description": "MTF/MATH/INTJ 5w4/茕茕孑立/键政负能勿扰/超天才短线战士/喜欢热爱生活的人/没进国集是一生的痛/现在的我坚韧得可怕/总有天我要到达那个地方然后取回我曾失去的东西/牛子销号进度19.0%",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/2477sion",
+                "end": 23,
+                "expanded_url": "https://ngl.link/2477sion",
+                "start": 0,
+                "url": "https://t.co/Y3Czy7Av5x"
+              }
+            ]
+          }
+        },
+        "id": "1945566578327916544",
+        "location": "这是个～秘密哟～",
+        "name": "Sion_诗🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2065556793384902742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066129325020393472/Pcu9ZUWF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1329,
+          "following_count": 19,
+          "like_count": 172,
+          "listed_count": 10,
+          "media_count": 79,
+          "tweet_count": 591
+        },
+        "url": "https://t.co/Y3Czy7Av5x",
+        "username": "2477Sion",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1983268185911820729",
+    "created_at": "2025-10-28T20:22:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T21:22:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983268185911820729"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/alterkyon/stat…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/alterkyon/status/1981183649967198266",
+          "start": 9,
+          "url": "https://t.co/lHVxdD87ss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983268185911820729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981183649967198266",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "妈妈妈妈妈妈🥵🤲 https://t.co/lHVxdD87ss"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1981183649967198266].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1981183649967198266",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1981183649967198266"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1983268185911820729",
+        "created_at": "2025-10-28T20:22:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T21:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983268185911820729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/alterkyon/stat…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/alterkyon/status/1981183649967198266",
+              "start": 9,
+              "url": "https://t.co/lHVxdD87ss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983268185911820729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981183649967198266",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妈妈妈妈妈妈🥵🤲 https://t.co/lHVxdD87ss"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4704,
+          "following_count": 3609,
+          "like_count": 74816,
+          "listed_count": 8,
+          "media_count": 319,
+          "tweet_count": 7337
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      }
+    ]
+  }
+}

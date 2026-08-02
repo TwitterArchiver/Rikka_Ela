@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1823687702975537442",
+    "created_at": "2024-08-15T01:08:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-15T02:08:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823889383101227313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1543919287664263168",
+          "start": 0,
+          "username": "Me1t_Nya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823889383101227313",
+    "in_reply_to_user_id": "1543919287664263168",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823883063576945039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Me1t_Nya 我这种身高不矮也不高的怎么办🥺"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1823883063576945039].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1823883063576945039",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1823883063576945039"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1823687702975537442",
+        "created_at": "2024-08-15T01:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-15T02:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823889383101227313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1543919287664263168",
+              "start": 0,
+              "username": "Me1t_Nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823889383101227313",
+        "in_reply_to_user_id": "1543919287664263168",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823883063576945039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Me1t_Nya 我这种身高不矮也不高的怎么办🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2369,
+          "following_count": 2882,
+          "like_count": 46291,
+          "listed_count": 6,
+          "tweet_count": 3061
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-04T11:27:04.000Z",
+        "description": "郭楠，肥宅",
+        "id": "1543919287664263168",
+        "location": "Homeless",
+        "name": "Melt🩵🩷🤍",
+        "pinned_tweet_id": "1742416769292361823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821141376920412160/9G0K4DCO_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 378,
+          "like_count": 12726,
+          "listed_count": 0,
+          "tweet_count": 5796
+        },
+        "username": "Me1t_Nya",
+        "verified": false
+      }
+    ]
+  }
+}

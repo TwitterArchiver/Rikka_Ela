@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1982452938606887065",
+    "created_at": "2025-10-26T14:23:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T15:23:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982452938606887065"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 30,
+          "normalized_text": "Catherine Connolly",
+          "probability": 0.9772,
+          "start": 13,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1138458175663988738",
+          "start": 3,
+          "username": "PopBase"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982452938606887065",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13163
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982156840314994749",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PopBase: Catherine Connolly, an independent left-wing politician, has won the Irish presidential race.\n\nShe becomes the nation’s third…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1270,
+        "media_key": "3_1982156835931983872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4IJI-7WkAAIWiJ.jpg",
+        "width": 960
+      },
+      {
+        "height": 1770,
+        "media_key": "3_1982156835923587072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4IJI-5WcAAviwY.jpg",
+        "width": 1860
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1982452938606887065",
+        "created_at": "2025-10-26T14:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T15:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982452938606887065"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "Catherine Connolly",
+              "probability": 0.9772,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1138458175663988738",
+              "start": 3,
+              "username": "PopBase"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982452938606887065",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13163
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982156840314994749",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PopBase: Catherine Connolly, an independent left-wing politician, has won the Irish presidential race.\n\nShe becomes the nation’s third…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982156835931983872",
+            "3_1982156835923587072"
+          ]
+        },
+        "author_id": "1138458175663988738",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1982156840314994749",
+        "created_at": "2025-10-25T18:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T19:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982156840314994749"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "Catherine Connolly",
+              "probability": 0.9762,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aa29rVwGcr",
+              "end": 167,
+              "expanded_url": "https://x.com/PopBase/status/1982156840314994749/photo/1",
+              "media_key": "3_1982156835931983872",
+              "start": 144,
+              "url": "https://t.co/aa29rVwGcr"
+            },
+            {
+              "display_url": "pic.x.com/aa29rVwGcr",
+              "end": 167,
+              "expanded_url": "https://x.com/PopBase/status/1982156840314994749/photo/1",
+              "media_key": "3_1982156835923587072",
+              "start": 144,
+              "url": "https://t.co/aa29rVwGcr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982156840314994749",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5467,
+          "impression_count": 9353380,
+          "like_count": 231445,
+          "quote_count": 3937,
+          "reply_count": 1400,
+          "retweet_count": 13163
+        },
+        "reply_settings": "everyone",
+        "text": "Catherine Connolly, an independent left-wing politician, has won the Irish presidential race.\n\nShe becomes the nation’s third Female president. https://t.co/aa29rVwGcr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4702,
+          "following_count": 3607,
+          "like_count": 74592,
+          "listed_count": 8,
+          "media_count": 317,
+          "tweet_count": 7298
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-11T14:49:15.000Z",
+        "description": "Pop Base is your best source for all pop culture related entertainment, news, award show coverage, chart updates, statistics and more. | email@popbase.tv",
+        "id": "1138458175663988738",
+        "name": "Pop Base",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1268086791443230737/BRGz4AiW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2389324,
+          "following_count": 2587,
+          "like_count": 3649,
+          "listed_count": 4478,
+          "media_count": 63398,
+          "tweet_count": 79204
+        },
+        "username": "PopBase",
+        "verified": true
+      }
+    ]
+  }
+}

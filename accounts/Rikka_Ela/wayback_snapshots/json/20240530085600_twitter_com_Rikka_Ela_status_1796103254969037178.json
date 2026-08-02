@@ -1,0 +1,578 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Emmanuel Macron",
+          "id": "822153632002904064",
+          "name": "Emmanuel Macron"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Emmanuel Macron",
+          "id": "822153632002904064",
+          "name": "Emmanuel Macron"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Emmanuel Macron",
+          "id": "822153632002904064",
+          "name": "Emmanuel Macron"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1483822657963397121",
+          "name": "France politics"
+        }
+      }
+    ],
+    "conversation_id": "1796103254969037178",
+    "created_at": "2024-05-30T08:56:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-30T09:56:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1796103254969037178"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 75,
+          "normalized_text": "Germany",
+          "probability": 0.9513,
+          "start": 69,
+          "type": "Place"
+        },
+        {
+          "end": 132,
+          "normalized_text": "Jacques Chirac",
+          "probability": 0.9273,
+          "start": 119,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 76,
+          "start": 68,
+          "tag": "Germany"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "438355707",
+          "start": 3,
+          "username": "francediplo_EN"
+        },
+        {
+          "end": 50,
+          "id": "1976143068",
+          "start": 35,
+          "username": "EmmanuelMacron"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796103254969037178",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "1795838072804028548",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @francediplo_EN: 🇫🇷🇩🇪 President @EmmanuelMacron's state visit to #Germany ended yesterday, 24 years after President Jacques Chirac's vis…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Emmanuel Macron",
+              "id": "822153632002904064",
+              "name": "Emmanuel Macron"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Emmanuel Macron",
+              "id": "822153632002904064",
+              "name": "Emmanuel Macron"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Emmanuel Macron",
+              "id": "822153632002904064",
+              "name": "Emmanuel Macron"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1483822657963397121",
+              "name": "France politics"
+            }
+          }
+        ],
+        "conversation_id": "1796103254969037178",
+        "created_at": "2024-05-30T08:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-30T09:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796103254969037178"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 75,
+              "normalized_text": "Germany",
+              "probability": 0.9513,
+              "start": 69,
+              "type": "Place"
+            },
+            {
+              "end": 132,
+              "normalized_text": "Jacques Chirac",
+              "probability": 0.9273,
+              "start": 119,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 76,
+              "start": 68,
+              "tag": "Germany"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "438355707",
+              "start": 3,
+              "username": "francediplo_EN"
+            },
+            {
+              "end": 50,
+              "id": "1976143068",
+              "start": 35,
+              "username": "EmmanuelMacron"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796103254969037178",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795838072804028548",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @francediplo_EN: 🇫🇷🇩🇪 President @EmmanuelMacron's state visit to #Germany ended yesterday, 24 years after President Jacques Chirac's vis…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1795836757914558464"
+          ]
+        },
+        "author_id": "438355707",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Emmanuel Macron",
+              "id": "822153632002904064",
+              "name": "Emmanuel Macron"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Emmanuel Macron",
+              "id": "822153632002904064",
+              "name": "Emmanuel Macron"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Emmanuel Macron",
+              "id": "822153632002904064",
+              "name": "Emmanuel Macron"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1483822657963397121",
+              "name": "France politics"
+            }
+          }
+        ],
+        "conversation_id": "1795838072804028548",
+        "created_at": "2024-05-29T15:22:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-29T16:22:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1795838072804028548"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 55,
+              "normalized_text": "Germany",
+              "probability": 0.9539,
+              "start": 49,
+              "type": "Place"
+            },
+            {
+              "end": 112,
+              "normalized_text": "Jacques Chirac",
+              "probability": 0.8416,
+              "start": 99,
+              "type": "Person"
+            },
+            {
+              "end": 146,
+              "normalized_text": "Franco",
+              "probability": 0.6615,
+              "start": 141,
+              "type": "Place"
+            },
+            {
+              "end": 204,
+              "normalized_text": "FranceGermany",
+              "probability": 0.6519,
+              "start": 192,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 48,
+              "tag": "Germany"
+            },
+            {
+              "end": 205,
+              "start": 191,
+              "tag": "FranceGermany"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 30,
+              "id": "1976143068",
+              "start": 15,
+              "username": "EmmanuelMacron"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/hlsso6tCCQ",
+              "end": 229,
+              "expanded_url": "https://twitter.com/francediplo_EN/status/1795838072804028548/photo/1",
+              "media_key": "3_1795836757914558464",
+              "start": 206,
+              "url": "https://t.co/hlsso6tCCQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795838072804028548",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2383,
+          "like_count": 70,
+          "quote_count": 4,
+          "reply_count": 2,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "🇫🇷🇩🇪 President @EmmanuelMacron's state visit to #Germany ended yesterday, 24 years after President Jacques Chirac's visit.\n\nA new chapter in Franco-German friendship has just been written! 🤝 #FranceGermany https://t.co/hlsso6tCCQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UNNC‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2062,
+          "following_count": 2664,
+          "like_count": 36864,
+          "listed_count": 5,
+          "tweet_count": 2244
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2011-12-16T13:56:21.000Z",
+        "description": "French Ministry for Europe and Foreign Affairs - Official English version of @francediplo, @francediplo_AR, @francediplo_DE, @francediplo_ES, @francediplo_RU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 77,
+                "username": "francediplo"
+              },
+              {
+                "end": 106,
+                "start": 91,
+                "username": "francediplo_AR"
+              },
+              {
+                "end": 123,
+                "start": 108,
+                "username": "francediplo_DE"
+              },
+              {
+                "end": 140,
+                "start": 125,
+                "username": "francediplo_ES"
+              },
+              {
+                "end": 157,
+                "start": 142,
+                "username": "francediplo_RU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "diplomatie.gouv.fr/en/",
+                "end": 23,
+                "expanded_url": "http://www.diplomatie.gouv.fr/en/",
+                "start": 0,
+                "url": "https://t.co/02nOfabhzW"
+              }
+            ]
+          }
+        },
+        "id": "438355707",
+        "location": "Paris, France",
+        "name": "France Diplomacy 🇫🇷🇪🇺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1663885845131149313/4URf9Drr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145328,
+          "following_count": 1666,
+          "like_count": 6440,
+          "listed_count": 1909,
+          "tweet_count": 28219
+        },
+        "url": "https://t.co/02nOfabhzW",
+        "username": "francediplo_EN",
+        "verified": true
+      },
+      {
+        "created_at": "2013-10-20T19:35:28.000Z",
+        "description": "Président de la République française.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "elysee.fr",
+                "end": 23,
+                "expanded_url": "http://elysee.fr",
+                "start": 0,
+                "url": "https://t.co/n76au37OVm"
+              }
+            ]
+          }
+        },
+        "id": "1976143068",
+        "location": "France",
+        "name": "Emmanuel Macron",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1550535324501164032/0lTW_4tj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9738815,
+          "following_count": 724,
+          "like_count": 364,
+          "listed_count": 15206,
+          "tweet_count": 13359
+        },
+        "url": "https://t.co/n76au37OVm",
+        "username": "EmmanuelMacron",
+        "verified": true
+      }
+    ]
+  }
+}

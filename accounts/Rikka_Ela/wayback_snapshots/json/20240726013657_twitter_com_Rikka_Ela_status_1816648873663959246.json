@@ -1,0 +1,192 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1816588514646982845",
+    "created_at": "2024-07-26T01:36:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-26T02:36:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816648873663959246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1424779836938022913",
+          "start": 0,
+          "username": "amber_toffee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816648873663959246",
+    "in_reply_to_user_id": "1424779836938022913",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816588514646982845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_toffee 🥵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1816588514646982845",
+        "created_at": "2024-07-26T01:36:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T02:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816648873663959246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1424779836938022913",
+              "start": 0,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816648873663959246",
+        "in_reply_to_user_id": "1424779836938022913",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816588514646982845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_toffee 🥵"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1816588508418453504"
+          ]
+        },
+        "author_id": "1424779836938022913",
+        "conversation_id": "1816588514646982845",
+        "created_at": "2024-07-25T21:37:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-25T22:37:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816588514646982845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/ShK9cttqF3",
+              "end": 23,
+              "expanded_url": "https://twitter.com/amber_toffee/status/1816588514646982845/photo/1",
+              "media_key": "3_1816588508418453504",
+              "start": 0,
+              "url": "https://t.co/ShK9cttqF3"
+            },
+            {
+              "display_url": "x.com/b_cat38324/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/b_cat38324/status/1813564337803628967",
+              "start": 24,
+              "url": "https://t.co/HiYGdukncL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816588514646982845",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5587,
+          "like_count": 91,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813564337803628967",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/ShK9cttqF3 https://t.co/HiYGdukncL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2258,
+          "following_count": 2817,
+          "like_count": 43297,
+          "listed_count": 6,
+          "tweet_count": 2762
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "水母",
+        "id": "1424779836938022913",
+        "location": "Chicago, IL",
+        "name": "amber🍥",
+        "pinned_tweet_id": "1763981571688734851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774970309667368960/Ol-Klxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4575,
+          "following_count": 1838,
+          "like_count": 27884,
+          "listed_count": 14,
+          "tweet_count": 12245
+        },
+        "username": "amber_toffee",
+        "verified": false
+      }
+    ]
+  }
+}

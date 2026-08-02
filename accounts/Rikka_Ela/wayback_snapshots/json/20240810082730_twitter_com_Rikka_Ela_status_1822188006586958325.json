@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1822165862289150289",
+    "created_at": "2024-08-10T08:27:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-10T09:27:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822188006586958325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1087611517590106112",
+          "start": 0,
+          "username": "Ango8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822188006586958325",
+    "in_reply_to_user_id": "1087611517590106112",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822165862289150289",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ango8964 相比起来当年八国联军都还是太温柔了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1822165862289150289].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1822165862289150289",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1822165862289150289"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1822165862289150289",
+        "created_at": "2024-08-10T08:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-10T09:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822188006586958325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1087611517590106112",
+              "start": 0,
+              "username": "Ango8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822188006586958325",
+        "in_reply_to_user_id": "1087611517590106112",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822165862289150289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ango8964 相比起来当年八国联军都还是太温柔了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2350,
+          "following_count": 2870,
+          "like_count": 45680,
+          "listed_count": 6,
+          "tweet_count": 3001
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-22T07:22:47.000Z",
+        "description": "“ //互/ /联/ /网/ /恐/ /怖/ /幽/ /灵/ /实/ /录/// .avi”",
+        "id": "1087611517590106112",
+        "name": "Angō Hiroshi🏳️‍🌈🏳️‍⚧️🐱",
+        "pinned_tweet_id": "1812141916735058354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820486389387100160/6__zq1vr_normal.png",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1156,
+          "following_count": 267,
+          "like_count": 9990,
+          "listed_count": 5,
+          "tweet_count": 6666
+        },
+        "username": "Ango8964",
+        "verified": false
+      }
+    ]
+  }
+}

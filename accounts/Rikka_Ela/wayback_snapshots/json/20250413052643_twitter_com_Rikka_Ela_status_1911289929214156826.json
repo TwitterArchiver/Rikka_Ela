@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1911174971738529792"
+      ],
+      "media_source_tweet_id": [
+        "1911174975144542691"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "conversation_id": "1911289929214156826",
+    "created_at": "2025-04-13T05:26:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-13T06:26:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911289929214156826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1531763047093743624",
+          "start": 3,
+          "username": "folvann"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4nzILx7gLk",
+          "end": 54,
+          "expanded_url": "https://x.com/folvann/status/1911174975144542691/photo/1",
+          "media_key": "3_1911174971738529792",
+          "start": 31,
+          "url": "https://t.co/4nzILx7gLk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911289929214156826",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 85
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911174975144542691",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @folvann: this and fentanyl https://t.co/4nzILx7gLk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_1911174971738529792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoXbgs4XoAAYCys.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911174971738529792"
+          ],
+          "media_source_tweet_id": [
+            "1911174975144542691"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "1911289929214156826",
+        "created_at": "2025-04-13T05:26:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T06:26:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911289929214156826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1531763047093743624",
+              "start": 3,
+              "username": "folvann"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4nzILx7gLk",
+              "end": 54,
+              "expanded_url": "https://x.com/folvann/status/1911174975144542691/photo/1",
+              "media_key": "3_1911174971738529792",
+              "start": 31,
+              "url": "https://t.co/4nzILx7gLk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911289929214156826",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 85
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911174975144542691",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @folvann: this and fentanyl https://t.co/4nzILx7gLk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911174971738529792"
+          ]
+        },
+        "author_id": "1531763047093743624",
+        "conversation_id": "1911174975144542691",
+        "created_at": "2025-04-12T21:49:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T22:49:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911174975144542691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4nzILx7gLk",
+              "end": 41,
+              "expanded_url": "https://x.com/folvann/status/1911174975144542691/photo/1",
+              "media_key": "3_1911174971738529792",
+              "start": 18,
+              "url": "https://t.co/4nzILx7gLk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911174975144542691",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 10006,
+          "like_count": 708,
+          "quote_count": 4,
+          "reply_count": 7,
+          "retweet_count": 85
+        },
+        "reply_settings": "everyone",
+        "text": "this and fentanyl https://t.co/4nzILx7gLk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4069,
+          "following_count": 3332,
+          "like_count": 64715,
+          "listed_count": 9,
+          "media_count": 193,
+          "tweet_count": 5555
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-31T22:22:31.000Z",
+        "description": "THE DS2 GUY // DARK SOULS 2 DEFENDER // VENDRICKS STRONGEST SOLDIER // @ds2guy (personal acc) // banner by: young hollows // pfp by: @LeGrimm1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 71,
+                "username": "ds2guy"
+              },
+              {
+                "end": 142,
+                "start": 133,
+                "username": "LeGrimm1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "folvann.straw.page",
+                "end": 23,
+                "expanded_url": "https://folvann.straw.page/",
+                "start": 0,
+                "url": "https://t.co/FPscL9CrM3"
+              }
+            ]
+          }
+        },
+        "id": "1531763047093743624",
+        "location": "Drangleic Castle",
+        "name": "cursebearer folvann",
+        "pinned_tweet_id": "1869778478692016149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871150228755161088/McY16xF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7952,
+          "following_count": 111,
+          "like_count": 9587,
+          "listed_count": 14,
+          "media_count": 1306,
+          "tweet_count": 5151
+        },
+        "url": "https://t.co/FPscL9CrM3",
+        "username": "folvann",
+        "verified": false
+      }
+    ]
+  }
+}

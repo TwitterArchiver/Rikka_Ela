@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1945858319156944897"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1945858331484303818",
+    "created_at": "2025-07-17T14:49:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T15:49:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945858331484303818"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MAw7Lf1Gko",
+          "end": 52,
+          "expanded_url": "https://x.com/Rikka_Ela/status/1945858331484303818/photo/1",
+          "media_key": "3_1945858319156944897",
+          "start": 29,
+          "url": "https://t.co/MAw7Lf1Gko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945858331484303818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 90,
+      "like_count": 3,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "美国6-6三人组荣获保卫地球一等奖👍\n（可惜我是谜语人😗 https://t.co/MAw7Lf1Gko"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1945858319156944897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwET1OiWoAEvbHe.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945858319156944897"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1945858331484303818",
+        "created_at": "2025-07-17T14:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T15:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945858331484303818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MAw7Lf1Gko",
+              "end": 52,
+              "expanded_url": "https://x.com/Rikka_Ela/status/1945858331484303818/photo/1",
+              "media_key": "3_1945858319156944897",
+              "start": 29,
+              "url": "https://t.co/MAw7Lf1Gko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945858331484303818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "美国6-6三人组荣获保卫地球一等奖👍\n（可惜我是谜语人😗 https://t.co/MAw7Lf1Gko"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4454,
+          "following_count": 3533,
+          "like_count": 70802,
+          "listed_count": 7,
+          "media_count": 263,
+          "tweet_count": 6484
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      }
+    ]
+  }
+}

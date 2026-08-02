@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1887552400778768519",
+    "created_at": "2025-02-07T01:12:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-07T02:12:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887670800553042043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1826070707748712448",
+          "start": 0,
+          "username": "KRKRDKDK2025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887670800553042043",
+    "in_reply_to_user_id": "1826070707748712448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887552400778768519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KRKRDKDK2025 沃野药沃野药🥰"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1887552400778768519].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1887552400778768519",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1887552400778768519"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1887552400778768519",
+        "created_at": "2025-02-07T01:12:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T02:12:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887670800553042043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1826070707748712448",
+              "start": 0,
+              "username": "KRKRDKDK2025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887670800553042043",
+        "in_reply_to_user_id": "1826070707748712448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887552400778768519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KRKRDKDK2025 沃野药沃野药🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3656,
+          "following_count": 3228,
+          "like_count": 58981,
+          "listed_count": 6,
+          "media_count": 167,
+          "tweet_count": 4736
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-21T01:36:04.000Z",
+        "description": "#黑皮母狗@lemon_bocchi_ @tianxiusi 岁静劳保🌹/拥共右上😎/反跨反同😘/高歌猛进🎶挂档加速⚡ #程寄北 #帝决噬 #辰子安 #邢傲风👆🙂🙃🤟🏿 陪都@genya1976",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "黑皮母狗"
+              },
+              {
+                "end": 64,
+                "start": 60,
+                "tag": "程寄北"
+              },
+              {
+                "end": 69,
+                "start": 65,
+                "tag": "帝决噬"
+              },
+              {
+                "end": 74,
+                "start": 70,
+                "tag": "辰子安"
+              },
+              {
+                "end": 79,
+                "start": 75,
+                "tag": "邢傲风"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "lemon_bocchi_"
+              },
+              {
+                "end": 30,
+                "start": 20,
+                "username": "tianxiusi"
+              },
+              {
+                "end": 97,
+                "start": 87,
+                "username": "genya1976"
+              }
+            ]
+          }
+        },
+        "id": "1826070707748712448",
+        "name": "🍋‍🟩KRKRDKDK张传森",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887547127817220096/nqcZSTiQ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 675,
+          "like_count": 117789,
+          "listed_count": 8,
+          "media_count": 359,
+          "tweet_count": 2929
+        },
+        "username": "KRKRDKDK2025",
+        "verified": false
+      }
+    ]
+  }
+}

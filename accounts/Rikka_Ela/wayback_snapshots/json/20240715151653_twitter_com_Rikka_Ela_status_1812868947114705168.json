@@ -1,0 +1,247 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1511323041464168451",
+          "name": "Graduation 2022"
+        }
+      }
+    ],
+    "conversation_id": "1812868947114705168",
+    "created_at": "2024-07-15T15:16:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-15T16:16:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812868947114705168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "30196565",
+          "start": 3,
+          "username": "UniofNottingham"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812868947114705168",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812789368517427244",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UniofNottingham: Our summer graduation ceremonies start TOMORROW! We can't wait to celebrate our Class of 2024. 🎓🎉\n\nIf you can't be in…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1511323041464168451",
+              "name": "Graduation 2022"
+            }
+          }
+        ],
+        "conversation_id": "1812868947114705168",
+        "created_at": "2024-07-15T15:16:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-15T16:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812868947114705168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "30196565",
+              "start": 3,
+              "username": "UniofNottingham"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812868947114705168",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812789368517427244",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @UniofNottingham: Our summer graduation ceremonies start TOMORROW! We can't wait to celebrate our Class of 2024. 🎓🎉\n\nIf you can't be in…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1812789367125016577"
+          ]
+        },
+        "author_id": "30196565",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1511323041464168451",
+              "name": "Graduation 2022"
+            }
+          }
+        ],
+        "conversation_id": "1812789368517427244",
+        "created_at": "2024-07-15T10:00:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-15T11:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1812789368517427244"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 242,
+              "start": 233,
+              "tag": "WeAreUoN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "ow.ly/ub4150SBhe2",
+              "end": 232,
+              "expanded_url": "https://ow.ly/ub4150SBhe2",
+              "start": 209,
+              "status": 200,
+              "title": "Magnifying glass",
+              "unwound_url": "https://www.nottingham.ac.uk/studentservices/servicedetails/graduation/live-stream.aspx?utm_source=twitter&utm_medium=organic_social&utm_content=uniofnottingham&cid=12d223cb-d097-4b69-960e-10faea063329",
+              "url": "https://t.co/GvLngu91Nq"
+            },
+            {
+              "display_url": "pic.twitter.com/TrRQNwTHgE",
+              "end": 266,
+              "expanded_url": "https://twitter.com/UniofNottingham/status/1812789368517427244/photo/1",
+              "media_key": "3_1812789367125016577",
+              "start": 243,
+              "url": "https://t.co/TrRQNwTHgE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812789368517427244",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3186,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "Our summer graduation ceremonies start TOMORROW! We can't wait to celebrate our Class of 2024. 🎓🎉\n\nIf you can't be in the Hall to applaud someone you love, you can watch their ceremony at our live stream here https://t.co/GvLngu91Nq #WeAreUoN https://t.co/TrRQNwTHgE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UNNC‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2172,
+          "following_count": 2770,
+          "like_count": 42009,
+          "listed_count": 6,
+          "tweet_count": 2651
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-10T10:47:34.000Z",
+        "description": "The official University of Nottingham Twitter, a pioneering university that transforms the lives of our 45,000 students at campuses in the UK, China, Malaysia.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nottingham.ac.uk",
+                "end": 23,
+                "expanded_url": "https://www.nottingham.ac.uk",
+                "start": 0,
+                "url": "https://t.co/Uz487hEtcO"
+              }
+            ]
+          }
+        },
+        "id": "30196565",
+        "location": "Nottingham",
+        "name": "Uni of Nottingham #WeAreUoN",
+        "pinned_tweet_id": "1812789368517427244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1622206076715253760/cAN-DoMo_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98833,
+          "following_count": 3592,
+          "like_count": 41554,
+          "listed_count": 988,
+          "tweet_count": 45830
+        },
+        "url": "https://t.co/Uz487hEtcO",
+        "username": "UniofNottingham",
+        "verified": false
+      }
+    ]
+  }
+}

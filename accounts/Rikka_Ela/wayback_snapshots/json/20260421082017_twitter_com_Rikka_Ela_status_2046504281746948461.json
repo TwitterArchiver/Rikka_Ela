@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2046504281746948461",
+    "created_at": "2026-04-21T08:20:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T09:20:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046504281746948461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "829022949579517952",
+          "start": 3,
+          "username": "shimhaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046504281746948461",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 441
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046261109066527201",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shimhaq: \"The traces left behind by countless battles were pelted by rains, transported by muddy streams, and collected in deposits. Th…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1484,
+        "media_key": "3_2046261105966923776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGXHomLbQAAKThk.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2046504281746948461",
+        "created_at": "2026-04-21T08:20:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T09:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046504281746948461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "829022949579517952",
+              "start": 3,
+              "username": "shimhaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046504281746948461",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 441
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046261109066527201",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shimhaq: \"The traces left behind by countless battles were pelted by rains, transported by muddy streams, and collected in deposits. Th…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046261105966923776"
+          ]
+        },
+        "author_id": "829022949579517952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2046261109066527201",
+        "created_at": "2026-04-20T16:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T17:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046261109066527201"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 250,
+              "start": 240,
+              "tag": "Eldenring"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kamg2JN8ZW",
+              "end": 274,
+              "expanded_url": "https://x.com/shimhaq/status/2046261109066527201/photo/1",
+              "media_key": "3_2046261105966923776",
+              "start": 251,
+              "url": "https://t.co/Kamg2JN8ZW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046261109066527201",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 388,
+          "impression_count": 41212,
+          "like_count": 3375,
+          "quote_count": 4,
+          "reply_count": 11,
+          "retweet_count": 441
+        },
+        "reply_settings": "everyone",
+        "text": "\"The traces left behind by countless battles were pelted by rains, transported by muddy streams, and collected in deposits. This mixture eventually formed legs, stood of its own accord, and finally, voiced a curse that would be its mantra\"\n#Eldenring https://t.co/Kamg2JN8ZW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5087,
+          "following_count": 3738,
+          "like_count": 82313,
+          "listed_count": 10,
+          "media_count": 413,
+          "tweet_count": 9058
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-07T17:44:08.000Z",
+        "description": "Digital Artist▫️ Dark Fantasy ▫️ Member of @posterposse ▫️ Commissions/ Other Enquiries:\nShimhaq@gmail.com ▫️ https://t.co/ORLl55jwjV",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 43,
+                "username": "posterposse"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/preparetoart",
+                "end": 133,
+                "expanded_url": "http://youtube.com/preparetoart",
+                "start": 110,
+                "url": "https://t.co/ORLl55jwjV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "artofshimhaq.com",
+                "end": 23,
+                "expanded_url": "http://www.artofshimhaq.com",
+                "start": 0,
+                "url": "https://t.co/KiHHfEge0i"
+              }
+            ]
+          }
+        },
+        "id": "829022949579517952",
+        "name": "Shimhaq",
+        "pinned_tweet_id": "1990103726762455360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1614249907539562498/9_ym0UfF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178791,
+          "following_count": 611,
+          "like_count": 29135,
+          "listed_count": 731,
+          "media_count": 1351,
+          "tweet_count": 5742
+        },
+        "url": "https://t.co/KiHHfEge0i",
+        "username": "shimhaq",
+        "verified": false
+      }
+    ]
+  }
+}

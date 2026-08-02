@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1858439128624648609",
+    "created_at": "2024-11-19T11:48:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-19T12:48:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858839885781586129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1711998715303784448",
+          "start": 0,
+          "username": "amoxicilli53420"
+        },
+        {
+          "end": 32,
+          "id": "1260553941714186241",
+          "start": 17,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858839885781586129",
+    "in_reply_to_user_id": "1711998715303784448",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858504531325431846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amoxicilli53420 @whyyoutouzhele ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1858439128624648609",
+        "created_at": "2024-11-19T11:48:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T12:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858839885781586129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1711998715303784448",
+              "start": 0,
+              "username": "amoxicilli53420"
+            },
+            {
+              "end": 32,
+              "id": "1260553941714186241",
+              "start": 17,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858839885781586129",
+        "in_reply_to_user_id": "1711998715303784448",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858504531325431846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amoxicilli53420 @whyyoutouzhele ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711998715303784448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1858439128624648609",
+        "created_at": "2024-11-18T13:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T14:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858504531325431846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858504531325431846",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2011,
+          "like_count": 159,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858439128624648609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 在中共国，习近平没有自由，只能通过念错字来表达自己的不满，史称错字革命"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文\n\nwife:@Y32010705",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "Y32010705"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3081,
+          "following_count": 3062,
+          "like_count": 53089,
+          "listed_count": 5,
+          "tweet_count": 3929
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-11T06:54:53.000Z",
+        "description": "Anarchist🏴Ⓐ 每个人都有自由选择的权利，不该因国别、种族、民族或信仰之分而被抹杀。第二人格兼战斗形态 @aspirin8964 我不认识他，他是个弱智，一切言论概不负责 逃生舱兼第三人格@amoxilillin2 岁静抽象乐子人，全宇宙最伟大的曼波之神（的人间体）会送给每一个路过的宝宝一只小马教主",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "aspirin8964"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "amoxilillin2"
+              }
+            ]
+          }
+        },
+        "id": "1711998715303784448",
+        "location": "Verdun, France",
+        "name": "Atorvastatin pills",
+        "pinned_tweet_id": "1855840637297517016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854903855345233920/6eipj0BB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 881,
+          "following_count": 557,
+          "like_count": 26051,
+          "listed_count": 1,
+          "tweet_count": 7159
+        },
+        "username": "amoxicilli53420",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎赞助，帮助这个账户继续运营下去：\nhttps://t.co/Xo5MOTwp38",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "paypal.com/donate/?hosted…",
+                "end": 107,
+                "expanded_url": "https://www.paypal.com/donate/?hosted_button_id=8M8DW3Z72UMDW",
+                "start": 84,
+                "url": "https://t.co/Xo5MOTwp38"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1515412903356256275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1824238,
+          "following_count": 925,
+          "like_count": 5490,
+          "listed_count": 7946,
+          "tweet_count": 25281
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

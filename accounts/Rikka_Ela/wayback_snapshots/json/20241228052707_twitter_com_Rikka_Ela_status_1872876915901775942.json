@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1872591424988065793"
+      ],
+      "media_source_tweet_id": [
+        "1872591442893586521"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1872876915901775942",
+    "created_at": "2024-12-28T05:27:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-28T06:27:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872876915901775942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1265898163807772677",
+          "start": 3,
+          "username": "Rize_Ilustrator"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8s8QTJiCoM",
+          "end": 65,
+          "expanded_url": "https://x.com/Rize_Ilustrator/status/1872591442893586521/photo/1",
+          "media_key": "3_1872591424988065793",
+          "start": 42,
+          "url": "https://t.co/8s8QTJiCoM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872876915901775942",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 557
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872591442893586521",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rize_Ilustrator: いいね押してる男の娘のイラストは大体これ https://t.co/8s8QTJiCoM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1872591424988065793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfzH-sfbMAECknM.jpg",
+        "width": 1692
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872591424988065793"
+          ],
+          "media_source_tweet_id": [
+            "1872591442893586521"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1872876915901775942",
+        "created_at": "2024-12-28T05:27:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T06:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872876915901775942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1265898163807772677",
+              "start": 3,
+              "username": "Rize_Ilustrator"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8s8QTJiCoM",
+              "end": 65,
+              "expanded_url": "https://x.com/Rize_Ilustrator/status/1872591442893586521/photo/1",
+              "media_key": "3_1872591424988065793",
+              "start": 42,
+              "url": "https://t.co/8s8QTJiCoM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872876915901775942",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 557
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872591442893586521",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rize_Ilustrator: いいね押してる男の娘のイラストは大体これ https://t.co/8s8QTJiCoM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872591424988065793"
+          ]
+        },
+        "author_id": "1265898163807772677",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          }
+        ],
+        "conversation_id": "1872591442893586521",
+        "created_at": "2024-12-27T10:32:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T11:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872591442893586521"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8s8QTJiCoM",
+              "end": 44,
+              "expanded_url": "https://x.com/Rize_Ilustrator/status/1872591442893586521/photo/1",
+              "media_key": "3_1872591424988065793",
+              "start": 21,
+              "url": "https://t.co/8s8QTJiCoM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872591442893586521",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 652,
+          "impression_count": 123911,
+          "like_count": 7482,
+          "quote_count": 10,
+          "reply_count": 15,
+          "retweet_count": 557
+        },
+        "reply_settings": "everyone",
+        "text": "いいね押してる男の娘のイラストは大体これ https://t.co/8s8QTJiCoM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文\n\n@Y32010705",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 43,
+                "username": "Y32010705"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3246,
+          "following_count": 3146,
+          "like_count": 55925,
+          "listed_count": 7,
+          "media_count": 156,
+          "tweet_count": 4366
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-28T06:50:23.000Z",
+        "description": "好きなものをのんびり描きます。#ゆらくんあーと  おしゃれな女装男子がすき。イラストの更新は19〜20時頃🕖お仕事のご連絡はDMへ✉️ https://t.co/NTDwGkxVDFファンボックス🎁 https://t.co/GGtyvsHIH2",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 15,
+                "tag": "ゆらくんあーと"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/26811762",
+                "end": 91,
+                "expanded_url": "https://www.pixiv.net/users/26811762",
+                "start": 68,
+                "url": "https://t.co/NTDwGkxVDF"
+              },
+              {
+                "display_url": "yurakun.fanbox.cc",
+                "end": 123,
+                "expanded_url": "https://yurakun.fanbox.cc",
+                "start": 100,
+                "url": "https://t.co/GGtyvsHIH2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCzzpE…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCzzpEWw865qIzn9uAqDaayA",
+                "start": 0,
+                "url": "https://t.co/NiK0Wz3wda"
+              }
+            ]
+          }
+        },
+        "id": "1265898163807772677",
+        "location": "ゆらくんのお家→",
+        "name": "りぜ🌟",
+        "pinned_tweet_id": "1848311024321277978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773811112980721664/ruk1A6vt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94834,
+          "following_count": 832,
+          "like_count": 4035,
+          "listed_count": 599,
+          "media_count": 314,
+          "tweet_count": 4235
+        },
+        "url": "https://t.co/NiK0Wz3wda",
+        "username": "Rize_Ilustrator",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2059282327981670445",
+    "created_at": "2026-05-26T14:43:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T15:43:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059284208309170336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1845454917236031495",
+          "start": 0,
+          "username": "Dontbesadforit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059284208309170336",
+    "in_reply_to_user_id": "1845454917236031495",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059283613787869456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dontbesadforit 窝趣那我也想当导师了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2059282327981670445",
+        "created_at": "2026-05-26T14:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059284208309170336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1845454917236031495",
+              "start": 0,
+              "username": "Dontbesadforit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059284208309170336",
+        "in_reply_to_user_id": "1845454917236031495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059283613787869456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dontbesadforit 窝趣那我也想当导师了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845454917236031495",
+        "conversation_id": "2059282327981670445",
+        "created_at": "2026-05-26T14:40:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059283613787869456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059283613787869456",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059282327981670445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 不给我都suck"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5274,
+          "following_count": 3784,
+          "like_count": 85355,
+          "listed_count": 6,
+          "media_count": 435,
+          "tweet_count": 9626
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T13:22:23.000Z",
+        "description": "07 吃补也不算翻车 高中 自然科学 生物学大好き | 为什么还活着：没见到绪山美波里/世界上还有爱我的人 | 大白妹妹：@haku_dabai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 61,
+                "username": "haku_dabai"
+              }
+            ]
+          }
+        },
+        "id": "1845454917236031495",
+        "location": "Earth",
+        "name": "中中",
+        "pinned_tweet_id": "2032491408985333996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058146039799132161/wU9QKD9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2444,
+          "following_count": 999,
+          "like_count": 73212,
+          "listed_count": 5,
+          "media_count": 467,
+          "tweet_count": 9296
+        },
+        "username": "Dontbesadforit",
+        "verified": true
+      }
+    ]
+  }
+}

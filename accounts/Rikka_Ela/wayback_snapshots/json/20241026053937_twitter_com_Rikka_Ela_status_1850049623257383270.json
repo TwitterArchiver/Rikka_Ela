@@ -1,0 +1,163 @@
+{
+  "data": {
+    "author_id": "1418942200457662477",
+    "conversation_id": "1850041696911794356",
+    "created_at": "2024-10-26T05:39:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-26T06:39:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850049623257383270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1656918284296396800",
+          "start": 0,
+          "username": "K_Ritsuka"
+        }
+      ]
+    },
+    "id": "1850049623257383270",
+    "in_reply_to_user_id": "1656918284296396800",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 46,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850041696911794356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@K_Ritsuka 😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1418942200457662477",
+        "conversation_id": "1850041696911794356",
+        "created_at": "2024-10-26T05:39:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-26T06:39:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850049623257383270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1656918284296396800",
+              "start": 0,
+              "username": "K_Ritsuka"
+            }
+          ]
+        },
+        "id": "1850049623257383270",
+        "in_reply_to_user_id": "1656918284296396800",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850041696911794356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K_Ritsuka 😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文\n\n@Y32010705",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 43,
+                "username": "Y32010705"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3161,
+          "following_count": 3095,
+          "like_count": 53758,
+          "listed_count": 5,
+          "media_count": 145,
+          "tweet_count": 4056
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-12T07:06:04.000Z",
+        "description": "头像 oc 是只猫狐狸🦊 / 昆明人 / 🇨🇦Queen'sU PhD / UMich 博后 / 爱人 @qshuang_k\nhttps://t.co/6loqwP9xto",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 52,
+                "username": "qshuang_k"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/ritsuk…",
+                "end": 86,
+                "expanded_url": "https://bsky.app/profile/ritsuka.moe",
+                "start": 63,
+                "url": "https://t.co/6loqwP9xto"
+              }
+            ]
+          }
+        },
+        "id": "1656918284296396800",
+        "name": "立夏",
+        "pinned_tweet_id": "1659312348601958400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860928023421149184/ZsUFdvks_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 1379,
+          "like_count": 3171,
+          "listed_count": 1,
+          "media_count": 188,
+          "tweet_count": 2956
+        },
+        "username": "K_Ritsuka",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1865400850622927203",
+    "created_at": "2024-12-07T14:45:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-07T15:45:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865407248781959334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1385239266985271299",
+          "start": 0,
+          "username": "ARASHIqianye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865407248781959334",
+    "in_reply_to_user_id": "1385239266985271299",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865406935136424206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ARASHIqianye 我要不忍到本科读完，要不现在退学打工去了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1865400850622927203",
+        "created_at": "2024-12-07T14:45:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T15:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865407248781959334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1385239266985271299",
+              "start": 0,
+              "username": "ARASHIqianye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865407248781959334",
+        "in_reply_to_user_id": "1385239266985271299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865406935136424206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ARASHIqianye 我要不忍到本科读完，要不现在退学打工去了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1385239266985271299",
+        "conversation_id": "1865400850622927203",
+        "created_at": "2024-12-07T14:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T15:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865406935136424206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865406935136424206",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865400850622927203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 30？\n宝宝你赶紧经济独立吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文\n\n@Y32010705",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 43,
+                "username": "Y32010705"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3166,
+          "following_count": 3101,
+          "like_count": 53741,
+          "listed_count": 5,
+          "media_count": 145,
+          "tweet_count": 4076
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-22T14:29:20.000Z",
+        "description": "业余coser/ISTJ",
+        "id": "1385239266985271299",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "王溪茗",
+        "pinned_tweet_id": "1852711702204432780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793297696918507521/uP2qcPh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6808,
+          "following_count": 1181,
+          "like_count": 22640,
+          "listed_count": 31,
+          "media_count": 270,
+          "tweet_count": 4667
+        },
+        "username": "ARASHIqianye",
+        "verified": false
+      }
+    ]
+  }
+}

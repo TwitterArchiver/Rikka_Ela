@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2006554451604336640"
+      ],
+      "media_source_tweet_id": [
+        "2006554556822597659"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2006842954745524684",
+    "created_at": "2026-01-01T21:40:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T22:40:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006842954745524684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "905290536713678848",
+          "start": 3,
+          "username": "AQu7s"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DgRkAQ9lzi",
+          "end": 53,
+          "expanded_url": "https://x.com/AQu7s/status/2006554556822597659/video/1",
+          "media_key": "13_2006554451604336640",
+          "start": 30,
+          "url": "https://t.co/DgRkAQ9lzi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006842954745524684",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006554556822597659",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AQu7s: 深度5瓦礫の王\nこんなの酷すぎるよ😭 https://t.co/DgRkAQ9lzi"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24791,
+        "height": 720,
+        "media_key": "13_2006554451604336640",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2006554451604336640/img/28zQjEu0Go0JJxoe.jpg",
+        "public_metrics": {
+          "view_count": 22232
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006554451604336640/vid/avc1/480x270/WxScQOQ8OvlGL3xW.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006554451604336640/vid/avc1/640x360/b329Aux51IRFzFtk.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006554451604336640/vid/avc1/1280x720/_iG5Wi9gz3NIiPsj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2006554451604336640/pl/5Lxp2J6vdyG3h_9a.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2006554451604336640"
+          ],
+          "media_source_tweet_id": [
+            "2006554556822597659"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2006842954745524684",
+        "created_at": "2026-01-01T21:40:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T22:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006842954745524684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "905290536713678848",
+              "start": 3,
+              "username": "AQu7s"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DgRkAQ9lzi",
+              "end": 53,
+              "expanded_url": "https://x.com/AQu7s/status/2006554556822597659/video/1",
+              "media_key": "13_2006554451604336640",
+              "start": 30,
+              "url": "https://t.co/DgRkAQ9lzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006842954745524684",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006554556822597659",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AQu7s: 深度5瓦礫の王\nこんなの酷すぎるよ😭 https://t.co/DgRkAQ9lzi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2006554451604336640"
+          ]
+        },
+        "author_id": "905290536713678848",
+        "conversation_id": "2006554556822597659",
+        "created_at": "2026-01-01T02:34:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T03:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006554556822597659"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DgRkAQ9lzi",
+              "end": 42,
+              "expanded_url": "https://x.com/AQu7s/status/2006554556822597659/video/1",
+              "media_key": "13_2006554451604336640",
+              "start": 19,
+              "url": "https://t.co/DgRkAQ9lzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006554556822597659",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 43950,
+          "like_count": 511,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "深度5瓦礫の王\nこんなの酷すぎるよ😭 https://t.co/DgRkAQ9lzi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4829,
+          "following_count": 3669,
+          "like_count": 78135,
+          "listed_count": 8,
+          "media_count": 353,
+          "tweet_count": 7883
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-06T04:44:18.000Z",
+        "description": "dbd、apex、ow2、ナイトレインなどしています。 ナイトレインはカンストです！金曜土曜は深夜にかけてできます! よろしくお願いします！",
+        "id": "905290536713678848",
+        "location": "兵庫県",
+        "name": "マイケル",
+        "pinned_tweet_id": "1771908063769072050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823401754433867776/hxBa1W6C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 249,
+          "like_count": 2815,
+          "listed_count": 4,
+          "media_count": 104,
+          "tweet_count": 2569
+        },
+        "username": "AQu7s",
+        "verified": false
+      }
+    ]
+  }
+}

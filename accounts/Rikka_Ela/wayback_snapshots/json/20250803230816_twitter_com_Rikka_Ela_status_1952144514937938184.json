@@ -1,0 +1,406 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952142057889296384",
+        "3_1952142387452551168",
+        "3_1952142418226094080"
+      ],
+      "media_source_tweet_id": [
+        "1952142438690074764",
+        "1952142438690074764",
+        "1952142438690074764"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Vancouver",
+          "id": "861946485511823361",
+          "name": "Vancouver"
+        }
+      }
+    ],
+    "conversation_id": "1952144514937938184",
+    "created_at": "2025-08-03T23:08:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T00:08:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952144514937938184"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 47,
+          "normalized_text": "Vancouver",
+          "probability": 0.9745,
+          "start": 39,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "16397147",
+          "start": 3,
+          "username": "liberal_party"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5PJfAkhF3m",
+          "end": 77,
+          "expanded_url": "https://x.com/liberal_party/status/1952142438690074764/photo/1",
+          "media_key": "3_1952142057889296384",
+          "start": 54,
+          "url": "https://t.co/5PJfAkhF3m"
+        },
+        {
+          "display_url": "pic.x.com/5PJfAkhF3m",
+          "end": 77,
+          "expanded_url": "https://x.com/liberal_party/status/1952142438690074764/photo/1",
+          "media_key": "3_1952142387452551168",
+          "start": 54,
+          "url": "https://t.co/5PJfAkhF3m"
+        },
+        {
+          "display_url": "pic.x.com/5PJfAkhF3m",
+          "end": 77,
+          "expanded_url": "https://x.com/liberal_party/status/1952142438690074764/photo/1",
+          "media_key": "3_1952142418226094080",
+          "start": 54,
+          "url": "https://t.co/5PJfAkhF3m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952144514937938184",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952142438690074764",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liberal_party: We love your Pride, Vancouver 🏳️‍🌈 https://t.co/5PJfAkhF3m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1242,
+        "media_key": "3_1952142057889296384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxdm29eXcAAumkn.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1281,
+        "media_key": "3_1952142387452551168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxdnKJMXoAAEf31.jpg",
+        "width": 854
+      },
+      {
+        "height": 893,
+        "media_key": "3_1952142418226094080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxdnL71WoAAtYQV.jpg",
+        "width": 1191
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952142057889296384",
+            "3_1952142387452551168",
+            "3_1952142418226094080"
+          ],
+          "media_source_tweet_id": [
+            "1952142438690074764",
+            "1952142438690074764",
+            "1952142438690074764"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Vancouver",
+              "id": "861946485511823361",
+              "name": "Vancouver"
+            }
+          }
+        ],
+        "conversation_id": "1952144514937938184",
+        "created_at": "2025-08-03T23:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T00:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952144514937938184"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 47,
+              "normalized_text": "Vancouver",
+              "probability": 0.9745,
+              "start": 39,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "16397147",
+              "start": 3,
+              "username": "liberal_party"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5PJfAkhF3m",
+              "end": 77,
+              "expanded_url": "https://x.com/liberal_party/status/1952142438690074764/photo/1",
+              "media_key": "3_1952142057889296384",
+              "start": 54,
+              "url": "https://t.co/5PJfAkhF3m"
+            },
+            {
+              "display_url": "pic.x.com/5PJfAkhF3m",
+              "end": 77,
+              "expanded_url": "https://x.com/liberal_party/status/1952142438690074764/photo/1",
+              "media_key": "3_1952142387452551168",
+              "start": 54,
+              "url": "https://t.co/5PJfAkhF3m"
+            },
+            {
+              "display_url": "pic.x.com/5PJfAkhF3m",
+              "end": 77,
+              "expanded_url": "https://x.com/liberal_party/status/1952142438690074764/photo/1",
+              "media_key": "3_1952142418226094080",
+              "start": 54,
+              "url": "https://t.co/5PJfAkhF3m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952144514937938184",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952142438690074764",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liberal_party: We love your Pride, Vancouver 🏳️‍🌈 https://t.co/5PJfAkhF3m"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952142057889296384",
+            "3_1952142387452551168",
+            "3_1952142418226094080"
+          ]
+        },
+        "author_id": "16397147",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Vancouver",
+              "id": "861946485511823361",
+              "name": "Vancouver"
+            }
+          }
+        ],
+        "conversation_id": "1952142438690074764",
+        "created_at": "2025-08-03T23:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T00:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952142438690074764"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "Vancouver",
+              "probability": 0.9803,
+              "start": 20,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5PJfAkhF3m",
+              "end": 58,
+              "expanded_url": "https://x.com/liberal_party/status/1952142438690074764/photo/1",
+              "media_key": "3_1952142057889296384",
+              "start": 35,
+              "url": "https://t.co/5PJfAkhF3m"
+            },
+            {
+              "display_url": "pic.x.com/5PJfAkhF3m",
+              "end": 58,
+              "expanded_url": "https://x.com/liberal_party/status/1952142438690074764/photo/1",
+              "media_key": "3_1952142387452551168",
+              "start": 35,
+              "url": "https://t.co/5PJfAkhF3m"
+            },
+            {
+              "display_url": "pic.x.com/5PJfAkhF3m",
+              "end": 58,
+              "expanded_url": "https://x.com/liberal_party/status/1952142438690074764/photo/1",
+              "media_key": "3_1952142418226094080",
+              "start": 35,
+              "url": "https://t.co/5PJfAkhF3m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952142438690074764",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1146,
+          "like_count": 66,
+          "quote_count": 2,
+          "reply_count": 21,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "We love your Pride, Vancouver 🏳️‍🌈 https://t.co/5PJfAkhF3m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4448,
+          "following_count": 3538,
+          "like_count": 71514,
+          "listed_count": 7,
+          "media_count": 275,
+          "tweet_count": 6650
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2008-09-22T00:29:05.000Z",
+        "description": "🇨🇦 Liberal Party of Canada | Building Canada Strong with @MarkJCarney | En français à : @parti_liberal",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 57,
+                "username": "MarkJCarney"
+              },
+              {
+                "end": 102,
+                "start": 88,
+                "username": "parti_liberal"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "liberal.ca/links/",
+                "end": 23,
+                "expanded_url": "https://liberal.ca/links/",
+                "start": 0,
+                "url": "https://t.co/jDRbIkW8SE"
+              }
+            ]
+          }
+        },
+        "id": "16397147",
+        "location": "Canada",
+        "name": "Liberal Party",
+        "pinned_tweet_id": "1920494957833375896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929185901646655488/vkFXHST9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449074,
+          "following_count": 4673,
+          "like_count": 5686,
+          "listed_count": 2226,
+          "media_count": 5616,
+          "tweet_count": 32699
+        },
+        "url": "https://t.co/jDRbIkW8SE",
+        "username": "liberal_party",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,487 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1918058732627410945"
+      ],
+      "media_source_tweet_id": [
+        "1918058743431864496"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Concept Art",
+          "id": "1046581724098912256",
+          "name": "Concept art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Concept Art",
+          "id": "1046581724098912256",
+          "name": "Concept art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1919219516170772861",
+    "created_at": "2025-05-05T02:36:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T03:36:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919219516170772861"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 51,
+          "normalized_text": "frozen eleum loyce",
+          "probability": 0.5516,
+          "start": 34,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1846796196171415552",
+          "start": 3,
+          "username": "firekeepertwo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GZXZJRV8AX",
+          "end": 76,
+          "expanded_url": "https://x.com/firekeepertwo/status/1918058743431864496/photo/1",
+          "media_key": "3_1918058732627410945",
+          "start": 53,
+          "url": "https://t.co/GZXZJRV8AX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919219516170772861",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 155
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918058743431864496",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @firekeepertwo: concept art of frozen eleum loyce https://t.co/GZXZJRV8AX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1527,
+        "media_key": "3_1918058732627410945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp5QQUiXwAEHrkL.jpg",
+        "width": 956
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918058732627410945"
+          ],
+          "media_source_tweet_id": [
+            "1918058743431864496"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Concept Art",
+              "id": "1046581724098912256",
+              "name": "Concept art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Concept Art",
+              "id": "1046581724098912256",
+              "name": "Concept art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1919219516170772861",
+        "created_at": "2025-05-05T02:36:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T03:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919219516170772861"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 51,
+              "normalized_text": "frozen eleum loyce",
+              "probability": 0.5516,
+              "start": 34,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1846796196171415552",
+              "start": 3,
+              "username": "firekeepertwo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GZXZJRV8AX",
+              "end": 76,
+              "expanded_url": "https://x.com/firekeepertwo/status/1918058743431864496/photo/1",
+              "media_key": "3_1918058732627410945",
+              "start": 53,
+              "url": "https://t.co/GZXZJRV8AX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919219516170772861",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 155
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918058743431864496",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @firekeepertwo: concept art of frozen eleum loyce https://t.co/GZXZJRV8AX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918058732627410945"
+          ]
+        },
+        "author_id": "1846796196171415552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Concept Art",
+              "id": "1046581724098912256",
+              "name": "Concept art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Concept Art",
+              "id": "1046581724098912256",
+              "name": "Concept art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1918058743431864496",
+        "created_at": "2025-05-01T21:43:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T22:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918058743431864496"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "frozen eleum loyce",
+              "probability": 0.6417,
+              "start": 15,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GZXZJRV8AX",
+              "end": 57,
+              "expanded_url": "https://x.com/firekeepertwo/status/1918058743431864496/photo/1",
+              "media_key": "3_1918058732627410945",
+              "start": 34,
+              "url": "https://t.co/GZXZJRV8AX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918058743431864496",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 119,
+          "impression_count": 28535,
+          "like_count": 1843,
+          "quote_count": 11,
+          "reply_count": 4,
+          "retweet_count": 155
+        },
+        "reply_settings": "everyone",
+        "text": "concept art of frozen eleum loyce https://t.co/GZXZJRV8AX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4180,
+          "following_count": 3383,
+          "like_count": 65851,
+          "listed_count": 8,
+          "media_count": 208,
+          "tweet_count": 5770
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-17T06:11:57.000Z",
+        "description": "follow me | @chosenundeadone DM open for business.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 12,
+                "username": "chosenundeadone"
+              }
+            ]
+          }
+        },
+        "id": "1846796196171415552",
+        "name": "fire keeper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846818275138605056/aCqqqyM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1215,
+          "following_count": 2,
+          "like_count": 78,
+          "listed_count": 2,
+          "media_count": 6,
+          "tweet_count": 7
+        },
+        "username": "firekeepertwo",
+        "verified": false
+      }
+    ]
+  }
+}

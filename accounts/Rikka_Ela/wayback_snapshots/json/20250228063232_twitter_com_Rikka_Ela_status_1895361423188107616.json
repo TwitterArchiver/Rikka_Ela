@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1895155794087416135",
+    "created_at": "2025-02-28T06:32:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T07:32:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895361423188107616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1657055349982244865",
+          "start": 0,
+          "username": "Glagagapot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895361423188107616",
+    "in_reply_to_user_id": "1657055349982244865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895155794087416135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Glagagapot 我就是回避性依恋😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1895155794087416135",
+        "created_at": "2025-02-28T06:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T07:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895361423188107616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1657055349982244865",
+              "start": 0,
+              "username": "Glagagapot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895361423188107616",
+        "in_reply_to_user_id": "1657055349982244865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895155794087416135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Glagagapot 我就是回避性依恋😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657055349982244865",
+        "conversation_id": "1895155794087416135",
+        "created_at": "2025-02-27T16:55:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T17:55:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895155794087416135"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1895155794087416135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 940,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我觉得回避型依恋人格的外冷内热很可爱，因为害怕被伤害/无法达到心中的预期所以开启保护机制把自己缩起来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3813,
+          "following_count": 3269,
+          "like_count": 60692,
+          "listed_count": 7,
+          "media_count": 169,
+          "tweet_count": 4981
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-12T16:09:28.000Z",
+        "description": "岁静嘎国人🇨🇦｜怪东西制造器｜已有老婆老公豹豹猫猫主人宝宝",
+        "id": "1657055349982244865",
+        "location": "嘎堡",
+        "name": "木木鸟口口",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881958913450582016/I4zjL7PS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1685,
+          "following_count": 1092,
+          "like_count": 54119,
+          "listed_count": 3,
+          "media_count": 1573,
+          "tweet_count": 18735
+        },
+        "username": "Glagagapot",
+        "verified": false
+      }
+    ]
+  }
+}

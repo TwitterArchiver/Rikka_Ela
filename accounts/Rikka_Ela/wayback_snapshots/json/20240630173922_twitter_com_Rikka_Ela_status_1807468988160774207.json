@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1807456293776756863",
+    "created_at": "2024-06-30T17:39:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-30T18:39:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807468988160774207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1654121858017656833",
+          "start": 0,
+          "username": "shiyujingye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807468988160774207",
+    "in_reply_to_user_id": "1654121858017656833",
+    "lang": "qam",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807456293776756863",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiyujingye ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1807456293776756863",
+        "created_at": "2024-06-30T17:39:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-30T18:39:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807468988160774207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1654121858017656833",
+              "start": 0,
+              "username": "shiyujingye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807468988160774207",
+        "in_reply_to_user_id": "1654121858017656833",
+        "lang": "qam",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807456293776756863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiyujingye ？"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1807456291251724288"
+          ]
+        },
+        "author_id": "1654121858017656833",
+        "conversation_id": "1807456293776756863",
+        "created_at": "2024-06-30T16:48:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-30T17:48:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1807456293776756863"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/C7Kh7VurRh",
+              "end": 107,
+              "expanded_url": "https://twitter.com/shiyujingye/status/1807456293776756863/photo/1",
+              "media_key": "3_1807456291251724288",
+              "start": 84,
+              "url": "https://t.co/C7Kh7VurRh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807456293776756863",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 421,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "他妈的有个人要买老子原味，说要让我穿半个月，然后我就穿了十几天，袜子都穿黄了然后隔老远都能闻到味道，我觉得可以了之后就给那个人发私信，结果他妈跟老子说不要了😅😅😅😅😅 https://t.co/C7Kh7VurRh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UNNC‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2129,
+          "following_count": 2732,
+          "like_count": 40530,
+          "listed_count": 5,
+          "tweet_count": 2554
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-04T13:52:50.000Z",
+        "description": "电子宠物，互联网抽象男娘",
+        "id": "1654121858017656833",
+        "location": "机厅",
+        "name": "猫猫枫糖浆",
+        "pinned_tweet_id": "1798834189531541857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804905587567890432/baSlpKXt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5143,
+          "following_count": 928,
+          "like_count": 24429,
+          "listed_count": 11,
+          "tweet_count": 3964
+        },
+        "username": "shiyujingye",
+        "verified": false
+      }
+    ]
+  }
+}

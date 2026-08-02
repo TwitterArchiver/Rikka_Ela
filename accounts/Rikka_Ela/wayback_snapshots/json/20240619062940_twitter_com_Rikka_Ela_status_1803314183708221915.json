@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1802965127794507784",
+    "created_at": "2024-06-19T06:29:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-19T07:29:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803314183708221915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1768631748257361920",
+          "start": 0,
+          "username": "nieniebuding"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803314183708221915",
+    "in_reply_to_user_id": "1768631748257361920",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802965127794507784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nieniebuding 我也，现在都不大敢吃面）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1802965127794507784",
+        "created_at": "2024-06-19T06:29:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T07:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803314183708221915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1768631748257361920",
+              "start": 0,
+              "username": "nieniebuding"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803314183708221915",
+        "in_reply_to_user_id": "1768631748257361920",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802965127794507784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nieniebuding 我也，现在都不大敢吃面）"
+      },
+      {
+        "attachments": {},
+        "author_id": "1768631748257361920",
+        "conversation_id": "1802965127794507784",
+        "created_at": "2024-06-18T07:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T08:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802965127794507784"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1802965127794507784",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 773,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刘海太长泡进汤里了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UNNC‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2110,
+          "following_count": 2713,
+          "like_count": 38927,
+          "listed_count": 5,
+          "tweet_count": 2435
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-15T13:34:27.000Z",
+        "description": "含糖MtF🍥｜游戏王｜娱乐伙伴｜高中生｜INFP｜45萌新｜鳊鱼八十｜请找我玩呜呜｜想变可爱｜绝赞发病中  是非常恋爱脑的孩子，请不要扎伤我      姐姐大人@Smilewei114514 @KiraRettosei",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "Smilewei114514"
+              },
+              {
+                "end": 109,
+                "start": 96,
+                "username": "KiraRettosei"
+              }
+            ]
+          }
+        },
+        "id": "1768631748257361920",
+        "name": "🍥酸砂布丁布丁🍮",
+        "pinned_tweet_id": "1768637514976534871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1768632247916347392/j3MPo1rX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 703,
+          "like_count": 860,
+          "listed_count": 2,
+          "tweet_count": 1825
+        },
+        "username": "nieniebuding",
+        "verified": false
+      }
+    ]
+  }
+}

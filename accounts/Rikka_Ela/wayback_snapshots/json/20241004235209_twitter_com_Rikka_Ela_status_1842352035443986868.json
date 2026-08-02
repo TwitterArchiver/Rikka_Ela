@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1842326911881535534",
+    "created_at": "2024-10-04T23:52:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-05T00:52:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842352035443986868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1424779836938022913",
+          "start": 0,
+          "username": "amber_toffee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842352035443986868",
+    "in_reply_to_user_id": "1424779836938022913",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842326911881535534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_toffee amber老师怎么也开始了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1842326911881535534",
+        "created_at": "2024-10-04T23:52:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-05T00:52:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842352035443986868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1424779836938022913",
+              "start": 0,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842352035443986868",
+        "in_reply_to_user_id": "1424779836938022913",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842326911881535534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_toffee amber老师怎么也开始了😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1842326871960113152"
+          ]
+        },
+        "author_id": "1424779836938022913",
+        "conversation_id": "1842326911881535534",
+        "created_at": "2024-10-04T22:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-04T23:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842326911881535534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ierVNh2kAH",
+              "end": 31,
+              "expanded_url": "https://x.com/amber_toffee/status/1842326911881535534/photo/1",
+              "media_key": "3_1842326871960113152",
+              "start": 8,
+              "url": "https://t.co/ierVNh2kAH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842326911881535534",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 937,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "非常厉害的雄性 https://t.co/ierVNh2kAH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文\n\nwife:@Y32010705",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "Y32010705"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2935,
+          "following_count": 2959,
+          "like_count": 50033,
+          "listed_count": 6,
+          "tweet_count": 3504
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "ଳ",
+        "id": "1424779836938022913",
+        "location": "🚪128/256",
+        "name": "amber",
+        "pinned_tweet_id": "1839456976008593788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774970309667368960/Ol-Klxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8243,
+          "following_count": 2114,
+          "like_count": 30101,
+          "listed_count": 25,
+          "tweet_count": 13548
+        },
+        "username": "amber_toffee",
+        "verified": false
+      }
+    ]
+  }
+}

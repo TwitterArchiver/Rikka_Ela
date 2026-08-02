@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1840551878750515300",
+    "created_at": "2024-10-01T07:22:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-01T08:22:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841015833495290203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1534362587470897152",
+          "start": 0,
+          "username": "mero_jcg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841015833495290203",
+    "in_reply_to_user_id": "1534362587470897152",
+    "lang": "qam",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840551878750515300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mero_jcg ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1840551878750515300",
+        "created_at": "2024-10-01T07:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-01T08:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841015833495290203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1534362587470897152",
+              "start": 0,
+              "username": "mero_jcg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841015833495290203",
+        "in_reply_to_user_id": "1534362587470897152",
+        "lang": "qam",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840551878750515300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mero_jcg ？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1840551874854068224"
+          ]
+        },
+        "author_id": "1534362587470897152",
+        "conversation_id": "1840551878750515300",
+        "created_at": "2024-09-30T00:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T01:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1840551878750515300"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "Chinese",
+              "probability": 0.5277,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eNEuGGYbn4",
+              "end": 46,
+              "expanded_url": "https://x.com/mero_jcg/status/1840551878750515300/photo/1",
+              "media_key": "3_1840551874854068224",
+              "start": 23,
+              "url": "https://t.co/eNEuGGYbn4"
+            },
+            {
+              "display_url": "x.com/isaac_eins/sta…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/isaac_eins/status/1840168411646832725",
+              "start": 47,
+              "url": "https://t.co/kC7QjLbi0L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840551878750515300",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 108,
+          "impression_count": 110992,
+          "like_count": 848,
+          "quote_count": 17,
+          "reply_count": 33,
+          "retweet_count": 76
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840168411646832725",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Chinese Furry Be Like： https://t.co/eNEuGGYbn4 https://t.co/kC7QjLbi0L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文\n\nwife:@Y32010705",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "Y32010705"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2901,
+          "following_count": 2946,
+          "like_count": 49567,
+          "listed_count": 6,
+          "tweet_count": 3431
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-08T02:32:28.000Z",
+        "description": "|🇭🇰🇹🇼🇺🇲|🏳️‍🌈Gay|HongKonger_Cantonese|\n🎗️❂💰|😺🚂|❤：Furry&Minecraft&Omori&Undertale.\n砵崙孤獨精\n🟦華语（繁體、简体)&English is OK,日本語を勉強中.Search Furry to find my art",
+        "id": "1534362587470897152",
+        "location": "South Nch'iWàna，Oregon, USA",
+        "name": "Temero",
+        "pinned_tweet_id": "1839877261715198078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840887969139544064/-2ImzEq3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2303,
+          "following_count": 3314,
+          "like_count": 86676,
+          "listed_count": 11,
+          "tweet_count": 41118
+        },
+        "username": "mero_jcg",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1909147898002157629",
+    "created_at": "2025-04-07T07:39:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T08:39:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909149114488742382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1672822866986024961",
+          "start": 0,
+          "username": "Lycaropia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909149114488742382",
+    "in_reply_to_user_id": "1672822866986024961",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909147898002157629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lycaropia 啊呀，骇死我力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1909147898002157629",
+        "created_at": "2025-04-07T07:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T08:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909149114488742382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1672822866986024961",
+              "start": 0,
+              "username": "Lycaropia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909149114488742382",
+        "in_reply_to_user_id": "1672822866986024961",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909147898002157629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lycaropia 啊呀，骇死我力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672822866986024961",
+        "conversation_id": "1909147898002157629",
+        "created_at": "2025-04-07T07:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T08:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909147898002157629"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1909147898002157629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么是天堂？\n天堂就是热的薯条和冰的可乐😋\n什么是地狱？\n地狱就是冰的薯条和热的可乐😱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4027,
+          "following_count": 3327,
+          "like_count": 64383,
+          "listed_count": 9,
+          "media_count": 190,
+          "tweet_count": 5506
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-25T04:24:03.000Z",
+        "description": "Aspie | TS Fullstack | Transgirl 🏳️‍⚧️ | Les | GF @CatTalkerMitaka\nLOVE ❤ FOREVER",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 50,
+                "username": "CatTalkerMitaka"
+              }
+            ]
+          }
+        },
+        "id": "1672822866986024961",
+        "location": "384,400km",
+        "name": "居眠姬",
+        "pinned_tweet_id": "1835227356170190958",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905253739625320448/sKopIlPH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1291,
+          "following_count": 1032,
+          "like_count": 71028,
+          "listed_count": 1,
+          "media_count": 202,
+          "tweet_count": 9040
+        },
+        "username": "Lycaropia",
+        "verified": false
+      }
+    ]
+  }
+}

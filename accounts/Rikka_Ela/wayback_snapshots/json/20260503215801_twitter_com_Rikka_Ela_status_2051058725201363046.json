@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2051058725201363046",
+    "created_at": "2026-05-03T21:58:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T22:58:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051058725201363046"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2051058725201363046",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有时候博士申请比起实力感觉更多的是看运气和机会🙂‍↕️，最近认识两位朋友，一位英国QS100本，4.0 满GPA，三篇Pub一作，美国Top100 材料/纯化全拒德；一位浙大3.4GPA，四篇Pub（其中有篇Nature Catalysis一作+一篇ACS二作😰）去了美国某Top150附近的R1的BME博士。但是也有看见无Pub去UCB，UChi的😵‍💫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2051058725201363046",
+        "created_at": "2026-05-03T21:58:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T22:58:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051058725201363046"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051058725201363046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有时候博士申请比起实力感觉更多的是看运气和机会🙂‍↕️，最近认识两位朋友，一位英国QS100本，4.0 满GPA，三篇Pub一作，美国Top100 材料/纯化全拒德；一位浙大3.4GPA，四篇Pub（其中有篇Nature Catalysis一作+一篇ACS二作😰）去了美国某Top150附近的R1的BME博士。但是也有看见无Pub去UCB，UChi的😵‍💫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5167,
+          "following_count": 3759,
+          "like_count": 83251,
+          "listed_count": 10,
+          "media_count": 422,
+          "tweet_count": 9264
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      }
+    ]
+  }
+}

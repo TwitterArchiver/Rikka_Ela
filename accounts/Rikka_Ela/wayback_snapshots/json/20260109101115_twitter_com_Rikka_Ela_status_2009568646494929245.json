@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "2009568646494929245",
+    "created_at": "2026-01-09T10:11:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T11:11:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009568646494929245"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lotfgame/statu…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/lotfgame/status/2008981233158783336",
+          "start": 40,
+          "url": "https://t.co/JslNn1UIVD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009568646494929245",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008981233158783336",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？玛雅这不是我们艾尔登法环黑夜君临的追踪者吗，怎么跑堕落之主2留学去了🏃‍♀️ https://t.co/JslNn1UIVD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1508,
+        "media_key": "3_2008980623000547329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-FVO4qXMAEhygi.jpg",
+        "width": 1205
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2009568646494929245",
+        "created_at": "2026-01-09T10:11:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T11:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009568646494929245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lotfgame/statu…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/lotfgame/status/2008981233158783336",
+              "start": 40,
+              "url": "https://t.co/JslNn1UIVD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009568646494929245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008981233158783336",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？玛雅这不是我们艾尔登法环黑夜君临的追踪者吗，怎么跑堕落之主2留学去了🏃‍♀️ https://t.co/JslNn1UIVD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008980623000547329"
+          ]
+        },
+        "author_id": "732673874",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2008981233158783336",
+        "created_at": "2026-01-07T19:17:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T20:17:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008981233158783336"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "Menasilde",
+              "probability": 0.3794,
+              "start": 11,
+              "type": "Place"
+            },
+            {
+              "end": 68,
+              "normalized_text": "Crescent",
+              "probability": 0.4088,
+              "start": 61,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lWmArUUpJ2",
+              "end": 208,
+              "expanded_url": "https://x.com/lotfgame/status/2008981233158783336/photo/1",
+              "media_key": "3_2008980623000547329",
+              "start": 185,
+              "url": "https://t.co/lWmArUUpJ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008981233158783336",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 441,
+          "impression_count": 1556032,
+          "like_count": 2979,
+          "quote_count": 420,
+          "reply_count": 270,
+          "retweet_count": 233
+        },
+        "reply_settings": "everyone",
+        "text": "Devoted to Menasilde, moon goddess of tides and passage, the Crescent Host once walked only spiritual paths. A 1000 years beneath death's shadow changed them.\n\nPeace gave way to steel. https://t.co/lWmArUUpJ2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4852,
+          "following_count": 3681,
+          "like_count": 78338,
+          "listed_count": 8,
+          "media_count": 356,
+          "tweet_count": 7964
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2012-08-02T11:33:54.000Z",
+        "description": "Lords of the Fallen II arrives 2026.\nWishlist now on PC, PS5 & Xbox Series X|S",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/lordsofthefall…",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/lordsofthefallen",
+                "start": 0,
+                "url": "https://t.co/PkqvSLNy2c"
+              }
+            ]
+          }
+        },
+        "id": "732673874",
+        "location": "Mournstead ",
+        "name": "LORDS OF THE FALLEN",
+        "pinned_tweet_id": "1999313421087752610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957869162040025089/JLWnDLVv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61552,
+          "following_count": 101,
+          "like_count": 3336,
+          "listed_count": 148,
+          "media_count": 713,
+          "tweet_count": 3384
+        },
+        "url": "https://t.co/PkqvSLNy2c",
+        "username": "lotfgame",
+        "verified": true
+      }
+    ]
+  }
+}

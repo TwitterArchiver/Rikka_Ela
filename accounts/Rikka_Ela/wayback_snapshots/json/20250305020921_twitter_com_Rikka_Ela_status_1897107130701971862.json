@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1897107130701971862",
+    "created_at": "2025-03-05T02:09:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T03:09:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897107130701971862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1187707142847062016",
+          "start": 3,
+          "username": "LGBwiththeT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897107130701971862",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 91
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896968241110769708",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LGBwiththeT: A trans man IS a man.\n\nTrans men can have babies.\n\nThey are still men.\n\nIm doubling, trebling, quadrupling down on this.…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1897107130701971862",
+        "created_at": "2025-03-05T02:09:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T03:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897107130701971862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1187707142847062016",
+              "start": 3,
+              "username": "LGBwiththeT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897107130701971862",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 91
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896968241110769708",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LGBwiththeT: A trans man IS a man.\n\nTrans men can have babies.\n\nThey are still men.\n\nIm doubling, trebling, quadrupling down on this.…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1187707142847062016",
+        "conversation_id": "1896968241110769708",
+        "created_at": "2025-03-04T16:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T17:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896968241110769708"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1896968241110769708",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 10563,
+          "like_count": 652,
+          "quote_count": 9,
+          "reply_count": 63,
+          "retweet_count": 91
+        },
+        "reply_settings": "everyone",
+        "text": "A trans man IS a man.\n\nTrans men can have babies.\n\nThey are still men.\n\nIm doubling, trebling, quadrupling down on this. \n\nPlease rant below\n\n👇🏼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3837,
+          "following_count": 3285,
+          "like_count": 61168,
+          "listed_count": 7,
+          "media_count": 173,
+          "tweet_count": 5060
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-25T12:27:13.000Z",
+        "description": "",
+        "id": "1187707142847062016",
+        "location": "Worldwide",
+        "name": "LGBWithTheT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1594647626980507654/5QAK01ia_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33881,
+          "following_count": 2660,
+          "like_count": 31116,
+          "listed_count": 91,
+          "media_count": 3258,
+          "tweet_count": 48739
+        },
+        "username": "LGBwiththeT",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2082633527883882949",
+    "created_at": "2026-07-30T08:57:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T09:57:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082752336573903118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2041159531657416704",
+          "start": 0,
+          "username": "amber_digit2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082752336573903118",
+    "in_reply_to_user_id": "2041159531657416704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082633527883882949",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_digit2 Amber快来和我学化学喵！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2028,
+        "media_key": "3_2082633524629118976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOcAKAjWoAAKBmI.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1973,
+        "media_key": "3_2082633524612333568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOcAKAfWgAAN3D6.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2082633527883882949",
+        "created_at": "2026-07-30T08:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T09:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082752336573903118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082752336573903118",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082633527883882949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 Amber快来和我学化学喵！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082633524629118976",
+            "3_2082633524612333568"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2082633527883882949",
+        "created_at": "2026-07-30T01:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T02:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082633527883882949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uw1FcZldmP",
+              "end": 70,
+              "expanded_url": "https://x.com/amber_digit2/status/2082633527883882949/photo/1",
+              "media_key": "3_2082633524629118976",
+              "start": 47,
+              "url": "https://t.co/uw1FcZldmP"
+            },
+            {
+              "display_url": "pic.x.com/uw1FcZldmP",
+              "end": 70,
+              "expanded_url": "https://x.com/amber_digit2/status/2082633527883882949/photo/1",
+              "media_key": "3_2082633524612333568",
+              "start": 47,
+              "url": "https://t.co/uw1FcZldmP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082633527883882949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3496,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怪不得我变成药娘了，我翻相册才发现原来是我在初一和高一刚入学的时候也尝试学过计算机和化学竞赛 https://t.co/uw1FcZldmP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6547,
+          "following_count": 3764,
+          "like_count": 86167,
+          "listed_count": 10,
+          "media_count": 452,
+          "tweet_count": 10064
+        },
+        "url": "",
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto・🏳️‍⚧️☭ she/her",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4091,
+          "following_count": 659,
+          "like_count": 1916,
+          "listed_count": 4,
+          "media_count": 138,
+          "tweet_count": 1748
+        },
+        "url": "https://t.co/IMqazehuZE",
+        "username": "amber_digit2",
+        "verified": false
+      }
+    ]
+  }
+}

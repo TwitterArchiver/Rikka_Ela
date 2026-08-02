@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1871380832109391904",
+    "created_at": "2024-12-24T02:43:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-24T03:43:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871386091263279537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1641812125789069313",
+          "start": 0,
+          "username": "_chitong_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871386091263279537",
+    "in_reply_to_user_id": "1641812125789069313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871383329947402528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_chitong_ 没有恢复时间，做完就能说话了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1871380832109391904",
+        "created_at": "2024-12-24T02:43:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T03:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871386091263279537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1641812125789069313",
+              "start": 0,
+              "username": "_chitong_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871386091263279537",
+        "in_reply_to_user_id": "1641812125789069313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871383329947402528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_chitong_ 没有恢复时间，做完就能说话了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641812125789069313",
+        "conversation_id": "1871380832109391904",
+        "created_at": "2024-12-24T02:32:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T03:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871383329947402528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871383329947402528",
+        "in_reply_to_user_id": "1641812125789069313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871382947468804418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 单喉结，多久能恢复说话诶…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文\n\n@Y32010705",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 43,
+                "username": "Y32010705"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3205,
+          "following_count": 3133,
+          "like_count": 55438,
+          "listed_count": 7,
+          "media_count": 156,
+          "tweet_count": 4288
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-31T14:38:18.000Z",
+        "description": "善用block与mute😇",
+        "id": "1641812125789069313",
+        "name": "🍦tong🍦",
+        "pinned_tweet_id": "1810338576888172648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1680886682575568896/Zkl9mDOQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 655,
+          "like_count": 15919,
+          "listed_count": 1,
+          "media_count": 365,
+          "tweet_count": 5446
+        },
+        "username": "_chitong_",
+        "verified": false
+      }
+    ]
+  }
+}

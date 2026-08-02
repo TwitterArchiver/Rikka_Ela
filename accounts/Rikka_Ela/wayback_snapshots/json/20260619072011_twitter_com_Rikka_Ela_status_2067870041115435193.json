@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2067529023010300238",
+    "created_at": "2026-06-19T07:20:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T08:20:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067870041115435193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1741075170603749376",
+          "start": 0,
+          "username": "zhao_tito"
+        },
+        {
+          "end": 25,
+          "id": "1490675894238986251",
+          "start": 11,
+          "username": "SayoriCat8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067870041115435193",
+    "in_reply_to_user_id": "1741075170603749376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067561532620456001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhao_tito @SayoriCat8964 窝趣给我也来一个（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2067529023010300238",
+        "created_at": "2026-06-19T07:20:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T08:20:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067870041115435193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1741075170603749376",
+              "start": 0,
+              "username": "zhao_tito"
+            },
+            {
+              "end": 25,
+              "id": "1490675894238986251",
+              "start": 11,
+              "username": "SayoriCat8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067870041115435193",
+        "in_reply_to_user_id": "1741075170603749376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067561532620456001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhao_tito @SayoriCat8964 窝趣给我也来一个（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741075170603749376",
+        "conversation_id": "2067529023010300238",
+        "created_at": "2026-06-18T10:54:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T11:54:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067561532620456001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1490675894238986251",
+              "start": 0,
+              "username": "SayoriCat8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067561532620456001",
+        "in_reply_to_user_id": "1490675894238986251",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067529023010300238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SayoriCat8964 一想到乙妹的老公都是我的rbq我就想笑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5755,
+          "following_count": 3775,
+          "like_count": 86289,
+          "listed_count": 8,
+          "media_count": 442,
+          "tweet_count": 9779
+        },
+        "url": "",
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T12:34:18.000Z",
+        "description": "Por fa',no me parеs ya de mirar.",
+        "id": "1741075170603749376",
+        "location": "🚪40",
+        "name": "钮祜禄·有希🐰🍺",
+        "pinned_tweet_id": "2064018565662167121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034879597159096322/QuoMlwJE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 973,
+          "following_count": 1475,
+          "like_count": 34403,
+          "listed_count": 2,
+          "media_count": 1337,
+          "tweet_count": 17224
+        },
+        "url": "",
+        "username": "zhao_tito",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T13:16:58.000Z",
+        "description": "enby/🌹/🐶@A5tr41",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 8,
+                "username": "A5tr41"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "whitehouse.gov",
+                "end": 23,
+                "expanded_url": "http://www.whitehouse.gov",
+                "start": 0,
+                "url": "https://t.co/pWZx2Vbika"
+              }
+            ]
+          }
+        },
+        "id": "1490675894238986251",
+        "location": "小马里亚 马哈顿",
+        "name": "善良纱世理✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010690434545356800/p494Qex-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3177,
+          "following_count": 1248,
+          "like_count": 148668,
+          "listed_count": 13,
+          "media_count": 1716,
+          "tweet_count": 22073
+        },
+        "url": "https://t.co/pWZx2Vbika",
+        "username": "SayoriCat8964",
+        "verified": false
+      }
+    ]
+  }
+}

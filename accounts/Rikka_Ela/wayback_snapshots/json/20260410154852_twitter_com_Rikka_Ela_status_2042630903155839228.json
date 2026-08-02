@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2042587047362171065",
+    "created_at": "2026-04-10T15:48:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T16:48:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042630903155839228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1745799972576968705",
+          "start": 0,
+          "username": "bubblepipe42"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042630903155839228",
+    "in_reply_to_user_id": "1745799972576968705",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042626839416574154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bubblepipe42 🥺好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2042587047362171065",
+        "created_at": "2026-04-10T15:48:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T16:48:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042630903155839228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1745799972576968705",
+              "start": 0,
+              "username": "bubblepipe42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042630903155839228",
+        "in_reply_to_user_id": "1745799972576968705",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042626839416574154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bubblepipe42 🥺好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745799972576968705",
+        "conversation_id": "2042587047362171065",
+        "created_at": "2026-04-10T15:32:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T16:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042626839416574154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042626839416574154",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042621156138549523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 那我觉得你需要预留乐观估计一个半月的恢复时间 有两个月会比较保险"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5010,
+          "following_count": 3730,
+          "like_count": 81602,
+          "listed_count": 9,
+          "media_count": 403,
+          "tweet_count": 8876
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-12T13:29:34.000Z",
+        "description": "活的像个家养猫（已剪角）。",
+        "id": "1745799972576968705",
+        "name": "代糖空泡",
+        "pinned_tweet_id": "2020023264811315232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997240850732961792/1_d8Kddi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1536,
+          "following_count": 894,
+          "like_count": 7990,
+          "listed_count": 5,
+          "media_count": 321,
+          "tweet_count": 1949
+        },
+        "username": "bubblepipe42",
+        "verified": false
+      }
+    ]
+  }
+}

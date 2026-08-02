@@ -1,0 +1,590 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037238603584090112"
+      ],
+      "media_source_tweet_id": [
+        "2037238606515908748"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "872842877063147521",
+          "name": "Bloodborne"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "872842877063147521",
+          "name": "Bloodborne"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Bloodborne",
+          "id": "10049908034",
+          "name": "Bloodborne"
+        }
+      }
+    ],
+    "conversation_id": "2037319495841096067",
+    "created_at": "2026-03-27T00:03:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T01:03:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037319495841096067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1577060647",
+          "start": 3,
+          "username": "amaryllis_no"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2QxYT4bU2C",
+          "end": 52,
+          "expanded_url": "https://x.com/amaryllis_no/status/2037238606515908748/photo/1",
+          "media_key": "3_2037238603584090112",
+          "start": 29,
+          "url": "https://t.co/2QxYT4bU2C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037319495841096067",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 226
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037238606515908748",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amaryllis_no: Bloodborne https://t.co/2QxYT4bU2C"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037238603584090112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEW5t1lXsAAnYPm.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037238603584090112"
+          ],
+          "media_source_tweet_id": [
+            "2037238606515908748"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "872842877063147521",
+              "name": "Bloodborne"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "872842877063147521",
+              "name": "Bloodborne"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Bloodborne",
+              "id": "10049908034",
+              "name": "Bloodborne"
+            }
+          }
+        ],
+        "conversation_id": "2037319495841096067",
+        "created_at": "2026-03-27T00:03:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T01:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037319495841096067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1577060647",
+              "start": 3,
+              "username": "amaryllis_no"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2QxYT4bU2C",
+              "end": 52,
+              "expanded_url": "https://x.com/amaryllis_no/status/2037238606515908748/photo/1",
+              "media_key": "3_2037238603584090112",
+              "start": 29,
+              "url": "https://t.co/2QxYT4bU2C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037319495841096067",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 226
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037238606515908748",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amaryllis_no: Bloodborne https://t.co/2QxYT4bU2C"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037238603584090112"
+          ]
+        },
+        "author_id": "1577060647",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "872842877063147521",
+              "name": "Bloodborne"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "872842877063147521",
+              "name": "Bloodborne"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Bloodborne",
+              "id": "10049908034",
+              "name": "Bloodborne"
+            }
+          }
+        ],
+        "conversation_id": "2037238606515908748",
+        "created_at": "2026-03-26T18:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T19:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037238606515908748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2QxYT4bU2C",
+              "end": 34,
+              "expanded_url": "https://x.com/amaryllis_no/status/2037238606515908748/photo/1",
+              "media_key": "3_2037238603584090112",
+              "start": 11,
+              "url": "https://t.co/2QxYT4bU2C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037238606515908748",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 100,
+          "impression_count": 10215,
+          "like_count": 1232,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 226
+        },
+        "reply_settings": "everyone",
+        "text": "Bloodborne https://t.co/2QxYT4bU2C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5007,
+          "following_count": 3729,
+          "like_count": 80701,
+          "listed_count": 9,
+          "media_count": 391,
+          "tweet_count": 8654
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-08T07:43:50.000Z",
+        "description": "Producer / Artist / Developer  ⛧ Support me: https://t.co/INRIZWrJtu ⛧ Commissions: https://t.co/HopXI30tPC ⛧ @lilminkgirl 💕",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "lilminkgirl"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "support.amaryllis.no",
+                "end": 68,
+                "expanded_url": "http://support.amaryllis.no",
+                "start": 45,
+                "url": "https://t.co/INRIZWrJtu"
+              },
+              {
+                "display_url": "commissions.amaryllis.no",
+                "end": 107,
+                "expanded_url": "http://commissions.amaryllis.no",
+                "start": 84,
+                "url": "https://t.co/HopXI30tPC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amaryllisno.neocities.org",
+                "end": 23,
+                "expanded_url": "https://amaryllisno.neocities.org",
+                "start": 0,
+                "url": "https://t.co/bQBV0iTBOb"
+              }
+            ]
+          }
+        },
+        "id": "1577060647",
+        "location": "She/They 🏳️‍⚧️ | Norway 🇳🇴",
+        "name": "𝔞𝔪𝔞𝔯𝔶",
+        "pinned_tweet_id": "1882008685792354326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999191117107990528/KzyVVHlX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14257,
+          "following_count": 621,
+          "like_count": 77286,
+          "listed_count": 63,
+          "media_count": 1994,
+          "tweet_count": 14739
+        },
+        "url": "https://t.co/bQBV0iTBOb",
+        "username": "amaryllis_no",
+        "verified": false
+      }
+    ]
+  }
+}

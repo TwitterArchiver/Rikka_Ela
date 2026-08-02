@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1988253114575593472"
+      ],
+      "media_source_tweet_id": [
+        "1988253180006740017"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "conversation_id": "1988378911999471985",
+    "created_at": "2025-11-11T22:50:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T23:50:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988378911999471985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1457751144101470208",
+          "start": 3,
+          "username": "kat_moder"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XbQ44AgAdJ",
+          "end": 55,
+          "expanded_url": "https://x.com/kat_moder/status/1988253180006740017/video/1",
+          "media_key": "13_1988253114575593472",
+          "start": 32,
+          "url": "https://t.co/XbQ44AgAdJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988378911999471985",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 103
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988253180006740017",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kat_moder: it really works! https://t.co/XbQ44AgAdJ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1988378911999471985].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1988378911999471985",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1988378911999471985"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18540,
+        "height": 1280,
+        "media_key": "13_1988253114575593472",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1988253114575593472/img/kyEPDTdRa0TNut1d.jpg",
+        "public_metrics": {
+          "view_count": 19500
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1988253114575593472/vid/avc1/320x568/XKmiCW71N0UyIYnd.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1988253114575593472/vid/avc1/480x852/Wp8qo_g31lJHjxaF.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1988253114575593472/vid/avc1/720x1280/r7PlDZOZvyUpt7WR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1988253114575593472/pl/EXgj8U9JxtyRILKM.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1988253114575593472"
+          ]
+        },
+        "author_id": "1457751144101470208",
+        "conversation_id": "1988253180006740017",
+        "created_at": "2025-11-11T14:31:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T15:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988253180006740017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XbQ44AgAdJ",
+              "end": 40,
+              "expanded_url": "https://x.com/kat_moder/status/1988253180006740017/video/1",
+              "media_key": "13_1988253114575593472",
+              "start": 17,
+              "url": "https://t.co/XbQ44AgAdJ"
+            },
+            {
+              "display_url": "x.com/xxnieve/status…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/xxnieve/status/1988188126007971958",
+              "start": 41,
+              "url": "https://t.co/cvy7J4oIH7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988253180006740017",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 814,
+          "impression_count": 21081,
+          "like_count": 1518,
+          "quote_count": 33,
+          "reply_count": 28,
+          "retweet_count": 103
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988188126007971958",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "it really works! https://t.co/XbQ44AgAdJ https://t.co/cvy7J4oIH7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4754,
+          "following_count": 3638,
+          "like_count": 75731,
+          "listed_count": 8,
+          "media_count": 326,
+          "tweet_count": 7441
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-08T16:45:43.000Z",
+        "description": "You're in MY web, now. ✧ THE Halo 2 lover ✧ free palestine ✧ MDNI",
+        "id": "1457751144101470208",
+        "location": "any/it | 26 | @halo2_moder",
+        "name": "Katherine 🕷️",
+        "pinned_tweet_id": "1970484735018443119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970313014285877248/pRVVuHwa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9016,
+          "following_count": 825,
+          "like_count": 83869,
+          "listed_count": 18,
+          "media_count": 2326,
+          "tweet_count": 18192
+        },
+        "username": "kat_moder",
+        "verified": false
+      }
+    ]
+  }
+}

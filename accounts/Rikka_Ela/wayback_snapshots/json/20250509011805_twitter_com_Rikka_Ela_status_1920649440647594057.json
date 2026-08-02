@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1920381050967953408"
+      ],
+      "media_source_tweet_id": [
+        "1920381057557250109"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "conversation_id": "1920649440647594057",
+    "created_at": "2025-05-09T01:18:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-09T02:18:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920649440647594057"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 18,
+          "tag": "8mai"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "4416500843",
+          "start": 3,
+          "username": "LaTourEiffel"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tAMGOCQioV",
+          "end": 47,
+          "expanded_url": "https://x.com/LaTourEiffel/status/1920381057557250109/photo/1",
+          "media_key": "3_1920381050967953408",
+          "start": 24,
+          "url": "https://t.co/tAMGOCQioV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920649440647594057",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 533
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920381057557250109",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LaTourEiffel: #8mai https://t.co/tAMGOCQioV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1920381050967953408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqaQZChWEAAngRN.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920381050967953408"
+          ],
+          "media_source_tweet_id": [
+            "1920381057557250109"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "1920649440647594057",
+        "created_at": "2025-05-09T01:18:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-09T02:18:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920649440647594057"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "8mai"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "4416500843",
+              "start": 3,
+              "username": "LaTourEiffel"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tAMGOCQioV",
+              "end": 47,
+              "expanded_url": "https://x.com/LaTourEiffel/status/1920381057557250109/photo/1",
+              "media_key": "3_1920381050967953408",
+              "start": 24,
+              "url": "https://t.co/tAMGOCQioV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920649440647594057",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 533
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920381057557250109",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LaTourEiffel: #8mai https://t.co/tAMGOCQioV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1920381050967953408"
+          ]
+        },
+        "author_id": "4416500843",
+        "conversation_id": "1920381057557250109",
+        "created_at": "2025-05-08T07:31:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-08T08:31:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920381057557250109"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "8mai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tAMGOCQioV",
+              "end": 29,
+              "expanded_url": "https://x.com/LaTourEiffel/status/1920381057557250109/photo/1",
+              "media_key": "3_1920381050967953408",
+              "start": 6,
+              "url": "https://t.co/tAMGOCQioV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920381057557250109",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 63657,
+          "like_count": 4182,
+          "quote_count": 9,
+          "reply_count": 25,
+          "retweet_count": 533
+        },
+        "reply_settings": "everyone",
+        "text": "#8mai https://t.co/tAMGOCQioV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4186,
+          "following_count": 3392,
+          "like_count": 66109,
+          "listed_count": 8,
+          "media_count": 210,
+          "tweet_count": 5823
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-08T14:21:59.000Z",
+        "description": "🇫🇷Bienvenue sur le compte officiel de la #tourEiffel! Parisienne depuis 1889.  🌐 Welcome to the official account of the #EiffelTower! Parisian since 1889.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 52,
+                "start": 41,
+                "tag": "tourEiffel"
+              },
+              {
+                "end": 132,
+                "start": 120,
+                "tag": "EiffelTower"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "toureiffel.paris",
+                "end": 23,
+                "expanded_url": "http://toureiffel.paris",
+                "start": 0,
+                "url": "https://t.co/PuyVLTyYNA"
+              }
+            ]
+          }
+        },
+        "id": "4416500843",
+        "location": "Paris, Ile-de-France",
+        "name": "La tour Eiffel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805544516159467520/TY9a-seR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352036,
+          "following_count": 425,
+          "like_count": 5708,
+          "listed_count": 747,
+          "media_count": 4298,
+          "tweet_count": 8550
+        },
+        "url": "https://t.co/PuyVLTyYNA",
+        "username": "LaTourEiffel",
+        "verified": false
+      }
+    ]
+  }
+}

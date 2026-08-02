@@ -1,0 +1,406 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Meals",
+          "id": "1034860760093024257",
+          "name": "Meals"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596157251584",
+          "name": "Grocery/Convenience - Retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040229408",
+          "name": "Tesco"
+        }
+      }
+    ],
+    "conversation_id": "1976407597646479665",
+    "created_at": "2025-10-09T23:21:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T00:21:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976427830704734357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1754494415152766976",
+          "start": 0,
+          "username": "NagiExpress"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976427830704734357",
+    "in_reply_to_user_id": "1754494415152766976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976407597646479665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NagiExpress 不如Tesco的Meal Deal😋）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1976407536459767808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G22cLtYW4AA8NHG.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1976407537307013120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G22cLwiW0AA8A7k.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1976407537302831104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G22cLwhXAAAzA5h.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Meals",
+              "id": "1034860760093024257",
+              "name": "Meals"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596157251584",
+              "name": "Grocery/Convenience - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040229408",
+              "name": "Tesco"
+            }
+          }
+        ],
+        "conversation_id": "1976407597646479665",
+        "created_at": "2025-10-09T23:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T00:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976427830704734357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1754494415152766976",
+              "start": 0,
+              "username": "NagiExpress"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976427830704734357",
+        "in_reply_to_user_id": "1754494415152766976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976407597646479665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NagiExpress 不如Tesco的Meal Deal😋）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976407536459767808",
+            "3_1976407537307013120",
+            "3_1976407537302831104"
+          ]
+        },
+        "author_id": "1754494415152766976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1976407597646479665",
+        "created_at": "2025-10-09T22:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T23:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976407597646479665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kK2AuOkGC3",
+              "end": 120,
+              "expanded_url": "https://x.com/NagiExpress/status/1976407597646479665/photo/1",
+              "media_key": "3_1976407536459767808",
+              "start": 97,
+              "url": "https://t.co/kK2AuOkGC3"
+            },
+            {
+              "display_url": "pic.x.com/kK2AuOkGC3",
+              "end": 120,
+              "expanded_url": "https://x.com/NagiExpress/status/1976407597646479665/photo/1",
+              "media_key": "3_1976407537307013120",
+              "start": 97,
+              "url": "https://t.co/kK2AuOkGC3"
+            },
+            {
+              "display_url": "pic.x.com/kK2AuOkGC3",
+              "end": 120,
+              "expanded_url": "https://x.com/NagiExpress/status/1976407597646479665/photo/1",
+              "media_key": "3_1976407537302831104",
+              "start": 97,
+              "url": "https://t.co/kK2AuOkGC3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976407597646479665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "英国必吃榜之越南粉\n我的评价是来伦敦就别吃什么中餐了\n泰餐越南粉南洋风味完全可以满足胃口了\n\n只不过喜茶倒是不错\n感觉比国内的好喝\n有点像大家口中“18年时的喜茶”\n也有可能在英国比较稀有（？ https://t.co/kK2AuOkGC3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4673,
+          "following_count": 3575,
+          "like_count": 73744,
+          "listed_count": 9,
+          "media_count": 307,
+          "tweet_count": 7088
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "也算是一种独特的人生体验了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/vic…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/victoria/",
+                "start": 0,
+                "url": "https://t.co/O8fBywpcGi"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "沙坪坝",
+        "name": "鹿栖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961447475040124928/fPSXAgy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3644,
+          "following_count": 1812,
+          "like_count": 15834,
+          "listed_count": 6,
+          "media_count": 1291,
+          "tweet_count": 13704
+        },
+        "url": "https://t.co/O8fBywpcGi",
+        "username": "NagiExpress",
+        "verified": false
+      }
+    ]
+  }
+}

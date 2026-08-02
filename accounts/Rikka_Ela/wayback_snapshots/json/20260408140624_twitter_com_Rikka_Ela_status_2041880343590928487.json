@@ -1,0 +1,814 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041611613703139328",
+        "3_2041611614403661824",
+        "3_2041611617864183810",
+        "3_2041611615099822081"
+      ],
+      "media_source_tweet_id": [
+        "2041611621018046531",
+        "2041611621018046531",
+        "2041611621018046531",
+        "2041611621018046531"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1135979287733948416",
+          "name": "Elden Ring"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1135979287733948416",
+          "name": "Elden Ring"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1456330517276610561",
+          "name": "Virtual photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898668479250438",
+          "name": "Fantasy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      }
+    ],
+    "conversation_id": "2041880343590928487",
+    "created_at": "2026-04-08T14:06:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T15:06:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041880343590928487"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 49,
+          "start": 39,
+          "tag": "EldenRing"
+        },
+        {
+          "end": 58,
+          "start": 50,
+          "tag": "エルデンリング"
+        },
+        {
+          "end": 65,
+          "start": 59,
+          "tag": "VPSAT"
+        },
+        {
+          "end": 75,
+          "start": 66,
+          "tag": "VGPUnite"
+        },
+        {
+          "end": 96,
+          "start": 77,
+          "tag": "VirtualPhotography"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1244014061123186689",
+          "start": 3,
+          "username": "Oby_LFC6"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5eGkjkCLjb",
+          "end": 120,
+          "expanded_url": "https://x.com/Oby_LFC6/status/2041611621018046531/photo/1",
+          "media_key": "3_2041611613703139328",
+          "start": 97,
+          "url": "https://t.co/5eGkjkCLjb"
+        },
+        {
+          "display_url": "pic.x.com/5eGkjkCLjb",
+          "end": 120,
+          "expanded_url": "https://x.com/Oby_LFC6/status/2041611621018046531/photo/1",
+          "media_key": "3_2041611614403661824",
+          "start": 97,
+          "url": "https://t.co/5eGkjkCLjb"
+        },
+        {
+          "display_url": "pic.x.com/5eGkjkCLjb",
+          "end": 120,
+          "expanded_url": "https://x.com/Oby_LFC6/status/2041611621018046531/photo/1",
+          "media_key": "3_2041611617864183810",
+          "start": 97,
+          "url": "https://t.co/5eGkjkCLjb"
+        },
+        {
+          "display_url": "pic.x.com/5eGkjkCLjb",
+          "end": 120,
+          "expanded_url": "https://x.com/Oby_LFC6/status/2041611621018046531/photo/1",
+          "media_key": "3_2041611615099822081",
+          "start": 97,
+          "url": "https://t.co/5eGkjkCLjb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041880343590928487",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041611621018046531",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Oby_LFC6: Journey to the Haligree.\n#EldenRing #エルデンリング\n#VPSAT #VGPUnite \n#VirtualPhotography https://t.co/5eGkjkCLjb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1030,
+        "media_key": "3_2041611613703139328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFVC8hwWcAAmgFH.jpg",
+        "width": 1920
+      },
+      {
+        "height": 976,
+        "media_key": "3_2041611614403661824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFVC8kXXkAA2uwb.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1063,
+        "media_key": "3_2041611617864183810",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFVC8xQa8AI4K6q.jpg",
+        "width": 2048
+      },
+      {
+        "height": 718,
+        "media_key": "3_2041611615099822081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFVC8m9WIAEFS3O.jpg",
+        "width": 1580
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041611613703139328",
+            "3_2041611614403661824",
+            "3_2041611617864183810",
+            "3_2041611615099822081"
+          ],
+          "media_source_tweet_id": [
+            "2041611621018046531",
+            "2041611621018046531",
+            "2041611621018046531",
+            "2041611621018046531"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1456330517276610561",
+              "name": "Virtual photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2041880343590928487",
+        "created_at": "2026-04-08T14:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T15:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041880343590928487"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 39,
+              "tag": "EldenRing"
+            },
+            {
+              "end": 58,
+              "start": 50,
+              "tag": "エルデンリング"
+            },
+            {
+              "end": 65,
+              "start": 59,
+              "tag": "VPSAT"
+            },
+            {
+              "end": 75,
+              "start": 66,
+              "tag": "VGPUnite"
+            },
+            {
+              "end": 96,
+              "start": 77,
+              "tag": "VirtualPhotography"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1244014061123186689",
+              "start": 3,
+              "username": "Oby_LFC6"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5eGkjkCLjb",
+              "end": 120,
+              "expanded_url": "https://x.com/Oby_LFC6/status/2041611621018046531/photo/1",
+              "media_key": "3_2041611613703139328",
+              "start": 97,
+              "url": "https://t.co/5eGkjkCLjb"
+            },
+            {
+              "display_url": "pic.x.com/5eGkjkCLjb",
+              "end": 120,
+              "expanded_url": "https://x.com/Oby_LFC6/status/2041611621018046531/photo/1",
+              "media_key": "3_2041611614403661824",
+              "start": 97,
+              "url": "https://t.co/5eGkjkCLjb"
+            },
+            {
+              "display_url": "pic.x.com/5eGkjkCLjb",
+              "end": 120,
+              "expanded_url": "https://x.com/Oby_LFC6/status/2041611621018046531/photo/1",
+              "media_key": "3_2041611617864183810",
+              "start": 97,
+              "url": "https://t.co/5eGkjkCLjb"
+            },
+            {
+              "display_url": "pic.x.com/5eGkjkCLjb",
+              "end": 120,
+              "expanded_url": "https://x.com/Oby_LFC6/status/2041611621018046531/photo/1",
+              "media_key": "3_2041611615099822081",
+              "start": 97,
+              "url": "https://t.co/5eGkjkCLjb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041880343590928487",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041611621018046531",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Oby_LFC6: Journey to the Haligree.\n#EldenRing #エルデンリング\n#VPSAT #VGPUnite \n#VirtualPhotography https://t.co/5eGkjkCLjb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041611613703139328",
+            "3_2041611614403661824",
+            "3_2041611617864183810",
+            "3_2041611615099822081"
+          ]
+        },
+        "author_id": "1244014061123186689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1456330517276610561",
+              "name": "Virtual photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2041611621018046531",
+        "created_at": "2026-04-07T20:18:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T21:18:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041611621018046531"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 25,
+              "tag": "EldenRing"
+            },
+            {
+              "end": 44,
+              "start": 36,
+              "tag": "エルデンリング"
+            },
+            {
+              "end": 51,
+              "start": 45,
+              "tag": "VPSAT"
+            },
+            {
+              "end": 61,
+              "start": 52,
+              "tag": "VGPUnite"
+            },
+            {
+              "end": 82,
+              "start": 63,
+              "tag": "VirtualPhotography"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5eGkjkCLjb",
+              "end": 106,
+              "expanded_url": "https://x.com/Oby_LFC6/status/2041611621018046531/photo/1",
+              "media_key": "3_2041611613703139328",
+              "start": 83,
+              "url": "https://t.co/5eGkjkCLjb"
+            },
+            {
+              "display_url": "pic.x.com/5eGkjkCLjb",
+              "end": 106,
+              "expanded_url": "https://x.com/Oby_LFC6/status/2041611621018046531/photo/1",
+              "media_key": "3_2041611614403661824",
+              "start": 83,
+              "url": "https://t.co/5eGkjkCLjb"
+            },
+            {
+              "display_url": "pic.x.com/5eGkjkCLjb",
+              "end": 106,
+              "expanded_url": "https://x.com/Oby_LFC6/status/2041611621018046531/photo/1",
+              "media_key": "3_2041611617864183810",
+              "start": 83,
+              "url": "https://t.co/5eGkjkCLjb"
+            },
+            {
+              "display_url": "pic.x.com/5eGkjkCLjb",
+              "end": 106,
+              "expanded_url": "https://x.com/Oby_LFC6/status/2041611621018046531/photo/1",
+              "media_key": "3_2041611615099822081",
+              "start": 83,
+              "url": "https://t.co/5eGkjkCLjb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041611621018046531",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 3501,
+          "like_count": 242,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "Journey to the Haligree.\n#EldenRing #エルデンリング\n#VPSAT #VGPUnite \n#VirtualPhotography https://t.co/5eGkjkCLjb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5020,
+          "following_count": 3733,
+          "like_count": 81448,
+          "listed_count": 9,
+          "media_count": 401,
+          "tweet_count": 8828
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-28T21:30:48.000Z",
+        "description": "JFT97                                                                             VP 🎮 📷 🎶 | LFC | OKC \n                  -FromSoftware addict.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "flickr.com/photos/2039718…",
+                "end": 23,
+                "expanded_url": "https://flickr.com/photos/203971894@N08",
+                "start": 0,
+                "url": "https://t.co/UCkyQvEtGw"
+              }
+            ]
+          }
+        },
+        "id": "1244014061123186689",
+        "location": "Merseyside",
+        "name": "Dylan🇵🇸",
+        "pinned_tweet_id": "1998901140172451994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747687689841750016/8Q-mEhTs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 1807,
+          "like_count": 314669,
+          "listed_count": 5,
+          "media_count": 1897,
+          "tweet_count": 8665
+        },
+        "url": "https://t.co/UCkyQvEtGw",
+        "username": "Oby_LFC6",
+        "verified": false
+      }
+    ]
+  }
+}

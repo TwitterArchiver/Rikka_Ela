@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1836704428403175511",
+    "created_at": "2024-09-19T14:56:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-19T15:56:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836781380443033935"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1597257668313260033",
+          "start": 0,
+          "username": "Minokakay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836781380443033935",
+    "in_reply_to_user_id": "1597257668313260033",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836704428403175511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minokakay 😭😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1836704428403175511",
+        "created_at": "2024-09-19T14:56:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T15:56:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836781380443033935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836781380443033935",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836704428403175511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay 😭😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597257668313260033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537182142450372608",
+              "name": "AI image generation"
+            }
+          }
+        ],
+        "conversation_id": "1836704428403175511",
+        "created_at": "2024-09-19T09:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T10:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836704428403175511"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/naf_aiart/stat…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/naf_aiart/status/1836526364176125988",
+              "start": 13,
+              "url": "https://t.co/JfgsbjJv70"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836704428403175511",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 224,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836526364176125988",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我这辈子都无法拥有的生活 https://t.co/JfgsbjJv70"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文\n\nwife:@Y32010705",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "Y32010705"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2700,
+          "following_count": 2914,
+          "like_count": 48773,
+          "listed_count": 6,
+          "tweet_count": 3295
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。\n  🇹🇼成渝 半休学陰暗比高三生 Pansexual INFP Stand With Ukraine🇺🇦 Asperger syndrome LGBTQ+🏳️‍⚧️🏳️‍🌈友好 小号：@Minokakay2nd 裡推：@Minokakaysex2nd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "Minokakay2nd"
+              },
+              {
+                "end": 153,
+                "start": 137,
+                "username": "Minokakaysex2nd"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "中華陰暗民國總統府",
+        "name": "Minokakay",
+        "pinned_tweet_id": "1822271585493078121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1245,
+          "following_count": 831,
+          "like_count": 15280,
+          "listed_count": 3,
+          "tweet_count": 6432
+        },
+        "username": "Minokakay",
+        "verified": false
+      }
+    ]
+  }
+}

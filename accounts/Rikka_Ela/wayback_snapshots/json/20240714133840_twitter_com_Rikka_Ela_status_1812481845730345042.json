@@ -1,0 +1,464 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1812473742867439616",
+        "3_1812473742896816128",
+        "3_1812473742578106368",
+        "3_1812473742884212736"
+      ],
+      "media_source_tweet_id": [
+        "1812475959230038022",
+        "1812475959230038022",
+        "1812475959230038022",
+        "1812475959230038022"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity for 14 Juillet (Bastille Day) for all years.",
+          "id": "1263051944723021824",
+          "name": "14 Juillet (Bastille Day) "
+        }
+      }
+    ],
+    "conversation_id": "1812481845730345042",
+    "created_at": "2024-07-14T13:38:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-14T14:38:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812481845730345042"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 56,
+          "normalized_text": "Paris",
+          "probability": 0.9628,
+          "start": 52,
+          "type": "Place"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 57,
+          "start": 51,
+          "tag": "Paris"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "438355707",
+          "start": 3,
+          "username": "francediplo_EN"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/MH3oGgDBkk",
+          "end": 123,
+          "expanded_url": "https://twitter.com/francediplo_EN/status/1812475959230038022/photo/1",
+          "media_key": "3_1812473742867439616",
+          "start": 100,
+          "url": "https://t.co/MH3oGgDBkk"
+        },
+        {
+          "display_url": "pic.twitter.com/MH3oGgDBkk",
+          "end": 123,
+          "expanded_url": "https://twitter.com/francediplo_EN/status/1812475959230038022/photo/1",
+          "media_key": "3_1812473742896816128",
+          "start": 100,
+          "url": "https://t.co/MH3oGgDBkk"
+        },
+        {
+          "display_url": "pic.twitter.com/MH3oGgDBkk",
+          "end": 123,
+          "expanded_url": "https://twitter.com/francediplo_EN/status/1812475959230038022/photo/1",
+          "media_key": "3_1812473742578106368",
+          "start": 100,
+          "url": "https://t.co/MH3oGgDBkk"
+        },
+        {
+          "display_url": "pic.twitter.com/MH3oGgDBkk",
+          "end": 123,
+          "expanded_url": "https://twitter.com/francediplo_EN/status/1812475959230038022/photo/1",
+          "media_key": "3_1812473742884212736",
+          "start": 100,
+          "url": "https://t.co/MH3oGgDBkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812481845730345042",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812475959230038022",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @francediplo_EN: 🇫🇷❤️🇫🇷\n\nBastille day parade in #Paris\n\nHappy Bastille Day everyone! 🇫🇷\n\n📷 : AFP https://t.co/MH3oGgDBkk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2198,
+        "media_key": "3_1812473742867439616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GSczRChWIAALwS3.jpg",
+        "width": 3297
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1812473742896816128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GSczRCoWYAAQBfW.jpg",
+        "width": 2731
+      },
+      {
+        "height": 2730,
+        "media_key": "3_1812473742578106368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GSczRBcXQAA0zAR.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2731,
+        "media_key": "3_1812473742884212736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GSczRClWEAAr6fX.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1812473742867439616",
+            "3_1812473742896816128",
+            "3_1812473742578106368",
+            "3_1812473742884212736"
+          ],
+          "media_source_tweet_id": [
+            "1812475959230038022",
+            "1812475959230038022",
+            "1812475959230038022",
+            "1812475959230038022"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity for 14 Juillet (Bastille Day) for all years.",
+              "id": "1263051944723021824",
+              "name": "14 Juillet (Bastille Day) "
+            }
+          }
+        ],
+        "conversation_id": "1812481845730345042",
+        "created_at": "2024-07-14T13:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-14T14:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812481845730345042"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 56,
+              "normalized_text": "Paris",
+              "probability": 0.9628,
+              "start": 52,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 51,
+              "tag": "Paris"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "438355707",
+              "start": 3,
+              "username": "francediplo_EN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/MH3oGgDBkk",
+              "end": 123,
+              "expanded_url": "https://twitter.com/francediplo_EN/status/1812475959230038022/photo/1",
+              "media_key": "3_1812473742867439616",
+              "start": 100,
+              "url": "https://t.co/MH3oGgDBkk"
+            },
+            {
+              "display_url": "pic.twitter.com/MH3oGgDBkk",
+              "end": 123,
+              "expanded_url": "https://twitter.com/francediplo_EN/status/1812475959230038022/photo/1",
+              "media_key": "3_1812473742896816128",
+              "start": 100,
+              "url": "https://t.co/MH3oGgDBkk"
+            },
+            {
+              "display_url": "pic.twitter.com/MH3oGgDBkk",
+              "end": 123,
+              "expanded_url": "https://twitter.com/francediplo_EN/status/1812475959230038022/photo/1",
+              "media_key": "3_1812473742578106368",
+              "start": 100,
+              "url": "https://t.co/MH3oGgDBkk"
+            },
+            {
+              "display_url": "pic.twitter.com/MH3oGgDBkk",
+              "end": 123,
+              "expanded_url": "https://twitter.com/francediplo_EN/status/1812475959230038022/photo/1",
+              "media_key": "3_1812473742884212736",
+              "start": 100,
+              "url": "https://t.co/MH3oGgDBkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812481845730345042",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812475959230038022",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @francediplo_EN: 🇫🇷❤️🇫🇷\n\nBastille day parade in #Paris\n\nHappy Bastille Day everyone! 🇫🇷\n\n📷 : AFP https://t.co/MH3oGgDBkk"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1812473742867439616",
+            "3_1812473742896816128",
+            "3_1812473742578106368",
+            "3_1812473742884212736"
+          ]
+        },
+        "author_id": "438355707",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity for 14 Juillet (Bastille Day) for all years.",
+              "id": "1263051944723021824",
+              "name": "14 Juillet (Bastille Day) "
+            }
+          }
+        ],
+        "conversation_id": "1812475959230038022",
+        "created_at": "2024-07-14T13:15:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-14T14:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1812475959230038022"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "Paris",
+              "probability": 0.9706,
+              "start": 32,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 31,
+              "tag": "Paris"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/MH3oGgDBkk",
+              "end": 103,
+              "expanded_url": "https://twitter.com/francediplo_EN/status/1812475959230038022/photo/1",
+              "media_key": "3_1812473742867439616",
+              "start": 80,
+              "url": "https://t.co/MH3oGgDBkk"
+            },
+            {
+              "display_url": "pic.twitter.com/MH3oGgDBkk",
+              "end": 103,
+              "expanded_url": "https://twitter.com/francediplo_EN/status/1812475959230038022/photo/1",
+              "media_key": "3_1812473742896816128",
+              "start": 80,
+              "url": "https://t.co/MH3oGgDBkk"
+            },
+            {
+              "display_url": "pic.twitter.com/MH3oGgDBkk",
+              "end": 103,
+              "expanded_url": "https://twitter.com/francediplo_EN/status/1812475959230038022/photo/1",
+              "media_key": "3_1812473742578106368",
+              "start": 80,
+              "url": "https://t.co/MH3oGgDBkk"
+            },
+            {
+              "display_url": "pic.twitter.com/MH3oGgDBkk",
+              "end": 103,
+              "expanded_url": "https://twitter.com/francediplo_EN/status/1812475959230038022/photo/1",
+              "media_key": "3_1812473742884212736",
+              "start": 80,
+              "url": "https://t.co/MH3oGgDBkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812475959230038022",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3410,
+          "like_count": 80,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "🇫🇷❤️🇫🇷\n\nBastille day parade in #Paris\n\nHappy Bastille Day everyone! 🇫🇷\n\n📷 : AFP https://t.co/MH3oGgDBkk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UNNC‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2169,
+          "following_count": 2769,
+          "like_count": 41868,
+          "listed_count": 6,
+          "tweet_count": 2638
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2011-12-16T13:56:21.000Z",
+        "description": "French Ministry for Europe and Foreign Affairs - Official English version of @francediplo, @francediplo_AR, @francediplo_DE, @francediplo_ES, @francediplo_RU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 77,
+                "username": "francediplo"
+              },
+              {
+                "end": 106,
+                "start": 91,
+                "username": "francediplo_AR"
+              },
+              {
+                "end": 123,
+                "start": 108,
+                "username": "francediplo_DE"
+              },
+              {
+                "end": 140,
+                "start": 125,
+                "username": "francediplo_ES"
+              },
+              {
+                "end": 157,
+                "start": 142,
+                "username": "francediplo_RU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "diplomatie.gouv.fr/en/",
+                "end": 23,
+                "expanded_url": "http://www.diplomatie.gouv.fr/en/",
+                "start": 0,
+                "url": "https://t.co/02nOfabhzW"
+              }
+            ]
+          }
+        },
+        "id": "438355707",
+        "location": "Paris, France",
+        "name": "France Diplomacy 🇫🇷🇪🇺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1663885845131149313/4URf9Drr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145824,
+          "following_count": 1683,
+          "like_count": 7083,
+          "listed_count": 1908,
+          "tweet_count": 28616
+        },
+        "url": "https://t.co/02nOfabhzW",
+        "username": "francediplo_EN",
+        "verified": true
+      }
+    ]
+  }
+}

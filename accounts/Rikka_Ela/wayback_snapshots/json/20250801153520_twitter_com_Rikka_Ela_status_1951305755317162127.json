@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1951305366102495549",
+    "created_at": "2025-08-01T15:35:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T16:35:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951305755317162127"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1951305755317162127",
+    "in_reply_to_user_id": "1418942200457662477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951305366102495549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这里我要点名温州和杭州的两所大学"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 384,
+        "media_key": "3_1951305356128501760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxRt4ghbQAAgMfm.jpg",
+        "width": 1443
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1951305366102495549",
+        "created_at": "2025-08-01T15:35:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T16:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951305755317162127"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1951305755317162127",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951305366102495549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这里我要点名温州和杭州的两所大学"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951305356128501760"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "1951305366102495549",
+        "created_at": "2025-08-01T15:33:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T16:33:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951305366102495549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/66rd7oVgnE",
+              "end": 40,
+              "expanded_url": "https://x.com/Rikka_Ela/status/1951305366102495549/photo/1",
+              "media_key": "3_1951305356128501760",
+              "start": 17,
+              "url": "https://t.co/66rd7oVgnE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951305366102495549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宁诺能保研了？我在做什么梦？？？ https://t.co/66rd7oVgnE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4449,
+          "following_count": 3540,
+          "like_count": 71335,
+          "listed_count": 7,
+          "media_count": 273,
+          "tweet_count": 6622
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      }
+    ]
+  }
+}

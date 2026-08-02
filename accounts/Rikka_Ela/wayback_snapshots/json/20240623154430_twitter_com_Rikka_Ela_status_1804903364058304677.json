@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1804763396178583993",
+    "created_at": "2024-06-23T15:44:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-23T16:44:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804903364058304677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1347946755866980354",
+          "start": 0,
+          "username": "Junglemmm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804903364058304677",
+    "in_reply_to_user_id": "1347946755866980354",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804814222809038889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Junglemmm 🥵请雪子老师务必在用力些（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1804763396178583993",
+        "created_at": "2024-06-23T15:44:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T16:44:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804903364058304677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1347946755866980354",
+              "start": 0,
+              "username": "Junglemmm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804903364058304677",
+        "in_reply_to_user_id": "1347946755866980354",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804814222809038889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Junglemmm 🥵请雪子老师务必在用力些（）"
+      },
+      {
+        "attachments": {},
+        "author_id": "1347946755866980354",
+        "conversation_id": "1804763396178583993",
+        "created_at": "2024-06-23T09:50:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T10:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804814222809038889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804814222809038889",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804763396178583993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 不够坏，要把兔子按阳台上做到求饶😈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UNNC‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2128,
+          "following_count": 2720,
+          "like_count": 39456,
+          "listed_count": 5,
+          "tweet_count": 2474
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-09T16:42:13.000Z",
+        "description": "infp｜UNNC｜160三级残废的似人｜持证含糖小男娘（2023.9.15）🍥｜游戏王ocg",
+        "id": "1347946755866980354",
+        "name": "柚子有点皮",
+        "pinned_tweet_id": "1702586182708658497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787796679393148928/T9QSXaTe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1610,
+          "following_count": 437,
+          "like_count": 3107,
+          "listed_count": 6,
+          "tweet_count": 1325
+        },
+        "username": "Junglemmm",
+        "verified": false
+      }
+    ]
+  }
+}

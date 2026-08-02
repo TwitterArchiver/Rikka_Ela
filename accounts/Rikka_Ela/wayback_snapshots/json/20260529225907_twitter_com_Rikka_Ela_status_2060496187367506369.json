@@ -1,0 +1,443 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform.",
+          "id": "847546154439000064",
+          "name": "Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Graduate school",
+          "id": "852247095461371904",
+          "name": "Graduate school"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform.",
+          "id": "847546154439000064",
+          "name": "Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Graduate school",
+          "id": "852247095461371904",
+          "name": "Graduate school"
+        }
+      }
+    ],
+    "conversation_id": "2060496187367506369",
+    "created_at": "2026-05-29T22:59:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T23:59:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060496187367506369"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dviolettchan/s…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/dviolettchan/status/2060479353641734219",
+          "start": 8,
+          "url": "https://t.co/vWW2tmAmUK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060496187367506369",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060479353641734219",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "死掉了…..😭 https://t.co/vWW2tmAmUK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform.",
+              "id": "847546154439000064",
+              "name": "Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Graduate school",
+              "id": "852247095461371904",
+              "name": "Graduate school"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform.",
+              "id": "847546154439000064",
+              "name": "Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Graduate school",
+              "id": "852247095461371904",
+              "name": "Graduate school"
+            }
+          }
+        ],
+        "conversation_id": "2060496187367506369",
+        "created_at": "2026-05-29T22:59:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T23:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060496187367506369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dviolettchan/s…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/dviolettchan/status/2060479353641734219",
+              "start": 8,
+              "url": "https://t.co/vWW2tmAmUK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060496187367506369",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060479353641734219",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "死掉了…..😭 https://t.co/vWW2tmAmUK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468298719447887872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform.",
+              "id": "847546154439000064",
+              "name": "Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Graduate school",
+              "id": "852247095461371904",
+              "name": "Graduate school"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform.",
+              "id": "847546154439000064",
+              "name": "Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Graduate school",
+              "id": "852247095461371904",
+              "name": "Graduate school"
+            }
+          }
+        ],
+        "conversation_id": "2060479353641734219",
+        "created_at": "2026-05-29T21:52:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T22:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060479353641734219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sheriyuo/statu…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/sheriyuo/status/2060320033885327444",
+              "start": 140,
+              "url": "https://t.co/G5VSch2VSa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060479353641734219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1065,
+          "like_count": 15,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060320033885327444",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在美国整体 funding cut 的情况下，Master 这种 cash cow 项目大扩招，几乎已经是大势所趋了。\n\n毕竟没有 Master 给大学送钱，很多学校可能就更养不起 PhD 学生了。\n\n我今年也认识一些同学，莫名其妙就收到了 NYU 的 offer。 (1/2) https://t.co/G5VSch2VSa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5341,
+          "following_count": 3785,
+          "like_count": 85519,
+          "listed_count": 6,
+          "media_count": 438,
+          "tweet_count": 9647
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-07T19:18:15.000Z",
+        "description": "制服爱好者 | 想要变得幸福 | 北美菜校ECE PhD Candidate | 魏晋名士 | 与欣宝一起期待更温柔的世界 | 🍻: @sheriyuo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "sheriyuo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "thesecatsdonotexist.com",
+                "end": 23,
+                "expanded_url": "https://thesecatsdonotexist.com/",
+                "start": 0,
+                "url": "https://t.co/XxMPM0e5ee"
+              }
+            ]
+          }
+        },
+        "id": "1468298719447887872",
+        "location": "Ontario, Canada",
+        "name": "紫云",
+        "pinned_tweet_id": "1999916217818333233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999225008120340481/KS3I1fWx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4741,
+          "following_count": 558,
+          "like_count": 10868,
+          "listed_count": 12,
+          "media_count": 59,
+          "tweet_count": 4577
+        },
+        "url": "https://t.co/XxMPM0e5ee",
+        "username": "dviolettchan",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1789638436699492352"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1789638438930764250",
+    "created_at": "2024-05-12T12:47:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-12T13:47:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1789638438930764250"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/qCvcAGjMhP",
+          "end": 33,
+          "expanded_url": "https://twitter.com/Rikka_Ela/status/1789638438930764250/photo/1",
+          "media_key": "3_1789638436699492352",
+          "start": 10,
+          "url": "https://t.co/qCvcAGjMhP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1789638438930764250",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "明天期！末！考！😫 https://t.co/qCvcAGjMhP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1789638436699492352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GNYSrR_b0AAKqAJ.jpg",
+        "width": 2031
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1789638436699492352"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1789638438930764250",
+        "created_at": "2024-05-12T12:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-12T13:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1789638438930764250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/qCvcAGjMhP",
+              "end": 33,
+              "expanded_url": "https://twitter.com/Rikka_Ela/status/1789638438930764250/photo/1",
+              "media_key": "3_1789638436699492352",
+              "start": 10,
+              "url": "https://t.co/qCvcAGjMhP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789638438930764250",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天期！末！考！😫 https://t.co/qCvcAGjMhP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "A student in UNNC‖Chemistry‖She/Her‖Viva La France🇫🇷‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷是碳酰氯呐🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1995,
+          "following_count": 2576,
+          "like_count": 34655,
+          "listed_count": 5,
+          "tweet_count": 2098
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      }
+    ]
+  }
+}

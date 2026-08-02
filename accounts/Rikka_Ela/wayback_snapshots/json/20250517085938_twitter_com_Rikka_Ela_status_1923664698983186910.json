@@ -1,0 +1,441 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "President of European Commission",
+          "id": "1151432219002454016",
+          "name": "Ursula von der Leyen"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "President of European Commission",
+          "id": "1151432219002454016",
+          "name": "Ursula von der Leyen"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "President of European Commission",
+          "id": "1151432219002454016",
+          "name": "Ursula von der Leyen"
+        }
+      }
+    ],
+    "conversation_id": "1923664698983186910",
+    "created_at": "2025-05-17T08:59:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T09:59:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923664698983186910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1146329871418843136",
+          "start": 3,
+          "username": "vonderleyen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923664698983186910",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 427
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923634573478367644",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vonderleyen: Be proud.\n\nProud of whom you love.\nProud of who you are.\nProud of who you are becoming. \n\nBecause your journey is your pow…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6920,
+        "height": 640,
+        "media_key": "13_1923634508038828032",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1923634508038828032/img/7kLTqmGEVi1GzakN.jpg",
+        "public_metrics": {
+          "view_count": 35055
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1923634508038828032/vid/avc1/320x320/aKZOMLRjeo1-n8HT.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1923634508038828032/vid/avc1/540x540/cF-4bfoNtR4b4x4G.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1923634508038828032/vid/avc1/640x640/Z3M5zrAnuWZ-vD1R.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1923634508038828032/pl/M5XrECy02AlysTmY.m3u8"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "President of European Commission",
+              "id": "1151432219002454016",
+              "name": "Ursula von der Leyen"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "President of European Commission",
+              "id": "1151432219002454016",
+              "name": "Ursula von der Leyen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "President of European Commission",
+              "id": "1151432219002454016",
+              "name": "Ursula von der Leyen"
+            }
+          }
+        ],
+        "conversation_id": "1923664698983186910",
+        "created_at": "2025-05-17T08:59:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T09:59:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923664698983186910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1146329871418843136",
+              "start": 3,
+              "username": "vonderleyen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923664698983186910",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 427
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923634573478367644",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vonderleyen: Be proud.\n\nProud of whom you love.\nProud of who you are.\nProud of who you are becoming. \n\nBecause your journey is your pow…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1923634508038828032"
+          ]
+        },
+        "author_id": "1146329871418843136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "President of European Commission",
+              "id": "1151432219002454016",
+              "name": "Ursula von der Leyen"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "President of European Commission",
+              "id": "1151432219002454016",
+              "name": "Ursula von der Leyen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "President of European Commission",
+              "id": "1151432219002454016",
+              "name": "Ursula von der Leyen"
+            }
+          }
+        ],
+        "conversation_id": "1923634573478367644",
+        "created_at": "2025-05-17T06:59:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T07:59:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923634573478367644"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 149,
+              "normalized_text": "Europe",
+              "probability": 0.9741,
+              "start": 144,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FyxiNGcMNH",
+              "end": 252,
+              "expanded_url": "https://x.com/vonderleyen/status/1923634573478367644/video/1",
+              "media_key": "13_1923634508038828032",
+              "start": 229,
+              "url": "https://t.co/FyxiNGcMNH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923634573478367644",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 127,
+          "impression_count": 112064,
+          "like_count": 2807,
+          "quote_count": 251,
+          "reply_count": 1254,
+          "retweet_count": 427
+        },
+        "reply_settings": "everyone",
+        "text": "Be proud.\n\nProud of whom you love.\nProud of who you are.\nProud of who you are becoming. \n\nBecause your journey is your power.\n\nAlways remember: Europe is your ally. I am your ally. \n\nThis week and every week. \n\nBe proud. Always. https://t.co/FyxiNGcMNH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4210,
+          "following_count": 3429,
+          "like_count": 66822,
+          "listed_count": 8,
+          "media_count": 213,
+          "tweet_count": 5897
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-03T08:08:33.000Z",
+        "description": "President of the @EU_Commission. Mother of seven. Brussels-born. European by heart. 🇪🇺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 17,
+                "username": "EU_Commission"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "eu-solidarity-ukraine.ec.europa.eu/index_en",
+                "end": 23,
+                "expanded_url": "https://eu-solidarity-ukraine.ec.europa.eu/index_en",
+                "start": 0,
+                "url": "https://t.co/ZdrutmpB6L"
+              }
+            ]
+          }
+        },
+        "id": "1146329871418843136",
+        "name": "Ursula von der Leyen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1151477036545925121/sUDOL-vE_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1615497,
+          "following_count": 264,
+          "like_count": 555,
+          "listed_count": 8351,
+          "media_count": 3143,
+          "tweet_count": 5730
+        },
+        "url": "https://t.co/ZdrutmpB6L",
+        "username": "vonderleyen",
+        "verified": true
+      }
+    ]
+  }
+}

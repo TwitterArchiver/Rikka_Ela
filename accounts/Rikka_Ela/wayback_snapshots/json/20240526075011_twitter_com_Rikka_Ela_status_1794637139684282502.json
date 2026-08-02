@@ -1,0 +1,175 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1794338558024839610",
+    "created_at": "2024-05-26T07:50:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-26T08:50:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794637139684282502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1730557130166738944",
+          "start": 0,
+          "username": "YunaOnO_2001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794637139684282502",
+    "in_reply_to_user_id": "1730557130166738944",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794338558024839610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YunaOnO_2001 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1794338558024839610",
+        "created_at": "2024-05-26T07:50:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-26T08:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794637139684282502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1730557130166738944",
+              "start": 0,
+              "username": "YunaOnO_2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794637139684282502",
+        "in_reply_to_user_id": "1730557130166738944",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794338558024839610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YunaOnO_2001 😭"
+      },
+      {
+        "attachments": {},
+        "author_id": "1730557130166738944",
+        "conversation_id": "1794338558024839610",
+        "created_at": "2024-05-25T12:03:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T13:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794338558024839610"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1794338558024839610",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 23790,
+          "like_count": 258,
+          "quote_count": 13,
+          "reply_count": 16,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "因为原生家庭导致缺爱，于是你想逃脱的父母的掌控欲，但你却没想到你成为了别人满足性欲的工具"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UNNC‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2016,
+          "following_count": 2634,
+          "like_count": 36277,
+          "listed_count": 5,
+          "tweet_count": 2210
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-01T11:59:14.000Z",
+        "description": "南无地藏王菩萨//占卜号@wohaocute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "wohaocute"
+              }
+            ]
+          }
+        },
+        "id": "1730557130166738944",
+        "location": "🚪52/128/521/1314",
+        "name": "燃燃",
+        "pinned_tweet_id": "1760342991615770651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785158692775792640/eZXrMYe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10495,
+          "following_count": 122,
+          "like_count": 1539,
+          "listed_count": 21,
+          "tweet_count": 1612
+        },
+        "username": "YunaOnO_2001",
+        "verified": false
+      }
+    ]
+  }
+}

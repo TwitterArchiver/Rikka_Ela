@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1985035540530393160",
+    "created_at": "2025-11-02T22:02:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T23:02:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985105165863866641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1831127108791529473",
+          "start": 0,
+          "username": "Meuuuu_kk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985105165863866641",
+    "in_reply_to_user_id": "1831127108791529473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985035540530393160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meuuuu_kk 我也想来怎么办🧎‍♀️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1985035540530393160",
+        "created_at": "2025-11-02T22:02:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T23:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985105165863866641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1831127108791529473",
+              "start": 0,
+              "username": "Meuuuu_kk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985105165863866641",
+        "in_reply_to_user_id": "1831127108791529473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985035540530393160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meuuuu_kk 我也想来怎么办🧎‍♀️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831127108791529473",
+        "conversation_id": "1985035540530393160",
+        "created_at": "2025-11-02T17:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T18:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985035540530393160"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985035540530393160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟国内小登聊天现在不到20的也有想来🇩🇪做护士的，我刻板印象还停在ftm群都更想当日本美术生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4701,
+          "following_count": 3618,
+          "like_count": 75222,
+          "listed_count": 8,
+          "media_count": 320,
+          "tweet_count": 7351
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T00:28:52.000Z",
+        "description": "记录吃饭睡觉；\n狗@melt_release；\n\n🏳️‍⚧️🏳️‍🌈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "melt_release"
+              }
+            ]
+          }
+        },
+        "id": "1831127108791529473",
+        "location": "they/it/es",
+        "name": "🥥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983670924306968576/x2Ix6sc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 145,
+          "like_count": 4352,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 3567
+        },
+        "username": "Meuuuu_kk",
+        "verified": false
+      }
+    ]
+  }
+}

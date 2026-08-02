@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1824599652358123795",
+    "created_at": "2024-08-17T04:05:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-17T05:05:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824658729922597014"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 14,
+          "normalized_text": "恭喜",
+          "probability": 0.6499,
+          "start": 13,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1425685656764829700",
+          "start": 0,
+          "username": "Amatsun1729"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824658729922597014",
+    "in_reply_to_user_id": "1425685656764829700",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824599652358123795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amatsun1729 恭喜🎉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1824599652358123795",
+        "created_at": "2024-08-17T04:05:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-17T05:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824658729922597014"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "恭喜",
+              "probability": 0.6499,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1425685656764829700",
+              "start": 0,
+              "username": "Amatsun1729"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824658729922597014",
+        "in_reply_to_user_id": "1425685656764829700",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824599652358123795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amatsun1729 恭喜🎉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1824598705862742017"
+          ]
+        },
+        "author_id": "1425685656764829700",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Government",
+              "id": "857878257630195712",
+              "name": "Government"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          }
+        ],
+        "conversation_id": "1824599652358123795",
+        "created_at": "2024-08-17T00:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-17T01:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824599652358123795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sjxqlxbou7",
+              "end": 165,
+              "expanded_url": "https://twitter.com/Amatsun1729/status/1824599652358123795/photo/1",
+              "media_key": "3_1824598705862742017",
+              "start": 142,
+              "url": "https://t.co/sJxQLXbOU7"
+            },
+            {
+              "display_url": "x.com/Amatsun1729/st…",
+              "end": 189,
+              "expanded_url": "https://twitter.com/Amatsun1729/status/1676370794463600640",
+              "start": 166,
+              "url": "https://t.co/jJYNGpKSeE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824599652358123795",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3119,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1676370794463600640",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "终于，我也是有身份的人了。从收到邀请到最后批准，真的是用了一整年的时间啊。感谢移民局，火速接收芭乐斯坦难民的百忙之中还能想起我们技术移民，辛苦了\n\n申请过程都是自己DIY，没找中介花冤枉钱，打算写点东西看看会不会帮助到一些有需要的人。还挺一波三折的，我甚至遇到了文件被政府搞丢的情况 https://t.co/sJxQLXbOU7 https://t.co/jJYNGpKSeE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2385,
+          "following_count": 2893,
+          "like_count": 46726,
+          "listed_count": 6,
+          "tweet_count": 3087
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-12T05:10:28.000Z",
+        "description": "精神中華民國人 / Chinese Communist Party = cancer of the world /共蛆、粉蛆、王局粉刷到就直接B\n\n互fo取关请双取，单向unfo = block",
+        "id": "1425685656764829700",
+        "location": "TX, USA",
+        "name": "◕ ‿‿ ◕ 🇹🇼🇦🇷",
+        "pinned_tweet_id": "1584015765232963584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1609060018002821121/2kOnqVh2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2994,
+          "following_count": 265,
+          "like_count": 47654,
+          "listed_count": 11,
+          "tweet_count": 7401
+        },
+        "username": "Amatsun1729",
+        "verified": true
+      }
+    ]
+  }
+}

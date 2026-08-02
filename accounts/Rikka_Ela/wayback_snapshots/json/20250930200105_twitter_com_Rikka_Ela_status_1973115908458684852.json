@@ -1,0 +1,491 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972840524836130816",
+        "3_1972840524848812032",
+        "3_1972840524802576384",
+        "3_1972840524836143104"
+      ],
+      "media_source_tweet_id": [
+        "1972840532088168770",
+        "1972840532088168770",
+        "1972840532088168770",
+        "1972840532088168770"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1973115908458684852",
+    "created_at": "2025-09-30T20:01:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T21:01:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973115908458684852"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 16,
+          "tag": "今月描いた絵を晒そう"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "260732056",
+          "start": 3,
+          "username": "miya_zirou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ld2G9cqmJe",
+          "end": 84,
+          "expanded_url": "https://x.com/miya_zirou/status/1972840532088168770/photo/1",
+          "media_key": "3_1972840524836130816",
+          "start": 61,
+          "url": "https://t.co/ld2G9cqmJe"
+        },
+        {
+          "display_url": "pic.x.com/ld2G9cqmJe",
+          "end": 84,
+          "expanded_url": "https://x.com/miya_zirou/status/1972840532088168770/photo/1",
+          "media_key": "3_1972840524848812032",
+          "start": 61,
+          "url": "https://t.co/ld2G9cqmJe"
+        },
+        {
+          "display_url": "pic.x.com/ld2G9cqmJe",
+          "end": 84,
+          "expanded_url": "https://x.com/miya_zirou/status/1972840532088168770/photo/1",
+          "media_key": "3_1972840524802576384",
+          "start": 61,
+          "url": "https://t.co/ld2G9cqmJe"
+        },
+        {
+          "display_url": "pic.x.com/ld2G9cqmJe",
+          "end": 84,
+          "expanded_url": "https://x.com/miya_zirou/status/1972840532088168770/photo/1",
+          "media_key": "3_1972840524836143104",
+          "start": 61,
+          "url": "https://t.co/ld2G9cqmJe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973115908458684852",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 440
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972840532088168770",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miya_zirou: #今月描いた絵を晒そう  今月は多分20枚ぐらい描きました⚫️⚪️⚫️⚪️(主に復讐者) https://t.co/ld2G9cqmJe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1972840524836130816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2DwATlaUAAwXKB.jpg",
+        "width": 1446
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1972840524848812032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2DwATob0AAIj_Q.jpg",
+        "width": 1446
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1972840524802576384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2DwATdaUAAfTNT.jpg",
+        "width": 1446
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1972840524836143104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2DwATlagAAM8GU.jpg",
+        "width": 1446
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972840524836130816",
+            "3_1972840524848812032",
+            "3_1972840524802576384",
+            "3_1972840524836143104"
+          ],
+          "media_source_tweet_id": [
+            "1972840532088168770",
+            "1972840532088168770",
+            "1972840532088168770",
+            "1972840532088168770"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1973115908458684852",
+        "created_at": "2025-09-30T20:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T21:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973115908458684852"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 16,
+              "tag": "今月描いた絵を晒そう"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "260732056",
+              "start": 3,
+              "username": "miya_zirou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ld2G9cqmJe",
+              "end": 84,
+              "expanded_url": "https://x.com/miya_zirou/status/1972840532088168770/photo/1",
+              "media_key": "3_1972840524836130816",
+              "start": 61,
+              "url": "https://t.co/ld2G9cqmJe"
+            },
+            {
+              "display_url": "pic.x.com/ld2G9cqmJe",
+              "end": 84,
+              "expanded_url": "https://x.com/miya_zirou/status/1972840532088168770/photo/1",
+              "media_key": "3_1972840524848812032",
+              "start": 61,
+              "url": "https://t.co/ld2G9cqmJe"
+            },
+            {
+              "display_url": "pic.x.com/ld2G9cqmJe",
+              "end": 84,
+              "expanded_url": "https://x.com/miya_zirou/status/1972840532088168770/photo/1",
+              "media_key": "3_1972840524802576384",
+              "start": 61,
+              "url": "https://t.co/ld2G9cqmJe"
+            },
+            {
+              "display_url": "pic.x.com/ld2G9cqmJe",
+              "end": 84,
+              "expanded_url": "https://x.com/miya_zirou/status/1972840532088168770/photo/1",
+              "media_key": "3_1972840524836143104",
+              "start": 61,
+              "url": "https://t.co/ld2G9cqmJe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973115908458684852",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 440
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972840532088168770",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miya_zirou: #今月描いた絵を晒そう  今月は多分20枚ぐらい描きました⚫️⚪️⚫️⚪️(主に復讐者) https://t.co/ld2G9cqmJe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972840524836130816",
+            "3_1972840524848812032",
+            "3_1972840524802576384",
+            "3_1972840524836143104"
+          ]
+        },
+        "author_id": "260732056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          }
+        ],
+        "conversation_id": "1972840532088168770",
+        "created_at": "2025-09-30T01:46:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T02:46:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972840532088168770"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "今月描いた絵を晒そう"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ld2G9cqmJe",
+              "end": 68,
+              "expanded_url": "https://x.com/miya_zirou/status/1972840532088168770/photo/1",
+              "media_key": "3_1972840524836130816",
+              "start": 45,
+              "url": "https://t.co/ld2G9cqmJe"
+            },
+            {
+              "display_url": "pic.x.com/ld2G9cqmJe",
+              "end": 68,
+              "expanded_url": "https://x.com/miya_zirou/status/1972840532088168770/photo/1",
+              "media_key": "3_1972840524848812032",
+              "start": 45,
+              "url": "https://t.co/ld2G9cqmJe"
+            },
+            {
+              "display_url": "pic.x.com/ld2G9cqmJe",
+              "end": 68,
+              "expanded_url": "https://x.com/miya_zirou/status/1972840532088168770/photo/1",
+              "media_key": "3_1972840524802576384",
+              "start": 45,
+              "url": "https://t.co/ld2G9cqmJe"
+            },
+            {
+              "display_url": "pic.x.com/ld2G9cqmJe",
+              "end": 68,
+              "expanded_url": "https://x.com/miya_zirou/status/1972840532088168770/photo/1",
+              "media_key": "3_1972840524836143104",
+              "start": 45,
+              "url": "https://t.co/ld2G9cqmJe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972840532088168770",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 306,
+          "impression_count": 74910,
+          "like_count": 2791,
+          "quote_count": 4,
+          "reply_count": 5,
+          "retweet_count": 440
+        },
+        "reply_settings": "everyone",
+        "text": "#今月描いた絵を晒そう  今月は多分20枚ぐらい描きました⚫️⚪️⚫️⚪️(主に復讐者) https://t.co/ld2G9cqmJe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4610,
+          "following_count": 3558,
+          "like_count": 73269,
+          "listed_count": 9,
+          "media_count": 304,
+          "tweet_count": 7024
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2011-03-04T13:46:02.000Z",
+        "description": "漫画描いてます。ネームの返信待ちの期間にやっているゲームの絵を描きたい。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@miya_zirou",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@miya_zirou",
+                "start": 0,
+                "url": "https://t.co/s2zRvsX5YO"
+              }
+            ]
+          }
+        },
+        "id": "260732056",
+        "name": "富本祥太",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/933992218112622595/99X2aRW0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2111,
+          "following_count": 49,
+          "like_count": 183,
+          "listed_count": 11,
+          "media_count": 698,
+          "tweet_count": 12017
+        },
+        "url": "https://t.co/s2zRvsX5YO",
+        "username": "miya_zirou",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1824257543998411057",
+    "created_at": "2024-08-17T01:28:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-17T02:28:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824619291481870420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1688233455363219456",
+          "start": 0,
+          "username": "Yorushika4ever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824619291481870420",
+    "in_reply_to_user_id": "1688233455363219456",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824257543998411057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yorushika4ever 😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1824257543998411057",
+        "created_at": "2024-08-17T01:28:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-17T02:28:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824619291481870420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1688233455363219456",
+              "start": 0,
+              "username": "Yorushika4ever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824619291481870420",
+        "in_reply_to_user_id": "1688233455363219456",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824257543998411057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yorushika4ever 😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688233455363219456",
+        "conversation_id": "1824257543998411057",
+        "created_at": "2024-08-16T01:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-16T02:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824257543998411057"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1824257543998411057",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 650,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "等不到夏天的手术潮\n我还可以赶上冬天的自杀潮😄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2383,
+          "following_count": 2891,
+          "like_count": 46662,
+          "listed_count": 6,
+          "tweet_count": 3084
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-06T17:00:07.000Z",
+        "description": "😼🎮",
+        "id": "1688233455363219456",
+        "location": "◂Ⓘ▸",
+        "name": "忘れてください",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823687050220199937/TAYJO0tZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 358,
+          "like_count": 107143,
+          "listed_count": 6,
+          "tweet_count": 19511
+        },
+        "username": "Yorushika4ever",
+        "verified": false
+      }
+    ]
+  }
+}

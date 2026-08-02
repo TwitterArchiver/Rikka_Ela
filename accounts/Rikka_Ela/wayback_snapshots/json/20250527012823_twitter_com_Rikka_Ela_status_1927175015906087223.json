@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1927042328704811101",
+    "created_at": "2025-05-27T01:28:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T02:28:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927175015906087223"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 43,
+          "normalized_text": "恭喜",
+          "probability": 0.65,
+          "start": 42,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1767161673566359552",
+          "start": 0,
+          "username": "willa_citrus"
+        },
+        {
+          "end": 29,
+          "id": "1545300185169166336",
+          "start": 14,
+          "username": "JessicaLee9974"
+        },
+        {
+          "end": 41,
+          "id": "1078687497813540864",
+          "start": 30,
+          "username": "rat_miyari"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927175015906087223",
+    "in_reply_to_user_id": "1767161673566359552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927042328704811101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@willa_citrus @JessicaLee9974 @rat_miyari 恭喜🎉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1927042316071473153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr46xsyWEAE8LgN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1927042328704811101",
+        "created_at": "2025-05-27T01:28:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T02:28:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927175015906087223"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 43,
+              "normalized_text": "恭喜",
+              "probability": 0.65,
+              "start": 42,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1767161673566359552",
+              "start": 0,
+              "username": "willa_citrus"
+            },
+            {
+              "end": 29,
+              "id": "1545300185169166336",
+              "start": 14,
+              "username": "JessicaLee9974"
+            },
+            {
+              "end": 41,
+              "id": "1078687497813540864",
+              "start": 30,
+              "username": "rat_miyari"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927175015906087223",
+        "in_reply_to_user_id": "1767161673566359552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927042328704811101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@willa_citrus @JessicaLee9974 @rat_miyari 恭喜🎉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927042316071473153"
+          ]
+        },
+        "author_id": "1767161673566359552",
+        "conversation_id": "1927042328704811101",
+        "created_at": "2025-05-26T16:41:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T17:41:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927042328704811101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 94,
+              "id": "1545300185169166336",
+              "start": 79,
+              "username": "JessicaLee9974"
+            },
+            {
+              "end": 106,
+              "id": "1078687497813540864",
+              "start": 95,
+              "username": "rat_miyari"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YERMfHQLO4",
+              "end": 130,
+              "expanded_url": "https://x.com/willa_citrus/status/1927042328704811101/photo/1",
+              "media_key": "3_1927042316071473153",
+              "start": 107,
+              "url": "https://t.co/YERMfHQLO4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927042328704811101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 11445,
+          "like_count": 174,
+          "quote_count": 1,
+          "reply_count": 50,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感受到一点点的痛 很多的底气和很多的平静 没有强烈的喜悦或者重生感 好像我还是我 只是更一致了一点\n醒来的第一句话是 之后就拜托你们了\n接下来就拜托你们了 @JessicaLee9974 @rat_miyari https://t.co/YERMfHQLO4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4230,
+          "following_count": 3460,
+          "like_count": 67556,
+          "listed_count": 9,
+          "media_count": 218,
+          "tweet_count": 6014
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T12:12:39.000Z",
+        "description": "MtF, Under RLE & HRT / 想当个可爱的孩子 / 杭州三本工科PhD在读 / 怪猎以及魂系玩家 / 多给我点赞啊！/ 碰到漂亮或者说话好玩的孩子就会试图交朋友 / 如果空下来一定要做个播客节目 / 甜甜同居五年啦 @rat_miyari",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 116,
+                "username": "rat_miyari"
+              }
+            ]
+          }
+        },
+        "id": "1767161673566359552",
+        "location": "杭州",
+        "name": "王小檬𝖂𝖎𝖑𝖑𝖆🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922847776272154626/ZKQ1W7GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10287,
+          "following_count": 158,
+          "like_count": 1644,
+          "listed_count": 31,
+          "media_count": 158,
+          "tweet_count": 1921
+        },
+        "username": "willa_citrus",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T06:54:16.000Z",
+        "description": "吃糖9年多的MTF//泰國手術翻譯陪護//PAI診所義務諮詢人員/一星美食獵人//ISTJ-T//",
+        "id": "1545300185169166336",
+        "location": "Singapore",
+        "name": "~嘉嘉~Aka Jessica",
+        "pinned_tweet_id": "1785958413970862544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1731677121901178880/9tf20fwq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3238,
+          "following_count": 146,
+          "like_count": 13,
+          "listed_count": 11,
+          "media_count": 924,
+          "tweet_count": 4905
+        },
+        "username": "JessicaLee9974",
+        "verified": true
+      },
+      {
+        "created_at": "2018-12-28T16:21:55.000Z",
+        "description": "男妈妈练习生/长期家里蹲/偶尔拍色图/摄影练习ing/三流开发者/努力减肥ing\n\n@willa_citrus 同居ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 42,
+                "username": "willa_citrus"
+              }
+            ]
+          }
+        },
+        "id": "1078687497813540864",
+        "name": "标准呆呆鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1542909444668813312/WWDcM1ie_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9989,
+          "following_count": 689,
+          "like_count": 12217,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 2426
+        },
+        "username": "rat_miyari",
+        "verified": false
+      }
+    ]
+  }
+}

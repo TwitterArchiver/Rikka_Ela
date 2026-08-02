@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1818325245679575215",
+    "created_at": "2024-07-31T00:35:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-31T01:35:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1818445329584255201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1797805002817175552",
+          "start": 0,
+          "username": "HyperHotaru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1818445329584255201",
+    "in_reply_to_user_id": "1797805002817175552",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818325245679575215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HyperHotaru 可能因为其他很多大学都LGBT都深柜了吧🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1818325245679575215",
+        "created_at": "2024-07-31T00:35:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-31T01:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818445329584255201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1797805002817175552",
+              "start": 0,
+              "username": "HyperHotaru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818445329584255201",
+        "in_reply_to_user_id": "1797805002817175552",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818325245679575215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HyperHotaru 可能因为其他很多大学都LGBT都深柜了吧🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797805002817175552",
+        "conversation_id": "1818325245679575215",
+        "created_at": "2024-07-30T16:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-30T17:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1818325245679575215"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1818325245679575215",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 204,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是我的错觉还是中外合办和海本lgbt+率高"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2287,
+          "following_count": 2837,
+          "like_count": 44093,
+          "listed_count": 6,
+          "tweet_count": 2847
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T01:38:17.000Z",
+        "description": "FTX｜无hrt天赋党｜Asexual｜He/She/Them皆可｜普通话/English/日本語｜键政号不分立场block｜186cm｜或许是泛灵论｜家长放任态度",
+        "id": "1797805002817175552",
+        "location": "雾之湖",
+        "name": "永远鲜红的爱书人",
+        "pinned_tweet_id": "1813511173373063441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817191492781215744/E3pZBf1C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 53,
+          "like_count": 567,
+          "listed_count": 0,
+          "tweet_count": 125
+        },
+        "username": "HyperHotaru",
+        "verified": false
+      }
+    ]
+  }
+}

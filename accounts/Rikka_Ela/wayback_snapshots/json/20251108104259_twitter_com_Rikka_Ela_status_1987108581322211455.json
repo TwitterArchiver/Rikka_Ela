@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986977182674296832"
+      ],
+      "media_source_tweet_id": [
+        "1986977189204795871"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "conversation_id": "1987108581322211455",
+    "created_at": "2025-11-08T10:42:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T11:42:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987108581322211455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1943436090188472320",
+          "start": 3,
+          "username": "ihasa39"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/z5bU9CpHs6",
+          "end": 36,
+          "expanded_url": "https://x.com/ihasa39/status/1986977189204795871/photo/1",
+          "media_key": "3_1986977182674296832",
+          "start": 13,
+          "url": "https://t.co/z5bU9CpHs6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987108581322211455",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1041
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986977189204795871",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ihasa39: https://t.co/z5bU9CpHs6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1585,
+        "media_key": "3_1986977182674296832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5MpOF4boAAEham.jpg",
+        "width": 1410
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986977182674296832"
+          ],
+          "media_source_tweet_id": [
+            "1986977189204795871"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "1987108581322211455",
+        "created_at": "2025-11-08T10:42:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T11:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987108581322211455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1943436090188472320",
+              "start": 3,
+              "username": "ihasa39"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z5bU9CpHs6",
+              "end": 36,
+              "expanded_url": "https://x.com/ihasa39/status/1986977189204795871/photo/1",
+              "media_key": "3_1986977182674296832",
+              "start": 13,
+              "url": "https://t.co/z5bU9CpHs6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987108581322211455",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1041
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986977189204795871",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ihasa39: https://t.co/z5bU9CpHs6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986977182674296832"
+          ]
+        },
+        "author_id": "1943436090188472320",
+        "conversation_id": "1986977189204795871",
+        "created_at": "2025-11-08T02:00:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T03:00:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986977189204795871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z5bU9CpHs6",
+              "end": 23,
+              "expanded_url": "https://x.com/ihasa39/status/1986977189204795871/photo/1",
+              "media_key": "3_1986977182674296832",
+              "start": 0,
+              "url": "https://t.co/z5bU9CpHs6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986977189204795871",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1341,
+          "impression_count": 119123,
+          "like_count": 14398,
+          "quote_count": 16,
+          "reply_count": 3,
+          "retweet_count": 1041
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/z5bU9CpHs6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4726,
+          "following_count": 3630,
+          "like_count": 75459,
+          "listed_count": 8,
+          "media_count": 324,
+          "tweet_count": 7399
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-10T22:24:15.000Z",
+        "description": "色々 癖@ihasa_sb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "ihasa_sb"
+              }
+            ]
+          }
+        },
+        "id": "1943436090188472320",
+        "name": "あさひ",
+        "pinned_tweet_id": "1957400120116535631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949636479019630593/5QQWyGOf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75230,
+          "following_count": 4,
+          "like_count": 49,
+          "listed_count": 235,
+          "media_count": 75,
+          "tweet_count": 498
+        },
+        "username": "ihasa39",
+        "verified": false
+      }
+    ]
+  }
+}

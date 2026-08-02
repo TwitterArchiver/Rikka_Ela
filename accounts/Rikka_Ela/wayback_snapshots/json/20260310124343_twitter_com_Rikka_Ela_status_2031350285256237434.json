@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2031185500304978109",
+    "created_at": "2026-03-10T12:43:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T13:43:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031350285256237434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1468298719447887872",
+          "start": 0,
+          "username": "dviolettchan"
+        },
+        {
+          "end": 24,
+          "id": "1430445611640262660",
+          "start": 14,
+          "username": "MMinuzero"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031350285256237434",
+    "in_reply_to_user_id": "1468298719447887872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031192920871555403",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dviolettchan @MMinuzero 羡慕有Pub😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2031185500304978109",
+        "created_at": "2026-03-10T12:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T13:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031350285256237434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1468298719447887872",
+              "start": 0,
+              "username": "dviolettchan"
+            },
+            {
+              "end": 24,
+              "id": "1430445611640262660",
+              "start": 14,
+              "username": "MMinuzero"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031350285256237434",
+        "in_reply_to_user_id": "1468298719447887872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031192920871555403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dviolettchan @MMinuzero 羡慕有Pub😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468298719447887872",
+        "conversation_id": "2031185500304978109",
+        "created_at": "2026-03-10T02:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T03:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031192920871555403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1430445611640262660",
+              "start": 0,
+              "username": "MMinuzero"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031192920871555403",
+        "in_reply_to_user_id": "1430445611640262660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27651,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031185500304978109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MMinuzero 对于本科生来说，有不知名 SCI/IEEE 会议是一个加分项，但是很难有决定性意义。\n\n有机会还是多投一些 AI 圈子认可的会议吧，或者找个比较有名的公司实习，否则找算法岗恐怕……\n\n老师有考虑过保研么……？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4966,
+          "following_count": 3734,
+          "like_count": 80274,
+          "listed_count": 9,
+          "media_count": 384,
+          "tweet_count": 8469
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-07T19:18:15.000Z",
+        "description": "制服收藏家 | 北美菜校ECE PhD Candidate | 魏晋名士 | ❤️: @xinxinUnique",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 43,
+                "username": "xinxinUnique"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "thesecatsdonotexist.com",
+                "end": 23,
+                "expanded_url": "https://thesecatsdonotexist.com/",
+                "start": 0,
+                "url": "https://t.co/XxMPM0dxoG"
+              }
+            ]
+          }
+        },
+        "id": "1468298719447887872",
+        "location": "Ontario, Canada",
+        "name": "紫云",
+        "pinned_tweet_id": "1999916217818333233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999225008120340481/KS3I1fWx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2465,
+          "following_count": 473,
+          "like_count": 5066,
+          "listed_count": 7,
+          "media_count": 41,
+          "tweet_count": 2131
+        },
+        "url": "https://t.co/XxMPM0dxoG",
+        "username": "dviolettchan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-25T08:23:21.000Z",
+        "description": "我是个debu喵/学数学的/基础数学考研大失败/脑子里全是水。老二刺猿/是老死宅/搞cosplay（但没钱买cos服）/玩Asia区原神。我是男孩子！！天天玩不干正事。不搞涩涩/不涉政治。想要好多对象（疯狂暗示呜呜），也想要小钱钱买好多好多好吃的。我恨数学。",
+        "id": "1430445611640262660",
+        "location": "Los Angeles, CA, USA ",
+        "name": "୧⍤⃝☂️Micro Plusone",
+        "pinned_tweet_id": "1992249813258445042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1723970233504071680/BPSUSauZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3929,
+          "following_count": 1357,
+          "like_count": 26081,
+          "listed_count": 12,
+          "media_count": 1306,
+          "tweet_count": 5364
+        },
+        "username": "MMinuzero",
+        "verified": false
+      }
+    ]
+  }
+}

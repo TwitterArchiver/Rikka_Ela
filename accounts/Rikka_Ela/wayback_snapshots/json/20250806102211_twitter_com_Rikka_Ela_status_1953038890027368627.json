@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1953028053908508696",
+    "created_at": "2025-08-06T10:22:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T11:22:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953038890027368627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1074712286428680192",
+          "start": 0,
+          "username": "yumenouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953038890027368627",
+    "in_reply_to_user_id": "1074712286428680192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953038718811422794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yumenouo 呜呜就是不知道能不能用（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1953028053908508696",
+        "created_at": "2025-08-06T10:22:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T11:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953038890027368627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1074712286428680192",
+              "start": 0,
+              "username": "yumenouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953038890027368627",
+        "in_reply_to_user_id": "1074712286428680192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953038718811422794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yumenouo 呜呜就是不知道能不能用（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1074712286428680192",
+        "conversation_id": "1953028053908508696",
+        "created_at": "2025-08-06T10:21:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T11:21:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953038718811422794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953038718811422794",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953028053908508696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 感觉康宁那边诊断都给得很随意"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4448,
+          "following_count": 3538,
+          "like_count": 71642,
+          "listed_count": 7,
+          "media_count": 277,
+          "tweet_count": 6680
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-17T17:05:51.000Z",
+        "description": "She & Her/ MS CS/ ADHD/ Pansexuality",
+        "id": "1074712286428680192",
+        "location": "Boston, MA",
+        "name": "神楽坂ゆめの",
+        "pinned_tweet_id": "1704193325501403399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840703059334139904/mOpPbR08_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 595,
+          "like_count": 6202,
+          "listed_count": 0,
+          "media_count": 702,
+          "tweet_count": 1867
+        },
+        "username": "yumenouo",
+        "verified": false
+      }
+    ]
+  }
+}

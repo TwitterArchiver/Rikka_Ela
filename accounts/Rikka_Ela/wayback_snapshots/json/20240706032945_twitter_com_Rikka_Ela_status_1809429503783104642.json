@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1809396163118002412",
+    "created_at": "2024-07-06T03:29:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-06T04:29:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1809429503783104642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1715789907367735297",
+          "start": 0,
+          "username": "Erkoenig_in"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809429503783104642",
+    "in_reply_to_user_id": "1715789907367735297",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1809427964725195163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Erkoenig_in 🤤🤤🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1809396163118002412",
+        "created_at": "2024-07-06T03:29:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-06T04:29:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809429503783104642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1715789907367735297",
+              "start": 0,
+              "username": "Erkoenig_in"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809429503783104642",
+        "in_reply_to_user_id": "1715789907367735297",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809427964725195163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Erkoenig_in 🤤🤤🤤"
+      },
+      {
+        "attachments": {},
+        "author_id": "1715789907367735297",
+        "conversation_id": "1809396163118002412",
+        "created_at": "2024-07-06T03:23:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-06T04:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809427964725195163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809427964725195163",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809396163118002412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 我就差不多 这个发型）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UNNC‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2143,
+          "following_count": 2744,
+          "like_count": 41087,
+          "listed_count": 5,
+          "tweet_count": 2582
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-21T17:59:42.000Z",
+        "description": "れをるすき！\nlang=🇨🇳,🇬🇧,🇩🇪(?),🇯🇵(??),🇭🇰(???).\nhör' gern J.S.Bach (usw.)\nErlkönig:in of J. Butler style, more philosophy, less desire of realness.",
+        "id": "1715789907367735297",
+        "location": "Darmstadt",
+        "name": "魔王 Erlkönig:in 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791838056200454144/o-1cu0w8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 48,
+          "like_count": 846,
+          "listed_count": 0,
+          "tweet_count": 185
+        },
+        "username": "Erkoenig_in",
+        "verified": false
+      }
+    ]
+  }
+}

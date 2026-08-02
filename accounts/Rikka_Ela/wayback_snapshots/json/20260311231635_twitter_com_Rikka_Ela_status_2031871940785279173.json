@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031627791456940032"
+      ],
+      "media_source_tweet_id": [
+        "2031627800957038868"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2031871940785279173",
+    "created_at": "2026-03-11T23:16:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T00:16:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031871940785279173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1804798191940124673",
+          "start": 3,
+          "username": "Rin1732996"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/x4gWRd05ZI",
+          "end": 45,
+          "expanded_url": "https://x.com/Rin1732996/status/2031627800957038868/photo/1",
+          "media_key": "3_2031627791456940032",
+          "start": 22,
+          "url": "https://t.co/x4gWRd05ZI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031871940785279173",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 149
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031627800957038868",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rin1732996: test. https://t.co/x4gWRd05ZI"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "AI Illust",
+        "height": 2464,
+        "media_key": "3_2031627791456940032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDHKtlmaMAAhQQi.jpg",
+        "width": 1856
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031627791456940032"
+          ],
+          "media_source_tweet_id": [
+            "2031627800957038868"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2031871940785279173",
+        "created_at": "2026-03-11T23:16:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T00:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031871940785279173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1804798191940124673",
+              "start": 3,
+              "username": "Rin1732996"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x4gWRd05ZI",
+              "end": 45,
+              "expanded_url": "https://x.com/Rin1732996/status/2031627800957038868/photo/1",
+              "media_key": "3_2031627791456940032",
+              "start": 22,
+              "url": "https://t.co/x4gWRd05ZI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031871940785279173",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 149
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031627800957038868",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rin1732996: test. https://t.co/x4gWRd05ZI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031627791456940032"
+          ]
+        },
+        "author_id": "1804798191940124673",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2031627800957038868",
+        "created_at": "2026-03-11T07:06:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T08:06:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031627800957038868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x4gWRd05ZI",
+              "end": 29,
+              "expanded_url": "https://x.com/Rin1732996/status/2031627800957038868/photo/1",
+              "media_key": "3_2031627791456940032",
+              "start": 6,
+              "url": "https://t.co/x4gWRd05ZI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031627800957038868",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 227,
+          "impression_count": 18200,
+          "like_count": 2328,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 149
+        },
+        "reply_settings": "everyone",
+        "text": "test. https://t.co/x4gWRd05ZI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4966,
+          "following_count": 3736,
+          "like_count": 80378,
+          "listed_count": 9,
+          "media_count": 384,
+          "tweet_count": 8496
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-23T08:47:01.000Z",
+        "description": "趣味でAIイラストを載せてるただの病み散らかしてる人。│H▶八朔さん  @tiksca2299 │弟子▶ふじ○さん  @fujimaru_niji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "tiksca2299"
+              },
+              {
+                "end": 73,
+                "start": 59,
+                "username": "fujimaru_niji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/RinAiIllust",
+                "end": 23,
+                "expanded_url": "https://lit.link/RinAiIllust",
+                "start": 0,
+                "url": "https://t.co/RkWva4KWVT"
+              }
+            ]
+          }
+        },
+        "id": "1804798191940124673",
+        "location": "-143",
+        "name": "Rin_981",
+        "pinned_tweet_id": "2027324517325197749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027176610399657984/Ha8W8WFL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61728,
+          "following_count": 297,
+          "like_count": 116229,
+          "listed_count": 218,
+          "media_count": 3618,
+          "tweet_count": 37617
+        },
+        "url": "https://t.co/RkWva4KWVT",
+        "username": "Rin1732996",
+        "verified": true
+      }
+    ]
+  }
+}

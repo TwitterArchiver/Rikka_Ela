@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2024607935507149057",
+    "created_at": "2026-02-19T22:12:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T23:12:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024607935507149057"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/satsuki__sekai…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/satsuki__sekai/status/2024570763706261935",
+          "start": 33,
+          "url": "https://t.co/365p0uJsY0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024607935507149057",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024570763706261935",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有没有谁突然闯入我的生活爱上我帮我解决糟糕的生活然后陪我一辈子🥺 https://t.co/365p0uJsY0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2024607935507149057",
+        "created_at": "2026-02-19T22:12:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T23:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024607935507149057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/satsuki__sekai…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/satsuki__sekai/status/2024570763706261935",
+              "start": 33,
+              "url": "https://t.co/365p0uJsY0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024607935507149057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024570763706261935",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有没有谁突然闯入我的生活爱上我帮我解决糟糕的生活然后陪我一辈子🥺 https://t.co/365p0uJsY0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641643457214300161",
+        "conversation_id": "2024570763706261935",
+        "created_at": "2026-02-19T19:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T20:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024570763706261935"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024570763706261935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 261,
+          "like_count": 5,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有谁突然闯入我的生活爱上我帮我解决糟糕的生活然后陪我一辈子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4893,
+          "following_count": 3719,
+          "like_count": 79407,
+          "listed_count": 9,
+          "media_count": 374,
+          "tweet_count": 8270
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-31T03:28:03.000Z",
+        "description": "サツキ セカイ｜请不要找我要互关 ｜🇨🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/satsuki69587",
+                "end": 23,
+                "expanded_url": "https://ngl.link/satsuki69587",
+                "start": 0,
+                "url": "https://t.co/VjHEIaPMnu"
+              }
+            ]
+          }
+        },
+        "id": "1641643457214300161",
+        "location": "BC",
+        "name": "月月神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994469162312503298/QblNTU78_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 963,
+          "following_count": 1063,
+          "like_count": 64679,
+          "listed_count": 4,
+          "media_count": 2100,
+          "tweet_count": 24650
+        },
+        "url": "https://t.co/VjHEIaPMnu",
+        "username": "satsuki__sekai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1979632795510300989",
+    "created_at": "2025-10-18T20:04:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T21:04:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979639803768721548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1235586332321296385",
+          "start": 0,
+          "username": "Kvasaari_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979639803768721548",
+    "in_reply_to_user_id": "1235586332321296385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979635584068108446",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kvasaari_ 三个人🥰）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1979632795510300989",
+        "created_at": "2025-10-18T20:04:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T21:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979639803768721548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1235586332321296385",
+              "start": 0,
+              "username": "Kvasaari_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979639803768721548",
+        "in_reply_to_user_id": "1235586332321296385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979635584068108446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kvasaari_ 三个人🥰）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1235586332321296385",
+        "conversation_id": "1979632795510300989",
+        "created_at": "2025-10-18T19:47:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T20:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979635584068108446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979635584068108446",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979632795510300989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 这么多人吃！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4682,
+          "following_count": 3588,
+          "like_count": 74299,
+          "listed_count": 9,
+          "media_count": 310,
+          "tweet_count": 7176
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-05T15:22:09.000Z",
+        "description": "🏳‍⚧ enby | Quantum Many-Body Physics / No more math student!  | Social and Cultural History / Historical Anthropology | Wertfreiheit | 好像变成碎碎念吐槽号了x",
+        "id": "1235586332321296385",
+        "location": "München, Bayern ",
+        "name": "鶸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971238747665514496/DJPt-iu-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 617,
+          "like_count": 35112,
+          "listed_count": 3,
+          "media_count": 352,
+          "tweet_count": 1709
+        },
+        "username": "Kvasaari_",
+        "verified": false
+      }
+    ]
+  }
+}

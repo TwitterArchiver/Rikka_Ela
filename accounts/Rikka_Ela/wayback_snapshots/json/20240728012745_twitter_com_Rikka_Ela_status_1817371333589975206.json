@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1817227918361395429",
+    "created_at": "2024-07-28T01:27:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-28T02:27:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1817371333589975206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1757616332240224256",
+          "start": 0,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817371333589975206",
+    "in_reply_to_user_id": "1757616332240224256",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817227918361395429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@B_cat38324 别骂了😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1817227918361395429",
+        "created_at": "2024-07-28T01:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-28T02:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817371333589975206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757616332240224256",
+              "start": 0,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817371333589975206",
+        "in_reply_to_user_id": "1757616332240224256",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817227918361395429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B_cat38324 别骂了😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "1817227918361395429",
+        "created_at": "2024-07-27T15:57:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T16:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1817227918361395429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Hanxue0509/sta…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/Hanxue0509/status/1817227765751619866",
+              "start": 27,
+              "url": "https://t.co/be4s5PpAtx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817227918361395429",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1575,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817227765751619866",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "挺好的，你爸妈给跨圈培养了一个又听话有自卑的小跨妹p https://t.co/be4s5PpAtx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2261,
+          "following_count": 2818,
+          "like_count": 43601,
+          "listed_count": 6,
+          "tweet_count": 2796
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "B猫是黑丝无印良品香氛",
+        "pinned_tweet_id": "1788987285796712719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9118,
+          "following_count": 138,
+          "like_count": 130,
+          "listed_count": 33,
+          "tweet_count": 5703
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

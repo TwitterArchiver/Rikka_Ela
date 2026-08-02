@@ -1,0 +1,164 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1793165665039507926",
+    "created_at": "2024-05-22T09:04:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-22T10:04:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793206243424961012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1650034156678836224",
+          "start": 0,
+          "username": "miyuki_oigen822"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793206243424961012",
+    "in_reply_to_user_id": "1650034156678836224",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793165665039507926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miyuki_oigen822 🥵🥵请从我开始吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1793165665039507926",
+        "created_at": "2024-05-22T09:04:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-22T10:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793206243424961012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1650034156678836224",
+              "start": 0,
+              "username": "miyuki_oigen822"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793206243424961012",
+        "in_reply_to_user_id": "1650034156678836224",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793165665039507926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miyuki_oigen822 🥵🥵请从我开始吧"
+      },
+      {
+        "attachments": {},
+        "author_id": "1650034156678836224",
+        "conversation_id": "1793165665039507926",
+        "created_at": "2024-05-22T06:23:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-22T07:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793165665039507926"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1793165665039507926",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1070,
+          "like_count": 36,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得学文的和学理工的都是弱智，应该用颜料的抹刀割开他们的喉咙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UNNC‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2010,
+          "following_count": 2613,
+          "like_count": 35624,
+          "listed_count": 5,
+          "tweet_count": 2171
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-23T07:09:46.000Z",
+        "description": "我们认为无论任何社会，只要废止了私有财产后，便不得不依着共产的无政府的方向进行。由无政府主义生出共产制；由共产制达到无政府主义",
+        "id": "1650034156678836224",
+        "location": "特拉维夫机场",
+        "name": "星野みゆき🇵🇸-恐怖分子",
+        "pinned_tweet_id": "1793105141199192272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793149115679072256/A-4rDFkv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1347,
+          "following_count": 1297,
+          "like_count": 93634,
+          "listed_count": 10,
+          "tweet_count": 16913
+        },
+        "username": "miyuki_oigen822",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1771873056782233600"
+      ],
+      "media_source_tweet_id": [
+        "1934879938517323977"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "conversation_id": "1935270032491298824",
+    "created_at": "2025-06-18T09:35:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T10:35:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935270032491298824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2784719126",
+          "start": 3,
+          "username": "cutestscats"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/L6f8SH54vW",
+          "end": 45,
+          "expanded_url": "https://x.com/cutestscats/status/1934879938517323977/video/1",
+          "media_key": "13_1771873056782233600",
+          "start": 22,
+          "url": "https://t.co/L6f8SH54vW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935270032491298824",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 660
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934879938517323977",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cutestscats: hi 💕 https://t.co/L6f8SH54vW"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6766,
+        "height": 1138,
+        "media_key": "13_1771873056782233600",
+        "preview_image_url": "https://pbs.twimg.com/media/GM5oOmlWQAEyCyw.jpg",
+        "public_metrics": {
+          "view_count": 67579
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1771873056782233600/vid/avc1/320x568/RLzisBiCrWnqq3Tc.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1771873056782233600/vid/avc1/480x852/pf38xUaMLhnHmWDm.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1771873056782233600/vid/avc1/640x1138/hWwYn1cj8j9WCjFM.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1771873056782233600/pl/4G2V9AtiE-v2zmqS.m3u8?tag=14"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1771873056782233600"
+          ],
+          "media_source_tweet_id": [
+            "1934879938517323977"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "1935270032491298824",
+        "created_at": "2025-06-18T09:35:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T10:35:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935270032491298824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2784719126",
+              "start": 3,
+              "username": "cutestscats"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L6f8SH54vW",
+              "end": 45,
+              "expanded_url": "https://x.com/cutestscats/status/1934879938517323977/video/1",
+              "media_key": "13_1771873056782233600",
+              "start": 22,
+              "url": "https://t.co/L6f8SH54vW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935270032491298824",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 660
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934879938517323977",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cutestscats: hi 💕 https://t.co/L6f8SH54vW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1771873056782233600"
+          ]
+        },
+        "author_id": "2784719126",
+        "conversation_id": "1934879938517323977",
+        "created_at": "2025-06-17T07:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T08:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934879938517323977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L6f8SH54vW",
+              "end": 28,
+              "expanded_url": "https://x.com/cutestscats/status/1934879938517323977/video/1",
+              "media_key": "13_1771873056782233600",
+              "start": 5,
+              "url": "https://t.co/L6f8SH54vW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934879938517323977",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 379,
+          "impression_count": 92103,
+          "like_count": 6234,
+          "quote_count": 10,
+          "reply_count": 8,
+          "retweet_count": 660
+        },
+        "reply_settings": "everyone",
+        "text": "hi 💕 https://t.co/L6f8SH54vW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4341,
+          "following_count": 3507,
+          "like_count": 69256,
+          "listed_count": 7,
+          "media_count": 236,
+          "tweet_count": 6236
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-01T21:24:44.000Z",
+        "description": "😺🐈  | dm for credit or removal.\n\nIf you enjoy our content, consider subscribing for just $2! 💕😻",
+        "id": "2784719126",
+        "name": "cutest cats",
+        "pinned_tweet_id": "1934634571859148844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1703068667808780288/F-ujycv2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130666,
+          "following_count": 46621,
+          "like_count": 22184,
+          "listed_count": 396,
+          "media_count": 32658,
+          "tweet_count": 50882
+        },
+        "username": "cutestscats",
+        "verified": true
+      }
+    ]
+  }
+}

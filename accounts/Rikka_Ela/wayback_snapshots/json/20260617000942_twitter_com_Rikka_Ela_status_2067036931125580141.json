@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2067036931125580141",
+    "created_at": "2026-06-17T00:09:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T01:09:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067036931125580141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1499442786453663745",
+          "start": 3,
+          "username": "Ted_yeet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067036931125580141",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066921087489991111",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ted_yeet: 一点也不公平我才是受害者\n我自己也不想得这个病没有别的办法治了我才手术我为什么还要被指责这些创伤明明都是你们带来的我到底有什么错"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2067036931125580141",
+        "created_at": "2026-06-17T00:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T01:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067036931125580141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1499442786453663745",
+              "start": 3,
+              "username": "Ted_yeet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067036931125580141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066921087489991111",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ted_yeet: 一点也不公平我才是受害者\n我自己也不想得这个病没有别的办法治了我才手术我为什么还要被指责这些创伤明明都是你们带来的我到底有什么错"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499442786453663745",
+        "conversation_id": "2066921087489991111",
+        "created_at": "2026-06-16T16:29:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T17:29:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066921087489991111"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066921087489991111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1575,
+          "like_count": 30,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "一点也不公平我才是受害者\n我自己也不想得这个病没有别的办法治了我才手术我为什么还要被指责这些创伤明明都是你们带来的我到底有什么错"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5639,
+          "following_count": 3779,
+          "like_count": 86196,
+          "listed_count": 7,
+          "media_count": 442,
+          "tweet_count": 9753
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-03T17:53:30.000Z",
+        "description": "神秘旅商/🏳️‍🌈🏳️‍⚧️/姛/brat/整点𝕄𝕒𝕥𝕙/养毛绒玩具/偶尔拍点📸/超业余贝斯手/说LaTeX的人形编译器/给你们看我的小猫@bubblepipe42",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 69,
+                "username": "bubblepipe42"
+              }
+            ]
+          }
+        },
+        "id": "1499442786453663745",
+        "location": "Cantonia",
+        "name": "Ted",
+        "pinned_tweet_id": "2055181133973954997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057063305681002496/0duENI7-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6038,
+          "following_count": 1744,
+          "like_count": 53102,
+          "listed_count": 20,
+          "media_count": 524,
+          "tweet_count": 12438
+        },
+        "username": "Ted_yeet",
+        "verified": true
+      }
+    ]
+  }
+}

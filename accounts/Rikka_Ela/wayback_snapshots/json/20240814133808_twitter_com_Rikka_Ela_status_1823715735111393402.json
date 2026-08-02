@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1823709426404245534",
+    "created_at": "2024-08-14T13:38:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-14T14:38:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823715735111393402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1510522802486448130",
+          "start": 0,
+          "username": "boeritsa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823715735111393402",
+    "in_reply_to_user_id": "1510522802486448130",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823712143948308742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boeritsa 没有哦，只要及格就行了（40分）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1823709426404245534",
+        "created_at": "2024-08-14T13:38:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T14:38:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823715735111393402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1510522802486448130",
+              "start": 0,
+              "username": "boeritsa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823715735111393402",
+        "in_reply_to_user_id": "1510522802486448130",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823712143948308742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boeritsa 没有哦，只要及格就行了（40分）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510522802486448130",
+        "conversation_id": "1823709426404245534",
+        "created_at": "2024-08-14T13:23:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T14:23:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823712143948308742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823712143948308742",
+        "in_reply_to_user_id": "1510522802486448130",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823711515293483448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 比如说达到某个特定的要求才允许你升读英国本部"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2369,
+          "following_count": 2882,
+          "like_count": 46251,
+          "listed_count": 6,
+          "tweet_count": 3060
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-03T07:43:31.000Z",
+        "description": "中文/粤语/English | BDEGEE@CityU Year1 | 在港城读书的废物少女 | 长毛象：@aliyajadzia@stelpolva.moe",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aliyajadzia.github.io/Personal-Bio/",
+                "end": 23,
+                "expanded_url": "https://aliyajadzia.github.io/Personal-Bio/",
+                "start": 0,
+                "url": "https://t.co/WOcHPd8JVI"
+              }
+            ]
+          }
+        },
+        "id": "1510522802486448130",
+        "location": "Earth, Sol, Sector 001, UFP",
+        "name": "林雅仪Aliya Lin🇭🇰🇺🇦",
+        "pinned_tweet_id": "1818935842880069678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815380692408393728/zRTVmFdX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 131,
+          "like_count": 1494,
+          "listed_count": 0,
+          "tweet_count": 501
+        },
+        "url": "https://t.co/WOcHPd8JVI",
+        "username": "boeritsa",
+        "verified": false
+      }
+    ]
+  }
+}

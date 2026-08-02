@@ -1,0 +1,163 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1793185340313743558",
+    "created_at": "2024-05-22T13:11:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-22T14:11:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793268572875313661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1660708799374843905",
+          "start": 0,
+          "username": "ggininder64"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793268572875313661",
+    "in_reply_to_user_id": "1660708799374843905",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793185340313743558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ggininder64 国内左派感觉只是在某些方面左（？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1793185340313743558",
+        "created_at": "2024-05-22T13:11:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-22T14:11:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793268572875313661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1660708799374843905",
+              "start": 0,
+              "username": "ggininder64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793268572875313661",
+        "in_reply_to_user_id": "1660708799374843905",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793185340313743558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ggininder64 国内左派感觉只是在某些方面左（？"
+      },
+      {
+        "attachments": {},
+        "author_id": "1660708799374843905",
+        "conversation_id": "1793185340313743558",
+        "created_at": "2024-05-22T07:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-22T08:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793185340313743558"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1793185340313743558",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 447,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中國鍵政圈真的挺奇怪的\n看到跨性別一直罵左派\n左派也不太喜歡跨性別\n\n國外的左派可是LGBT大宗\n\n真的大神奇了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UNNC‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2011,
+          "following_count": 2611,
+          "like_count": 35680,
+          "listed_count": 5,
+          "tweet_count": 2176
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-22T18:06:53.000Z",
+        "description": "我是行走的50萬",
+        "id": "1660708799374843905",
+        "name": "史密斯🇹🇼🇺🇦🏳️‍🌈🏳️‍⚧️",
+        "pinned_tweet_id": "1761700061531226282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780632197353050112/itj1Tvjt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1640,
+          "following_count": 3656,
+          "like_count": 31237,
+          "listed_count": 14,
+          "tweet_count": 14654
+        },
+        "username": "ggininder64",
+        "verified": false
+      }
+    ]
+  }
+}

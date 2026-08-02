@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1824769162260185438",
+    "created_at": "2024-08-17T14:40:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-17T15:40:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824818576538378260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1686666113952915456",
+          "start": 0,
+          "username": "yigexiaoshiti"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824818576538378260",
+    "in_reply_to_user_id": "1686666113952915456",
+    "lang": "qam",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824769162260185438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yigexiaoshiti ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1824769162260185438",
+        "created_at": "2024-08-17T14:40:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-17T15:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824818576538378260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1686666113952915456",
+              "start": 0,
+              "username": "yigexiaoshiti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824818576538378260",
+        "in_reply_to_user_id": "1686666113952915456",
+        "lang": "qam",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824769162260185438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yigexiaoshiti ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686666113952915456",
+        "conversation_id": "1824769162260185438",
+        "created_at": "2024-08-17T11:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-17T12:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824769162260185438"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1824769162260185438",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 255,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去陆峥那想一次开证必须要提前灌肠嘛，我要不要戴套，陆大爷喜欢有套还是无套的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2390,
+          "following_count": 2892,
+          "like_count": 46783,
+          "listed_count": 6,
+          "tweet_count": 3093
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-02T09:12:15.000Z",
+        "description": "08年出生/184cm60kg/满洲国民/长发中/无证含糖2023年9月HRT/未出柜未炸柜/抖m/双向情感障碍/精神障碍/重度失眠/非常自卑内向缺爱/喜欢和同类贴贴/目前生理性別男/我就是和尚打着伞，无法无天！/门槛88",
+        "id": "1686666113952915456",
+        "location": "满洲国 间岛省",
+        "name": "李云鹤HG（母狗）🍥",
+        "pinned_tweet_id": "1824340867962077501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820119993096323072/sIfv8Ard_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 403,
+          "like_count": 2007,
+          "listed_count": 1,
+          "tweet_count": 151
+        },
+        "username": "yigexiaoshiti",
+        "verified": false
+      }
+    ]
+  }
+}

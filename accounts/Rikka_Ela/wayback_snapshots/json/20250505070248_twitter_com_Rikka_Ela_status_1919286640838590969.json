@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1919260163682316316",
+    "created_at": "2025-05-05T07:02:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T08:02:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919286640838590969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1743608022348488704",
+          "start": 0,
+          "username": "FLSaiKou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919286640838590969",
+    "in_reply_to_user_id": "1743608022348488704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919260163682316316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FLSaiKou 我是浙江第一届招生的时候去考的（没考上（x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1919260163682316316",
+        "created_at": "2025-05-05T07:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T08:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919286640838590969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1743608022348488704",
+              "start": 0,
+              "username": "FLSaiKou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919286640838590969",
+        "in_reply_to_user_id": "1743608022348488704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919260163682316316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FLSaiKou 我是浙江第一届招生的时候去考的（没考上（x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1743608022348488704",
+        "conversation_id": "1919260163682316316",
+        "created_at": "2025-05-05T05:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T06:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919260163682316316"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1919260163682316316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 266,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "决定整活综评报西湖大学了。好像是广东省第一年招生？\n然后如果和当初整活考AST一样就搞笑了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4179,
+          "following_count": 3383,
+          "like_count": 65902,
+          "listed_count": 8,
+          "media_count": 208,
+          "tweet_count": 5775
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-06T12:21:37.000Z",
+        "description": "07/深圳退休役做题家/润途预备/废人/EE or ECE",
+        "id": "1743608022348488704",
+        "name": "御药袋 清奈",
+        "pinned_tweet_id": "1859619076337008716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871563915265794048/n5V5Xrwb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 156,
+          "like_count": 9213,
+          "listed_count": 4,
+          "media_count": 80,
+          "tweet_count": 2130
+        },
+        "username": "FLSaiKou",
+        "verified": false
+      }
+    ]
+  }
+}

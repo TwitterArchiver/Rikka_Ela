@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1886484676245962851",
+    "created_at": "2025-02-04T04:59:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T05:59:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886640647349719510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1074712286428680192",
+          "start": 0,
+          "username": "yumenouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886640647349719510",
+    "in_reply_to_user_id": "1074712286428680192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886484676245962851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yumenouo 有些结局好难打😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1886484676245962851",
+        "created_at": "2025-02-04T04:59:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T05:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886640647349719510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1074712286428680192",
+              "start": 0,
+              "username": "yumenouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886640647349719510",
+        "in_reply_to_user_id": "1074712286428680192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886484676245962851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yumenouo 有些结局好难打😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1074712286428680192",
+        "conversation_id": "1886484676245962851",
+        "created_at": "2025-02-03T18:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T19:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886484676245962851"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1886484676245962851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "萨卡兹给了我一种我会打肉鸽的错觉\n萨米直接给我打晕了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3654,
+          "following_count": 3222,
+          "like_count": 58818,
+          "listed_count": 6,
+          "media_count": 165,
+          "tweet_count": 4721
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-17T17:05:51.000Z",
+        "description": "She & Her/ 期限切れJK/ MS CS在读/ 明日方舟/ 舞萌吃/ ボカロ/ ADHD/ Pansexuality",
+        "id": "1074712286428680192",
+        "location": "Boston, MA",
+        "name": "神楽坂ゆめの",
+        "pinned_tweet_id": "1704193325501403399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840703059334139904/mOpPbR08_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 311,
+          "like_count": 5297,
+          "listed_count": 0,
+          "media_count": 489,
+          "tweet_count": 1249
+        },
+        "username": "yumenouo",
+        "verified": false
+      }
+    ]
+  }
+}

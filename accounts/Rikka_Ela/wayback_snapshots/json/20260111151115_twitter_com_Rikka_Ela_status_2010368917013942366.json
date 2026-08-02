@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2010368917013942366",
+    "created_at": "2026-01-11T15:11:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T16:11:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010368917013942366"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fairylilith199…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/fairylilith1991/status/2010338061914427700",
+          "start": 2,
+          "url": "https://t.co/6CHB6g2bDW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010368917013942366",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010338061914427700",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？ https://t.co/6CHB6g2bDW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2010368917013942366",
+        "created_at": "2026-01-11T15:11:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T16:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010368917013942366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fairylilith199…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/fairylilith1991/status/2010338061914427700",
+              "start": 2,
+              "url": "https://t.co/6CHB6g2bDW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010368917013942366",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010338061914427700",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/6CHB6g2bDW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003829256238092288",
+        "conversation_id": "2010338061914427700",
+        "created_at": "2026-01-11T13:08:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T14:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010338061914427700"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010338061914427700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 201,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跨女：“我爱你”\n\n男人：“哎，你得先爱自己啊”\n\n跨女：？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4855,
+          "following_count": 3692,
+          "like_count": 78571,
+          "listed_count": 8,
+          "media_count": 359,
+          "tweet_count": 8008
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-24T14:05:17.000Z",
+        "description": "正在成为人类，除了药娘笑话和键政笑话什么都不会。含糖中",
+        "id": "2003829256238092288",
+        "name": "Fairy Lilith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003829741741367297/8ZzkQA1C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 24,
+          "like_count": 191,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 76
+        },
+        "username": "FairyLilith1991",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1816758291164463314",
+    "created_at": "2024-07-26T09:05:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-26T10:05:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816761864430182877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1467175651954200577",
+          "start": 0,
+          "username": "kjkluk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816761864430182877",
+    "in_reply_to_user_id": "1467175651954200577",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816758291164463314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kjkluk 那建议全中国都饿饿，四天不够，得饿四十天，饿完了中国就只有正常人了🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1816758291164463314",
+        "created_at": "2024-07-26T09:05:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T10:05:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816761864430182877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1467175651954200577",
+              "start": 0,
+              "username": "kjkluk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816761864430182877",
+        "in_reply_to_user_id": "1467175651954200577",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816758291164463314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kjkluk 那建议全中国都饿饿，四天不够，得饿四十天，饿完了中国就只有正常人了🤓"
+      },
+      {
+        "attachments": {},
+        "author_id": "1467175651954200577",
+        "conversation_id": "1816758291164463314",
+        "created_at": "2024-07-26T08:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T09:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816758291164463314"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1816758291164463314",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如何看待\n“lgbt饿4天就正常了”\n这一观点？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2255,
+          "following_count": 2815,
+          "like_count": 43371,
+          "listed_count": 6,
+          "tweet_count": 2769
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-04T16:55:23.000Z",
+        "description": "我方了。",
+        "id": "1467175651954200577",
+        "location": "Japan",
+        "name": "川井橘音",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808421663094296576/LyX7poIl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1118,
+          "following_count": 1330,
+          "like_count": 97851,
+          "listed_count": 6,
+          "tweet_count": 4347
+        },
+        "username": "kjkluk",
+        "verified": false
+      }
+    ]
+  }
+}

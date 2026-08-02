@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2082439433601900546",
+    "created_at": "2026-07-30T09:48:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T10:48:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082765332209684804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "761375055724974081",
+          "start": 0,
+          "username": "Azuelle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082765332209684804",
+    "in_reply_to_user_id": "761375055724974081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082762037483216906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Azuelle 猫儿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2082439433601900546",
+        "created_at": "2026-07-30T09:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T10:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082765332209684804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "761375055724974081",
+              "start": 0,
+              "username": "Azuelle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082765332209684804",
+        "in_reply_to_user_id": "761375055724974081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082762037483216906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Azuelle 猫儿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "761375055724974081",
+        "conversation_id": "2082439433601900546",
+        "created_at": "2026-07-30T09:35:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T10:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082762037483216906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082762037483216906",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082439433601900546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 闹儿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6547,
+          "following_count": 3764,
+          "like_count": 86170,
+          "listed_count": 10,
+          "media_count": 452,
+          "tweet_count": 10066
+        },
+        "url": "",
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-05T01:35:33.000Z",
+        "description": "She/Her / 一只重点色布偶猫 / AKA Sierra / #FF14 #maimai / 随缘回fo / HKU CompSc · Ling / Ex-OI&BOer / 🏳️‍🌈🏳️‍⚧️ Transles / 🍥 Sept 21, 2021",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 34,
+                "tag": "FF14"
+              },
+              {
+                "end": 47,
+                "start": 40,
+                "tag": "maimai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "azuelle.github.io",
+                "end": 23,
+                "expanded_url": "https://azuelle.github.io/",
+                "start": 0,
+                "url": "https://t.co/SIWcfK6B13"
+              }
+            ]
+          }
+        },
+        "id": "761375055724974081",
+        "location": "Aetherial Sea",
+        "name": "Azuelle × 夢野雫",
+        "pinned_tweet_id": "1837750991841907110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1497607849760813056/TCtKM9ES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2506,
+          "following_count": 1229,
+          "like_count": 79506,
+          "listed_count": 8,
+          "media_count": 1152,
+          "tweet_count": 13331
+        },
+        "url": "https://t.co/SIWcfK6B13",
+        "username": "Azuelle",
+        "verified": false
+      }
+    ]
+  }
+}

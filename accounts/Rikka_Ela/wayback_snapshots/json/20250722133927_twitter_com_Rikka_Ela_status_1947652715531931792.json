@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1947651762397085698"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "conversation_id": "1947652715531931792",
+    "created_at": "2025-07-22T13:39:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T14:39:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1947652715531931792"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AxDYhpywh3",
+          "end": 82,
+          "expanded_url": "https://x.com/Rikka_Ela/status/1947652715531931792/video/1",
+          "media_key": "13_1947651762397085698",
+          "start": 59,
+          "url": "https://t.co/AxDYhpywh3"
+        },
+        {
+          "display_url": "x.com/rikka_ela/stat…",
+          "end": 106,
+          "expanded_url": "https://twitter.com/rikka_ela/status/1947506231830347971",
+          "start": 83,
+          "url": "https://t.co/OXwxm95WSM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947652715531931792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 171,
+      "like_count": 3,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947506231830347971",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这二阶段给我打的哭笑不得，想生气没脾气，想笑笑不出来（Boss和npc演出不错）。韩国人，这么折磨我你们满意了吧😡😭 https://t.co/AxDYhpywh3 https://t.co/OXwxm95WSM"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1947652715531931792].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1947652715531931792",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1947652715531931792"
+    },
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1947506231830347971].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1947506231830347971",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1947506231830347971"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 212300,
+        "height": 720,
+        "media_key": "13_1947651762397085698",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1947651762397085698/img/TGhAKs90mIQGrmNv.jpg",
+        "public_metrics": {
+          "view_count": 28
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1947651762397085698/vid/avc1/480x270/wI15GyXBHsXcK1gf.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1947651762397085698/vid/avc1/640x360/hIsvfI90vUOxJOrU.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1947651762397085698/vid/avc1/1280x720/1XpCp506l15wqlN2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1947651762397085698/pl/gWVRQeGC-0_Yleqp.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4443,
+          "following_count": 3537,
+          "like_count": 71090,
+          "listed_count": 7,
+          "media_count": 267,
+          "tweet_count": 6532
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      }
+    ]
+  }
+}

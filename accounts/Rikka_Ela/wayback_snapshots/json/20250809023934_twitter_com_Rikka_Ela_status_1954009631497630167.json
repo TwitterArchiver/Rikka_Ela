@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1953028053908508696",
+    "created_at": "2025-08-09T02:39:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T03:39:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954009631497630167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1516697645225754625",
+          "start": 0,
+          "username": "polestarkite233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954009631497630167",
+    "in_reply_to_user_id": "1516697645225754625",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954009451478102485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@polestarkite233 徐永明医生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1953028053908508696",
+        "created_at": "2025-08-09T02:39:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T03:39:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954009631497630167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1516697645225754625",
+              "start": 0,
+              "username": "polestarkite233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954009631497630167",
+        "in_reply_to_user_id": "1516697645225754625",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954009451478102485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@polestarkite233 徐永明医生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516697645225754625",
+        "conversation_id": "1953028053908508696",
+        "created_at": "2025-08-09T02:38:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T03:38:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954009451478102485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954009451478102485",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953028053908508696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 這是哪個醫生開的呀，我也要去🥲😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4454,
+          "following_count": 3537,
+          "like_count": 71742,
+          "listed_count": 7,
+          "media_count": 281,
+          "tweet_count": 6699
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-20T08:38:01.000Z",
+        "description": "其实我是IGBT功率半导体🏳️‍🌈🏳️‍⚧️    只想做个普普通通的快乐小女孩：）",
+        "id": "1516697645225754625",
+        "location": "Nara-shi, Nara",
+        "name": "吾乃纸鸢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818657481905799168/laybvQiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1869,
+          "following_count": 2913,
+          "like_count": 67158,
+          "listed_count": 6,
+          "media_count": 370,
+          "tweet_count": 2662
+        },
+        "username": "polestarkite233",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1875067075930300557",
+    "created_at": "2025-01-03T10:03:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-03T11:03:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875120774639702116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1324608305117843456",
+          "start": 0,
+          "username": "val_eigen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875120774639702116",
+    "in_reply_to_user_id": "1324608305117843456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875085249241399445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@val_eigen 你在哪里（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1875067075930300557",
+        "created_at": "2025-01-03T10:03:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T11:03:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875120774639702116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1324608305117843456",
+              "start": 0,
+              "username": "val_eigen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875120774639702116",
+        "in_reply_to_user_id": "1324608305117843456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875085249241399445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@val_eigen 你在哪里（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1324608305117843456",
+        "conversation_id": "1875067075930300557",
+        "created_at": "2025-01-03T07:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T08:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875085249241399445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875085249241399445",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875067075930300557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 可以见见你吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3344,
+          "following_count": 3167,
+          "like_count": 56656,
+          "listed_count": 7,
+          "media_count": 159,
+          "tweet_count": 4475
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-06T07:03:35.000Z",
+        "description": "Interested in CS,EE,TCS(perhaps),neurosci/Mol.Biol/Cell Biol./Phys.Chem.Chem.Phys.(QM & stat.)/\n🚫粉红🚫tankie🚫liberals\n🚫imperialism🚫conservatism🚫nationalism",
+        "id": "1324608305117843456",
+        "name": "eigenvalue",
+        "pinned_tweet_id": "1459840962528645121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1357540060321648642/one9cxwn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 424,
+          "like_count": 39241,
+          "listed_count": 4,
+          "media_count": 285,
+          "tweet_count": 5271
+        },
+        "username": "val_eigen",
+        "verified": false
+      }
+    ]
+  }
+}

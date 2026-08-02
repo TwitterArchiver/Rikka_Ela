@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1975265058390528266",
+    "created_at": "2025-10-06T18:54:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T19:54:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975273439935275285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1370966967444643842",
+          "start": 0,
+          "username": "CCCola13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975273439935275285",
+    "in_reply_to_user_id": "1370966967444643842",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975265058390528266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CCCola13 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1975265058390528266",
+        "created_at": "2025-10-06T18:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T19:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975273439935275285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1370966967444643842",
+              "start": 0,
+              "username": "CCCola13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975273439935275285",
+        "in_reply_to_user_id": "1370966967444643842",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975265058390528266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCCola13 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1370966967444643842",
+        "conversation_id": "1975265058390528266",
+        "created_at": "2025-10-06T18:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T19:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975265058390528266"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975265058390528266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "。。。别这样睡不着想手沖然后刷到有人教怎么分别原生逼还是变性手术做出来的逼。。。然后放了三四十张逼照，吓得我恐b了。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4662,
+          "following_count": 3571,
+          "like_count": 73477,
+          "listed_count": 9,
+          "media_count": 306,
+          "tweet_count": 7056
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-14T05:16:21.000Z",
+        "description": "親手埋葬\n每一刻一顆",
+        "id": "1370966967444643842",
+        "name": "CCCola",
+        "pinned_tweet_id": "1872180739468570991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739696905209384960/fIErFCgJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1725,
+          "following_count": 395,
+          "like_count": 20815,
+          "listed_count": 0,
+          "media_count": 399,
+          "tweet_count": 7124
+        },
+        "username": "CCCola13",
+        "verified": false
+      }
+    ]
+  }
+}

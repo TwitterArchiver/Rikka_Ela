@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1821796885700735117",
+    "created_at": "2024-08-09T08:34:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-09T09:34:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1821827287018566115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1595663749574463489",
+          "start": 0,
+          "username": "yifusuyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821827287018566115",
+    "in_reply_to_user_id": "1595663749574463489",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821796885700735117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yifusuyi 加油"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1821796885700735117",
+        "created_at": "2024-08-09T08:34:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-09T09:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821827287018566115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1595663749574463489",
+              "start": 0,
+              "username": "yifusuyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821827287018566115",
+        "in_reply_to_user_id": "1595663749574463489",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821796885700735117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yifusuyi 加油"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595663749574463489",
+        "conversation_id": "1821796885700735117",
+        "created_at": "2024-08-09T06:33:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-09T07:33:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821796885700735117"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1821796885700735117",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1085,
+          "like_count": 35,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要被推走了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2346,
+          "following_count": 2873,
+          "like_count": 45502,
+          "listed_count": 6,
+          "tweet_count": 2984
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-24T06:21:06.000Z",
+        "description": "喵 | mtf | SDU CS 本科在读 | 算法竞赛选手 | 舞萌玩家 | hrt 2023.07.24 | 常驻济南青岛 |\n和姐姐永远在一起 @BeiyanNa3AlF6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 75,
+                "username": "BeiyanNa3AlF6"
+              }
+            ]
+          }
+        },
+        "id": "1595663749574463489",
+        "location": "青岛市",
+        "name": "Fusu🍥",
+        "pinned_tweet_id": "1807026708186554816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682422608221061120/HL6JxP0F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1885,
+          "following_count": 263,
+          "like_count": 3672,
+          "listed_count": 6,
+          "tweet_count": 956
+        },
+        "username": "yifusuyi",
+        "verified": false
+      }
+    ]
+  }
+}

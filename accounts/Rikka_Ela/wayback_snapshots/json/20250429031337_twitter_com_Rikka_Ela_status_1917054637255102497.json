@@ -1,0 +1,524 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1917008387838992384",
+        "3_1917008386714935297"
+      ],
+      "media_source_tweet_id": [
+        "1917008394726056423",
+        "1917008394726056423"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Concept Art",
+          "id": "1046581724098912256",
+          "name": "Concept art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Concept Art",
+          "id": "1046581724098912256",
+          "name": "Concept art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1917054637255102497",
+    "created_at": "2025-04-29T03:13:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T04:13:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917054637255102497"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 47,
+          "normalized_text": "lothric castle",
+          "probability": 0.7118,
+          "start": 34,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1846796196171415552",
+          "start": 3,
+          "username": "firekeepertwo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rFstswO2Be",
+          "end": 72,
+          "expanded_url": "https://x.com/firekeepertwo/status/1917008394726056423/photo/1",
+          "media_key": "3_1917008387838992384",
+          "start": 49,
+          "url": "https://t.co/rFstswO2Be"
+        },
+        {
+          "display_url": "pic.x.com/rFstswO2Be",
+          "end": 72,
+          "expanded_url": "https://x.com/firekeepertwo/status/1917008394726056423/photo/1",
+          "media_key": "3_1917008386714935297",
+          "start": 49,
+          "url": "https://t.co/rFstswO2Be"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917054637255102497",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917008394726056423",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @firekeepertwo: concept art of lothric castle https://t.co/rFstswO2Be"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1495,
+        "media_key": "3_1917008387838992384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpqU-NSWYAAEaFu.jpg",
+        "width": 2622
+      },
+      {
+        "height": 1491,
+        "media_key": "3_1917008386714935297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpqU-JGWoAEUvL7.jpg",
+        "width": 2714
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917008387838992384",
+            "3_1917008386714935297"
+          ],
+          "media_source_tweet_id": [
+            "1917008394726056423",
+            "1917008394726056423"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Concept Art",
+              "id": "1046581724098912256",
+              "name": "Concept art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Concept Art",
+              "id": "1046581724098912256",
+              "name": "Concept art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1917054637255102497",
+        "created_at": "2025-04-29T03:13:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T04:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917054637255102497"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 47,
+              "normalized_text": "lothric castle",
+              "probability": 0.7118,
+              "start": 34,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1846796196171415552",
+              "start": 3,
+              "username": "firekeepertwo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rFstswO2Be",
+              "end": 72,
+              "expanded_url": "https://x.com/firekeepertwo/status/1917008394726056423/photo/1",
+              "media_key": "3_1917008387838992384",
+              "start": 49,
+              "url": "https://t.co/rFstswO2Be"
+            },
+            {
+              "display_url": "pic.x.com/rFstswO2Be",
+              "end": 72,
+              "expanded_url": "https://x.com/firekeepertwo/status/1917008394726056423/photo/1",
+              "media_key": "3_1917008386714935297",
+              "start": 49,
+              "url": "https://t.co/rFstswO2Be"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917054637255102497",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917008394726056423",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @firekeepertwo: concept art of lothric castle https://t.co/rFstswO2Be"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917008387838992384",
+            "3_1917008386714935297"
+          ]
+        },
+        "author_id": "1846796196171415552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Concept Art",
+              "id": "1046581724098912256",
+              "name": "Concept art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Concept Art",
+              "id": "1046581724098912256",
+              "name": "Concept art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1917008394726056423",
+        "created_at": "2025-04-29T00:09:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T01:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917008394726056423"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "lothric castle",
+              "probability": 0.8382,
+              "start": 15,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rFstswO2Be",
+              "end": 53,
+              "expanded_url": "https://x.com/firekeepertwo/status/1917008394726056423/photo/1",
+              "media_key": "3_1917008387838992384",
+              "start": 30,
+              "url": "https://t.co/rFstswO2Be"
+            },
+            {
+              "display_url": "pic.x.com/rFstswO2Be",
+              "end": 53,
+              "expanded_url": "https://x.com/firekeepertwo/status/1917008394726056423/photo/1",
+              "media_key": "3_1917008386714935297",
+              "start": 30,
+              "url": "https://t.co/rFstswO2Be"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917008394726056423",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 2011,
+          "like_count": 150,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "concept art of lothric castle https://t.co/rFstswO2Be"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4128,
+          "following_count": 3372,
+          "like_count": 65503,
+          "listed_count": 9,
+          "media_count": 203,
+          "tweet_count": 5714
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-17T06:11:57.000Z",
+        "description": "follow me | @chosenundeadone DM open for business.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 12,
+                "username": "chosenundeadone"
+              }
+            ]
+          }
+        },
+        "id": "1846796196171415552",
+        "name": "fire keeper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846818275138605056/aCqqqyM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1137,
+          "following_count": 2,
+          "like_count": 78,
+          "listed_count": 2,
+          "media_count": 5,
+          "tweet_count": 5
+        },
+        "username": "firekeepertwo",
+        "verified": false
+      }
+    ]
+  }
+}

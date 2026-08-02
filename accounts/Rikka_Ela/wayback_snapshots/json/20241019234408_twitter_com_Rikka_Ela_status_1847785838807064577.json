@@ -1,0 +1,143 @@
+{
+  "data": {
+    "author_id": "1418942200457662477",
+    "conversation_id": "1847573262202786190",
+    "created_at": "2024-10-19T23:44:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-20T00:44:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1847785838807064577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1757616332240224256",
+          "start": 0,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "id": "1847785838807064577",
+    "in_reply_to_user_id": "1757616332240224256",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 226,
+      "like_count": 7,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847573262202786190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@B_cat38324 王牌对王牌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1418942200457662477",
+        "conversation_id": "1847573262202786190",
+        "created_at": "2024-10-19T23:44:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-20T00:44:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847785838807064577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757616332240224256",
+              "start": 0,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "id": "1847785838807064577",
+        "in_reply_to_user_id": "1757616332240224256",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 226,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847573262202786190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B_cat38324 王牌对王牌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文\n\n@Y32010705",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 43,
+                "username": "Y32010705"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3153,
+          "following_count": 3080,
+          "like_count": 53236,
+          "listed_count": 5,
+          "media_count": 140,
+          "tweet_count": 3972
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "坏蛋猫咪😎",
+        "pinned_tweet_id": "1853703602227085704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12463,
+          "following_count": 181,
+          "like_count": 323,
+          "listed_count": 40,
+          "media_count": 68,
+          "tweet_count": 11501
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

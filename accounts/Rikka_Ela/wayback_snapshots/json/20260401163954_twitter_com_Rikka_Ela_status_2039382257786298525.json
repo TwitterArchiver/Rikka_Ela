@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2039380455859040764",
+    "created_at": "2026-04-01T16:39:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T17:39:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039382257786298525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1875932119274541056",
+          "start": 0,
+          "username": "tuanyuehuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039382257786298525",
+    "in_reply_to_user_id": "1875932119274541056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039380455859040764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tuanyuehuan 羡慕死了😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 676,
+        "media_key": "3_2039380453367619584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE1Vt5zaIAAkDaO.jpg",
+        "width": 676
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2039380455859040764",
+        "created_at": "2026-04-01T16:39:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T17:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039382257786298525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1875932119274541056",
+              "start": 0,
+              "username": "tuanyuehuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039382257786298525",
+        "in_reply_to_user_id": "1875932119274541056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039380455859040764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tuanyuehuan 羡慕死了😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039380453367619584"
+          ]
+        },
+        "author_id": "1875932119274541056",
+        "conversation_id": "2039380455859040764",
+        "created_at": "2026-04-01T16:32:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T17:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039380455859040764"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yhrmthq5yU",
+              "end": 39,
+              "expanded_url": "https://x.com/tuanyuehuan/status/2039380455859040764/photo/1",
+              "media_key": "3_2039380453367619584",
+              "start": 16,
+              "url": "https://t.co/Yhrmthq5yU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039380455859040764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在就这样，过上幸福的生活了 https://t.co/Yhrmthq5yU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5008,
+          "following_count": 3734,
+          "like_count": 81036,
+          "listed_count": 9,
+          "media_count": 392,
+          "tweet_count": 8708
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-05T15:47:54.000Z",
+        "description": "🚪88r加微信好友，128r开放朋友圈，188r送小视频",
+        "id": "1875932119274541056",
+        "location": "愛と妄想の天国の最上階",
+        "name": "=湍月鏡像虛幻天使×",
+        "pinned_tweet_id": "2036340432771109257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999576494524252166/h-HMn3D2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3424,
+          "following_count": 139,
+          "like_count": 2350,
+          "listed_count": 15,
+          "media_count": 344,
+          "tweet_count": 1845
+        },
+        "username": "tuanyuehuan",
+        "verified": false
+      }
+    ]
+  }
+}

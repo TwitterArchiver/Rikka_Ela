@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1871247738303902028",
+    "created_at": "2024-12-24T03:20:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-24T04:20:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871395556075205093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1572782961925443584",
+          "start": 0,
+          "username": "Wisteria8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871395556075205093",
+    "in_reply_to_user_id": "1572782961925443584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871247738303902028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wisteria8964 什么地雷男"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1871247738303902028].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1871247738303902028",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1871247738303902028"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1871247738303902028",
+        "created_at": "2024-12-24T03:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T04:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871395556075205093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1572782961925443584",
+              "start": 0,
+              "username": "Wisteria8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871395556075205093",
+        "in_reply_to_user_id": "1572782961925443584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871247738303902028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wisteria8964 什么地雷男"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文\n\n@Y32010705",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 43,
+                "username": "Y32010705"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3205,
+          "following_count": 3133,
+          "like_count": 55446,
+          "listed_count": 7,
+          "media_count": 156,
+          "tweet_count": 4291
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-22T03:01:12.000Z",
+        "description": "我是一个茄子",
+        "id": "1572782961925443584",
+        "location": "Camelot",
+        "name": "🌈Mash Kyrielight💛🤍💜🖤",
+        "pinned_tweet_id": "1755393534289756328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693407833214976/7pxwdixJ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 926,
+          "like_count": 185236,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 4283
+        },
+        "username": "Wisteria8964",
+        "verified": false
+      }
+    ]
+  }
+}

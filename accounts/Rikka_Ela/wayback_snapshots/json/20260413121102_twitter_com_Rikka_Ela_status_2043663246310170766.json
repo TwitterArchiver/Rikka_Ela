@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043630367744401408"
+      ],
+      "media_source_tweet_id": [
+        "2043630377055727621"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "conversation_id": "2043663246310170766",
+    "created_at": "2026-04-13T12:11:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T13:11:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043663246310170766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "870348734147608576",
+          "start": 3,
+          "username": "graffitiGW"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wOJimPF36R",
+          "end": 63,
+          "expanded_url": "https://x.com/graffitiGW/status/2043630377055727621/photo/1",
+          "media_key": "3_2043630367744401408",
+          "start": 40,
+          "url": "https://t.co/wOJimPF36R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043663246310170766",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043630377055727621",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @graffitiGW: commission\nありがとうございました！ https://t.co/wOJimPF36R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043630367744401408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFxu_embIAAhMWA.jpg",
+        "width": 1288
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043630367744401408"
+          ],
+          "media_source_tweet_id": [
+            "2043630377055727621"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "2043663246310170766",
+        "created_at": "2026-04-13T12:11:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T13:11:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043663246310170766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "870348734147608576",
+              "start": 3,
+              "username": "graffitiGW"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wOJimPF36R",
+              "end": 63,
+              "expanded_url": "https://x.com/graffitiGW/status/2043630377055727621/photo/1",
+              "media_key": "3_2043630367744401408",
+              "start": 40,
+              "url": "https://t.co/wOJimPF36R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043663246310170766",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043630377055727621",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @graffitiGW: commission\nありがとうございました！ https://t.co/wOJimPF36R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043630367744401408"
+          ]
+        },
+        "author_id": "870348734147608576",
+        "conversation_id": "2043630377055727621",
+        "created_at": "2026-04-13T10:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T11:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043630377055727621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wOJimPF36R",
+              "end": 47,
+              "expanded_url": "https://x.com/graffitiGW/status/2043630377055727621/photo/1",
+              "media_key": "3_2043630367744401408",
+              "start": 24,
+              "url": "https://t.co/wOJimPF36R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043630377055727621",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 3392,
+          "like_count": 302,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "commission\nありがとうございました！ https://t.co/wOJimPF36R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5040,
+          "following_count": 3731,
+          "like_count": 81807,
+          "listed_count": 10,
+          "media_count": 411,
+          "tweet_count": 8939
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-01T18:38:03.000Z",
+        "description": "絵を描いています。お仕事、個人依頼はDMもしくはこちらからClick here for commission→fencer.k.t.k@gmail.com |Skeb→https://t.co/SZVjlJIMBj| AI🚫",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@graffitiGW",
+                "end": 107,
+                "expanded_url": "https://skeb.jp/@graffitiGW",
+                "start": 84,
+                "url": "https://t.co/SZVjlJIMBj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=23947473",
+                "start": 0,
+                "url": "https://t.co/NUNik8H4o4"
+              }
+            ]
+          }
+        },
+        "id": "870348734147608576",
+        "name": "剣士",
+        "pinned_tweet_id": "2042741385665876271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889970344657846272/JjIYko4F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34877,
+          "following_count": 1149,
+          "like_count": 29425,
+          "listed_count": 224,
+          "media_count": 675,
+          "tweet_count": 16571
+        },
+        "url": "https://t.co/NUNik8H4o4",
+        "username": "graffitiGW",
+        "verified": true
+      }
+    ]
+  }
+}

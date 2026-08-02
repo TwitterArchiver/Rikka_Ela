@@ -1,0 +1,661 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052251700728111110",
+        "3_2052251725424209921",
+        "3_2052251764204720131"
+      ],
+      "media_source_tweet_id": [
+        "2052252016542380372",
+        "2052252016542380372",
+        "2052252016542380372"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1135979287733948416",
+          "name": "Elden Ring"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1135979287733948416",
+          "name": "Elden Ring"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898668479250438",
+          "name": "Fantasy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      }
+    ],
+    "conversation_id": "2052391692603388109",
+    "created_at": "2026-05-07T14:14:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T15:14:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052391692603388109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1643186455647322114",
+          "start": 3,
+          "username": "foxpieces"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1KGH0GEv7F",
+          "end": 63,
+          "expanded_url": "https://x.com/foxpieces/status/2052252016542380372/photo/1",
+          "media_key": "3_2052251700728111110",
+          "start": 40,
+          "url": "https://t.co/1KGH0GEv7F"
+        },
+        {
+          "display_url": "pic.x.com/1KGH0GEv7F",
+          "end": 63,
+          "expanded_url": "https://x.com/foxpieces/status/2052252016542380372/photo/1",
+          "media_key": "3_2052251725424209921",
+          "start": 40,
+          "url": "https://t.co/1KGH0GEv7F"
+        },
+        {
+          "display_url": "pic.x.com/1KGH0GEv7F",
+          "end": 63,
+          "expanded_url": "https://x.com/foxpieces/status/2052252016542380372/photo/1",
+          "media_key": "3_2052251764204720131",
+          "start": 40,
+          "url": "https://t.co/1KGH0GEv7F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052391692603388109",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 71
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052252016542380372",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @foxpieces: Elden Ring\nWailing Dunes https://t.co/1KGH0GEv7F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2700,
+        "media_key": "3_2052251700728111110",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHsQDGuXIAYhKAI.jpg",
+        "width": 2160
+      },
+      {
+        "height": 1756,
+        "media_key": "3_2052251725424209921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHsQEiuXsAEYm5O.jpg",
+        "width": 4096
+      },
+      {
+        "height": 1755,
+        "media_key": "3_2052251764204720131",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHsQGzMXUAMuwSk.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052251700728111110",
+            "3_2052251725424209921",
+            "3_2052251764204720131"
+          ],
+          "media_source_tweet_id": [
+            "2052252016542380372",
+            "2052252016542380372",
+            "2052252016542380372"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2052391692603388109",
+        "created_at": "2026-05-07T14:14:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T15:14:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052391692603388109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1643186455647322114",
+              "start": 3,
+              "username": "foxpieces"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1KGH0GEv7F",
+              "end": 63,
+              "expanded_url": "https://x.com/foxpieces/status/2052252016542380372/photo/1",
+              "media_key": "3_2052251700728111110",
+              "start": 40,
+              "url": "https://t.co/1KGH0GEv7F"
+            },
+            {
+              "display_url": "pic.x.com/1KGH0GEv7F",
+              "end": 63,
+              "expanded_url": "https://x.com/foxpieces/status/2052252016542380372/photo/1",
+              "media_key": "3_2052251725424209921",
+              "start": 40,
+              "url": "https://t.co/1KGH0GEv7F"
+            },
+            {
+              "display_url": "pic.x.com/1KGH0GEv7F",
+              "end": 63,
+              "expanded_url": "https://x.com/foxpieces/status/2052252016542380372/photo/1",
+              "media_key": "3_2052251764204720131",
+              "start": 40,
+              "url": "https://t.co/1KGH0GEv7F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052391692603388109",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 71
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052252016542380372",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @foxpieces: Elden Ring\nWailing Dunes https://t.co/1KGH0GEv7F"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052251700728111110",
+            "3_2052251725424209921",
+            "3_2052251764204720131"
+          ]
+        },
+        "author_id": "1643186455647322114",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2052252016542380372",
+        "created_at": "2026-05-07T04:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T05:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052252016542380372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1KGH0GEv7F",
+              "end": 48,
+              "expanded_url": "https://x.com/foxpieces/status/2052252016542380372/photo/1",
+              "media_key": "3_2052251700728111110",
+              "start": 25,
+              "url": "https://t.co/1KGH0GEv7F"
+            },
+            {
+              "display_url": "pic.x.com/1KGH0GEv7F",
+              "end": 48,
+              "expanded_url": "https://x.com/foxpieces/status/2052252016542380372/photo/1",
+              "media_key": "3_2052251725424209921",
+              "start": 25,
+              "url": "https://t.co/1KGH0GEv7F"
+            },
+            {
+              "display_url": "pic.x.com/1KGH0GEv7F",
+              "end": 48,
+              "expanded_url": "https://x.com/foxpieces/status/2052252016542380372/photo/1",
+              "media_key": "3_2052251764204720131",
+              "start": 25,
+              "url": "https://t.co/1KGH0GEv7F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052252016542380372",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 9940,
+          "like_count": 703,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "Elden Ring\nWailing Dunes https://t.co/1KGH0GEv7F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5189,
+          "following_count": 3763,
+          "like_count": 83534,
+          "listed_count": 10,
+          "media_count": 423,
+          "tweet_count": 9327
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-04T09:39:33.000Z",
+        "description": "something something screenshots",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "flickr.com/photos/1592229…",
+                "end": 23,
+                "expanded_url": "https://flickr.com/photos/159222908@N08/",
+                "start": 0,
+                "url": "https://t.co/vVVxcmHfLg"
+              }
+            ]
+          }
+        },
+        "id": "1643186455647322114",
+        "name": "Visnå",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049721011709374464/iesBRLKC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 77,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 6
+        },
+        "url": "https://t.co/vVVxcmHfLg",
+        "username": "foxpieces",
+        "verified": false
+      }
+    ]
+  }
+}

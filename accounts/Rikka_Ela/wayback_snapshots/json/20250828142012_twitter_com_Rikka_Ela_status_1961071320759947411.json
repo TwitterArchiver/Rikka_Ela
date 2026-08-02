@@ -1,0 +1,466 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1135979287733948416",
+          "name": "Elden Ring"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1135979287733948416",
+          "name": "Elden Ring"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898668479250438",
+          "name": "Fantasy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      }
+    ],
+    "conversation_id": "1961071320759947411",
+    "created_at": "2025-08-28T14:20:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T15:20:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961071320759947411"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 119,
+          "normalized_text": "The Deep of Night",
+          "probability": 0.8755,
+          "start": 103,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1135707841879085059",
+          "start": 3,
+          "username": "ELDENRING"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961071320759947411",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 567
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961066321329652193",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ELDENRING: A crimson malice stirs within the lightless abyss, its raw rage seeping into your foes.\nThe Deep of Night, a new high diffic…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1961071320759947411].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1961071320759947411",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1961071320759947411"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_1961066300446257152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzcbaPsWsAAQIRT.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961066300446257152"
+          ]
+        },
+        "author_id": "1135707841879085059",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "1961066321329652193",
+        "created_at": "2025-08-28T14:00:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T15:00:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961066321329652193"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 104,
+              "normalized_text": "The Deep of Night",
+              "probability": 0.8803,
+              "start": 88,
+              "type": "Other"
+            },
+            {
+              "end": 157,
+              "normalized_text": "Nightfarers",
+              "probability": 0.8445,
+              "start": 147,
+              "type": "Other"
+            },
+            {
+              "end": 241,
+              "normalized_text": "ELDENRING",
+              "probability": 0.5274,
+              "start": 233,
+              "type": "Other"
+            },
+            {
+              "end": 253,
+              "normalized_text": "NIGHTREIGN",
+              "probability": 0.3383,
+              "start": 244,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 242,
+              "start": 232,
+              "tag": "ELDENRING"
+            },
+            {
+              "end": 254,
+              "start": 243,
+              "tag": "NIGHTREIGN"
+            }
+          ],
+          "urls": [
+            {
+              "description": "\"Deep of Night\" will begin on Thursday, September 11th. \"Deep of Night\" is a high-difficulty challenge mode designed for seasoned players who have navigated through the Night many times.",
+              "display_url": "bnent.eu/NR-DeepOfNight",
+              "end": 229,
+              "expanded_url": "https://bnent.eu/NR-DeepOfNight",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1961066364933672960/jhQFfUlA?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1961066364933672960/jhQFfUlA?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 206,
+              "status": 200,
+              "title": "ELDEN RING NIGHTREIGN - A high-difficulty Expedition mode, \"Deep of Night,\" has appeared",
+              "unwound_url": "https://en.bandainamcoent.eu/elden-ring/news/elden-ring-nightreign-high-difficulty-expedition-mode-deep-of-night-has-appeared?utm_source=SM_Official&utm_medium=official_post&utm_campaign=ER-NIGHTREIGN-ChaosMode",
+              "url": "https://t.co/vznjfwhgAv"
+            },
+            {
+              "display_url": "pic.x.com/lNfeq09kyW",
+              "end": 278,
+              "expanded_url": "https://x.com/ELDENRING/status/1961066321329652193/photo/1",
+              "media_key": "3_1961066300446257152",
+              "start": 255,
+              "url": "https://t.co/lNfeq09kyW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961066321329652193",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 246,
+          "impression_count": 72664,
+          "like_count": 3351,
+          "quote_count": 190,
+          "reply_count": 98,
+          "retweet_count": 567
+        },
+        "reply_settings": "everyone",
+        "text": "A crimson malice stirs within the lightless abyss, its raw rage seeping into your foes.\nThe Deep of Night, a new high difficulty mode for seasoned Nightfarers, descends on September 11, 2025.\n \nLearn more: https://t.co/vznjfwhgAv\n \n#ELDENRING #NIGHTREIGN https://t.co/lNfeq09kyW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4501,
+          "following_count": 3541,
+          "like_count": 72339,
+          "listed_count": 9,
+          "media_count": 290,
+          "tweet_count": 6859
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-04T00:40:24.000Z",
+        "description": "#ELDENRING ushers in a new world created by Hidetaka Miyazaki & George R. R. Martin. ESRB rating: M | PEGI 16",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "ELDENRING"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "eldenring.com",
+                "end": 23,
+                "expanded_url": "http://eldenring.com",
+                "start": 0,
+                "url": "https://t.co/X9ExUTRl69"
+              }
+            ]
+          }
+        },
+        "id": "1135707841879085059",
+        "name": "ELDEN RING",
+        "pinned_tweet_id": "1927364169558307284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1137841998906322944/VAIJ9bxI_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1213790,
+          "following_count": 5,
+          "like_count": 2045,
+          "listed_count": 1457,
+          "media_count": 299,
+          "tweet_count": 544
+        },
+        "url": "https://t.co/X9ExUTRl69",
+        "username": "ELDENRING",
+        "verified": true
+      }
+    ]
+  }
+}

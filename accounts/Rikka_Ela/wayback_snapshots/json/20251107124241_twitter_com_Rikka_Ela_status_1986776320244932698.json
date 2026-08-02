@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1986758417331925018",
+    "created_at": "2025-11-07T12:42:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T13:42:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986776320244932698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1792933283040284673",
+          "start": 0,
+          "username": "tuamitx0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986776320244932698",
+    "in_reply_to_user_id": "1792933283040284673",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986758417331925018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tuamitx0 😭😭摸摸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1986758417331925018",
+        "created_at": "2025-11-07T12:42:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T13:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986776320244932698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1792933283040284673",
+              "start": 0,
+              "username": "tuamitx0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986776320244932698",
+        "in_reply_to_user_id": "1792933283040284673",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986758417331925018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tuamitx0 😭😭摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792933283040284673",
+        "conversation_id": "1986758417331925018",
+        "created_at": "2025-11-07T11:31:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T12:31:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986758417331925018"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1986758417331925018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "过年的时候，连70块钱的自助餐都舍不得吃，然后我一个人偷偷哭。结果看起来，省下来的70块钱，在这160万中算得上什么。\n\n前几天，我准备去越南，为了省1000块钱，这点钱在160万中算什么。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4722,
+          "following_count": 3627,
+          "like_count": 75511,
+          "listed_count": 8,
+          "media_count": 324,
+          "tweet_count": 7389
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-21T15:00:28.000Z",
+        "description": "我希望我爱的人都好好的🥺♥️",
+        "id": "1792933283040284673",
+        "location": "臺灣 ",
+        "name": "catalyst",
+        "pinned_tweet_id": "1976573659189015037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983164174596194304/EoZEa4-4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 675,
+          "like_count": 14948,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 9960
+        },
+        "username": "tuamitx0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2066679618191409391",
+    "created_at": "2026-06-17T06:12:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T07:12:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067128130922492057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1397850509323554817",
+          "start": 0,
+          "username": "noaayoyaoaya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067128130922492057",
+    "in_reply_to_user_id": "1397850509323554817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066679618191409391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@noaayoyaoaya 伦敦对手机还是太不友善了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2066679618191409391",
+        "created_at": "2026-06-17T06:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T07:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067128130922492057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1397850509323554817",
+              "start": 0,
+              "username": "noaayoyaoaya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067128130922492057",
+        "in_reply_to_user_id": "1397850509323554817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066679618191409391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@noaayoyaoaya 伦敦对手机还是太不友善了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1397850509323554817",
+        "conversation_id": "2066679618191409391",
+        "created_at": "2026-06-16T00:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T01:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066679618191409391"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_medusozo…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/amber_medusozoa/status/2066571473993486381",
+              "start": 20,
+              "url": "https://t.co/W50yptgwzD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066679618191409391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 9472,
+          "like_count": 107,
+          "quote_count": 0,
+          "reply_count": 33,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066571473993486381",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在英国呆久了走路玩手机的习惯彻底治好了 https://t.co/W50yptgwzD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5652,
+          "following_count": 3780,
+          "like_count": 86241,
+          "listed_count": 7,
+          "media_count": 442,
+          "tweet_count": 9762
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-27T09:42:01.000Z",
+        "description": "你好 我是那由\n小号 @noaayoyaoaya1\n🪼@amber_medusozoa\n🐱@kirimarainfelis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "noaayoyaoaya1"
+              },
+              {
+                "end": 43,
+                "start": 27,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 61,
+                "start": 45,
+                "username": "kirimarainfelis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Hp2U0Rck9wU5O…",
+                "end": 23,
+                "expanded_url": "http://t.me/+Hp2U0Rck9wU5OGY0",
+                "start": 0,
+                "url": "https://t.co/aEspHWqhXk"
+              }
+            ]
+          }
+        },
+        "id": "1397850509323554817",
+        "name": "那由",
+        "pinned_tweet_id": "2065095132337086741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1626023028818681860/Tg9u2Z8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21694,
+          "following_count": 878,
+          "like_count": 10807,
+          "listed_count": 32,
+          "media_count": 129,
+          "tweet_count": 5354
+        },
+        "url": "https://t.co/aEspHWqhXk",
+        "username": "noaayoyaoaya",
+        "verified": true
+      }
+    ]
+  }
+}

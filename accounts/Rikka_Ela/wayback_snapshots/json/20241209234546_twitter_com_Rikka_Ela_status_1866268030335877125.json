@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1866123827295691220",
+    "created_at": "2024-12-09T23:45:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-10T00:45:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866268030335877125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1841112085465612291",
+          "start": 0,
+          "username": "ririchiyo009"
+        },
+        {
+          "end": 30,
+          "id": "1028097257378332672",
+          "start": 14,
+          "username": "hatunagi_yuzuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866268030335877125",
+    "in_reply_to_user_id": "1841112085465612291",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866123827295691220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ririchiyo009 @hatunagi_yuzuki xm😭🥺"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1866123827295691220].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1866123827295691220",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1866123827295691220"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1866123827295691220",
+        "created_at": "2024-12-09T23:45:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T00:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866268030335877125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1841112085465612291",
+              "start": 0,
+              "username": "ririchiyo009"
+            },
+            {
+              "end": 30,
+              "id": "1028097257378332672",
+              "start": 14,
+              "username": "hatunagi_yuzuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866268030335877125",
+        "in_reply_to_user_id": "1841112085465612291",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866123827295691220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ririchiyo009 @hatunagi_yuzuki xm😭🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文\n\n@Y32010705",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 43,
+                "username": "Y32010705"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3168,
+          "following_count": 3107,
+          "like_count": 53958,
+          "listed_count": 7,
+          "media_count": 146,
+          "tweet_count": 4101
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-01T13:45:11.000Z",
+        "description": "天残时不时断糖发病木桶饭，如果恶心到你很抱歉。",
+        "id": "1841112085465612291",
+        "location": "Hangzhou",
+        "name": "りりちよ",
+        "pinned_tweet_id": "1841125672007127473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841112942777155584/QtEkW7G2_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 219,
+          "like_count": 2196,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 630
+        },
+        "username": "ririchiyo009",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-11T01:54:22.000Z",
+        "description": "百三十斤大柚子，废物点心 |\n心里住着Steven ❤️ @Stv_Lynn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "Stv_Lynn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/hatunagi_yuzuki",
+                "end": 23,
+                "expanded_url": "http://t.me/hatunagi_yuzuki",
+                "start": 0,
+                "url": "https://t.co/HvRUMmQj4D"
+              }
+            ]
+          }
+        },
+        "id": "1028097257378332672",
+        "location": "@Stv_Lynn 脑子里",
+        "name": "初凪ゆずき aka yuzuki",
+        "pinned_tweet_id": "1837478725849579585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1681241074755588097/S4Umf5LO_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 485,
+          "like_count": 11376,
+          "listed_count": 2,
+          "media_count": 619,
+          "tweet_count": 8683
+        },
+        "url": "https://t.co/HvRUMmQj4D",
+        "username": "hatunagi_yuzuki",
+        "verified": false
+      }
+    ]
+  }
+}

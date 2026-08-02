@@ -1,0 +1,496 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1920115361967427584"
+      ],
+      "media_source_tweet_id": [
+        "1920115447183077688"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Emmanuel Macron",
+          "id": "822153632002904064",
+          "name": "Emmanuel Macron"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Emmanuel Macron",
+          "id": "822153632002904064",
+          "name": "Emmanuel Macron"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Emmanuel Macron",
+          "id": "822153632002904064",
+          "name": "Emmanuel Macron"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1483822657963397121",
+          "name": "France politics"
+        }
+      }
+    ],
+    "conversation_id": "1920116694363918359",
+    "created_at": "2025-05-07T14:01:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T15:01:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920116694363918359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1976143068",
+          "start": 3,
+          "username": "EmmanuelMacron"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TjtWnbecFN",
+          "end": 136,
+          "expanded_url": "https://x.com/EmmanuelMacron/status/1920115447183077688/video/1",
+          "media_key": "13_1920115361967427584",
+          "start": 113,
+          "url": "https://t.co/TjtWnbecFN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920116694363918359",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920115447183077688",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EmmanuelMacron: Nous voulons travailler main dans la main pour relancer ensemble le réflexe franco-allemand. https://t.co/TjtWnbecFN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 81360,
+        "height": 1080,
+        "media_key": "13_1920115361967427584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1920115361967427584/img/aqNWCi8ACnMRr_7l.jpg",
+        "public_metrics": {
+          "view_count": 650
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1920115361967427584/vid/avc1/320x320/J8dHIWzmVu1hqGJ5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1920115361967427584/pl/_5Gpc52S6uStNsi8.m3u8?v=f75"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1920115361967427584/vid/avc1/720x720/eCPtWN4ANDD0icjp.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1920115361967427584/vid/avc1/540x540/A1L8UjPnv5iIIN9q.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1920115361967427584/vid/avc1/1080x1080/ysqI_fLB5BKBZ85Z.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1920115361967427584"
+          ],
+          "media_source_tweet_id": [
+            "1920115447183077688"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Emmanuel Macron",
+              "id": "822153632002904064",
+              "name": "Emmanuel Macron"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Emmanuel Macron",
+              "id": "822153632002904064",
+              "name": "Emmanuel Macron"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Emmanuel Macron",
+              "id": "822153632002904064",
+              "name": "Emmanuel Macron"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1483822657963397121",
+              "name": "France politics"
+            }
+          }
+        ],
+        "conversation_id": "1920116694363918359",
+        "created_at": "2025-05-07T14:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T15:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920116694363918359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1976143068",
+              "start": 3,
+              "username": "EmmanuelMacron"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TjtWnbecFN",
+              "end": 136,
+              "expanded_url": "https://x.com/EmmanuelMacron/status/1920115447183077688/video/1",
+              "media_key": "13_1920115361967427584",
+              "start": 113,
+              "url": "https://t.co/TjtWnbecFN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920116694363918359",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920115447183077688",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EmmanuelMacron: Nous voulons travailler main dans la main pour relancer ensemble le réflexe franco-allemand. https://t.co/TjtWnbecFN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1920115361967427584"
+          ]
+        },
+        "author_id": "1976143068",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Emmanuel Macron",
+              "id": "822153632002904064",
+              "name": "Emmanuel Macron"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Emmanuel Macron",
+              "id": "822153632002904064",
+              "name": "Emmanuel Macron"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Emmanuel Macron",
+              "id": "822153632002904064",
+              "name": "Emmanuel Macron"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1483822657963397121",
+              "name": "France politics"
+            }
+          }
+        ],
+        "conversation_id": "1920115447183077688",
+        "created_at": "2025-05-07T13:56:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T14:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920115447183077688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TjtWnbecFN",
+              "end": 116,
+              "expanded_url": "https://x.com/EmmanuelMacron/status/1920115447183077688/video/1",
+              "media_key": "13_1920115361967427584",
+              "start": 93,
+              "url": "https://t.co/TjtWnbecFN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920115447183077688",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7955,
+          "like_count": 123,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "Nous voulons travailler main dans la main pour relancer ensemble le réflexe franco-allemand. https://t.co/TjtWnbecFN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4175,
+          "following_count": 3386,
+          "like_count": 66016,
+          "listed_count": 8,
+          "media_count": 208,
+          "tweet_count": 5804
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-20T19:35:28.000Z",
+        "description": "Président de la République française.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "elysee.fr",
+                "end": 23,
+                "expanded_url": "http://elysee.fr",
+                "start": 0,
+                "url": "https://t.co/n76au37OVm"
+              }
+            ]
+          }
+        },
+        "id": "1976143068",
+        "location": "France",
+        "name": "Emmanuel Macron",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1550535324501164032/0lTW_4tj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10174346,
+          "following_count": 719,
+          "like_count": 458,
+          "listed_count": 15759,
+          "media_count": 6552,
+          "tweet_count": 14252
+        },
+        "url": "https://t.co/n76au37OVm",
+        "username": "EmmanuelMacron",
+        "verified": true
+      }
+    ]
+  }
+}

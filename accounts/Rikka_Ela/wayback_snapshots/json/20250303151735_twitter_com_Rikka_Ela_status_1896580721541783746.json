@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1896580710179176449"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1896580721541783746",
+    "created_at": "2025-03-03T15:17:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T16:17:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1896580721541783746"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/x0S7rAeydp",
+          "end": 64,
+          "expanded_url": "https://x.com/Rikka_Ela/status/1896580721541783746/photo/1",
+          "media_key": "3_1896580710179176449",
+          "start": 41,
+          "url": "https://t.co/x0S7rAeydp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896580721541783746",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "魂一传奇地图设计病村，致敬恶魂腐朽谷，百万魂5为之落泪，宫崎英高小时候的上学路👍 https://t.co/x0S7rAeydp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_1896580710179176449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlICG34WgAE2jnx.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896580710179176449"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1896580721541783746",
+        "created_at": "2025-03-03T15:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T16:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896580721541783746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x0S7rAeydp",
+              "end": 64,
+              "expanded_url": "https://x.com/Rikka_Ela/status/1896580721541783746/photo/1",
+              "media_key": "3_1896580710179176449",
+              "start": 41,
+              "url": "https://t.co/x0S7rAeydp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896580721541783746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "魂一传奇地图设计病村，致敬恶魂腐朽谷，百万魂5为之落泪，宫崎英高小时候的上学路👍 https://t.co/x0S7rAeydp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3822,
+          "following_count": 3278,
+          "like_count": 61035,
+          "listed_count": 7,
+          "media_count": 173,
+          "tweet_count": 5035
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      }
+    ]
+  }
+}

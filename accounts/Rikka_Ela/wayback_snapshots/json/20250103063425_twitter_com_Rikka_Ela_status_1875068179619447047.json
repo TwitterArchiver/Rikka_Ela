@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1875067075930300557",
+    "created_at": "2025-01-03T06:34:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-03T07:34:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875068179619447047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1446885060544581634",
+          "start": 0,
+          "username": "neppiggy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875068179619447047",
+    "in_reply_to_user_id": "1446885060544581634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875068000950432092",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@neppiggy 小猪都要SRS了，不许xm，给你一拳😡👊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1875067075930300557",
+        "created_at": "2025-01-03T06:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T07:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875068179619447047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1446885060544581634",
+              "start": 0,
+              "username": "neppiggy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875068179619447047",
+        "in_reply_to_user_id": "1446885060544581634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875068000950432092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neppiggy 小猪都要SRS了，不许xm，给你一拳😡👊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1446885060544581634",
+        "conversation_id": "1875067075930300557",
+        "created_at": "2025-01-03T06:33:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T07:33:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875068000950432092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875068000950432092",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875067075930300557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 羡慕死了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3336,
+          "following_count": 3165,
+          "like_count": 56625,
+          "listed_count": 7,
+          "media_count": 159,
+          "tweet_count": 4468
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-09T17:07:54.000Z",
+        "description": "INFP-T | mtf | hrt since 21.9 |",
+        "id": "1446885060544581634",
+        "name": "n3p1ggy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774329285144104960/2sZU-fb8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 215,
+          "like_count": 627,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 520
+        },
+        "username": "neppiggy",
+        "verified": false
+      }
+    ]
+  }
+}

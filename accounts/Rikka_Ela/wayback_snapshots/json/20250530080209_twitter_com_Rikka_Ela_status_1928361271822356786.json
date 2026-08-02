@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1928361264495087618"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "conversation_id": "1928335252994552175",
+    "created_at": "2025-05-30T08:02:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T09:02:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928361271822356786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1817115470736293889",
+          "start": 0,
+          "username": "jiuxi17444"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sD2eNML6VI",
+          "end": 42,
+          "expanded_url": "https://x.com/Rikka_Ela/status/1928361271822356786/photo/1",
+          "media_key": "3_1928361264495087618",
+          "start": 19,
+          "url": "https://t.co/sD2eNML6VI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928361271822356786",
+    "in_reply_to_user_id": "1817115470736293889",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928335252994552175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuxi17444 早就不到了（ https://t.co/sD2eNML6VI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2014,
+        "media_key": "3_1928361264495087618",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsLqWmjaUAIvJmJ.jpg",
+        "width": 1319
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928361264495087618"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "1928335252994552175",
+        "created_at": "2025-05-30T08:02:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T09:02:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928361271822356786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1817115470736293889",
+              "start": 0,
+              "username": "jiuxi17444"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sD2eNML6VI",
+              "end": 42,
+              "expanded_url": "https://x.com/Rikka_Ela/status/1928361271822356786/photo/1",
+              "media_key": "3_1928361264495087618",
+              "start": 19,
+              "url": "https://t.co/sD2eNML6VI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928361271822356786",
+        "in_reply_to_user_id": "1817115470736293889",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928335252994552175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuxi17444 早就不到了（ https://t.co/sD2eNML6VI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817115470736293889",
+        "conversation_id": "1928335252994552175",
+        "created_at": "2025-05-30T06:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T07:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928335252994552175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dutyge/status/…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/dutyge/status/1928063058913423386",
+              "start": 33,
+              "url": "https://t.co/xrsBQDi8RH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928335252994552175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 295,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928063058913423386",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不过印度的数据殳那么准确 祘上屚报瞒报的实际情况应该不至于到2吧 https://t.co/xrsBQDi8RH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4247,
+          "following_count": 3480,
+          "like_count": 67940,
+          "listed_count": 8,
+          "media_count": 222,
+          "tweet_count": 6059
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T08:31:17.000Z",
+        "description": "isfp/新左派/革命女权/支持lgbt/使用二简字/主搞中表🇨🇳䒙表🇷🇪/非毛左注意⚠️⚠️⚠️/对象兼革命伴侣@xiaye2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 57,
+                "username": "xiaye2023"
+              }
+            ]
+          }
+        },
+        "id": "1817115470736293889",
+        "location": "ps：主抪第三人称任何性别均称“他”",
+        "name": "强吃瓷爹的暴力机器反被人民民主专政🏁🏳️",
+        "pinned_tweet_id": "1890011497818128653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914209046611308544/fBTjBZyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1912,
+          "following_count": 1309,
+          "like_count": 45197,
+          "listed_count": 4,
+          "media_count": 470,
+          "tweet_count": 5497
+        },
+        "username": "jiuxi17444",
+        "verified": false
+      }
+    ]
+  }
+}

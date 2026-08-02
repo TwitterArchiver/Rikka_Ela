@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2064220872085488038",
+    "created_at": "2026-06-09T06:26:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T07:26:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064232578845172043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1745799972576968705",
+          "start": 0,
+          "username": "bubblepipe42"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064232578845172043",
+    "in_reply_to_user_id": "1745799972576968705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064220872085488038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bubblepipe42 😭😭已经…..不能再蘸豆了…."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2064220872085488038",
+        "created_at": "2026-06-09T06:26:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T07:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064232578845172043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1745799972576968705",
+              "start": 0,
+              "username": "bubblepipe42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064232578845172043",
+        "in_reply_to_user_id": "1745799972576968705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064220872085488038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bubblepipe42 😭😭已经…..不能再蘸豆了…."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745799972576968705",
+        "conversation_id": "2064220872085488038",
+        "created_at": "2026-06-09T05:39:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T06:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064220872085488038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/saya_nikaido/s…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/saya_nikaido/status/2064191970973737173",
+              "start": 39,
+              "url": "https://t.co/XGXtfx7FgU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064220872085488038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 230,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064191970973737173",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "术前的不可能性在术后一次性迎来和解 加以反思就必然走到对手术合理性的全盘否定 https://t.co/XGXtfx7FgU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5393,
+          "following_count": 3771,
+          "like_count": 85914,
+          "listed_count": 7,
+          "media_count": 440,
+          "tweet_count": 9711
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-12T13:29:34.000Z",
+        "description": "活的像个家养猫（已剪角）。",
+        "id": "1745799972576968705",
+        "name": "代糖空泡",
+        "pinned_tweet_id": "2020023264811315232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997240850732961792/1_d8Kddi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1813,
+          "following_count": 932,
+          "like_count": 9019,
+          "listed_count": 5,
+          "media_count": 357,
+          "tweet_count": 2551
+        },
+        "username": "bubblepipe42",
+        "verified": false
+      }
+    ]
+  }
+}

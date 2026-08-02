@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "1859447950029848653",
+    "created_at": "2024-11-21T04:05:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-21T05:05:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859447950029848653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1300828282061877249",
+          "start": 3,
+          "username": "HANLIANYI331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859447950029848653",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "1814164404180758629",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HANLIANYI331: 我小学和中学时代的非跨性别相关的社交圈如今大部分都过着纸醉金迷，享受人生的生活。他们大部分都已工作，或是旅游和留学，或是在做一些艺术相关的事情。无论是我小学在北大附中的那群商二代子女同学，还是深圳的Lolita、cosplay圈子的千金大小姐…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "1859447950029848653",
+        "created_at": "2024-11-21T04:05:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-21T05:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859447950029848653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1300828282061877249",
+              "start": 3,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859447950029848653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "1814164404180758629",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HANLIANYI331: 我小学和中学时代的非跨性别相关的社交圈如今大部分都过着纸醉金迷，享受人生的生活。他们大部分都已工作，或是旅游和留学，或是在做一些艺术相关的事情。无论是我小学在北大附中的那群商二代子女同学，还是深圳的Lolita、cosplay圈子的千金大小姐…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "1814164404180758629",
+        "created_at": "2024-07-19T05:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-19T06:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1814164404180758629"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1814164404180758629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我小学和中学时代的非跨性别相关的社交圈如今大部分都过着纸醉金迷，享受人生的生活。他们大部分都已工作，或是旅游和留学，或是在做一些艺术相关的事情。无论是我小学在北大附中的那群商二代子女同学，还是深圳的Lolita、cosplay圈子的千金大小姐们，还是那群北美留学生，又或者是当年VOCALOID圈的那群音乐技术宅。这群顺性别健全人如今完全和我现有的社交圈生活在两个世界。经济下行的寒气不仅没影响到上层阶级的人，甚至不少人变得更加有钱和舒适了。\n而我和那时相比，在这群人眼中，只不过是从一个性格奇怪的人，发展成了一个越来越奇怪而且生活方式完全看不懂的人。一个跟一大群奇奇怪怪的人混在一起，浑身上下透露着酸气和寒碜，极其抠门，一个不打游戏，不出国，不泡网，不参加社会娱乐活动，不再参加漫展和茶话会，连一起出去吃个饭唱个k玩一玩都不肯，闲聊也不愿意聊聊的“生人勿近”的“女装大佬”。\n而他们其中，愿意参与公益的人属于少数，愿意参与跨性别公益的人，更是少数中的少数。其中极多是出于个人交情会「帮助我」，但是不会愿意把大量的钱花在对他们来说的陌生人身上，他们也更加完全无法理解跨性别的生存逻辑以及存在的困境逻辑。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 33297,
+          "like_count": 252,
+          "quote_count": 7,
+          "reply_count": 12,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "我小学和中学时代的非跨性别相关的社交圈如今大部分都过着纸醉金迷，享受人生的生活。他们大部分都已工作，或是旅游和留学，或是在做一些艺术相关的事情。无论是我小学在北大附中的那群商二代子女同学，还是深圳的Lolita、cosplay圈子的千金大小姐们，还是那群北美留学生，又或者是当年VOCALOID圈的那…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文\n\n@Y32010705",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 43,
+                "username": "Y32010705"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3101,
+          "following_count": 3064,
+          "like_count": 53096,
+          "listed_count": 5,
+          "tweet_count": 3933
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女｜she、her、她｜Asperger｜bilibili名称 少女寒涟漪｜知乎名称 寒涟漪｜个人telegram频道 https://t.co/TYc0ccREWC｜公益类信息请私信涟漪危机干预小组公共账户@lianyiganyu｜可通过知乎付费咨询、语音咨询需要预约，收费1分钟2元｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 107,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Lianyi520",
+                "end": 86,
+                "expanded_url": "https://t.me/Lianyi520",
+                "start": 63,
+                "url": "https://t.co/TYc0ccREWC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/605577445?ut…",
+                "end": 23,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/605577445?utm_psn=1748429444401061889",
+                "start": 0,
+                "url": "https://t.co/cLXTT31ELx"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "武汉",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1840500836524519751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33429,
+          "following_count": 3423,
+          "like_count": 292,
+          "listed_count": 57,
+          "tweet_count": 1903
+        },
+        "url": "https://t.co/cLXTT31ELx",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

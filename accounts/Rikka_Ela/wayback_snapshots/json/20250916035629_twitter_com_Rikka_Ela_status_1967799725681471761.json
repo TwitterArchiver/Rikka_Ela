@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1967799725681471761",
+    "created_at": "2025-09-16T03:56:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T04:56:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1967799725681471761"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/blephin_/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/blephin_/status/1966906313151312335",
+          "start": 4,
+          "url": "https://t.co/8DtlJh3QAo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967799725681471761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966906313151312335",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们谁 https://t.co/8DtlJh3QAo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28950,
+        "height": 1280,
+        "media_key": "13_1966906258927005696",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1966906258927005696/img/tb8tbjsqUo7qCxGf.jpg",
+        "public_metrics": {
+          "view_count": 206177
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1966906258927005696/vid/avc1/320x568/ARZwZo3o97XnQPQS.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1966906258927005696/vid/avc1/480x852/dbWO0DsxadkFky81.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1966906258927005696/vid/avc1/720x1280/xzkzJwqLifBwj5aw.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1966906258927005696/pl/kkn_dM9eGGvUFVJY.m3u8?v=6db"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1967799725681471761",
+        "created_at": "2025-09-16T03:56:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T04:56:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967799725681471761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/blephin_/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/blephin_/status/1966906313151312335",
+              "start": 4,
+              "url": "https://t.co/8DtlJh3QAo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967799725681471761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966906313151312335",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们谁 https://t.co/8DtlJh3QAo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1966906258927005696"
+          ]
+        },
+        "author_id": "830516102786584577",
+        "conversation_id": "1966906313151312335",
+        "created_at": "2025-09-13T16:46:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T17:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966906313151312335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w11ORfIYZW",
+              "end": 23,
+              "expanded_url": "https://x.com/blephin_/status/1966906313151312335/video/1",
+              "media_key": "13_1966906258927005696",
+              "start": 0,
+              "url": "https://t.co/w11ORfIYZW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966906313151312335",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2969,
+          "impression_count": 255000,
+          "like_count": 8520,
+          "quote_count": 308,
+          "reply_count": 198,
+          "retweet_count": 1092
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/w11ORfIYZW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4520,
+          "following_count": 3553,
+          "like_count": 73029,
+          "listed_count": 9,
+          "media_count": 298,
+          "tweet_count": 6952
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-11T20:37:23.000Z",
+        "description": "' iM So Fuxkinqqq High Men , WTFF ❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bleph.in",
+                "end": 23,
+                "expanded_url": "http://bleph.in",
+                "start": 0,
+                "url": "https://t.co/gHlW7C5v3d"
+              }
+            ]
+          }
+        },
+        "id": "830516102786584577",
+        "location": "18 he",
+        "name": "hydra",
+        "pinned_tweet_id": "1728839499092988349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908916396022484992/3R9x0Sc7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106101,
+          "following_count": 1528,
+          "like_count": 113507,
+          "listed_count": 98,
+          "media_count": 4789,
+          "tweet_count": 15368
+        },
+        "url": "https://t.co/gHlW7C5v3d",
+        "username": "blephin_",
+        "verified": true
+      }
+    ]
+  }
+}

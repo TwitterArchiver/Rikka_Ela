@@ -1,0 +1,136 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1977680466116571441",
+    "created_at": "2025-10-13T10:19:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T11:19:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1977680466116571441"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tokerumaisurii…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/tokerumaisurii/status/1977521586187231487",
+          "start": 141,
+          "url": "https://t.co/0Ysh1I69XE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977680466116571441",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977521586187231487",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今天早上五点醒的时候就想着你抱被子，你感觉恶心吗？好想和你谈恋爱，想得后槽牙咬得快碎了，你会觉得困扰吗，不要拒绝我可以吗？我活那么久还没谈过恋爱，好羡慕你，每次想到你跟别人待在一起说话的时候都羡慕得想紫砂😭😭😭😭好压抑，求求你和我谈一次可以吗，就试一个月可以吗😭😭😭😭🥺🥺🥺🥺🥺🥺 https://t.co/0Ysh1I69XE"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1977521586187231487].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1977521586187231487",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1977521586187231487"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1977680466116571441",
+        "created_at": "2025-10-13T10:19:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T11:19:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977680466116571441"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tokerumaisurii…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/tokerumaisurii/status/1977521586187231487",
+              "start": 141,
+              "url": "https://t.co/0Ysh1I69XE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977680466116571441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977521586187231487",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天早上五点醒的时候就想着你抱被子，你感觉恶心吗？好想和你谈恋爱，想得后槽牙咬得快碎了，你会觉得困扰吗，不要拒绝我可以吗？我活那么久还没谈过恋爱，好羡慕你，每次想到你跟别人待在一起说话的时候都羡慕得想紫砂😭😭😭😭好压抑，求求你和我谈一次可以吗，就试一个月可以吗😭😭😭😭🥺🥺🥺🥺🥺🥺 https://t.co/0Ysh1I69XE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4674,
+          "following_count": 3579,
+          "like_count": 73862,
+          "listed_count": 9,
+          "media_count": 308,
+          "tweet_count": 7121
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      }
+    ]
+  }
+}

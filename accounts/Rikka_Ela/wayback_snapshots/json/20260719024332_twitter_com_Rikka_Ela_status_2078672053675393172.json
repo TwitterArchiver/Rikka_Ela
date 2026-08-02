@@ -1,0 +1,689 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078464965456125952"
+      ],
+      "media_source_tweet_id": [
+        "2078464975795110216"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10044774920",
+          "name": "Dark Souls"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10044774920",
+          "name": "Dark Souls"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900785013129216",
+          "name": "Soulslike games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      }
+    ],
+    "conversation_id": "2078672053675393172",
+    "created_at": "2026-07-19T02:43:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T03:43:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078672053675393172"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 64,
+          "start": 54,
+          "tag": "DarkSouls"
+        },
+        {
+          "end": 74,
+          "start": 65,
+          "tag": "Sulyvahn"
+        },
+        {
+          "end": 83,
+          "start": 75,
+          "tag": "Aldrich"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1092060305440440321",
+          "start": 3,
+          "username": "Cruentum_Noctis"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IpKa88Tadb",
+          "end": 107,
+          "expanded_url": "https://x.com/Cruentum_Noctis/status/2078464975795110216/photo/1",
+          "media_key": "3_2078464965456125952",
+          "start": 84,
+          "url": "https://t.co/IpKa88Tadb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078672053675393172",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 332
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078464975795110216",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cruentum_Noctis: 教權之巔。\n𝔗𝔥𝔢 ℨ𝔢𝔫𝔦𝔱𝔥 𝔬𝔣 𝔱𝔥𝔢 𝔓𝔞𝔭𝔞𝔠𝔶.\n\n#DarkSouls #Sulyvahn #Aldrich https://t.co/IpKa88Tadb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2078464965456125952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNgw37gbYAA7dg6.jpg",
+        "width": 3247
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078464965456125952"
+          ]
+        },
+        "author_id": "1092060305440440321",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044774920",
+              "name": "Dark Souls"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044774920",
+              "name": "Dark Souls"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900785013129216",
+              "name": "Soulslike games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2078464975795110216",
+        "created_at": "2026-07-18T13:00:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T14:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078464975795110216"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 33,
+              "tag": "DarkSouls"
+            },
+            {
+              "end": 53,
+              "start": 44,
+              "tag": "Sulyvahn"
+            },
+            {
+              "end": 62,
+              "start": 54,
+              "tag": "Aldrich"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IpKa88Tadb",
+              "end": 86,
+              "expanded_url": "https://x.com/Cruentum_Noctis/status/2078464975795110216/photo/1",
+              "media_key": "3_2078464965456125952",
+              "start": 63,
+              "url": "https://t.co/IpKa88Tadb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078464975795110216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 193,
+          "impression_count": 18521,
+          "like_count": 1862,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 332
+        },
+        "reply_settings": "everyone",
+        "text": "教權之巔。\n𝔗𝔥𝔢 ℨ𝔢𝔫𝔦𝔱𝔥 𝔬𝔣 𝔱𝔥𝔢 𝔓𝔞𝔭𝔞𝔠𝔶.\n\n#DarkSouls #Sulyvahn #Aldrich https://t.co/IpKa88Tadb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078464965456125952"
+          ],
+          "media_source_tweet_id": [
+            "2078464975795110216"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044774920",
+              "name": "Dark Souls"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044774920",
+              "name": "Dark Souls"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900785013129216",
+              "name": "Soulslike games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2078672053675393172",
+        "created_at": "2026-07-19T02:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T03:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078672053675393172"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 54,
+              "tag": "DarkSouls"
+            },
+            {
+              "end": 74,
+              "start": 65,
+              "tag": "Sulyvahn"
+            },
+            {
+              "end": 83,
+              "start": 75,
+              "tag": "Aldrich"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1092060305440440321",
+              "start": 3,
+              "username": "Cruentum_Noctis"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IpKa88Tadb",
+              "end": 107,
+              "expanded_url": "https://x.com/Cruentum_Noctis/status/2078464975795110216/photo/1",
+              "media_key": "3_2078464965456125952",
+              "start": 84,
+              "url": "https://t.co/IpKa88Tadb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078672053675393172",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 332
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078464975795110216",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cruentum_Noctis: 教權之巔。\n𝔗𝔥𝔢 ℨ𝔢𝔫𝔦𝔱𝔥 𝔬𝔣 𝔱𝔥𝔢 𝔓𝔞𝔭𝔞𝔠𝔶.\n\n#DarkSouls #Sulyvahn #Aldrich https://t.co/IpKa88Tadb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6341,
+          "following_count": 3771,
+          "like_count": 86089,
+          "listed_count": 9,
+          "media_count": 448,
+          "tweet_count": 9983
+        },
+        "url": "",
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-03T14:00:41.000Z",
+        "description": "中文⭕ Eng⭕ You can call me Claire or 阿夜.\n♡FromSoftware Lore\n✧Elden Ring/Dark Souls/Bloodborne/Nightreign/OC\n✧Please credit when reposting my work",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cruentum_nocti…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cruentum_noctis?igsh=eWs0YjQydTRpaGt1",
+                "start": 0,
+                "url": "https://t.co/OxLQuWNFlN"
+              }
+            ]
+          }
+        },
+        "id": "1092060305440440321",
+        "location": "Taiwan",
+        "name": "৳┾────",
+        "pinned_tweet_id": "2002366493594640826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846979945823981569/mqBGi1N6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6798,
+          "following_count": 88,
+          "like_count": 3914,
+          "listed_count": 38,
+          "media_count": 122,
+          "tweet_count": 351
+        },
+        "url": "https://t.co/OxLQuWNFlN",
+        "username": "Cruentum_Noctis",
+        "verified": false
+      }
+    ]
+  }
+}

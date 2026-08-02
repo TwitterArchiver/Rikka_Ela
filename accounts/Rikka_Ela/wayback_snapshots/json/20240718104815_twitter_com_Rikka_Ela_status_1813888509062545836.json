@@ -1,0 +1,147 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1813869717381370093",
+    "created_at": "2024-07-18T10:48:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-18T11:48:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813888509062545836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1657055349982244865",
+          "start": 0,
+          "username": "Glagagapot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813888509062545836",
+    "in_reply_to_user_id": "1657055349982244865",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813869717381370093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Glagagapot 口腔溃疡的时候特别喜欢拿舌头或者牙尖去磨伤口（"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1813869717381370093].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1813869717381370093",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1813869717381370093"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1813869717381370093",
+        "created_at": "2024-07-18T10:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-18T11:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813888509062545836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1657055349982244865",
+              "start": 0,
+              "username": "Glagagapot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813888509062545836",
+        "in_reply_to_user_id": "1657055349982244865",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813869717381370093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Glagagapot 口腔溃疡的时候特别喜欢拿舌头或者牙尖去磨伤口（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2185,
+          "following_count": 2783,
+          "like_count": 42299,
+          "listed_count": 6,
+          "tweet_count": 2668
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-12T16:09:28.000Z",
+        "description": "嘎",
+        "id": "1657055349982244865",
+        "location": "嘎拉国",
+        "name": "嘎拉嘎嘎脸",
+        "pinned_tweet_id": "1809140218517488083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808219519955132418/-SdGclqb_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1544,
+          "following_count": 941,
+          "like_count": 30508,
+          "listed_count": 2,
+          "tweet_count": 11089
+        },
+        "username": "Glagagapot",
+        "verified": false
+      }
+    ]
+  }
+}

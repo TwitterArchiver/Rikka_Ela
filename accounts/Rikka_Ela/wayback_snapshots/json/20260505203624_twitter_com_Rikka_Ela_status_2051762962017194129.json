@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2051761079332573625",
+    "created_at": "2026-05-05T20:36:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T21:36:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051762962017194129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1397850509323554817",
+          "start": 0,
+          "username": "noaayoyaoaya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051762962017194129",
+    "in_reply_to_user_id": "1397850509323554817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051761079332573625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@noaayoyaoaya 这也是chaser的一种吗（寻思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2051761079332573625",
+        "created_at": "2026-05-05T20:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T21:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051762962017194129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1397850509323554817",
+              "start": 0,
+              "username": "noaayoyaoaya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051762962017194129",
+        "in_reply_to_user_id": "1397850509323554817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051761079332573625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@noaayoyaoaya 这也是chaser的一种吗（寻思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1397850509323554817",
+        "conversation_id": "2051761079332573625",
+        "created_at": "2026-05-05T20:28:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T21:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051761079332573625"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051761079332573625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只喜欢白人的老中和只喜欢中国人的白人都好恐怖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5181,
+          "following_count": 3761,
+          "like_count": 83412,
+          "listed_count": 10,
+          "media_count": 423,
+          "tweet_count": 9299
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-27T09:42:01.000Z",
+        "description": "你好 我是那由\n小号 @noaayoyaoaya1\n🪼@amber_medusozoa\n🐱@kirimarainfelis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "noaayoyaoaya1"
+              },
+              {
+                "end": 43,
+                "start": 27,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 61,
+                "start": 45,
+                "username": "kirimarainfelis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Hp2U0Rck9wU5O…",
+                "end": 23,
+                "expanded_url": "http://t.me/+Hp2U0Rck9wU5OGY0",
+                "start": 0,
+                "url": "https://t.co/aEspHWqhXk"
+              }
+            ]
+          }
+        },
+        "id": "1397850509323554817",
+        "name": "那由",
+        "pinned_tweet_id": "1947921475203436797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1626023028818681860/Tg9u2Z8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20922,
+          "following_count": 787,
+          "like_count": 10615,
+          "listed_count": 33,
+          "media_count": 112,
+          "tweet_count": 5169
+        },
+        "url": "https://t.co/aEspHWqhXk",
+        "username": "noaayoyaoaya",
+        "verified": true
+      }
+    ]
+  }
+}

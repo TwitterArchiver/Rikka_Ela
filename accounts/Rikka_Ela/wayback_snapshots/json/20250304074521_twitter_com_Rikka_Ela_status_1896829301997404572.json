@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1896823285213765957",
+    "created_at": "2025-03-04T07:45:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T08:45:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896829301997404572"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1896829301997404572",
+    "in_reply_to_user_id": "1418942200457662477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896823285213765957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今天早上进男厕刚把一位在上小号的教授给吓到小号都分期付款了）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1896823285213765957",
+        "created_at": "2025-03-04T07:45:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T08:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896829301997404572"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1896829301997404572",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896823285213765957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天早上进男厕刚把一位在上小号的教授给吓到小号都分期付款了）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1896823285213765957",
+        "created_at": "2025-03-04T07:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T08:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896823285213765957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/simone_luxem/s…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/simone_luxem/status/1896530390434935166",
+              "start": 87,
+              "url": "https://t.co/KDFcHfSpxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896823285213765957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896530390434935166",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我去男厕纯粹是因为不敢去女厕，每次都要等男厕没人再去上，怕吓到人。去女厕的那几次还是在门口被顺女朋友看见了然后让我去女厕（总之去男厕女厕都很害怕就是了，我还是穿尿不湿好了😭 https://t.co/KDFcHfSpxv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3823,
+          "following_count": 3280,
+          "like_count": 61093,
+          "listed_count": 7,
+          "media_count": 173,
+          "tweet_count": 5048
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,773 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052329058722349056",
+        "3_2052329087147061248",
+        "3_2052329087121895424",
+        "3_2052329087163850752"
+      ],
+      "media_source_tweet_id": [
+        "2052329281821491212",
+        "2052329281821491212",
+        "2052329281821491212",
+        "2052329281821491212"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10044774920",
+          "name": "Dark Souls"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10044774920",
+          "name": "Dark Souls"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900785013129216",
+          "name": "Soulslike games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      }
+    ],
+    "conversation_id": "2052400345746166072",
+    "created_at": "2026-05-07T14:49:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T15:49:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052400345746166072"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 48,
+          "start": 37,
+          "tag": "DarkSouls3"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1460914557254193154",
+          "start": 3,
+          "username": "JB_Jawbreaker"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BJ7iNBvP99",
+          "end": 72,
+          "expanded_url": "https://x.com/JB_Jawbreaker/status/2052329281821491212/photo/1",
+          "media_key": "3_2052329058722349056",
+          "start": 49,
+          "url": "https://t.co/BJ7iNBvP99"
+        },
+        {
+          "display_url": "pic.x.com/BJ7iNBvP99",
+          "end": 72,
+          "expanded_url": "https://x.com/JB_Jawbreaker/status/2052329281821491212/photo/1",
+          "media_key": "3_2052329087147061248",
+          "start": 49,
+          "url": "https://t.co/BJ7iNBvP99"
+        },
+        {
+          "display_url": "pic.x.com/BJ7iNBvP99",
+          "end": 72,
+          "expanded_url": "https://x.com/JB_Jawbreaker/status/2052329281821491212/photo/1",
+          "media_key": "3_2052329087121895424",
+          "start": 49,
+          "url": "https://t.co/BJ7iNBvP99"
+        },
+        {
+          "display_url": "pic.x.com/BJ7iNBvP99",
+          "end": 72,
+          "expanded_url": "https://x.com/JB_Jawbreaker/status/2052329281821491212/photo/1",
+          "media_key": "3_2052329087163850752",
+          "start": 49,
+          "url": "https://t.co/BJ7iNBvP99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052400345746166072",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052329281821491212",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JB_Jawbreaker: Ashes of Ariandel\n#DarkSouls3 https://t.co/BJ7iNBvP99"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2052329058722349056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHtWZ7tbgAAHYSt.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2052329087147061248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHtWblmaMAAWiWI.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2052329087121895424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHtWblgaMAAA57c.jpg",
+        "width": 2560
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2052329087163850752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHtWblqaYAA9-G3.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052329058722349056",
+            "3_2052329087147061248",
+            "3_2052329087121895424",
+            "3_2052329087163850752"
+          ],
+          "media_source_tweet_id": [
+            "2052329281821491212",
+            "2052329281821491212",
+            "2052329281821491212",
+            "2052329281821491212"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044774920",
+              "name": "Dark Souls"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044774920",
+              "name": "Dark Souls"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900785013129216",
+              "name": "Soulslike games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2052400345746166072",
+        "created_at": "2026-05-07T14:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T15:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052400345746166072"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 37,
+              "tag": "DarkSouls3"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1460914557254193154",
+              "start": 3,
+              "username": "JB_Jawbreaker"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BJ7iNBvP99",
+              "end": 72,
+              "expanded_url": "https://x.com/JB_Jawbreaker/status/2052329281821491212/photo/1",
+              "media_key": "3_2052329058722349056",
+              "start": 49,
+              "url": "https://t.co/BJ7iNBvP99"
+            },
+            {
+              "display_url": "pic.x.com/BJ7iNBvP99",
+              "end": 72,
+              "expanded_url": "https://x.com/JB_Jawbreaker/status/2052329281821491212/photo/1",
+              "media_key": "3_2052329087147061248",
+              "start": 49,
+              "url": "https://t.co/BJ7iNBvP99"
+            },
+            {
+              "display_url": "pic.x.com/BJ7iNBvP99",
+              "end": 72,
+              "expanded_url": "https://x.com/JB_Jawbreaker/status/2052329281821491212/photo/1",
+              "media_key": "3_2052329087121895424",
+              "start": 49,
+              "url": "https://t.co/BJ7iNBvP99"
+            },
+            {
+              "display_url": "pic.x.com/BJ7iNBvP99",
+              "end": 72,
+              "expanded_url": "https://x.com/JB_Jawbreaker/status/2052329281821491212/photo/1",
+              "media_key": "3_2052329087163850752",
+              "start": 49,
+              "url": "https://t.co/BJ7iNBvP99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052400345746166072",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052329281821491212",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JB_Jawbreaker: Ashes of Ariandel\n#DarkSouls3 https://t.co/BJ7iNBvP99"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052329058722349056",
+            "3_2052329087147061248",
+            "3_2052329087121895424",
+            "3_2052329087163850752"
+          ]
+        },
+        "author_id": "1460914557254193154",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044774920",
+              "name": "Dark Souls"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044774920",
+              "name": "Dark Souls"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900785013129216",
+              "name": "Soulslike games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2052329281821491212",
+        "created_at": "2026-05-07T10:06:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T11:06:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052329281821491212"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 18,
+              "tag": "DarkSouls3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BJ7iNBvP99",
+              "end": 53,
+              "expanded_url": "https://x.com/JB_Jawbreaker/status/2052329281821491212/photo/1",
+              "media_key": "3_2052329058722349056",
+              "start": 30,
+              "url": "https://t.co/BJ7iNBvP99"
+            },
+            {
+              "display_url": "pic.x.com/BJ7iNBvP99",
+              "end": 53,
+              "expanded_url": "https://x.com/JB_Jawbreaker/status/2052329281821491212/photo/1",
+              "media_key": "3_2052329087147061248",
+              "start": 30,
+              "url": "https://t.co/BJ7iNBvP99"
+            },
+            {
+              "display_url": "pic.x.com/BJ7iNBvP99",
+              "end": 53,
+              "expanded_url": "https://x.com/JB_Jawbreaker/status/2052329281821491212/photo/1",
+              "media_key": "3_2052329087121895424",
+              "start": 30,
+              "url": "https://t.co/BJ7iNBvP99"
+            },
+            {
+              "display_url": "pic.x.com/BJ7iNBvP99",
+              "end": 53,
+              "expanded_url": "https://x.com/JB_Jawbreaker/status/2052329281821491212/photo/1",
+              "media_key": "3_2052329087163850752",
+              "start": 30,
+              "url": "https://t.co/BJ7iNBvP99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052329281821491212",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 2416,
+          "like_count": 165,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "Ashes of Ariandel\n#DarkSouls3 https://t.co/BJ7iNBvP99"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5190,
+          "following_count": 3763,
+          "like_count": 83549,
+          "listed_count": 10,
+          "media_count": 423,
+          "tweet_count": 9328
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-17T10:16:09.000Z",
+        "description": "I just really like video games | Virtual Photographer | Followed by @SonySantaMonica @Guerrilla",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 68,
+                "username": "SonySantaMonica"
+              },
+              {
+                "end": 95,
+                "start": 85,
+                "username": "Guerrilla"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/JB_JawBreaker",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/JB_JawBreaker",
+                "start": 0,
+                "url": "https://t.co/WDAvdubd40"
+              }
+            ]
+          }
+        },
+        "id": "1460914557254193154",
+        "location": "Japan",
+        "name": "JB JawBreaker",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954455103634833408/wFHRUhx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8598,
+          "following_count": 310,
+          "like_count": 68839,
+          "listed_count": 39,
+          "media_count": 7025,
+          "tweet_count": 17701
+        },
+        "url": "https://t.co/WDAvdubd40",
+        "username": "JB_Jawbreaker",
+        "verified": false
+      }
+    ]
+  }
+}

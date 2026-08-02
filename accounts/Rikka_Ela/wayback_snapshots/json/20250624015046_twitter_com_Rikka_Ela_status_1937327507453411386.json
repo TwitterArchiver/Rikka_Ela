@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1937212591635595747",
+    "created_at": "2025-06-24T01:50:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T02:50:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937327507453411386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1880325371280912386",
+          "start": 0,
+          "username": "genya1976"
+        },
+        {
+          "end": 25,
+          "id": "1490675894238986251",
+          "start": 11,
+          "username": "SayoriCat8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937327507453411386",
+    "in_reply_to_user_id": "1880325371280912386",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937324013849862300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@genya1976 @SayoriCat8964 西瓜味"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1937324013849862300].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1937324013849862300",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1937324013849862300"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1937212591635595747",
+        "created_at": "2025-06-24T01:50:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T02:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937327507453411386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1880325371280912386",
+              "start": 0,
+              "username": "genya1976"
+            },
+            {
+              "end": 25,
+              "id": "1490675894238986251",
+              "start": 11,
+              "username": "SayoriCat8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937327507453411386",
+        "in_reply_to_user_id": "1880325371280912386",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937324013849862300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@genya1976 @SayoriCat8964 西瓜味"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4345,
+          "following_count": 3507,
+          "like_count": 69615,
+          "listed_count": 6,
+          "media_count": 241,
+          "tweet_count": 6277
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T18:44:47.000Z",
+        "description": "圣彼得堡/莫斯科/新西伯利亚/叶卡捷琳堡/阿拉木图 偶尔兼职公狗 可线上线下 优先回复私信备注地区长度 拒绝回复小于18cm的男的 小鸡巴的勿扰除了@zhu6hua\n不定时活跃或视奸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 74,
+                "username": "zhu6hua"
+              }
+            ]
+          }
+        },
+        "id": "1880325371280912386",
+        "name": "茳菁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891118827171360768/JgsYPNw__normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 427,
+          "like_count": 61647,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 1705
+        },
+        "username": "genya1976",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T13:16:58.000Z",
+        "description": "架空历史创作/民主社会主义/对政治人物态度不代表赞同其立场或意识形态/ 哈基汪@A5tr41",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 39,
+                "username": "A5tr41"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "whitehouse.gov",
+                "end": 23,
+                "expanded_url": "http://www.whitehouse.gov",
+                "start": 0,
+                "url": "https://t.co/pWZx2Vbika"
+              }
+            ]
+          }
+        },
+        "id": "1490675894238986251",
+        "location": "小马里亚 马哈顿",
+        "name": "🎻邪恶纱世理",
+        "pinned_tweet_id": "1929014853491925052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912750102479048704/H54iMSqK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2878,
+          "following_count": 1232,
+          "like_count": 131539,
+          "listed_count": 11,
+          "media_count": 1628,
+          "tweet_count": 19602
+        },
+        "url": "https://t.co/pWZx2Vbika",
+        "username": "SayoriCat8964",
+        "verified": false
+      }
+    ]
+  }
+}

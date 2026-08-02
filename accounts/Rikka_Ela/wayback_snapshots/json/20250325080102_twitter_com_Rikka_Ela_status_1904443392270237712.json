@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1904402221300944932",
+    "created_at": "2025-03-25T08:01:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T09:01:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904443392270237712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "936534642924011520",
+          "start": 0,
+          "username": "remiw98"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904443392270237712",
+    "in_reply_to_user_id": "936534642924011520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904402221300944932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@remiw98 我就这样🧎‍♀️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1904402221300944932",
+        "created_at": "2025-03-25T08:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T09:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904443392270237712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "936534642924011520",
+              "start": 0,
+              "username": "remiw98"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904443392270237712",
+        "in_reply_to_user_id": "936534642924011520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904402221300944932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@remiw98 我就这样🧎‍♀️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "936534642924011520",
+        "conversation_id": "1904402221300944932",
+        "created_at": "2025-03-25T05:17:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T06:17:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904402221300944932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/breathing336/s…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/breathing336/status/1903424576908140612",
+              "start": 20,
+              "url": "https://t.co/NZDFtihlG9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904402221300944932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 768,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903424576908140612",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "猜猜这些男生有没有可能长大后成跨女了😁 https://t.co/NZDFtihlG9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3995,
+          "following_count": 3308,
+          "like_count": 63064,
+          "listed_count": 7,
+          "media_count": 181,
+          "tweet_count": 5373
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-01T09:57:13.000Z",
+        "description": "",
+        "id": "936534642924011520",
+        "name": "被迫找女心",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904058034256850944/gbylY83K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 3613,
+          "like_count": 122655,
+          "listed_count": 3,
+          "media_count": 215,
+          "tweet_count": 3564
+        },
+        "username": "remiw98",
+        "verified": false
+      }
+    ]
+  }
+}

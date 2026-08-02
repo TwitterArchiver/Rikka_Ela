@@ -1,0 +1,457 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10056559383",
+          "name": "The Boys"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1276514328007467008",
+          "name": "Movies & TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281303495421784065",
+          "name": "Dark drama"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281304160487370752",
+          "name": "Drama TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1306573414300172293",
+          "name": "The Boys"
+        }
+      },
+      {
+        "domain": {
+          "description": "For global/conceptual TV shows without localization.",
+          "id": "172",
+          "name": "Global TV Show"
+        },
+        "entity": {
+          "id": "1306573414300172293",
+          "name": "The Boys"
+        }
+      }
+    ],
+    "conversation_id": "2057026092578340968",
+    "created_at": "2026-05-20T09:10:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T10:10:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057026092578340968"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/discussingfilm…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/discussingfilm/status/2057003911588761732",
+          "start": 29,
+          "url": "https://t.co/1lrcBm6U0V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057026092578340968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057003911588761732",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大烂尾结局，Homelander和Oi~咋死的这么草率💔 https://t.co/1lrcBm6U0V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2057003907788783616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIvyJ9lXQAAPFzs.jpg",
+        "width": 1024
+      },
+      {
+        "height": 921,
+        "media_key": "3_2057003907759415296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIvyJ9eXIAAW7da.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10056559383",
+              "name": "The Boys"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281303495421784065",
+              "name": "Dark drama"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1306573414300172293",
+              "name": "The Boys"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1306573414300172293",
+              "name": "The Boys"
+            }
+          }
+        ],
+        "conversation_id": "2057026092578340968",
+        "created_at": "2026-05-20T09:10:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T10:10:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057026092578340968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/discussingfilm…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/discussingfilm/status/2057003911588761732",
+              "start": 29,
+              "url": "https://t.co/1lrcBm6U0V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057026092578340968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057003911588761732",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大烂尾结局，Homelander和Oi~咋死的这么草率💔 https://t.co/1lrcBm6U0V"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057003907788783616",
+            "3_2057003907759415296"
+          ]
+        },
+        "author_id": "780460754910732288",
+        "conversation_id": "2057003911588761732",
+        "created_at": "2026-05-20T07:42:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T08:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057003911588761732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t9wxdWDESH",
+              "end": 59,
+              "expanded_url": "https://x.com/DiscussingFilm/status/2057003911588761732/photo/1",
+              "media_key": "3_2057003907788783616",
+              "start": 36,
+              "url": "https://t.co/t9wxdWDESH"
+            },
+            {
+              "display_url": "pic.x.com/t9wxdWDESH",
+              "end": 59,
+              "expanded_url": "https://x.com/DiscussingFilm/status/2057003911588761732/photo/1",
+              "media_key": "3_2057003907759415296",
+              "start": 36,
+              "url": "https://t.co/t9wxdWDESH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057003911588761732",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 780,
+          "impression_count": 287087,
+          "like_count": 20743,
+          "quote_count": 327,
+          "reply_count": 321,
+          "retweet_count": 1756
+        },
+        "reply_settings": "everyone",
+        "text": "‘THE BOYS’ has ended after 7 years. https://t.co/t9wxdWDESH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5256,
+          "following_count": 3781,
+          "like_count": 84814,
+          "listed_count": 8,
+          "media_count": 431,
+          "tweet_count": 9554
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-26T17:35:19.000Z",
+        "description": "Your leading source for quick reliable news. Home for healthy and liberating discussion on all things pop culture. (Affiliate links shared earn us commissions)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discussingfilm.net",
+                "end": 23,
+                "expanded_url": "https://discussingfilm.net",
+                "start": 0,
+                "url": "https://t.co/y1ys7VVg0Z"
+              }
+            ]
+          }
+        },
+        "id": "780460754910732288",
+        "name": "DiscussingFilm",
+        "pinned_tweet_id": "1032328535669727232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1706429397467549696/hmvwfChQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2897346,
+          "following_count": 828,
+          "like_count": 3016,
+          "listed_count": 7332,
+          "media_count": 62081,
+          "tweet_count": 72574
+        },
+        "url": "https://t.co/y1ys7VVg0Z",
+        "username": "DiscussingFilm",
+        "verified": true
+      }
+    ]
+  }
+}

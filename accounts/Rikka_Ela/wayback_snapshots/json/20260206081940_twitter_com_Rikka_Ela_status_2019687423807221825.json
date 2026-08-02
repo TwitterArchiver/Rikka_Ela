@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2019446970142630013",
+    "created_at": "2026-02-06T08:19:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T09:19:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019687423807221825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "933563089106083840",
+          "start": 0,
+          "username": "AyanoAsahina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019687423807221825",
+    "in_reply_to_user_id": "933563089106083840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019588846942580839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AyanoAsahina IR是没问题的）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2019446970142630013",
+        "created_at": "2026-02-06T08:19:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T09:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019687423807221825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "933563089106083840",
+              "start": 0,
+              "username": "AyanoAsahina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019687423807221825",
+        "in_reply_to_user_id": "933563089106083840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019588846942580839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AyanoAsahina IR是没问题的）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "933563089106083840",
+        "conversation_id": "2019446970142630013",
+        "created_at": "2026-02-06T01:47:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T02:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019588846942580839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019588846942580839",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019446970142630013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 结构看上去还挺容易结晶的。虽然过了柱子但不知道你东西干不干净，先看核磁吧。干净了用劣溶剂打浆，感觉Hex可以，把包裹的溶剂都释放出来。估计能得到大量白色固体，然后慢慢加温热EA准备重结晶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4873,
+          "following_count": 3706,
+          "like_count": 78916,
+          "listed_count": 9,
+          "media_count": 368,
+          "tweet_count": 8167
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-23T05:09:20.000Z",
+        "description": "30♂//看女装的直接去亮点(偶尔有荤的注意⚠️)//都内一般会社員//120% purity sub//抽空搞点考斯普雷//需要回fo请DM//如果想问任何问题➡️https://t.co/VACXZCUkde",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ayanoasah1na",
+                "end": 106,
+                "expanded_url": "http://ngl.link/ayanoasah1na",
+                "start": 83,
+                "url": "https://t.co/VACXZCUkde"
+              }
+            ]
+          }
+        },
+        "id": "933563089106083840",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "Ayano",
+        "pinned_tweet_id": "2017285259671605631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016479022633439232/mzjkFGNQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1998,
+          "following_count": 398,
+          "like_count": 658,
+          "listed_count": 12,
+          "media_count": 74,
+          "tweet_count": 925
+        },
+        "username": "AyanoAsahina",
+        "verified": true
+      }
+    ]
+  }
+}

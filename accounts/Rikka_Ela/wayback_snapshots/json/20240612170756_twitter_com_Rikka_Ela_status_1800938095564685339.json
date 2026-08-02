@@ -1,0 +1,187 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1800930463114211738",
+    "created_at": "2024-06-12T17:07:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-12T18:07:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800938095564685339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1347946755866980354",
+          "start": 0,
+          "username": "Junglemmm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800938095564685339",
+    "in_reply_to_user_id": "1347946755866980354",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800930463114211738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Junglemmm 111缺抖m吗🥵🥵🥵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1800930463114211738",
+        "created_at": "2024-06-12T17:07:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-12T18:07:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800938095564685339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1347946755866980354",
+              "start": 0,
+              "username": "Junglemmm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800938095564685339",
+        "in_reply_to_user_id": "1347946755866980354",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800930463114211738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Junglemmm 111缺抖m吗🥵🥵🥵"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1800930452720750592",
+            "3_1800930452565594112"
+          ]
+        },
+        "author_id": "1347946755866980354",
+        "conversation_id": "1800930463114211738",
+        "created_at": "2024-06-12T16:37:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-12T17:37:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800930463114211738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/6v1zjMMWTQ",
+              "end": 35,
+              "expanded_url": "https://twitter.com/Junglemmm/status/1800930463114211738/photo/1",
+              "media_key": "3_1800930452720750592",
+              "start": 12,
+              "url": "https://t.co/6v1zjMMWTQ"
+            },
+            {
+              "display_url": "pic.twitter.com/6v1zjMMWTQ",
+              "end": 35,
+              "expanded_url": "https://twitter.com/Junglemmm/status/1800930463114211738/photo/1",
+              "media_key": "3_1800930452565594112",
+              "start": 12,
+              "url": "https://t.co/6v1zjMMWTQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800930463114211738",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 150,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于我是抖s的一些佐证 https://t.co/6v1zjMMWTQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UNNC‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2090,
+          "following_count": 2685,
+          "like_count": 38284,
+          "listed_count": 5,
+          "tweet_count": 2358
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-09T16:42:13.000Z",
+        "description": "infp｜UNNC｜160三级残废的似人｜持证含糖小男娘（2023.9.15）🍥｜游戏王ocg",
+        "id": "1347946755866980354",
+        "name": "柚子有点皮",
+        "pinned_tweet_id": "1702586182708658497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787796679393148928/T9QSXaTe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1560,
+          "following_count": 424,
+          "like_count": 3131,
+          "listed_count": 5,
+          "tweet_count": 1294
+        },
+        "username": "Junglemmm",
+        "verified": false
+      }
+    ]
+  }
+}

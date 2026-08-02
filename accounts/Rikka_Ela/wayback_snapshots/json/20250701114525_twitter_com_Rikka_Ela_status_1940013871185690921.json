@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1940013871185690921",
+    "created_at": "2025-07-01T11:45:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T12:45:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940013871185690921"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 127,
+          "normalized_text": "Canada Day",
+          "probability": 0.7376,
+          "start": 118,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "143514132",
+          "start": 3,
+          "username": "FCM_online"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940013871185690921",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940012541108724068",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FCM_online: Canadians are bold and ambitious.\n\nWe are builders and innovators—and we are stronger together.\n\nThis Canada Day, we celebr…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 40320,
+        "height": 1920,
+        "media_key": "13_1940012407952130048",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1940012407952130048/img/BMIcygHXY2IoJf9o.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1940012407952130048/pl/WolAGnKCANE3p0WJ.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1940012407952130048/vid/avc1/720x1280/jB8Rp2QWsAIkfA78.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1940012407952130048/vid/avc1/320x568/brzSrbuCvJXDTwr9.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1940012407952130048/vid/avc1/1080x1920/c2Gr_vidP6QZey__.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1940012407952130048/vid/avc1/480x852/hzMwjsKvTme9VDmW.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1940013871185690921",
+        "created_at": "2025-07-01T11:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T12:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940013871185690921"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 127,
+              "normalized_text": "Canada Day",
+              "probability": 0.7376,
+              "start": 118,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "143514132",
+              "start": 3,
+              "username": "FCM_online"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940013871185690921",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940012541108724068",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FCM_online: Canadians are bold and ambitious.\n\nWe are builders and innovators—and we are stronger together.\n\nThis Canada Day, we celebr…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1940012407952130048"
+          ]
+        },
+        "author_id": "143514132",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Reuters",
+              "id": "10047963346",
+              "name": "Reuters"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Reuters",
+              "id": "10047963346",
+              "name": "Reuters"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          }
+        ],
+        "conversation_id": "1940012541108724068",
+        "created_at": "2025-07-01T11:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T12:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940012541108724068"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 111,
+              "normalized_text": "Canada Day",
+              "probability": 0.7378,
+              "start": 102,
+              "type": "Other"
+            },
+            {
+              "end": 132,
+              "normalized_text": "Canada",
+              "probability": 0.9577,
+              "start": 127,
+              "type": "Place"
+            },
+            {
+              "end": 268,
+              "normalized_text": "IMAGO",
+              "probability": 0.7119,
+              "start": 264,
+              "type": "Organization"
+            },
+            {
+              "end": 277,
+              "normalized_text": "Reuters",
+              "probability": 0.9628,
+              "start": 271,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i7IRw57Xfl",
+              "end": 303,
+              "expanded_url": "https://x.com/FCM_online/status/1940012541108724068/video/1",
+              "media_key": "13_1940012407952130048",
+              "start": 280,
+              "url": "https://t.co/i7IRw57Xfl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940012541108724068",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 318,
+                "start": 308,
+                "tag": "CanadaDay"
+              },
+              {
+                "end": 334,
+                "start": 319,
+                "tag": "HappyCanadaDay"
+              },
+              {
+                "end": 351,
+                "start": 335,
+                "tag": "CelebrateCanada"
+              }
+            ]
+          },
+          "text": "Canadians are bold and ambitious.\n\nWe are builders and innovators—and we are stronger together.\n\nThis Canada Day, we celebrate Canada’s journey of resilience—and the people, industries and communities that keep our national fabric strong.\n\nStock Media provided by IMAGO, Reuters, EPA_Image, roiboos / Pond5\n\n#CanadaDay #HappyCanadaDay #CelebrateCanada"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Canadians are bold and ambitious.\n\nWe are builders and innovators—and we are stronger together.\n\nThis Canada Day, we celebrate Canada’s journey of resilience—and the people, industries and communities that keep our national fabric strong.\n\nStock Media provided by IMAGO, Reuters, https://t.co/i7IRw57Xfl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4372,
+          "following_count": 3514,
+          "like_count": 69950,
+          "listed_count": 7,
+          "media_count": 250,
+          "tweet_count": 6338
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-13T17:39:38.000Z",
+        "description": "The Federation of Canadian Municipalities has been the national voice of municipal government since 1901. #CDNmuni En français : @ReseauFCM",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 114,
+                "start": 106,
+                "tag": "CDNmuni"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 139,
+                "start": 129,
+                "username": "ReseauFCM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fcm.ca/en/about-fcm",
+                "end": 23,
+                "expanded_url": "https://fcm.ca/en/about-fcm",
+                "start": 0,
+                "url": "https://t.co/SiCTSWTKGm"
+              }
+            ]
+          }
+        },
+        "id": "143514132",
+        "location": "Ottawa, Canada",
+        "name": "Federation of Canadian Municipalities",
+        "pinned_tweet_id": "1903852169293385923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1005114991966502912/rPz_D_5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26198,
+          "following_count": 9917,
+          "like_count": 11444,
+          "listed_count": 0,
+          "media_count": 9086,
+          "tweet_count": 56526
+        },
+        "url": "https://t.co/SiCTSWTKGm",
+        "username": "FCM_online",
+        "verified": true
+      }
+    ]
+  }
+}

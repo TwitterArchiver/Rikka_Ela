@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1901656340038361532",
+    "created_at": "2025-03-17T15:30:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-17T16:30:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901657338375008441"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1901657338375008441",
+    "in_reply_to_user_id": "1418942200457662477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901656340038361532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今天边跑模型边上课还得做免疫学的作业，晚上预习明天的lab，快给我整出人格分裂了🧎‍♀️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1901656340038361532",
+        "created_at": "2025-03-17T15:30:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T16:30:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901657338375008441"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1901657338375008441",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901656340038361532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天边跑模型边上课还得做免疫学的作业，晚上预习明天的lab，快给我整出人格分裂了🧎‍♀️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1901656340038361532",
+        "created_at": "2025-03-17T15:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T16:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901656340038361532"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1901656340038361532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "欸其实最想做的还是生化制药这方面，但是被导师拉进了AI和Computational Chemistry组（一个全是代码和模型，一个全是数学，化学都没沾多少，为什么后面还要跟“Chemistry ”呢），导师真的很喜欢我，我也就不好意思拒绝。这学期选了一门分子细胞免疫学的课，就当是给自己一点安慰了（好玩，但是学不懂😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3979,
+          "following_count": 3302,
+          "like_count": 62399,
+          "listed_count": 7,
+          "media_count": 180,
+          "tweet_count": 5289
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      }
+    ]
+  }
+}

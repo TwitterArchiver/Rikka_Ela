@@ -1,0 +1,411 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Nippon Television (日本テレビ)",
+          "id": "1034887797990027264",
+          "name": "Nippon Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1276514328007467008",
+          "name": "Movies & TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293297579778699264",
+          "name": "Variety TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407761676598870019",
+          "name": "Ariyoshi no kabe"
+        }
+      },
+      {
+        "domain": {
+          "description": "For global/conceptual TV shows without localization.",
+          "id": "172",
+          "name": "Global TV Show"
+        },
+        "entity": {
+          "id": "1407761676598870019",
+          "name": "Ariyoshi no kabe"
+        }
+      }
+    ],
+    "conversation_id": "2046950938888589674",
+    "created_at": "2026-04-22T21:09:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T22:09:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047060244656685490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1648886687999889408",
+          "start": 0,
+          "username": "pineorange1000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047060244656685490",
+    "in_reply_to_user_id": "1648886687999889408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046950938888589674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pineorange1000 前有壁外雪原……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 436,
+        "media_key": "3_2046950621086167040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGg6vqKbMAAprpi.png",
+        "width": 622
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nippon Television (日本テレビ)",
+              "id": "1034887797990027264",
+              "name": "Nippon Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293297579778699264",
+              "name": "Variety TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407761676598870019",
+              "name": "Ariyoshi no kabe"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1407761676598870019",
+              "name": "Ariyoshi no kabe"
+            }
+          }
+        ],
+        "conversation_id": "2046950938888589674",
+        "created_at": "2026-04-22T21:09:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T22:09:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047060244656685490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1648886687999889408",
+              "start": 0,
+              "username": "pineorange1000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047060244656685490",
+        "in_reply_to_user_id": "1648886687999889408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046950938888589674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pineorange1000 前有壁外雪原……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046950621086167040"
+          ]
+        },
+        "author_id": "1648886687999889408",
+        "conversation_id": "2046950938888589674",
+        "created_at": "2026-04-22T13:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T14:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046950938888589674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QDVkwzK2Ot",
+              "end": 69,
+              "expanded_url": "https://x.com/pineorange1000/status/2046950938888589674/photo/1",
+              "media_key": "3_2046950621086167040",
+              "start": 46,
+              "url": "https://t.co/QDVkwzK2Ot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046950938888589674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4776,
+          "like_count": 119,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "steam的中世紀節\n擁有最大量善意的黑暗靈魂2\n特價下來只要兩百多😭\n拜託大家趕快去買😭 https://t.co/QDVkwzK2Ot"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5082,
+          "following_count": 3736,
+          "like_count": 82384,
+          "listed_count": 10,
+          "media_count": 414,
+          "tweet_count": 9074
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-20T03:10:26.000Z",
+        "description": "一顆快樂的柳丁，YT頻道頻道主要是遊戲心得或攻略，如果你也是卑鄙的外鄉人，歡迎一起來同樂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@pineorange630…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@pineorange6300/videos",
+                "start": 0,
+                "url": "https://t.co/dWoJ9SbV8g"
+              }
+            ]
+          }
+        },
+        "id": "1648886687999889408",
+        "location": "Lands Between",
+        "name": "派柳丁🍊pineorange",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701661589475356672/LASqWjGO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2886,
+          "following_count": 143,
+          "like_count": 2707,
+          "listed_count": 6,
+          "media_count": 278,
+          "tweet_count": 1783
+        },
+        "url": "https://t.co/dWoJ9SbV8g",
+        "username": "pineorange1000",
+        "verified": false
+      }
+    ]
+  }
+}

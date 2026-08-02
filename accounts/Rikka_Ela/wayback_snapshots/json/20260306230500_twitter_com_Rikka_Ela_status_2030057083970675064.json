@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2029886166254993408"
+      ],
+      "media_source_tweet_id": [
+        "2029886248459063590"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2030057083970675064",
+    "created_at": "2026-03-06T23:05:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T00:05:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030057083970675064"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 68,
+          "start": 61,
+          "tag": "ナイトレイン"
+        },
+        {
+          "end": 82,
+          "start": 71,
+          "tag": "NIGHTREIGN"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1932973564996829184",
+          "start": 3,
+          "username": "Tamago_Injya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7AG1ZD4B6q",
+          "end": 106,
+          "expanded_url": "https://x.com/Tamago_Injya/status/2029886248459063590/video/1",
+          "media_key": "13_2029886166254993408",
+          "start": 83,
+          "url": "https://t.co/7AG1ZD4B6q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030057083970675064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 94
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029886248459063590",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tamago_Injya: めっちゃ惜しい！！\n深度5常ハルギリギリ全HP1パンならず！！\n\n7万ダメージ！\n\n #ナイトレイン \n #NIGHTREIGN https://t.co/7AG1ZD4B6q"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20987,
+        "height": 720,
+        "media_key": "13_2029886166254993408",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2029886166254993408/img/4FSWTTOTkvSlwo_b.jpg",
+        "public_metrics": {
+          "view_count": 38249
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029886166254993408/vid/avc1/480x270/qiVf7aKP1NbXBHD7.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029886166254993408/vid/avc1/640x360/NZ76Ra5vRHVKsvR7.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2029886166254993408/vid/avc1/1280x720/OGXQRCaXWIDkr-lD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2029886166254993408/pl/DEe2mWpAsNMOWsuL.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2029886166254993408"
+          ],
+          "media_source_tweet_id": [
+            "2029886248459063590"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2030057083970675064",
+        "created_at": "2026-03-06T23:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T00:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030057083970675064"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 68,
+              "start": 61,
+              "tag": "ナイトレイン"
+            },
+            {
+              "end": 82,
+              "start": 71,
+              "tag": "NIGHTREIGN"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1932973564996829184",
+              "start": 3,
+              "username": "Tamago_Injya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7AG1ZD4B6q",
+              "end": 106,
+              "expanded_url": "https://x.com/Tamago_Injya/status/2029886248459063590/video/1",
+              "media_key": "13_2029886166254993408",
+              "start": 83,
+              "url": "https://t.co/7AG1ZD4B6q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030057083970675064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 94
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029886248459063590",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tamago_Injya: めっちゃ惜しい！！\n深度5常ハルギリギリ全HP1パンならず！！\n\n7万ダメージ！\n\n #ナイトレイン \n #NIGHTREIGN https://t.co/7AG1ZD4B6q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2029886166254993408"
+          ]
+        },
+        "author_id": "1932973564996829184",
+        "conversation_id": "2029886248459063590",
+        "created_at": "2026-03-06T11:46:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T12:46:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029886248459063590"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 43,
+              "tag": "ナイトレイン"
+            },
+            {
+              "end": 64,
+              "start": 53,
+              "tag": "NIGHTREIGN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7AG1ZD4B6q",
+              "end": 88,
+              "expanded_url": "https://x.com/Tamago_Injya/status/2029886248459063590/video/1",
+              "media_key": "13_2029886166254993408",
+              "start": 65,
+              "url": "https://t.co/7AG1ZD4B6q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029886248459063590",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 112,
+          "impression_count": 82049,
+          "like_count": 983,
+          "quote_count": 11,
+          "reply_count": 8,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "めっちゃ惜しい！！\n深度5常ハルギリギリ全HP1パンならず！！\n\n7万ダメージ！\n\n #ナイトレイン \n #NIGHTREIGN https://t.co/7AG1ZD4B6q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4959,
+          "following_count": 3732,
+          "like_count": 80060,
+          "listed_count": 9,
+          "media_count": 382,
+          "tweet_count": 8426
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T01:29:54.000Z",
+        "description": "9/22深き夜カンスト！！ YouTube⇒ https://t.co/BZHHwVb2eG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@tamagomeshi_c…",
+                "end": 46,
+                "expanded_url": "https://youtube.com/@tamagomeshi_ch?si=hfn_x9PHyQsZK9E-",
+                "start": 23,
+                "url": "https://t.co/BZHHwVb2eG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/tujKnWKZ",
+                "end": 23,
+                "expanded_url": "https://discord.gg/tujKnWKZ",
+                "start": 0,
+                "url": "https://t.co/FP5zhlB98S"
+              }
+            ]
+          }
+        },
+        "id": "1932973564996829184",
+        "name": "たまご/ゆっくり実況",
+        "pinned_tweet_id": "1968917760626364690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014221255814320128/mxZYEK57_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1376,
+          "following_count": 238,
+          "like_count": 3268,
+          "listed_count": 7,
+          "media_count": 144,
+          "tweet_count": 883
+        },
+        "url": "https://t.co/FP5zhlB98S",
+        "username": "Tamago_Injya",
+        "verified": false
+      }
+    ]
+  }
+}

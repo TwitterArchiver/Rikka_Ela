@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2044430294132920719",
+    "created_at": "2026-04-15T15:53:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T16:53:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044444046236512648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1567061441152450560",
+          "start": 0,
+          "username": "Xe1_N0n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044444046236512648",
+    "in_reply_to_user_id": "1567061441152450560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044439692909957287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xe1_N0n 🧎‍♀️兑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2044430294132920719",
+        "created_at": "2026-04-15T15:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T16:53:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044444046236512648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1567061441152450560",
+              "start": 0,
+              "username": "Xe1_N0n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044444046236512648",
+        "in_reply_to_user_id": "1567061441152450560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044439692909957287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xe1_N0n 🧎‍♀️兑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567061441152450560",
+        "conversation_id": "2044430294132920719",
+        "created_at": "2026-04-15T15:36:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T16:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044439692909957287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044439692909957287",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044430294132920719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 二氯烫伤是什么情况😱😱😱沾到手套上没及时脱吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5062,
+          "following_count": 3733,
+          "like_count": 81970,
+          "listed_count": 10,
+          "media_count": 412,
+          "tweet_count": 8986
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-06T08:05:48.000Z",
+        "description": "A Chemistry Geek",
+        "id": "1567061441152450560",
+        "location": "CN",
+        "name": "Kenzaki_Kazuma🍥",
+        "pinned_tweet_id": "1834084114460189092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869176809121808384/wgakVqI0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1756,
+          "following_count": 693,
+          "like_count": 649,
+          "listed_count": 5,
+          "media_count": 133,
+          "tweet_count": 1823
+        },
+        "username": "Xe1_N0n",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2040584542256238722",
+    "created_at": "2026-04-05T07:33:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T08:33:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040694303022878943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1424779836938022913",
+          "start": 0,
+          "username": "amber_toffee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040694303022878943",
+    "in_reply_to_user_id": "1424779836938022913",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040584542256238722",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_toffee 羡慕死了🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 713,
+        "media_key": "3_2040584537743527936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFGc01pbkAAXFtq.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2040584542256238722",
+        "created_at": "2026-04-05T07:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T08:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040694303022878943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1424779836938022913",
+              "start": 0,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040694303022878943",
+        "in_reply_to_user_id": "1424779836938022913",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040584542256238722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_toffee 羡慕死了🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040584537743527936"
+          ]
+        },
+        "author_id": "1424779836938022913",
+        "conversation_id": "2040584542256238722",
+        "created_at": "2026-04-05T00:17:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T01:17:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040584542256238722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_toffee/s…",
+              "end": 53,
+              "expanded_url": "https://x.com/amber_toffee/status/1846431048579596536",
+              "start": 30,
+              "url": "https://t.co/ZvyB2gQeQL"
+            },
+            {
+              "display_url": "pic.x.com/P7rpEkGZCu",
+              "end": 77,
+              "expanded_url": "https://x.com/amber_toffee/status/2040584542256238722/photo/1",
+              "media_key": "3_2040584537743527936",
+              "start": 54,
+              "url": "https://t.co/P7rpEkGZCu"
+            },
+            {
+              "display_url": "x.com/cici20120712/s…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/cici20120712/status/2040080078974157145",
+              "start": 78,
+              "url": "https://t.co/TObM57jHDJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040584542256238722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3314,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040080078974157145",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "比较羞愧 这个话题我就没法参与 我是纯靠琢磨原理模拟出来的\nhttps://t.co/ZvyB2gQeQL https://t.co/P7rpEkGZCu https://t.co/TObM57jHDJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5002,
+          "following_count": 3734,
+          "like_count": 81225,
+          "listed_count": 9,
+          "media_count": 394,
+          "tweet_count": 8757
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "🏳️‍⚧️ ⚢ ☭ / ❤︎ @noaayoyaoaya / ᴀʟᴛ @amber_medusozoa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 51,
+                "start": 35,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/P9msNZonB0"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "Toronto, Ontario",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2018441471012004247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24365,
+          "following_count": 2816,
+          "like_count": 39920,
+          "listed_count": 8,
+          "media_count": 553,
+          "tweet_count": 21292
+        },
+        "url": "https://t.co/P9msNZonB0",
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

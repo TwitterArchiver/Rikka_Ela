@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1952030566510899611",
+    "created_at": "2025-08-04T14:33:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T15:33:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952377289561542740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1513410916473192450",
+          "start": 0,
+          "username": "PamphletsY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952377289561542740",
+    "in_reply_to_user_id": "1513410916473192450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952030566510899611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PamphletsY ？我没意见"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 575,
+        "media_key": "3_1952028705447899137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxb_w-uWcAEoTGb.png",
+        "width": 575
+      },
+      {
+        "height": 394,
+        "media_key": "3_1952028723873538049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxb_yDXXYAEaXN9.png",
+        "width": 394
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1952030566510899611",
+        "created_at": "2025-08-04T14:33:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T15:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952377289561542740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1513410916473192450",
+              "start": 0,
+              "username": "PamphletsY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952377289561542740",
+        "in_reply_to_user_id": "1513410916473192450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952030566510899611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PamphletsY ？我没意见"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952028705447899137",
+            "3_1952028723873538049"
+          ]
+        },
+        "author_id": "1513410916473192450",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "1952030566510899611",
+        "created_at": "2025-08-03T15:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T16:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952030566510899611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ebUXeSlTCe",
+              "end": 82,
+              "expanded_url": "https://x.com/PamphletsY/status/1952030566510899611/photo/1",
+              "media_key": "3_1952028705447899137",
+              "start": 59,
+              "url": "https://t.co/ebUXeSlTCe"
+            },
+            {
+              "display_url": "pic.x.com/ebUXeSlTCe",
+              "end": 82,
+              "expanded_url": "https://x.com/PamphletsY/status/1952030566510899611/photo/1",
+              "media_key": "3_1952028723873538049",
+              "start": 59,
+              "url": "https://t.co/ebUXeSlTCe"
+            },
+            {
+              "display_url": "x.com/PamphletsY/sta…",
+              "end": 106,
+              "expanded_url": "https://twitter.com/PamphletsY/status/1952020955275948392",
+              "start": 83,
+              "url": "https://t.co/91q2stTVLA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952030566510899611",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 207,
+          "impression_count": 123103,
+          "like_count": 5722,
+          "quote_count": 48,
+          "reply_count": 69,
+          "retweet_count": 244
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952020955275948392",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🚨🇨🇳 SURVEY — 52% Of Chinese Now Support Same-Sex Marriage. https://t.co/ebUXeSlTCe https://t.co/91q2stTVLA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4452,
+          "following_count": 3538,
+          "like_count": 71571,
+          "listed_count": 7,
+          "media_count": 276,
+          "tweet_count": 6664
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-11T06:57:42.000Z",
+        "description": "⚠️  USSR State-Affiliated Media  ☭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pamphlets.blog/links",
+                "end": 23,
+                "expanded_url": "http://pamphlets.blog/links",
+                "start": 0,
+                "url": "https://t.co/lsuoWGx5Np"
+              }
+            ]
+          }
+        },
+        "id": "1513410916473192450",
+        "location": "Oblast de Leningrado, Rusia",
+        "name": "Pamphlets",
+        "pinned_tweet_id": "1952376975705649411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947829069183160320/N3ED3-jP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99999,
+          "following_count": 8921,
+          "like_count": 75370,
+          "listed_count": 914,
+          "media_count": 23032,
+          "tweet_count": 52949
+        },
+        "url": "https://t.co/lsuoWGx5Np",
+        "username": "PamphletsY",
+        "verified": true
+      }
+    ]
+  }
+}

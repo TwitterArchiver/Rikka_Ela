@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1900523722382938355",
+    "created_at": "2025-03-14T13:54:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-14T14:54:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900545957072122360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1880325371280912386",
+          "start": 0,
+          "username": "genya1976"
+        },
+        {
+          "end": 24,
+          "id": "1667865236559519745",
+          "start": 11,
+          "username": "whoosh_catej"
+        },
+        {
+          "end": 39,
+          "id": "1870780665295474688",
+          "start": 25,
+          "username": "doraneko_rana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900545957072122360",
+    "in_reply_to_user_id": "1880325371280912386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900532412809187509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@genya1976 @whoosh_catej @doraneko_rana 爸爸可以和我调情吗😍"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1900532412809187509].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1900532412809187509",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1900532412809187509"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1900523722382938355",
+        "created_at": "2025-03-14T13:54:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T14:54:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900545957072122360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1880325371280912386",
+              "start": 0,
+              "username": "genya1976"
+            },
+            {
+              "end": 24,
+              "id": "1667865236559519745",
+              "start": 11,
+              "username": "whoosh_catej"
+            },
+            {
+              "end": 39,
+              "id": "1870780665295474688",
+              "start": 25,
+              "username": "doraneko_rana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900545957072122360",
+        "in_reply_to_user_id": "1880325371280912386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900532412809187509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@genya1976 @whoosh_catej @doraneko_rana 爸爸可以和我调情吗😍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3935,
+          "following_count": 3299,
+          "like_count": 62111,
+          "listed_count": 6,
+          "media_count": 179,
+          "tweet_count": 5229
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T18:44:47.000Z",
+        "description": "岁静劳保🌹/右上拥共🫡/反跨反同😔/高歌猛进⚡",
+        "id": "1880325371280912386",
+        "name": "江上 清风游🇷🇺Василек",
+        "pinned_tweet_id": "1898969059267613034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891118827171360768/JgsYPNw__normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 331,
+          "like_count": 32083,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 470
+        },
+        "username": "genya1976",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T12:04:05.000Z",
+        "description": "",
+        "id": "1667865236559519745",
+        "location": "石头路",
+        "name": "無理 小屑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896307453102542848/rOU6LSFL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1590,
+          "following_count": 1372,
+          "like_count": 142670,
+          "listed_count": 7,
+          "media_count": 936,
+          "tweet_count": 7862
+        },
+        "username": "whoosh_catej",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-22T10:37:31.000Z",
+        "description": "I'm not sure that any of that matters. Friends, enemies. So long as there's mercy. Always mercy. \n女儿@iranon_lcf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 100,
+                "username": "iranon_lcf"
+              }
+            ]
+          }
+        },
+        "id": "1870780665295474688",
+        "name": "盐与苦难之歌",
+        "pinned_tweet_id": "1871958460302315698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875209065451884544/WQ8ut7Uk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 430,
+          "like_count": 6920,
+          "listed_count": 2,
+          "media_count": 73,
+          "tweet_count": 1322
+        },
+        "username": "doraneko_rana",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1909083640438628864",
+    "created_at": "2025-04-07T03:45:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T04:45:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909090243728523734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1680508885394927616",
+          "start": 0,
+          "username": "04177_realname"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909090243728523734",
+    "in_reply_to_user_id": "1680508885394927616",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909083640438628864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@04177_realname ？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_1909083626001907712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn5tcW5bwAAxAFJ.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1909083640438628864",
+        "created_at": "2025-04-07T03:45:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T04:45:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909090243728523734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1680508885394927616",
+              "start": 0,
+              "username": "04177_realname"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909090243728523734",
+        "in_reply_to_user_id": "1680508885394927616",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909083640438628864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@04177_realname ？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909083626001907712"
+          ]
+        },
+        "author_id": "1680508885394927616",
+        "conversation_id": "1909083640438628864",
+        "created_at": "2025-04-07T03:19:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T04:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909083640438628864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pFNMcDmNXL",
+              "end": 33,
+              "expanded_url": "https://x.com/04177_realname/status/1909083640438628864/photo/1",
+              "media_key": "3_1909083626001907712",
+              "start": 10,
+              "url": "https://t.co/pFNMcDmNXL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909083640438628864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 266,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我看不懂 这啥啊😨 https://t.co/pFNMcDmNXL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4025,
+          "following_count": 3324,
+          "like_count": 64354,
+          "listed_count": 9,
+          "media_count": 190,
+          "tweet_count": 5504
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T09:25:35.000Z",
+        "description": "不要自杀，我可以陪你聊天。",
+        "id": "1680508885394927616",
+        "name": "真名🏳️‍⚧️",
+        "pinned_tweet_id": "1864147494676123745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816188111770247168/Ze_RvMX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10349,
+          "following_count": 6158,
+          "like_count": 62634,
+          "listed_count": 30,
+          "media_count": 2177,
+          "tweet_count": 17230
+        },
+        "username": "04177_realname",
+        "verified": false
+      }
+    ]
+  }
+}

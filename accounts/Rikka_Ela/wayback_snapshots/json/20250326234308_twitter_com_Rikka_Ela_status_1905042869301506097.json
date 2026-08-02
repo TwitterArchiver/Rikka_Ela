@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1904281519348178944"
+      ],
+      "media_source_tweet_id": [
+        "1904281591653830976"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1905042869301506097",
+    "created_at": "2025-03-26T23:43:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-27T00:43:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905042869301506097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1818015508488232960",
+          "start": 3,
+          "username": "chosenundeadone"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MKZo8zcIpn",
+          "end": 44,
+          "expanded_url": "https://x.com/chosenundeadone/status/1904281591653830976/video/1",
+          "media_key": "13_1904281519348178944",
+          "start": 21,
+          "url": "https://t.co/MKZo8zcIpn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905042869301506097",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 464
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904281591653830976",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chosenundeadone: https://t.co/MKZo8zcIpn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26718,
+        "height": 720,
+        "media_key": "13_1904281519348178944",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1904281519348178944/img/4Sz4ohZjqmWrypoI.jpg",
+        "public_metrics": {
+          "view_count": 73791
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1904281519348178944/vid/avc1/480x270/1fMhsAiYw5uswk2S.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1904281519348178944/vid/avc1/640x360/NOlDlApc47-pKJXf.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1904281519348178944/vid/avc1/1280x720/blNr2pawGAzCe0on.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1904281519348178944/pl/ukNnjcduP_x9l0X4.m3u8?tag=16&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1904281519348178944"
+          ],
+          "media_source_tweet_id": [
+            "1904281591653830976"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1905042869301506097",
+        "created_at": "2025-03-26T23:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T00:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905042869301506097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1818015508488232960",
+              "start": 3,
+              "username": "chosenundeadone"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MKZo8zcIpn",
+              "end": 44,
+              "expanded_url": "https://x.com/chosenundeadone/status/1904281591653830976/video/1",
+              "media_key": "13_1904281519348178944",
+              "start": 21,
+              "url": "https://t.co/MKZo8zcIpn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905042869301506097",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 464
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904281591653830976",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chosenundeadone: https://t.co/MKZo8zcIpn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1904281519348178944"
+          ]
+        },
+        "author_id": "1818015508488232960",
+        "conversation_id": "1904281591653830976",
+        "created_at": "2025-03-24T21:18:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T22:18:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904281591653830976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MKZo8zcIpn",
+              "end": 23,
+              "expanded_url": "https://x.com/chosenundeadone/status/1904281591653830976/video/1",
+              "media_key": "13_1904281519348178944",
+              "start": 0,
+              "url": "https://t.co/MKZo8zcIpn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904281591653830976",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 380,
+          "impression_count": 192368,
+          "like_count": 2555,
+          "quote_count": 66,
+          "reply_count": 13,
+          "retweet_count": 464
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/MKZo8zcIpn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4001,
+          "following_count": 3309,
+          "like_count": 63183,
+          "listed_count": 7,
+          "media_count": 182,
+          "tweet_count": 5386
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-29T20:07:41.000Z",
+        "description": "edits, memes and much more. DM open for business.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/chosenundeadone",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/chosenundeadone",
+                "start": 0,
+                "url": "https://t.co/em9fnla9XZ"
+              }
+            ]
+          }
+        },
+        "id": "1818015508488232960",
+        "name": "chosen undead",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874530486904586241/1mLkp4Zz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43260,
+          "following_count": 2,
+          "like_count": 221,
+          "listed_count": 32,
+          "media_count": 529,
+          "tweet_count": 745
+        },
+        "url": "https://t.co/em9fnla9XZ",
+        "username": "chosenundeadone",
+        "verified": true
+      }
+    ]
+  }
+}

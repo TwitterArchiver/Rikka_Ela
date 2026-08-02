@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2053320803706708246",
+    "created_at": "2026-05-10T07:17:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T08:17:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053373780240568609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1526965927748571136",
+          "start": 0,
+          "username": "Natsumejuri"
+        },
+        {
+          "end": 24,
+          "id": "1668037836996771840",
+          "start": 13,
+          "username": "cha_li_jin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053373780240568609",
+    "in_reply_to_user_id": "1526965927748571136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053320803706708246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Natsumejuri @cha_li_jin 我很羡慕你🥺"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2053320803706708246].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2053320803706708246",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2053320803706708246"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2053320803706708246",
+        "created_at": "2026-05-10T07:17:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T08:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053373780240568609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1526965927748571136",
+              "start": 0,
+              "username": "Natsumejuri"
+            },
+            {
+              "end": 24,
+              "id": "1668037836996771840",
+              "start": 13,
+              "username": "cha_li_jin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053373780240568609",
+        "in_reply_to_user_id": "1526965927748571136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053320803706708246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Natsumejuri @cha_li_jin 我很羡慕你🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5197,
+          "following_count": 3771,
+          "like_count": 83754,
+          "listed_count": 10,
+          "media_count": 426,
+          "tweet_count": 9379
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-18T16:41:01.000Z",
+        "description": "MtF | Computer Science",
+        "id": "1526965927748571136",
+        "location": "亚空间",
+        "name": "夏子",
+        "pinned_tweet_id": "2032355055467446683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996966756427218944/EWv7GHnj_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 4166,
+          "following_count": 482,
+          "like_count": 20565,
+          "listed_count": 6,
+          "media_count": 544,
+          "tweet_count": 2903
+        },
+        "username": "Natsumejuri",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-11T23:29:56.000Z",
+        "description": "神秘小号@tashigan1230\n事情要是想我意淫的那样发展该多好",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "tashigan1230"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tsaritsyn1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tsaritsyn1",
+                "start": 0,
+                "url": "https://t.co/2Jeo14uWZ8"
+              }
+            ]
+          }
+        },
+        "id": "1668037836996771840",
+        "location": "距离114m",
+        "name": "AAA星之果实批发零售察里津",
+        "pinned_tweet_id": "2051180916379467849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044095358914179073/xeeXYzpx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10588,
+          "following_count": 806,
+          "like_count": 17377,
+          "listed_count": 59,
+          "media_count": 365,
+          "tweet_count": 3343
+        },
+        "url": "https://t.co/2Jeo14uWZ8",
+        "username": "cha_li_jin",
+        "verified": true
+      }
+    ]
+  }
+}

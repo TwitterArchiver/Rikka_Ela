@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1875061496688038096",
+    "created_at": "2025-01-03T09:07:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-03T10:07:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875106768529031556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1572393474636251143",
+          "start": 0,
+          "username": "murenshx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875106768529031556",
+    "in_reply_to_user_id": "1572393474636251143",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875106360540750233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@murenshx 可以改，定金也不用再交是吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1875061496688038096",
+        "created_at": "2025-01-03T09:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T10:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875106768529031556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1572393474636251143",
+              "start": 0,
+              "username": "murenshx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875106768529031556",
+        "in_reply_to_user_id": "1572393474636251143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875106360540750233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@murenshx 可以改，定金也不用再交是吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572393474636251143",
+        "conversation_id": "1875061496688038096",
+        "created_at": "2025-01-03T09:06:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T10:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875106360540750233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875106360540750233",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875061982363337172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 可以改"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3342,
+          "following_count": 3167,
+          "like_count": 56663,
+          "listed_count": 7,
+          "media_count": 159,
+          "tweet_count": 4471
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-21T01:14:11.000Z",
+        "description": "hrt2021,11.已预约srs.某“EU制造机器”\n太阳能光电光热利用工程师？",
+        "id": "1572393474636251143",
+        "location": "距离你0.3km",
+        "name": "发光电阻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873019406097465344/L9J6homY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 598,
+          "like_count": 3541,
+          "listed_count": 1,
+          "media_count": 179,
+          "tweet_count": 1220
+        },
+        "username": "murenshx",
+        "verified": false
+      }
+    ]
+  }
+}

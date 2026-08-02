@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944077320341389312"
+      ],
+      "media_source_tweet_id": [
+        "1944077333352394966"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "conversation_id": "1944217864388718986",
+    "created_at": "2025-07-13T02:10:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T03:10:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944217864388718986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1883729220548919296",
+          "start": 3,
+          "username": "evil_potai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kwCT3MunYc",
+          "end": 39,
+          "expanded_url": "https://x.com/evil_potai/status/1944077333352394966/photo/1",
+          "media_key": "3_1944077320341389312",
+          "start": 16,
+          "url": "https://t.co/kwCT3MunYc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944217864388718986",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 53
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944077333352394966",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @evil_potai: https://t.co/kwCT3MunYc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1944077320341389312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvrABc7XgAAf0Kf.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944077320341389312"
+          ],
+          "media_source_tweet_id": [
+            "1944077333352394966"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "1944217864388718986",
+        "created_at": "2025-07-13T02:10:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T03:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944217864388718986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1883729220548919296",
+              "start": 3,
+              "username": "evil_potai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kwCT3MunYc",
+              "end": 39,
+              "expanded_url": "https://x.com/evil_potai/status/1944077333352394966/photo/1",
+              "media_key": "3_1944077320341389312",
+              "start": 16,
+              "url": "https://t.co/kwCT3MunYc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944217864388718986",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944077333352394966",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @evil_potai: https://t.co/kwCT3MunYc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944077320341389312"
+          ]
+        },
+        "author_id": "1883729220548919296",
+        "conversation_id": "1944077333352394966",
+        "created_at": "2025-07-12T16:52:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T17:52:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944077333352394966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kwCT3MunYc",
+              "end": 23,
+              "expanded_url": "https://x.com/evil_potai/status/1944077333352394966/photo/1",
+              "media_key": "3_1944077320341389312",
+              "start": 0,
+              "url": "https://t.co/kwCT3MunYc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944077333352394966",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 11143,
+          "like_count": 480,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kwCT3MunYc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4395,
+          "following_count": 3528,
+          "like_count": 70560,
+          "listed_count": 7,
+          "media_count": 262,
+          "tweet_count": 6433
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T04:10:39.000Z",
+        "description": "AI artist\n私はGrokを使って翻訳します。",
+        "id": "1883729220548919296",
+        "location": "www",
+        "name": "Potai",
+        "pinned_tweet_id": "1943243623182590140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913205218608549888/eidm2fY__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2515,
+          "following_count": 1251,
+          "like_count": 40764,
+          "listed_count": 13,
+          "media_count": 1157,
+          "tweet_count": 6698
+        },
+        "username": "evil_potai",
+        "verified": true
+      }
+    ]
+  }
+}

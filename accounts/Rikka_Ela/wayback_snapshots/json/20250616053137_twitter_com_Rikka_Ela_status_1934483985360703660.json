@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1934186024504291328"
+      ],
+      "media_source_tweet_id": [
+        "1934189142453174708"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "conversation_id": "1934483985360703660",
+    "created_at": "2025-06-16T05:31:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T06:31:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934483985360703660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "806097188392603648",
+          "start": 3,
+          "username": "chocoshi3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FsX51kr9iI",
+          "end": 46,
+          "expanded_url": "https://x.com/chocoshi3/status/1934189142453174708/photo/1",
+          "media_key": "3_1934186024504291328",
+          "start": 23,
+          "url": "https://t.co/FsX51kr9iI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934483985360703660",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1187
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934189142453174708",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chocoshi3: 落ちないように https://t.co/FsX51kr9iI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_1934186024504291328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gteb8QgacAACBa9.jpg",
+        "width": 1013
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934186024504291328"
+          ],
+          "media_source_tweet_id": [
+            "1934189142453174708"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "1934483985360703660",
+        "created_at": "2025-06-16T05:31:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T06:31:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934483985360703660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "806097188392603648",
+              "start": 3,
+              "username": "chocoshi3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FsX51kr9iI",
+              "end": 46,
+              "expanded_url": "https://x.com/chocoshi3/status/1934189142453174708/photo/1",
+              "media_key": "3_1934186024504291328",
+              "start": 23,
+              "url": "https://t.co/FsX51kr9iI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934483985360703660",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1187
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934189142453174708",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chocoshi3: 落ちないように https://t.co/FsX51kr9iI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934186024504291328"
+          ]
+        },
+        "author_id": "806097188392603648",
+        "conversation_id": "1934189142453174708",
+        "created_at": "2025-06-15T10:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T11:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934189142453174708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FsX51kr9iI",
+              "end": 31,
+              "expanded_url": "https://x.com/chocoshi3/status/1934189142453174708/photo/1",
+              "media_key": "3_1934186024504291328",
+              "start": 8,
+              "url": "https://t.co/FsX51kr9iI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934189142453174708",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1321,
+          "impression_count": 227959,
+          "like_count": 11533,
+          "quote_count": 8,
+          "reply_count": 16,
+          "retweet_count": 1187
+        },
+        "reply_settings": "everyone",
+        "text": "落ちないように https://t.co/FsX51kr9iI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4337,
+          "following_count": 3503,
+          "like_count": 69065,
+          "listed_count": 7,
+          "media_count": 234,
+          "tweet_count": 6214
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-06T11:25:21.000Z",
+        "description": "フリーのイラストレーターです\nちょこです。チョコレートが好きです。風景を描いています。 猫と女の子が旅の途中に見た風景。2025年10月以降のお仕事募集しております。\n\n 猫と少女の旅→https://t.co/OTxpzxr9sZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "atlie.io/a/dqOFDoSi7",
+                "end": 116,
+                "expanded_url": "http://atlie.io/a/dqOFDoSi7",
+                "start": 93,
+                "url": "https://t.co/OTxpzxr9sZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chooco013.studio.site",
+                "end": 23,
+                "expanded_url": "https://chooco013.studio.site/",
+                "start": 0,
+                "url": "https://t.co/LSejX7vRtB"
+              }
+            ]
+          }
+        },
+        "id": "806097188392603648",
+        "location": "北極星",
+        "name": "chooco",
+        "pinned_tweet_id": "1591370218546245632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1291730462751129602/PA2UdA9y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229908,
+          "following_count": 774,
+          "like_count": 22476,
+          "listed_count": 1753,
+          "media_count": 657,
+          "tweet_count": 12016
+        },
+        "url": "https://t.co/LSejX7vRtB",
+        "username": "chocoshi3",
+        "verified": true
+      }
+    ]
+  }
+}

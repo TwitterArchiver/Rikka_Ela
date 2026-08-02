@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2049509267741323579",
+    "created_at": "2026-04-29T20:47:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T21:47:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049591507007508638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1234123751072993281",
+          "start": 0,
+          "username": "Haruhi_Smith"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049591507007508638",
+    "in_reply_to_user_id": "1234123751072993281",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049518141705990451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Haruhi_Smith 🧎‍♀️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2049509267741323579",
+        "created_at": "2026-04-29T20:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T21:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049591507007508638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1234123751072993281",
+              "start": 0,
+              "username": "Haruhi_Smith"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049591507007508638",
+        "in_reply_to_user_id": "1234123751072993281",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049518141705990451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haruhi_Smith 🧎‍♀️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1234123751072993281",
+        "conversation_id": "2049509267741323579",
+        "created_at": "2026-04-29T15:56:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T16:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049518141705990451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049518141705990451",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049509267741323579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 你什么时候去当prof"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5166,
+          "following_count": 3751,
+          "like_count": 82844,
+          "listed_count": 10,
+          "media_count": 420,
+          "tweet_count": 9183
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-01T14:30:18.000Z",
+        "description": "HARUHI FANS / CS Grad, no longer looking for PhD / 不线下 / https://t.co/VtL5XJp9P6 / https://t.co/JaeqbedOGN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/luvletter2333",
+                "end": 80,
+                "expanded_url": "http://github.com/luvletter2333",
+                "start": 57,
+                "url": "https://t.co/VtL5XJp9P6"
+              },
+              {
+                "display_url": "t.me/haruhi_smith",
+                "end": 106,
+                "expanded_url": "http://t.me/haruhi_smith",
+                "start": 83,
+                "url": "https://t.co/JaeqbedOGN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/luvletter2333",
+                "end": 23,
+                "expanded_url": "https://github.com/luvletter2333",
+                "start": 0,
+                "url": "https://t.co/bUokPGYwoh"
+              }
+            ]
+          }
+        },
+        "id": "1234123751072993281",
+        "location": "兵库県立西宫北高等学校 SOS団",
+        "name": "Haruhi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1351750805020315649/99ZVLa23_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1748,
+          "following_count": 1156,
+          "like_count": 105070,
+          "listed_count": 8,
+          "media_count": 45,
+          "tweet_count": 2518
+        },
+        "url": "https://t.co/bUokPGYwoh",
+        "username": "Haruhi_Smith",
+        "verified": false
+      }
+    ]
+  }
+}

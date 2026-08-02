@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013732117755138048"
+      ],
+      "media_source_tweet_id": [
+        "2013732134213542085"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "conversation_id": "2013876655777783816",
+    "created_at": "2026-01-21T07:29:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T08:29:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013876655777783816"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "Long Way Home",
+          "probability": 0.9678,
+          "start": 12,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "704819245",
+          "start": 3,
+          "username": "kznsq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9SEv3oevTH",
+          "end": 68,
+          "expanded_url": "https://x.com/kznsq/status/2013732134213542085/photo/1",
+          "media_key": "3_2013732117755138048",
+          "start": 45,
+          "url": "https://t.co/9SEv3oevTH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013876655777783816",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 837
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013732134213542085",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kznsq: \"Long Way Home\" - my oil painting https://t.co/9SEv3oevTH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2297,
+        "media_key": "3_2013732117755138048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_I2sR-XEAAujVQ.jpg",
+        "width": 3061
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013732117755138048"
+          ],
+          "media_source_tweet_id": [
+            "2013732134213542085"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "2013876655777783816",
+        "created_at": "2026-01-21T07:29:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T08:29:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013876655777783816"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "Long Way Home",
+              "probability": 0.9678,
+              "start": 12,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "704819245",
+              "start": 3,
+              "username": "kznsq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9SEv3oevTH",
+              "end": 68,
+              "expanded_url": "https://x.com/kznsq/status/2013732134213542085/photo/1",
+              "media_key": "3_2013732117755138048",
+              "start": 45,
+              "url": "https://t.co/9SEv3oevTH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013876655777783816",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 837
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013732134213542085",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kznsq: \"Long Way Home\" - my oil painting https://t.co/9SEv3oevTH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013732117755138048"
+          ]
+        },
+        "author_id": "704819245",
+        "conversation_id": "2013732134213542085",
+        "created_at": "2026-01-20T21:55:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T22:55:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013732134213542085"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "Long Way Home",
+              "probability": 0.9651,
+              "start": 1,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9SEv3oevTH",
+              "end": 57,
+              "expanded_url": "https://x.com/kznsq/status/2013732134213542085/photo/1",
+              "media_key": "3_2013732117755138048",
+              "start": 34,
+              "url": "https://t.co/9SEv3oevTH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013732134213542085",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 519,
+          "impression_count": 53258,
+          "like_count": 7191,
+          "quote_count": 8,
+          "reply_count": 11,
+          "retweet_count": 837
+        },
+        "reply_settings": "everyone",
+        "text": "\"Long Way Home\" - my oil painting https://t.co/9SEv3oevTH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4882,
+          "following_count": 3700,
+          "like_count": 78826,
+          "listed_count": 8,
+          "media_count": 364,
+          "tweet_count": 8090
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-19T10:37:30.000Z",
+        "description": "Oil painting artist 🇺🇦 🇬🇧\nSTORE: https://t.co/BCKhTDNOl8\nBuy Me a Coffee: https://t.co/vzLp7kvkSI\nInstagram: https://t.co/5c4CZr6NkS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ARTAndriiFrolov.com",
+                "end": 56,
+                "expanded_url": "https://www.ARTAndriiFrolov.com",
+                "start": 33,
+                "url": "https://t.co/BCKhTDNOl8"
+              },
+              {
+                "display_url": "buymeacoffee.com/kznsq",
+                "end": 97,
+                "expanded_url": "https://www.buymeacoffee.com/kznsq",
+                "start": 74,
+                "url": "https://t.co/vzLp7kvkSI"
+              },
+              {
+                "display_url": "instagram.com/kznsq",
+                "end": 132,
+                "expanded_url": "http://instagram.com/kznsq",
+                "start": 109,
+                "url": "https://t.co/5c4CZr6NkS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ARTAndriiFrolov.com",
+                "end": 23,
+                "expanded_url": "https://www.ARTAndriiFrolov.com",
+                "start": 0,
+                "url": "https://t.co/BCKhTDNOl8"
+              }
+            ]
+          }
+        },
+        "id": "704819245",
+        "location": "Киев",
+        "name": "Andrii Frolov",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1540249321395871745/a_14PpK9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13772,
+          "following_count": 128,
+          "like_count": 39590,
+          "listed_count": 146,
+          "media_count": 2506,
+          "tweet_count": 3729
+        },
+        "url": "https://t.co/BCKhTDNOl8",
+        "username": "kznsq",
+        "verified": false
+      }
+    ]
+  }
+}

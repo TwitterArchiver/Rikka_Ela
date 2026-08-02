@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2056689986829762671",
+    "created_at": "2026-05-19T15:09:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T16:09:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056754032023077037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1571884079741603842",
+          "start": 0,
+          "username": "myfanwy_wy"
+        },
+        {
+          "end": 21,
+          "id": "96453272",
+          "start": 12,
+          "username": "oakvale5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056754032023077037",
+    "in_reply_to_user_id": "1571884079741603842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056690016383123963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@myfanwy_wy @oakvale5 他甚至可能都没有这篇文章的Access😆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2056689986829762671",
+        "created_at": "2026-05-19T15:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T16:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056754032023077037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1571884079741603842",
+              "start": 0,
+              "username": "myfanwy_wy"
+            },
+            {
+              "end": 21,
+              "id": "96453272",
+              "start": 12,
+              "username": "oakvale5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056754032023077037",
+        "in_reply_to_user_id": "1571884079741603842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056690016383123963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@myfanwy_wy @oakvale5 他甚至可能都没有这篇文章的Access😆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571884079741603842",
+        "conversation_id": "2056689986829762671",
+        "created_at": "2026-05-19T10:54:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T11:54:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056690016383123963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "96453272",
+              "start": 0,
+              "username": "oakvale5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056690016383123963",
+        "in_reply_to_user_id": "1571884079741603842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1198,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056689986829762671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oakvale5 没想到读个论文，也能读出一套“无中生有”“颠倒黑白”的本事来。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5248,
+          "following_count": 3777,
+          "like_count": 84694,
+          "listed_count": 8,
+          "media_count": 429,
+          "tweet_count": 9527
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-19T15:29:18.000Z",
+        "description": "PhD | Researcher in Women’s, Gender, and Sexuality Studies | vibrator-lover | unapologetic smut writer @myfanwy_smutty | bad bitch, always | MDNI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 103,
+                "username": "myfanwy_smutty"
+              }
+            ]
+          }
+        },
+        "id": "1571884079741603842",
+        "name": "Myfanwy",
+        "pinned_tweet_id": "2000497575183732768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997937840882352128/DOoC6Kwq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10023,
+          "following_count": 10,
+          "like_count": 627,
+          "listed_count": 20,
+          "media_count": 497,
+          "tweet_count": 1373
+        },
+        "username": "myfanwy_wy",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-13T00:51:58.000Z",
+        "description": "Rest at the edge of chaos. \n .... . .-.. .--. -....- -- .\nGod plays dice. Maybe that's a feature, not a bug.\n一切都会好起来。",
+        "id": "96453272",
+        "location": "崩溃边缘 Edge of Chaos",
+        "name": "阿橡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1420050931660443649/YbZuFX0R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16925,
+          "following_count": 3000,
+          "like_count": 5406,
+          "listed_count": 132,
+          "media_count": 3284,
+          "tweet_count": 93202
+        },
+        "username": "oakvale5",
+        "verified": false
+      }
+    ]
+  }
+}

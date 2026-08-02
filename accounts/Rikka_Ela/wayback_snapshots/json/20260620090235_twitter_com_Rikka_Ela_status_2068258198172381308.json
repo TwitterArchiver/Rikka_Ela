@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2068248482067206221",
+    "created_at": "2026-06-20T09:02:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T10:02:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068258198172381308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1980140172726673408",
+          "start": 0,
+          "username": "RenChan_VmV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068258198172381308",
+    "in_reply_to_user_id": "1980140172726673408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068248482067206221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RenChan_VmV 那国家还允许改证呢，我改完证你不炸了吗😆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2068248482067206221",
+        "created_at": "2026-06-20T09:02:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T10:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068258198172381308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1980140172726673408",
+              "start": 0,
+              "username": "RenChan_VmV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068258198172381308",
+        "in_reply_to_user_id": "1980140172726673408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068248482067206221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RenChan_VmV 那国家还允许改证呢，我改完证你不炸了吗😆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980140172726673408",
+        "conversation_id": "2068248482067206221",
+        "created_at": "2026-06-20T08:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T09:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068248482067206221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/meguminsama200…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/meguminsama2009/status/2068136759242666008",
+              "start": 31,
+              "url": "https://t.co/xjKboQtfqN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068248482067206221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068136759242666008",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "冷知识：你猜变性人身份证是什么性别\n以及评论区反跨的没有浮木 https://t.co/xjKboQtfqN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5837,
+          "following_count": 3775,
+          "like_count": 86329,
+          "listed_count": 7,
+          "media_count": 442,
+          "tweet_count": 9784
+        },
+        "url": "",
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T05:13:10.000Z",
+        "description": "He/They|02/21/12究极小登|gay🏳️‍🌈🏳️‍⚧️激进挺跨|中间偏左社民入🌹亲社会主义🥰🚩🏴|日常发些碎碎念呀|爱听术曲 可能是东方众（？） Mac最棒！\n不OD不自残但是缺爱逼阴暗网区qwq\n想一下把这么温良这么友善的我block了是谁的问题╮(╯_╰)╭",
+        "id": "1980140172726673408",
+        "location": "中華自由聯邦京畿道",
+        "name": "東洋蓮花酥🌹🏳️‍🌈🏳️‍⚧️（PRIDE!🌈❤️🧡💛💚💙💜）",
+        "pinned_tweet_id": "2067935252606226518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036505669101297665/WDp2YEIf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1692,
+          "following_count": 833,
+          "like_count": 67268,
+          "listed_count": 4,
+          "media_count": 226,
+          "tweet_count": 12674
+        },
+        "url": "",
+        "username": "RenChan_VmV",
+        "verified": true
+      }
+    ]
+  }
+}

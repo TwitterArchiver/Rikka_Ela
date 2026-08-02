@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1942772059924533460",
+    "created_at": "2025-07-09T02:59:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T03:59:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942780635455840565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1831127108791529473",
+          "start": 0,
+          "username": "Meuuuu_kk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942780635455840565",
+    "in_reply_to_user_id": "1831127108791529473",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942772059924533460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meuuuu_kk 😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1942772059924533460",
+        "created_at": "2025-07-09T02:59:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T03:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942780635455840565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1831127108791529473",
+              "start": 0,
+              "username": "Meuuuu_kk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942780635455840565",
+        "in_reply_to_user_id": "1831127108791529473",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942772059924533460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meuuuu_kk 😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831127108791529473",
+        "conversation_id": "1942772059924533460",
+        "created_at": "2025-07-09T02:25:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T03:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942772059924533460"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1942772059924533460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去海外当留子感觉我得前三年放弃手术，想到这里就难受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4383,
+          "following_count": 3519,
+          "like_count": 70384,
+          "listed_count": 7,
+          "media_count": 257,
+          "tweet_count": 6402
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T00:28:52.000Z",
+        "description": "垃圾桶；\n狗@melt_release；\n\n🏳️‍⚧️🏳️‍🌈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "melt_release"
+              }
+            ]
+          }
+        },
+        "id": "1831127108791529473",
+        "location": "they/it/es",
+        "name": "🥥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909584494035890176/p84FrQs9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 93,
+          "like_count": 3152,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1801
+        },
+        "username": "Meuuuu_kk",
+        "verified": false
+      }
+    ]
+  }
+}

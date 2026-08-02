@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1889664126818947074"
+      ],
+      "media_source_tweet_id": [
+        "1889664489110323676"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1540264045382488065",
+          "name": "リコリス・リコイル"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      }
+    ],
+    "conversation_id": "1889956380506980620",
+    "created_at": "2025-02-13T08:34:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-13T09:34:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889956380506980620"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 27,
+          "tag": "ちさたき"
+        },
+        {
+          "end": 38,
+          "start": 33,
+          "tag": "リコリコ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1267687824251400192",
+          "start": 3,
+          "username": "tokikaze_JS"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8ZLhtuwWkU",
+          "end": 62,
+          "expanded_url": "https://x.com/tokikaze_JS/status/1889664489110323676/photo/1",
+          "media_key": "3_1889664126818947074",
+          "start": 39,
+          "url": "https://t.co/8ZLhtuwWkU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889956380506980620",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3279
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889664489110323676",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tokikaze_JS: Delicious\n#ちさたき\n#リコリコ https://t.co/8ZLhtuwWkU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1526,
+        "media_key": "3_1889664126818947074",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gjlvgu_XkAIKnmC.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889664126818947074"
+          ],
+          "media_source_tweet_id": [
+            "1889664489110323676"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1540264045382488065",
+              "name": "リコリス・リコイル"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          }
+        ],
+        "conversation_id": "1889956380506980620",
+        "created_at": "2025-02-13T08:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T09:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889956380506980620"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 27,
+              "tag": "ちさたき"
+            },
+            {
+              "end": 38,
+              "start": 33,
+              "tag": "リコリコ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1267687824251400192",
+              "start": 3,
+              "username": "tokikaze_JS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8ZLhtuwWkU",
+              "end": 62,
+              "expanded_url": "https://x.com/tokikaze_JS/status/1889664489110323676/photo/1",
+              "media_key": "3_1889664126818947074",
+              "start": 39,
+              "url": "https://t.co/8ZLhtuwWkU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889956380506980620",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3279
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889664489110323676",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tokikaze_JS: Delicious\n#ちさたき\n#リコリコ https://t.co/8ZLhtuwWkU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889664126818947074"
+          ]
+        },
+        "author_id": "1267687824251400192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1540264045382488065",
+              "name": "リコリス・リコイル"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          }
+        ],
+        "conversation_id": "1889664489110323676",
+        "created_at": "2025-02-12T13:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T14:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889664489110323676"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 10,
+              "tag": "ちさたき"
+            },
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "リコリコ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8ZLhtuwWkU",
+              "end": 45,
+              "expanded_url": "https://x.com/tokikaze_JS/status/1889664489110323676/photo/1",
+              "media_key": "3_1889664126818947074",
+              "start": 22,
+              "url": "https://t.co/8ZLhtuwWkU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889664489110323676",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10274,
+          "impression_count": 756114,
+          "like_count": 58238,
+          "quote_count": 58,
+          "reply_count": 36,
+          "retweet_count": 3279
+        },
+        "reply_settings": "everyone",
+        "text": "Delicious\n#ちさたき\n#リコリコ https://t.co/8ZLhtuwWkU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3670,
+          "following_count": 3232,
+          "like_count": 59051,
+          "listed_count": 6,
+          "media_count": 168,
+          "tweet_count": 4781
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-02T05:22:04.000Z",
+        "description": "絵描き/百合大好き/中国人\nよろしくお願いします\npixiv: https://t.co/CWmHFRjiuE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/6175553",
+                "end": 55,
+                "expanded_url": "http://pixiv.net/users/6175553",
+                "start": 32,
+                "url": "https://t.co/CWmHFRjiuE"
+              }
+            ]
+          }
+        },
+        "id": "1267687824251400192",
+        "name": "MILKTEA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1702889998821773312/EpTrdKWf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27067,
+          "following_count": 346,
+          "like_count": 16614,
+          "listed_count": 209,
+          "media_count": 189,
+          "tweet_count": 3269
+        },
+        "username": "tokikaze_JS",
+        "verified": false
+      }
+    ]
+  }
+}

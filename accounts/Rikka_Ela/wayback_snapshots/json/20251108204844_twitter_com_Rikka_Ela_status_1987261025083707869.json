@@ -1,0 +1,642 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987105472990924800"
+      ],
+      "media_source_tweet_id": [
+        "1987105486500733394"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10044774920",
+          "name": "Dark Souls"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10044774920",
+          "name": "Dark Souls"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900785013129216",
+          "name": "Soulslike games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      }
+    ],
+    "conversation_id": "1987261025083707869",
+    "created_at": "2025-11-08T20:48:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T21:48:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987261025083707869"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 65,
+          "start": 57,
+          "tag": "ダークソウル3"
+        },
+        {
+          "end": 77,
+          "start": 66,
+          "tag": "DarkSouls3"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1489251723575443460",
+          "start": 3,
+          "username": "Zlofsky2nd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tQcfpMmKG7",
+          "end": 101,
+          "expanded_url": "https://x.com/Zlofsky2nd/status/1987105486500733394/photo/1",
+          "media_key": "3_1987105472990924800",
+          "start": 78,
+          "url": "https://t.co/tQcfpMmKG7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987261025083707869",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 230
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987105486500733394",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Zlofsky2nd: Irithyll of the Boreal Valley\n冷たい谷のイルシール\n#ダークソウル3 #DarkSouls3 https://t.co/tQcfpMmKG7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3840,
+        "media_key": "3_1987105472990924800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Od5kjb0AATM6L.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987105472990924800"
+          ],
+          "media_source_tweet_id": [
+            "1987105486500733394"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044774920",
+              "name": "Dark Souls"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044774920",
+              "name": "Dark Souls"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900785013129216",
+              "name": "Soulslike games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "1987261025083707869",
+        "created_at": "2025-11-08T20:48:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T21:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987261025083707869"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 65,
+              "start": 57,
+              "tag": "ダークソウル3"
+            },
+            {
+              "end": 77,
+              "start": 66,
+              "tag": "DarkSouls3"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1489251723575443460",
+              "start": 3,
+              "username": "Zlofsky2nd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tQcfpMmKG7",
+              "end": 101,
+              "expanded_url": "https://x.com/Zlofsky2nd/status/1987105486500733394/photo/1",
+              "media_key": "3_1987105472990924800",
+              "start": 78,
+              "url": "https://t.co/tQcfpMmKG7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987261025083707869",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 230
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987105486500733394",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Zlofsky2nd: Irithyll of the Boreal Valley\n冷たい谷のイルシール\n#ダークソウル3 #DarkSouls3 https://t.co/tQcfpMmKG7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987105472990924800"
+          ]
+        },
+        "author_id": "1489251723575443460",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044774920",
+              "name": "Dark Souls"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044774920",
+              "name": "Dark Souls"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900785013129216",
+              "name": "Soulslike games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "1987105486500733394",
+        "created_at": "2025-11-08T10:30:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T11:30:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987105486500733394"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 41,
+              "tag": "ダークソウル3"
+            },
+            {
+              "end": 61,
+              "start": 50,
+              "tag": "DarkSouls3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tQcfpMmKG7",
+              "end": 85,
+              "expanded_url": "https://x.com/Zlofsky2nd/status/1987105486500733394/photo/1",
+              "media_key": "3_1987105472990924800",
+              "start": 62,
+              "url": "https://t.co/tQcfpMmKG7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987105486500733394",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 129,
+          "impression_count": 31070,
+          "like_count": 1751,
+          "quote_count": 7,
+          "reply_count": 17,
+          "retweet_count": 230
+        },
+        "reply_settings": "everyone",
+        "text": "Irithyll of the Boreal Valley\n冷たい谷のイルシール\n#ダークソウル3 #DarkSouls3 https://t.co/tQcfpMmKG7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4723,
+          "following_count": 3629,
+          "like_count": 75480,
+          "listed_count": 8,
+          "media_count": 324,
+          "tweet_count": 7401
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-03T14:57:44.000Z",
+        "description": "Thank you for your interest!\nZlofsky(ずろふすき)のサブアカウント\n現在ELDENRING、SEKIRO、DS3、AC6を投稿中\n新しさ、オリジナル性を追求しつつも\nゲームの楽しさをシェアできる写真を撮りたい\n感想をもらえると嬉しいです\nVP専用アカウントはこちら@Zlofsky",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 150,
+                "username": "Zlofsky"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "flickr.com/photos/zlofsky…",
+                "end": 23,
+                "expanded_url": "https://www.flickr.com/photos/zlofsky2nd/",
+                "start": 0,
+                "url": "https://t.co/mCdCYybzUc"
+              }
+            ]
+          }
+        },
+        "id": "1489251723575443460",
+        "location": "狩人の夢",
+        "name": "ずろ❄️Zlofsky",
+        "pinned_tweet_id": "1987105486500733394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740248075225137152/YaF5ZjGd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38649,
+          "following_count": 567,
+          "like_count": 322008,
+          "listed_count": 145,
+          "media_count": 7280,
+          "tweet_count": 40539
+        },
+        "url": "https://t.co/mCdCYybzUc",
+        "username": "Zlofsky2nd",
+        "verified": true
+      }
+    ]
+  }
+}

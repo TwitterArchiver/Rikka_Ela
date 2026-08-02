@@ -1,0 +1,177 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1815358899777880493",
+    "created_at": "2024-07-23T03:25:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-23T04:25:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1815589146536370266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1647469609866661889",
+          "start": 0,
+          "username": "kagaminewin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1815589146536370266",
+    "in_reply_to_user_id": "1647469609866661889",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1815358899777880493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kagaminewin 给京✌️跪了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1815358899777880493",
+        "created_at": "2024-07-23T03:25:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-23T04:25:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1815589146536370266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1647469609866661889",
+              "start": 0,
+              "username": "kagaminewin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815589146536370266",
+        "in_reply_to_user_id": "1647469609866661889",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1815358899777880493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kagaminewin 给京✌️跪了😭"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1815358888902033408"
+          ]
+        },
+        "author_id": "1647469609866661889",
+        "conversation_id": "1815358899777880493",
+        "created_at": "2024-07-22T12:11:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-22T13:11:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1815358899777880493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/f7X8JqYRx0",
+              "end": 95,
+              "expanded_url": "https://twitter.com/kagaminewin/status/1815358899777880493/photo/1",
+              "media_key": "3_1815358888902033408",
+              "start": 72,
+              "url": "https://t.co/f7X8JqYRx0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1815358899777880493",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 322,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "7.9w哪里贵了？这么多年都是这个价格，不要睁着眼睛乱说，srs很难的，哪里贵了？有的时候找找自己原因，这么多年了工资涨没涨，有没有认真工作？ https://t.co/f7X8JqYRx0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2216,
+          "following_count": 2802,
+          "like_count": 42874,
+          "listed_count": 6,
+          "tweet_count": 2724
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-16T05:19:13.000Z",
+        "description": "",
+        "id": "1647469609866661889",
+        "name": "ach🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1670768463152025602/cTo-vqyH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 617,
+          "like_count": 11102,
+          "listed_count": 0,
+          "tweet_count": 508
+        },
+        "username": "kagaminewin",
+        "verified": false
+      }
+    ]
+  }
+}

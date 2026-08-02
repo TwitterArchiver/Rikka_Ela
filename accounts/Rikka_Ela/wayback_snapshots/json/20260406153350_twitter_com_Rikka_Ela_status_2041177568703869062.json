@@ -1,0 +1,864 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040743689887305728",
+        "3_2040744835838267392"
+      ],
+      "media_source_tweet_id": [
+        "2040744841433481441",
+        "2040744841433481441"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1135979287733948416",
+          "name": "Elden Ring"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1135979287733948416",
+          "name": "Elden Ring"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898668479250438",
+          "name": "Fantasy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      }
+    ],
+    "conversation_id": "2041177568703869062",
+    "created_at": "2026-04-06T15:33:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T16:33:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041177568703869062"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 85,
+          "start": 75,
+          "tag": "Eldenring"
+        },
+        {
+          "end": 95,
+          "start": 86,
+          "tag": "miquella"
+        },
+        {
+          "end": 104,
+          "start": 96,
+          "tag": "cosplay"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1820386013388390400",
+          "start": 3,
+          "username": "AdeleLave_Cos"
+        },
+        {
+          "end": 72,
+          "id": "500509788",
+          "start": 64,
+          "username": "yumenvy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/e5CuQvXKpy",
+          "end": 128,
+          "expanded_url": "https://x.com/AdeleLave_Cos/status/2040744841433481441/photo/1",
+          "media_key": "3_2040743689887305728",
+          "start": 105,
+          "url": "https://t.co/e5CuQvXKpy"
+        },
+        {
+          "display_url": "pic.x.com/e5CuQvXKpy",
+          "end": 128,
+          "expanded_url": "https://x.com/AdeleLave_Cos/status/2040744841433481441/photo/1",
+          "media_key": "3_2040744835838267392",
+          "start": 105,
+          "url": "https://t.co/e5CuQvXKpy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041177568703869062",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 164
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040744841433481441",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AdeleLave_Cos: Lord of the old order.\nLet us go together.\n\n📸@yumenvy \n\n#Eldenring #miquella #cosplay https://t.co/e5CuQvXKpy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040743689887305728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFItktlaUAAuht-.jpg",
+        "width": 1426
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2040744835838267392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFIunalaUAA29gF.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040743689887305728",
+            "3_2040744835838267392"
+          ],
+          "media_source_tweet_id": [
+            "2040744841433481441",
+            "2040744841433481441"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2041177568703869062",
+        "created_at": "2026-04-06T15:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T16:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041177568703869062"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 85,
+              "start": 75,
+              "tag": "Eldenring"
+            },
+            {
+              "end": 95,
+              "start": 86,
+              "tag": "miquella"
+            },
+            {
+              "end": 104,
+              "start": 96,
+              "tag": "cosplay"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1820386013388390400",
+              "start": 3,
+              "username": "AdeleLave_Cos"
+            },
+            {
+              "end": 72,
+              "id": "500509788",
+              "start": 64,
+              "username": "yumenvy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e5CuQvXKpy",
+              "end": 128,
+              "expanded_url": "https://x.com/AdeleLave_Cos/status/2040744841433481441/photo/1",
+              "media_key": "3_2040743689887305728",
+              "start": 105,
+              "url": "https://t.co/e5CuQvXKpy"
+            },
+            {
+              "display_url": "pic.x.com/e5CuQvXKpy",
+              "end": 128,
+              "expanded_url": "https://x.com/AdeleLave_Cos/status/2040744841433481441/photo/1",
+              "media_key": "3_2040744835838267392",
+              "start": 105,
+              "url": "https://t.co/e5CuQvXKpy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041177568703869062",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 164
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040744841433481441",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AdeleLave_Cos: Lord of the old order.\nLet us go together.\n\n📸@yumenvy \n\n#Eldenring #miquella #cosplay https://t.co/e5CuQvXKpy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040743689887305728",
+            "3_2040744835838267392"
+          ]
+        },
+        "author_id": "1820386013388390400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2040744841433481441",
+        "created_at": "2026-04-05T10:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T11:49:46.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040743695956513001",
+          "2040744248283374079",
+          "2040744841433481441"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 66,
+              "start": 56,
+              "tag": "Eldenring"
+            },
+            {
+              "end": 76,
+              "start": 67,
+              "tag": "miquella"
+            },
+            {
+              "end": 85,
+              "start": 77,
+              "tag": "cosplay"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 53,
+              "id": "500509788",
+              "start": 45,
+              "username": "yumenvy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e5CuQvXKpy",
+              "end": 109,
+              "expanded_url": "https://x.com/AdeleLave_Cos/status/2040744841433481441/photo/1",
+              "media_key": "3_2040743689887305728",
+              "start": 86,
+              "url": "https://t.co/e5CuQvXKpy"
+            },
+            {
+              "display_url": "pic.x.com/e5CuQvXKpy",
+              "end": 109,
+              "expanded_url": "https://x.com/AdeleLave_Cos/status/2040744841433481441/photo/1",
+              "media_key": "3_2040744835838267392",
+              "start": 86,
+              "url": "https://t.co/e5CuQvXKpy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040744841433481441",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 135,
+          "impression_count": 24396,
+          "like_count": 1653,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 164
+        },
+        "reply_settings": "everyone",
+        "text": "Lord of the old order.\nLet us go together.\n\n📸@yumenvy \n\n#Eldenring #miquella #cosplay https://t.co/e5CuQvXKpy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5018,
+          "following_count": 3739,
+          "like_count": 81319,
+          "listed_count": 9,
+          "media_count": 396,
+          "tweet_count": 8791
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-05T09:07:12.000Z",
+        "description": "Play Games, Make Games, Cosplay games! My cosplay account to spam cosplay pics 🧝🏻‍♀️ アデリーです💁🏼‍♀️コスプレイヤー🧛🏻‍♀️ personal @adele_lavend",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 118,
+                "username": "adele_lavend"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/adelelave_cosp…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/adelelave_cosplay",
+                "start": 0,
+                "url": "https://t.co/EYWPUEb3Ur"
+              }
+            ]
+          }
+        },
+        "id": "1820386013388390400",
+        "location": "Tokyo-to, Japan",
+        "name": "Adele Lave Cosplay",
+        "pinned_tweet_id": "1820391663518511368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974852966986440704/uTrrfdJ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7915,
+          "following_count": 85,
+          "like_count": 2291,
+          "listed_count": 20,
+          "media_count": 285,
+          "tweet_count": 658
+        },
+        "url": "https://t.co/EYWPUEb3Ur",
+        "username": "AdeleLave_Cos",
+        "verified": true
+      },
+      {
+        "created_at": "2012-02-23T06:17:58.000Z",
+        "description": "CG designer from Tokyo @envyvisuals 🌙 Играю в игры. Steam ID: yumenvy⚡️Иногда стримлю на YouTube/Twitch: envygamenikki ⭐️Telegram - https://t.co/0rB4pFe623✨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "envyvisuals"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/envynonichijou",
+                "end": 155,
+                "expanded_url": "http://t.me/envynonichijou",
+                "start": 132,
+                "url": "https://t.co/0rB4pFe623"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/yumenvy",
+                "end": 23,
+                "expanded_url": "http://Instagram.com/yumenvy",
+                "start": 0,
+                "url": "https://t.co/b8iFl071JY"
+              }
+            ]
+          }
+        },
+        "id": "500509788",
+        "location": "Tokyo-to, Japan",
+        "name": "Envy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036980429631479808/Q2sqDxXV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 963,
+          "following_count": 270,
+          "like_count": 30874,
+          "listed_count": 7,
+          "media_count": 1504,
+          "tweet_count": 7829
+        },
+        "url": "https://t.co/b8iFl071JY",
+        "username": "yumenvy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1892501074629861689",
+    "created_at": "2025-02-20T14:26:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T15:26:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892581704268705795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1504546605147426816",
+          "start": 0,
+          "username": "ksaragi_chihaya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892581704268705795",
+    "in_reply_to_user_id": "1504546605147426816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892501074629861689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ksaragi_chihaya 这下变苞米了🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1892501074629861689",
+        "created_at": "2025-02-20T14:26:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T15:26:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892581704268705795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1504546605147426816",
+              "start": 0,
+              "username": "ksaragi_chihaya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892581704268705795",
+        "in_reply_to_user_id": "1504546605147426816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892501074629861689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ksaragi_chihaya 这下变苞米了🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504546605147426816",
+        "conversation_id": "1892501074629861689",
+        "created_at": "2025-02-20T09:06:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T10:06:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892501074629861689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zaobaosg/statu…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/zaobaosg/status/1892249288236765447",
+              "start": 26,
+              "url": "https://t.co/D9WhXpMuG5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892501074629861689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 13054,
+          "like_count": 269,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892249288236765447",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当你嘲笑习主席的时候，习主席早就在版本终点看着你了 https://t.co/D9WhXpMuG5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3767,
+          "following_count": 3264,
+          "like_count": 60031,
+          "listed_count": 7,
+          "media_count": 168,
+          "tweet_count": 4863
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-17T19:54:08.000Z",
+        "description": "还好我早就是爱国者了🤓",
+        "id": "1504546605147426816",
+        "location": "Minato-ku, Tokyo",
+        "name": "8964如月千早💙💛",
+        "pinned_tweet_id": "1892474755066089939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580545464553771008/JRJizRGo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15148,
+          "following_count": 363,
+          "like_count": 96786,
+          "listed_count": 83,
+          "media_count": 1097,
+          "tweet_count": 7041
+        },
+        "username": "ksaragi_chihaya",
+        "verified": false
+      }
+    ]
+  }
+}

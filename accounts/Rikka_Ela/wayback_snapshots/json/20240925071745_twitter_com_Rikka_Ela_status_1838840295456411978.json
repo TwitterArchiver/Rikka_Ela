@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1838840295456411978",
+    "created_at": "2024-09-25T07:17:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-25T08:17:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1838840295456411978"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/miumcii/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/miumcii/status/1838811949339165124",
+          "start": 8,
+          "url": "https://t.co/Z3b6ZFcn1X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838840295456411978",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838811949339165124",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这完全就是我😇 https://t.co/Z3b6ZFcn1X"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1838840295456411978",
+        "created_at": "2024-09-25T07:17:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T08:17:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838840295456411978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/miumcii/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/miumcii/status/1838811949339165124",
+              "start": 8,
+              "url": "https://t.co/Z3b6ZFcn1X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838840295456411978",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838811949339165124",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这完全就是我😇 https://t.co/Z3b6ZFcn1X"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1470410046353858565",
+        "conversation_id": "1838811949339165124",
+        "created_at": "2024-09-25T05:25:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T06:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838811949339165124"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1838811949339165124",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1698,
+          "like_count": 22,
+          "quote_count": 4,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我就是那种把人生都荒废在推特上的那种垃圾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文\n\nwife:@Y32010705",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "Y32010705"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2858,
+          "following_count": 2929,
+          "like_count": 49192,
+          "listed_count": 6,
+          "tweet_count": 3347
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-13T15:07:45.000Z",
+        "description": "告诉我把爱找回来的方法，因为我无法离开这个鬼地方。",
+        "id": "1470410046353858565",
+        "name": "闵目夕曦🍀",
+        "pinned_tweet_id": "1816854312628130268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807752794868436992/aRV-vQMQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28354,
+          "following_count": 287,
+          "like_count": 20297,
+          "listed_count": 79,
+          "tweet_count": 10669
+        },
+        "username": "miumcii",
+        "verified": false
+      }
+    ]
+  }
+}

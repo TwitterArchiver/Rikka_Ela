@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1946836588140601581",
+    "created_at": "2025-07-20T07:36:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T08:36:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1946836588140601581"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jane_s_eye/sta…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/jane_s_eye/status/1946822829275820498",
+          "start": 10,
+          "url": "https://t.co/8PDge3ZFhY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946836588140601581",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 138,
+      "like_count": 4,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946822829275820498",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😭我这辈子都做不到 https://t.co/8PDge3ZFhY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1946836588140601581",
+        "created_at": "2025-07-20T07:36:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T08:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946836588140601581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jane_s_eye/sta…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/jane_s_eye/status/1946822829275820498",
+              "start": 10,
+              "url": "https://t.co/8PDge3ZFhY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946836588140601581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 138,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946822829275820498",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😭我这辈子都做不到 https://t.co/8PDge3ZFhY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462419807173677059",
+        "conversation_id": "1946822829275820498",
+        "created_at": "2025-07-20T06:41:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T07:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946822829275820498"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1946822829275820498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1093,
+          "like_count": 42,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我真羡慕那些长得漂亮的跨妹。\n每当在网上遇到被恶意bodyshame和misgender的时候，都可以用自己美丽的照片回击，照片里是一个歧视者在现实中永远不敢上去搭话的女孩，是歧视者在现在觉得自己不可能配得上的女孩，这很爽。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4443,
+          "following_count": 3533,
+          "like_count": 70991,
+          "listed_count": 7,
+          "media_count": 264,
+          "tweet_count": 6511
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-21T13:58:25.000Z",
+        "description": "she/her but Not a whore.",
+        "id": "1462419807173677059",
+        "location": "Blowing in the wind",
+        "name": "Véronique",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945499193457446912/ATAJ-kBg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10914,
+          "following_count": 3055,
+          "like_count": 11347,
+          "listed_count": 22,
+          "media_count": 437,
+          "tweet_count": 7365
+        },
+        "username": "Jane_S_Eye",
+        "verified": false
+      }
+    ]
+  }
+}

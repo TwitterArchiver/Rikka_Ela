@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1945905273274573026",
+    "created_at": "2025-07-18T00:43:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T01:43:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946007882979496029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1434608964629639168",
+          "start": 0,
+          "username": "Sharkie_4005"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946007882979496029",
+    "in_reply_to_user_id": "1434608964629639168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 26,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945905273274573026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sharkie_4005 🥺羡慕温哥华（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1945905273274573026",
+        "created_at": "2025-07-18T00:43:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T01:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946007882979496029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1434608964629639168",
+              "start": 0,
+              "username": "Sharkie_4005"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946007882979496029",
+        "in_reply_to_user_id": "1434608964629639168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945905273274573026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sharkie_4005 🥺羡慕温哥华（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1434608964629639168",
+        "conversation_id": "1945905273274573026",
+        "created_at": "2025-07-17T17:55:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T18:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945905273274573026"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945905273274573026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 172,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "溫哥華有哪些好玩的嗎？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4449,
+          "following_count": 3535,
+          "like_count": 70805,
+          "listed_count": 7,
+          "media_count": 263,
+          "tweet_count": 6486
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-05T20:07:08.000Z",
+        "description": "19 years old，海豹姊姊@Siyan_Xiao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "Siyan_Xiao"
+              }
+            ]
+          }
+        },
+        "id": "1434608964629639168",
+        "name": "Atlantic_Sea Shark",
+        "pinned_tweet_id": "1945622354324803835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891641996462174208/hu5f1xyy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 627,
+          "following_count": 446,
+          "like_count": 32967,
+          "listed_count": 2,
+          "media_count": 476,
+          "tweet_count": 8419
+        },
+        "username": "Sharkie_4005",
+        "verified": false
+      }
+    ]
+  }
+}

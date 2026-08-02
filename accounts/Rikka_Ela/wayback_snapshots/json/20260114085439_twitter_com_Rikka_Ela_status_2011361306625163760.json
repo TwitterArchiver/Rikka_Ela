@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2011025864868446208"
+      ],
+      "media_source_tweet_id": [
+        "2011025870660780384"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "conversation_id": "2011361306625163760",
+    "created_at": "2026-01-14T08:54:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T09:54:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011361306625163760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1496227146272227329",
+          "start": 3,
+          "username": "kanon_cogimyu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/prYLHZabWh",
+          "end": 47,
+          "expanded_url": "https://x.com/kanon_cogimyu/status/2011025870660780384/photo/1",
+          "media_key": "3_2011025864868446208",
+          "start": 24,
+          "url": "https://t.co/prYLHZabWh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011361306625163760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011025870660780384",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kanon_cogimyu: 双子の馬 https://t.co/prYLHZabWh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2011025864868446208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-iZXoWbQAAszd9.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011025864868446208"
+          ],
+          "media_source_tweet_id": [
+            "2011025870660780384"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "2011361306625163760",
+        "created_at": "2026-01-14T08:54:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T09:54:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011361306625163760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1496227146272227329",
+              "start": 3,
+              "username": "kanon_cogimyu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/prYLHZabWh",
+              "end": 47,
+              "expanded_url": "https://x.com/kanon_cogimyu/status/2011025870660780384/photo/1",
+              "media_key": "3_2011025864868446208",
+              "start": 24,
+              "url": "https://t.co/prYLHZabWh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011361306625163760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011025870660780384",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kanon_cogimyu: 双子の馬 https://t.co/prYLHZabWh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011025864868446208"
+          ]
+        },
+        "author_id": "1496227146272227329",
+        "conversation_id": "2011025870660780384",
+        "created_at": "2026-01-13T10:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T11:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011025870660780384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/prYLHZabWh",
+              "end": 28,
+              "expanded_url": "https://x.com/kanon_cogimyu/status/2011025870660780384/photo/1",
+              "media_key": "3_2011025864868446208",
+              "start": 5,
+              "url": "https://t.co/prYLHZabWh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011025870660780384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 5349,
+          "like_count": 386,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "双子の馬 https://t.co/prYLHZabWh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4857,
+          "following_count": 3694,
+          "like_count": 78545,
+          "listed_count": 8,
+          "media_count": 361,
+          "tweet_count": 8033
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-22T20:55:36.000Z",
+        "description": "個人VTuberとフロムゲーのレイヤー、 お仕事等連絡先kanon.cinna@gmail.com",
+        "id": "1496227146272227329",
+        "location": "東京",
+        "name": "花音",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786228071319871488/cV3l-ioj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7959,
+          "following_count": 1830,
+          "like_count": 14580,
+          "listed_count": 128,
+          "media_count": 1657,
+          "tweet_count": 17708
+        },
+        "username": "kanon_cogimyu",
+        "verified": false
+      }
+    ]
+  }
+}

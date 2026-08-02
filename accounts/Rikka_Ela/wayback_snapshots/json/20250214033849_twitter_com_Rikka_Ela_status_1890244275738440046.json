@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1889813669078245376"
+      ],
+      "media_source_tweet_id": [
+        "1889813743925964810"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596157251587",
+          "name": "Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596165570560",
+          "name": "Education Related - Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1278055867347120128",
+          "name": "Duolingo"
+        }
+      }
+    ],
+    "conversation_id": "1890244275738440046",
+    "created_at": "2025-02-14T03:38:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T04:38:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890244275738440046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "147608326",
+          "start": 3,
+          "username": "rivensner"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KvrrDErUKf",
+          "end": 38,
+          "expanded_url": "https://x.com/rivensner/status/1889813743925964810/photo/1",
+          "media_key": "3_1889813669078245376",
+          "start": 15,
+          "url": "https://t.co/KvrrDErUKf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890244275738440046",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14878
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889813743925964810",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rivensner: https://t.co/KvrrDErUKf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 928,
+        "media_key": "3_1889813669078245376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gjn3hPUWIAAxB69.jpg",
+        "width": 1232
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889813669078245376"
+          ],
+          "media_source_tweet_id": [
+            "1889813743925964810"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165570560",
+              "name": "Education Related - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1278055867347120128",
+              "name": "Duolingo"
+            }
+          }
+        ],
+        "conversation_id": "1890244275738440046",
+        "created_at": "2025-02-14T03:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T04:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890244275738440046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "147608326",
+              "start": 3,
+              "username": "rivensner"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KvrrDErUKf",
+              "end": 38,
+              "expanded_url": "https://x.com/rivensner/status/1889813743925964810/photo/1",
+              "media_key": "3_1889813669078245376",
+              "start": 15,
+              "url": "https://t.co/KvrrDErUKf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890244275738440046",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14878
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889813743925964810",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rivensner: https://t.co/KvrrDErUKf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889813669078245376"
+          ]
+        },
+        "author_id": "147608326",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165570560",
+              "name": "Education Related - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1278055867347120128",
+              "name": "Duolingo"
+            }
+          }
+        ],
+        "conversation_id": "1889813743925964810",
+        "created_at": "2025-02-12T23:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T00:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889813743925964810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KvrrDErUKf",
+              "end": 23,
+              "expanded_url": "https://x.com/rivensner/status/1889813743925964810/photo/1",
+              "media_key": "3_1889813669078245376",
+              "start": 0,
+              "url": "https://t.co/KvrrDErUKf"
+            },
+            {
+              "display_url": "x.com/duolingo/statu…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/duolingo/status/1889328809054224698",
+              "start": 24,
+              "url": "https://t.co/xcDO7Scc2r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889813743925964810",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7394,
+          "impression_count": 5872626,
+          "like_count": 241015,
+          "quote_count": 155,
+          "reply_count": 107,
+          "retweet_count": 14878
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889328809054224698",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/KvrrDErUKf https://t.co/xcDO7Scc2r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3668,
+          "following_count": 3238,
+          "like_count": 59118,
+          "listed_count": 6,
+          "media_count": 168,
+          "tweet_count": 4788
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-24T15:40:23.000Z",
+        "description": "archive // csm · at · kgrb · oc",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rivensner.straw.page",
+                "end": 23,
+                "expanded_url": "http://rivensner.straw.page",
+                "start": 0,
+                "url": "https://t.co/dnbwifgmTw"
+              }
+            ]
+          }
+        },
+        "id": "147608326",
+        "name": "R I V Σ N",
+        "pinned_tweet_id": "1871235552323969341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1684962579309887488/FfNvYxEW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14287,
+          "following_count": 374,
+          "like_count": 33328,
+          "listed_count": 49,
+          "media_count": 373,
+          "tweet_count": 547
+        },
+        "url": "https://t.co/dnbwifgmTw",
+        "username": "rivensner",
+        "verified": false
+      }
+    ]
+  }
+}

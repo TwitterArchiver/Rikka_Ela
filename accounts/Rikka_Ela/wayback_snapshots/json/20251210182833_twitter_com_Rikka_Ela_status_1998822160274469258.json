@@ -1,0 +1,601 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998719494408253440"
+      ],
+      "media_source_tweet_id": [
+        "1998719500074852767"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10044774920",
+          "name": "Dark Souls"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10044774920",
+          "name": "Dark Souls"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900785013129216",
+          "name": "Soulslike games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      }
+    ],
+    "conversation_id": "1998822160274469258",
+    "created_at": "2025-12-10T18:28:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T19:28:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998822160274469258"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 60,
+          "normalized_text": "法王　フクチャーン",
+          "probability": 0.4254,
+          "start": 52,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 84,
+          "start": 64,
+          "tag": "ELDENRINGNIGHTREIGN"
+        },
+        {
+          "end": 94,
+          "start": 86,
+          "tag": "ダークソウル3"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "260732056",
+          "start": 3,
+          "username": "miya_zirou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kSUXl3V8ms",
+          "end": 118,
+          "expanded_url": "https://x.com/miya_zirou/status/1998719500074852767/photo/1",
+          "media_key": "3_1998719494408253440",
+          "start": 95,
+          "url": "https://t.co/kSUXl3V8ms"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998822160274469258",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 159
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998719500074852767",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miya_zirou: エルデンリングナイトレイン\n復讐者(罪の大剣　裁きの大剣そうび)\n\n夜の法王　フクチャーンです\n#ELDENRINGNIGHTREIGN  #ダークソウル3 https://t.co/kSUXl3V8ms"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1998719494408253440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7zgyl3aMAAk1qf.jpg",
+        "width": 1446
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998719494408253440"
+          ],
+          "media_source_tweet_id": [
+            "1998719500074852767"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044774920",
+              "name": "Dark Souls"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044774920",
+              "name": "Dark Souls"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900785013129216",
+              "name": "Soulslike games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "1998822160274469258",
+        "created_at": "2025-12-10T18:28:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T19:28:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998822160274469258"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 60,
+              "normalized_text": "法王　フクチャーン",
+              "probability": 0.4254,
+              "start": 52,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 84,
+              "start": 64,
+              "tag": "ELDENRINGNIGHTREIGN"
+            },
+            {
+              "end": 94,
+              "start": 86,
+              "tag": "ダークソウル3"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "260732056",
+              "start": 3,
+              "username": "miya_zirou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kSUXl3V8ms",
+              "end": 118,
+              "expanded_url": "https://x.com/miya_zirou/status/1998719500074852767/photo/1",
+              "media_key": "3_1998719494408253440",
+              "start": 95,
+              "url": "https://t.co/kSUXl3V8ms"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998822160274469258",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 159
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998719500074852767",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miya_zirou: エルデンリングナイトレイン\n復讐者(罪の大剣　裁きの大剣そうび)\n\n夜の法王　フクチャーンです\n#ELDENRINGNIGHTREIGN  #ダークソウル3 https://t.co/kSUXl3V8ms"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998719494408253440"
+          ]
+        },
+        "author_id": "260732056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044774920",
+              "name": "Dark Souls"
+            }
+          }
+        ],
+        "conversation_id": "1998719500074852767",
+        "created_at": "2025-12-10T11:40:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T12:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998719500074852767"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 44,
+              "normalized_text": "法王　フクチャーン",
+              "probability": 0.2804,
+              "start": 36,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 68,
+              "start": 48,
+              "tag": "ELDENRINGNIGHTREIGN"
+            },
+            {
+              "end": 78,
+              "start": 70,
+              "tag": "ダークソウル3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kSUXl3V8ms",
+              "end": 102,
+              "expanded_url": "https://x.com/miya_zirou/status/1998719500074852767/photo/1",
+              "media_key": "3_1998719494408253440",
+              "start": 79,
+              "url": "https://t.co/kSUXl3V8ms"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998719500074852767",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 98,
+          "impression_count": 9995,
+          "like_count": 1113,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 159
+        },
+        "reply_settings": "everyone",
+        "text": "エルデンリングナイトレイン\n復讐者(罪の大剣　裁きの大剣そうび)\n\n夜の法王　フクチャーンです\n#ELDENRINGNIGHTREIGN  #ダークソウル3 https://t.co/kSUXl3V8ms"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4761,
+          "following_count": 3666,
+          "like_count": 77249,
+          "listed_count": 8,
+          "media_count": 339,
+          "tweet_count": 7664
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2011-03-04T13:46:02.000Z",
+        "description": "漫画描いてます。ネームの返信待ちの期間に好きなゲームの絵を描きたい。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@miya_zirou",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@miya_zirou",
+                "start": 0,
+                "url": "https://t.co/s2zRvsX5YO"
+              }
+            ]
+          }
+        },
+        "id": "260732056",
+        "name": "富本祥太@skeb募集中",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/933992218112622595/99X2aRW0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3149,
+          "following_count": 49,
+          "like_count": 250,
+          "listed_count": 13,
+          "media_count": 774,
+          "tweet_count": 12285
+        },
+        "url": "https://t.co/s2zRvsX5YO",
+        "username": "miya_zirou",
+        "verified": false
+      }
+    ]
+  }
+}

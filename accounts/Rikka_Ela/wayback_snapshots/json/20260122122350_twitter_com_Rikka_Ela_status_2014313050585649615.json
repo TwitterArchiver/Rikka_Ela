@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2014048589899571334",
+    "created_at": "2026-01-22T12:23:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T13:23:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014313050585649615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1225559787414401025",
+          "start": 0,
+          "username": "Gun1nx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014313050585649615",
+    "in_reply_to_user_id": "1225559787414401025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014268561741824196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gun1nx 稳定60帧，但是手柄移植的键位非常反人类"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2014048589899571334",
+        "created_at": "2026-01-22T12:23:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T13:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014313050585649615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1225559787414401025",
+              "start": 0,
+              "username": "Gun1nx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014313050585649615",
+        "in_reply_to_user_id": "1225559787414401025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014268561741824196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gun1nx 稳定60帧，但是手柄移植的键位非常反人类"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1225559787414401025",
+        "conversation_id": "2014048589899571334",
+        "created_at": "2026-01-22T09:27:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T10:27:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014268561741824196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014268561741824196",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014048589899571334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 用模拟器玩稳定吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4880,
+          "following_count": 3701,
+          "like_count": 78822,
+          "listed_count": 8,
+          "media_count": 365,
+          "tweet_count": 8104
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-06T23:20:04.000Z",
+        "description": "把推特当做朋友圈，爱好是宅家里打游戏，爱玩galgame/魂/音游/",
+        "id": "1225559787414401025",
+        "location": "天国",
+        "name": "Sangu1s",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989750317949620224/HM_-p3tH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 157,
+          "like_count": 3116,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 472
+        },
+        "username": "Gun1nx",
+        "verified": false
+      }
+    ]
+  }
+}

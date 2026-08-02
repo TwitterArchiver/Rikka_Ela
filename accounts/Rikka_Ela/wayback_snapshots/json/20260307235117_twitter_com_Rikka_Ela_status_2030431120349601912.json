@@ -1,0 +1,754 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022732782364205056"
+      ],
+      "media_source_tweet_id": [
+        "2022732786122047642"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10044774920",
+          "name": "Dark Souls"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10044774920",
+          "name": "Dark Souls"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900785013129216",
+          "name": "Soulslike games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      }
+    ],
+    "conversation_id": "2030431120349601912",
+    "created_at": "2026-03-07T23:51:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T00:51:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030431120349601912"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 34,
+          "normalized_text": "Knight Gael",
+          "probability": 0.3788,
+          "start": 24,
+          "type": "Person"
+        },
+        {
+          "end": 49,
+          "normalized_text": "The Dreglord",
+          "probability": 0.6479,
+          "start": 38,
+          "type": "Other"
+        },
+        {
+          "end": 62,
+          "normalized_text": "DARKSOULS",
+          "probability": 0.4259,
+          "start": 54,
+          "type": "Person"
+        },
+        {
+          "end": 74,
+          "normalized_text": "NIGHTREIGN",
+          "probability": 0.4421,
+          "start": 65,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 63,
+          "start": 53,
+          "tag": "DARKSOULS"
+        },
+        {
+          "end": 75,
+          "start": 64,
+          "tag": "NIGHTREIGN"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1683015703895449600",
+          "start": 3,
+          "username": "TheHalberick"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vnLuqacjRb",
+          "end": 99,
+          "expanded_url": "https://x.com/TheHalberick/status/2022732786122047642/photo/1",
+          "media_key": "3_2022732782364205056",
+          "start": 76,
+          "url": "https://t.co/vnLuqacjRb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030431120349601912",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 634
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022732786122047642",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TheHalberick: Slave Knight Gael x The Dreglord \n\n#DARKSOULS #NIGHTREIGN https://t.co/vnLuqacjRb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2022732782364205056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBIwv6hbIAAO4xC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022732782364205056"
+          ],
+          "media_source_tweet_id": [
+            "2022732786122047642"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044774920",
+              "name": "Dark Souls"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044774920",
+              "name": "Dark Souls"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900785013129216",
+              "name": "Soulslike games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2030431120349601912",
+        "created_at": "2026-03-07T23:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T00:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030431120349601912"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "Knight Gael",
+              "probability": 0.3788,
+              "start": 24,
+              "type": "Person"
+            },
+            {
+              "end": 49,
+              "normalized_text": "The Dreglord",
+              "probability": 0.6479,
+              "start": 38,
+              "type": "Other"
+            },
+            {
+              "end": 62,
+              "normalized_text": "DARKSOULS",
+              "probability": 0.4259,
+              "start": 54,
+              "type": "Person"
+            },
+            {
+              "end": 74,
+              "normalized_text": "NIGHTREIGN",
+              "probability": 0.4421,
+              "start": 65,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 63,
+              "start": 53,
+              "tag": "DARKSOULS"
+            },
+            {
+              "end": 75,
+              "start": 64,
+              "tag": "NIGHTREIGN"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1683015703895449600",
+              "start": 3,
+              "username": "TheHalberick"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vnLuqacjRb",
+              "end": 99,
+              "expanded_url": "https://x.com/TheHalberick/status/2022732786122047642/photo/1",
+              "media_key": "3_2022732782364205056",
+              "start": 76,
+              "url": "https://t.co/vnLuqacjRb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030431120349601912",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 634
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022732786122047642",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TheHalberick: Slave Knight Gael x The Dreglord \n\n#DARKSOULS #NIGHTREIGN https://t.co/vnLuqacjRb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022732782364205056"
+          ]
+        },
+        "author_id": "1683015703895449600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044774920",
+              "name": "Dark Souls"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044774920",
+              "name": "Dark Souls"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900785013129216",
+              "name": "Soulslike games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2022732786122047642",
+        "created_at": "2026-02-14T18:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T19:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022732786122047642"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "Knight Gael",
+              "probability": 0.4672,
+              "start": 6,
+              "type": "Person"
+            },
+            {
+              "end": 31,
+              "normalized_text": "The Dreglord",
+              "probability": 0.5239,
+              "start": 20,
+              "type": "Other"
+            },
+            {
+              "end": 44,
+              "normalized_text": "DARKSOULS",
+              "probability": 0.5116,
+              "start": 36,
+              "type": "Person"
+            },
+            {
+              "end": 56,
+              "normalized_text": "NIGHTREIGN",
+              "probability": 0.411,
+              "start": 47,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 35,
+              "tag": "DARKSOULS"
+            },
+            {
+              "end": 57,
+              "start": 46,
+              "tag": "NIGHTREIGN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vnLuqacjRb",
+              "end": 81,
+              "expanded_url": "https://x.com/TheHalberick/status/2022732786122047642/photo/1",
+              "media_key": "3_2022732782364205056",
+              "start": 58,
+              "url": "https://t.co/vnLuqacjRb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022732786122047642",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 562,
+          "impression_count": 67307,
+          "like_count": 4746,
+          "quote_count": 8,
+          "reply_count": 11,
+          "retweet_count": 634
+        },
+        "reply_settings": "everyone",
+        "text": "Slave Knight Gael x The Dreglord \n\n#DARKSOULS #NIGHTREIGN https://t.co/vnLuqacjRb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4958,
+          "following_count": 3734,
+          "like_count": 80140,
+          "listed_count": 9,
+          "media_count": 383,
+          "tweet_count": 8441
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T07:26:49.000Z",
+        "description": "An aspiring digital artist and a FromSoftware enthusiast. Hope you enjoy my creations! ☕💜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "halberick.carrd.co",
+                "end": 23,
+                "expanded_url": "https://halberick.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/qcEzduRo0e"
+              }
+            ]
+          }
+        },
+        "id": "1683015703895449600",
+        "location": "Altair of Despair",
+        "name": "Halberick",
+        "pinned_tweet_id": "2027859309896355891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018610538998030336/YJFB8NVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2129,
+          "following_count": 67,
+          "like_count": 1560,
+          "listed_count": 4,
+          "media_count": 102,
+          "tweet_count": 255
+        },
+        "url": "https://t.co/qcEzduRo0e",
+        "username": "TheHalberick",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1938597234783948835",
+    "created_at": "2025-06-27T13:56:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-27T14:56:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1938597234783948835"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cyberlillycos/…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/cyberlillycos/status/1926298510984442268",
+          "start": 14,
+          "url": "https://t.co/jmx8AbnaAU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938597234783948835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926298510984442268",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也想cos防火女🥺🥺🥺） https://t.co/jmx8AbnaAU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5610,
+        "height": 1280,
+        "media_key": "13_1926298331514384385",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1926298331514384385/img/rozeHFXFkw0vi00L.jpg",
+        "public_metrics": {
+          "view_count": 32909
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1926298331514384385/vid/avc1/320x568/g3ca4lwmwK_lzlOd.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1926298331514384385/vid/avc1/480x852/5lFF7WPAGLiuMKOM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1926298331514384385/vid/avc1/720x1280/h-FDprOkCikzM61g.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1926298331514384385/pl/imIbl9EVQvZxK0DA.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1938597234783948835",
+        "created_at": "2025-06-27T13:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T14:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938597234783948835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cyberlillycos/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/cyberlillycos/status/1926298510984442268",
+              "start": 14,
+              "url": "https://t.co/jmx8AbnaAU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938597234783948835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926298510984442268",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也想cos防火女🥺🥺🥺） https://t.co/jmx8AbnaAU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1926298331514384385"
+          ]
+        },
+        "author_id": "880551103275950083",
+        "conversation_id": "1926298510984442268",
+        "created_at": "2025-05-24T15:25:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T16:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926298510984442268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SdCb9EzP5n",
+              "end": 76,
+              "expanded_url": "https://x.com/cyberlillycos/status/1926298510984442268/video/1",
+              "media_key": "13_1926298331514384385",
+              "start": 53,
+              "url": "https://t.co/SdCb9EzP5n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926298510984442268",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 187,
+          "impression_count": 48604,
+          "like_count": 1760,
+          "quote_count": 7,
+          "reply_count": 10,
+          "retweet_count": 91
+        },
+        "reply_settings": "everyone",
+        "text": "we took the prettiest photos yesterday as firekeeper https://t.co/SdCb9EzP5n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4364,
+          "following_count": 3507,
+          "like_count": 69741,
+          "listed_count": 7,
+          "media_count": 247,
+          "tweet_count": 6302
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-29T22:18:37.000Z",
+        "description": "cosplayer & prop maker ⚔️ dark souls npc 🗡️ IG: cyberlillies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cyb3rff0x.straw.page",
+                "end": 23,
+                "expanded_url": "https://cyb3rff0x.straw.page/",
+                "start": 0,
+                "url": "https://t.co/OVEHpC3SMs"
+              }
+            ]
+          }
+        },
+        "id": "880551103275950083",
+        "location": "The Abyss",
+        "name": "𒉭 cyber 𒉭",
+        "pinned_tweet_id": "1870698854636814732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933227358128885760/BFTelRnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13824,
+          "following_count": 208,
+          "like_count": 13510,
+          "listed_count": 20,
+          "media_count": 637,
+          "tweet_count": 3288
+        },
+        "url": "https://t.co/OVEHpC3SMs",
+        "username": "cyberlillycos",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2080319983381279138",
+    "created_at": "2026-07-24T16:32:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T17:32:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080692540022652975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2001732616693952512",
+          "start": 0,
+          "username": "Persica0926"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080692540022652975",
+    "in_reply_to_user_id": "2001732616693952512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080319983381279138",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Persica0926 笑死我了但是他们家每次排队真的都好久的🫠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2080319983381279138",
+        "created_at": "2026-07-24T16:32:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T17:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080692540022652975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2001732616693952512",
+              "start": 0,
+              "username": "Persica0926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080692540022652975",
+        "in_reply_to_user_id": "2001732616693952512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080319983381279138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Persica0926 笑死我了但是他们家每次排队真的都好久的🫠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001732616693952512",
+        "conversation_id": "2080319983381279138",
+        "created_at": "2026-07-23T15:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T16:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080319983381279138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/persica0926/st…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/persica0926/status/2080263433807659061",
+              "start": 28,
+              "url": "https://t.co/8xYxLb8ERf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080319983381279138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 242152,
+          "like_count": 1605,
+          "quote_count": 28,
+          "reply_count": 348,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080263433807659061",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "牛new是一个自助火锅啊\n不是牛牛….我的私信被冲烂了 https://t.co/8xYxLb8ERf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6426,
+          "following_count": 3778,
+          "like_count": 85952,
+          "listed_count": 9,
+          "media_count": 450,
+          "tweet_count": 10014
+        },
+        "url": "",
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T19:14:02.000Z",
+        "description": "一小部分我\n健身&日常\n上推只为🏄\n不私联 止于推",
+        "id": "2001732616693952512",
+        "location": "你心里",
+        "name": "Persica",
+        "pinned_tweet_id": "2080584335195799926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001733520012566528/FTfit1RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 14,
+          "like_count": 102,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 190
+        },
+        "url": "",
+        "username": "Persica0926",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2080836878018965635",
+    "created_at": "2026-07-25T03:44:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T04:44:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080861728607519180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1767161673566359552",
+          "start": 0,
+          "username": "willa_citrus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080861728607519180",
+    "in_reply_to_user_id": "1767161673566359552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080836878018965635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@willa_citrus 羡慕死了…."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2080836865482203136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOCeGrqaoAAe-W7.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2080836878018965635",
+        "created_at": "2026-07-25T03:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T04:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080861728607519180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1767161673566359552",
+              "start": 0,
+              "username": "willa_citrus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080861728607519180",
+        "in_reply_to_user_id": "1767161673566359552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080836878018965635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@willa_citrus 羡慕死了…."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080836865482203136"
+          ]
+        },
+        "author_id": "1767161673566359552",
+        "conversation_id": "2080836878018965635",
+        "created_at": "2026-07-25T02:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T03:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080836878018965635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZB6bLG4417",
+              "end": 97,
+              "expanded_url": "https://x.com/willa_citrus/status/2080836878018965635/photo/1",
+              "media_key": "3_2080836865482203136",
+              "start": 74,
+              "url": "https://t.co/ZB6bLG4417"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080836878018965635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 953,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上班之后发现\n其实周围的同事早都知道我是啥...\n柜门压根不存在\n但0人在意 都是我想要的称呼 也没人乱问 跟其他管理层在厕所遇到了也都正常打招呼 https://t.co/ZB6bLG4417"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6426,
+          "following_count": 3777,
+          "like_count": 85956,
+          "listed_count": 9,
+          "media_count": 450,
+          "tweet_count": 10016
+        },
+        "url": "",
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T12:12:39.000Z",
+        "description": "试图照见自己 / 沪漂就业大挑战 / 怪猎&魂 / 光明果派漫宿研习者 / 彻夜飞旋，直至甜美的生诞 / 人生意义是创造、帮助和改变 / 如果空下来一定要做个播客 / 甜甜同居六年多 @rat_miyari",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 92,
+                "username": "rat_miyari"
+              }
+            ]
+          }
+        },
+        "id": "1767161673566359552",
+        "location": "杭州",
+        "name": "王小檬𝖂𝖎𝖑𝖑𝖆🍋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978691032192782336/2rH_jGCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12438,
+          "following_count": 243,
+          "like_count": 8291,
+          "listed_count": 38,
+          "media_count": 374,
+          "tweet_count": 9363
+        },
+        "url": "",
+        "username": "willa_citrus",
+        "verified": false
+      }
+    ]
+  }
+}

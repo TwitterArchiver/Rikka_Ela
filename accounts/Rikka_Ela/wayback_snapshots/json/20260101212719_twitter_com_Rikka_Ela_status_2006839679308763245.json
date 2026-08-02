@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2006522287844208640"
+      ],
+      "media_source_tweet_id": [
+        "2006522429913600499"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      }
+    ],
+    "conversation_id": "2006839679308763245",
+    "created_at": "2026-01-01T21:27:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T22:27:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006839679308763245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "918005267513540610",
+          "start": 3,
+          "username": "monokuya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oDqzL5fUFx",
+          "end": 96,
+          "expanded_url": "https://x.com/monokuya/status/2006522429913600499/video/1",
+          "media_key": "13_2006522287844208640",
+          "start": 73,
+          "url": "https://t.co/oDqzL5fUFx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006839679308763245",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006522429913600499",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @monokuya: 野良常夜リブラ50秒壺おぢ\n付帯は全部火力最大(🔥12%or最大14%)\n\nそして\nあけましておめでとうございます🎍 https://t.co/oDqzL5fUFx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 57323,
+        "height": 720,
+        "media_key": "13_2006522287844208640",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2006522287844208640/img/lp_DItzLVAFkfQHY.jpg",
+        "public_metrics": {
+          "view_count": 36871
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006522287844208640/vid/avc1/480x270/nqIGQPKzHB692hnP.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006522287844208640/vid/avc1/640x360/TKgU8JLmR3BvTNlw.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006522287844208640/vid/avc1/1280x720/NWgqo-k4yt3KieA9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2006522287844208640/pl/6DtdTEGRItNshryS.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2006522287844208640"
+          ],
+          "media_source_tweet_id": [
+            "2006522429913600499"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          }
+        ],
+        "conversation_id": "2006839679308763245",
+        "created_at": "2026-01-01T21:27:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T22:27:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006839679308763245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "918005267513540610",
+              "start": 3,
+              "username": "monokuya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oDqzL5fUFx",
+              "end": 96,
+              "expanded_url": "https://x.com/monokuya/status/2006522429913600499/video/1",
+              "media_key": "13_2006522287844208640",
+              "start": 73,
+              "url": "https://t.co/oDqzL5fUFx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006839679308763245",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006522429913600499",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @monokuya: 野良常夜リブラ50秒壺おぢ\n付帯は全部火力最大(🔥12%or最大14%)\n\nそして\nあけましておめでとうございます🎍 https://t.co/oDqzL5fUFx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2006522287844208640"
+          ]
+        },
+        "author_id": "918005267513540610",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          }
+        ],
+        "conversation_id": "2006522429913600499",
+        "created_at": "2026-01-01T00:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T01:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006522429913600499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oDqzL5fUFx",
+              "end": 82,
+              "expanded_url": "https://x.com/monokuya/status/2006522429913600499/video/1",
+              "media_key": "13_2006522287844208640",
+              "start": 59,
+              "url": "https://t.co/oDqzL5fUFx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006522429913600499",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 71679,
+          "like_count": 708,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "野良常夜リブラ50秒壺おぢ\n付帯は全部火力最大(🔥12%or最大14%)\n\nそして\nあけましておめでとうございます🎍 https://t.co/oDqzL5fUFx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4829,
+          "following_count": 3669,
+          "like_count": 78132,
+          "listed_count": 8,
+          "media_count": 353,
+          "tweet_count": 7881
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-11T06:48:06.000Z",
+        "description": "日常!!友達!!家族!! 配信は→ https://t.co/eImA82a5c8    メインの動画はyoutube",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/monokuya32",
+                "end": 41,
+                "expanded_url": "https://www.twitch.tv/monokuya32",
+                "start": 18,
+                "url": "https://t.co/eImA82a5c8"
+              }
+            ]
+          }
+        },
+        "id": "918005267513540610",
+        "name": "モノクヤ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1285437608273645568/osaFi4um_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4756,
+          "following_count": 989,
+          "like_count": 12508,
+          "listed_count": 22,
+          "media_count": 2298,
+          "tweet_count": 12102
+        },
+        "username": "monokuya",
+        "verified": false
+      }
+    ]
+  }
+}

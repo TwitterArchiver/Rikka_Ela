@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1907400463093555200",
+        "3_1907400463089283072"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "conversation_id": "1907400472157384723",
+    "created_at": "2025-04-02T11:51:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T12:51:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1907400472157384723"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gzDMbf9POx",
+          "end": 26,
+          "expanded_url": "https://x.com/Rikka_Ela/status/1907400472157384723/photo/1",
+          "media_key": "3_1907400463093555200",
+          "start": 3,
+          "url": "https://t.co/gzDMbf9POx"
+        },
+        {
+          "display_url": "pic.x.com/gzDMbf9POx",
+          "end": 26,
+          "expanded_url": "https://x.com/Rikka_Ela/status/1907400472157384723/photo/1",
+          "media_key": "3_1907400463089283072",
+          "start": 3,
+          "url": "https://t.co/gzDMbf9POx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907400472157384723",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这我 https://t.co/gzDMbf9POx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1890,
+        "media_key": "3_1907400463093555200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnhynYcbYAAjmiX.jpg",
+        "width": 880
+      },
+      {
+        "height": 882,
+        "media_key": "3_1907400463089283072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnhynYbaMAANO_l.jpg",
+        "width": 883
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907400463093555200",
+            "3_1907400463089283072"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "1907400472157384723",
+        "created_at": "2025-04-02T11:51:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T12:51:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907400472157384723"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gzDMbf9POx",
+              "end": 26,
+              "expanded_url": "https://x.com/Rikka_Ela/status/1907400472157384723/photo/1",
+              "media_key": "3_1907400463093555200",
+              "start": 3,
+              "url": "https://t.co/gzDMbf9POx"
+            },
+            {
+              "display_url": "pic.x.com/gzDMbf9POx",
+              "end": 26,
+              "expanded_url": "https://x.com/Rikka_Ela/status/1907400472157384723/photo/1",
+              "media_key": "3_1907400463089283072",
+              "start": 3,
+              "url": "https://t.co/gzDMbf9POx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907400472157384723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这我 https://t.co/gzDMbf9POx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4020,
+          "following_count": 3315,
+          "like_count": 63844,
+          "listed_count": 8,
+          "media_count": 186,
+          "tweet_count": 5453
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      }
+    ]
+  }
+}

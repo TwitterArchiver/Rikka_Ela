@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1835009348269228305",
+    "created_at": "2024-09-14T22:29:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-14T23:29:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835083569750024603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1520724631434383360",
+          "start": 0,
+          "username": "CoengCheung2004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835083569750024603",
+    "in_reply_to_user_id": "1520724631434383360",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835009348269228305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CoengCheung2004 补药讨厌我😭"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1835009348269228305].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1835009348269228305",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1835009348269228305"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1835009348269228305",
+        "created_at": "2024-09-14T22:29:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-14T23:29:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835083569750024603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1520724631434383360",
+              "start": 0,
+              "username": "CoengCheung2004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835083569750024603",
+        "in_reply_to_user_id": "1520724631434383360",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835009348269228305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CoengCheung2004 补药讨厌我😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文\n\nwife:@Y32010705",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "Y32010705"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2394,
+          "following_count": 2902,
+          "like_count": 48321,
+          "listed_count": 6,
+          "tweet_count": 3214
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-01T11:20:04.000Z",
+        "description": "'23 GISer & (Withdrawing) ACMer｜Geophysics & Meteorology enthusiast｜Wu & Cantonese & Japanese & French｜出木杉さんのファン｜Pray for global peace☀️",
+        "id": "1520724631434383360",
+        "name": "Coeng Cheung",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824434495258562560/t0K1cfWW_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 79,
+          "like_count": 145,
+          "listed_count": 0,
+          "tweet_count": 298
+        },
+        "username": "CoengCheung2004",
+        "verified": false
+      }
+    ]
+  }
+}

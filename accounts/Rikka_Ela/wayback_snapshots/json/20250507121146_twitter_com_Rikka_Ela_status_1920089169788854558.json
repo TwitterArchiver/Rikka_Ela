@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Nature",
+          "id": "1103294729079349250",
+          "name": "Nature"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Nature",
+          "id": "1103294729079349250",
+          "name": "Nature"
+        }
+      }
+    ],
+    "conversation_id": "1920089169788854558",
+    "created_at": "2025-05-07T12:11:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T13:11:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1920089169788854558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1087657375257944064",
+          "start": 3,
+          "username": "ShizukiMinori"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1920089169788854558",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1920014687212654971",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ShizukiMinori: 没有性魅力的人当然只有掏钱才能获得情绪价值。而哪些人没有性魅力呢，自然就是厌女、物化女性、浅薄、无趣、疲惫、肮脏、缺乏灵魂深度的人。因为他们作为人的尊严全倚仗金钱和权势、未曾想过人格的健全和生命力，仿佛无机质的螺丝钉离开了机器就再也不能成为…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Nature",
+              "id": "1103294729079349250",
+              "name": "Nature"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nature",
+              "id": "1103294729079349250",
+              "name": "Nature"
+            }
+          }
+        ],
+        "conversation_id": "1920089169788854558",
+        "created_at": "2025-05-07T12:11:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T13:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1920089169788854558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1087657375257944064",
+              "start": 3,
+              "username": "ShizukiMinori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920089169788854558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1920014687212654971",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ShizukiMinori: 没有性魅力的人当然只有掏钱才能获得情绪价值。而哪些人没有性魅力呢，自然就是厌女、物化女性、浅薄、无趣、疲惫、肮脏、缺乏灵魂深度的人。因为他们作为人的尊严全倚仗金钱和权势、未曾想过人格的健全和生命力，仿佛无机质的螺丝钉离开了机器就再也不能成为…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1087657375257944064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Nature",
+              "id": "1103294729079349250",
+              "name": "Nature"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nature",
+              "id": "1103294729079349250",
+              "name": "Nature"
+            }
+          }
+        ],
+        "conversation_id": "1920014687212654971",
+        "created_at": "2025-05-07T07:15:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T08:15:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1920014687212654971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/coolboatdying/…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/coolboatdying/status/1919821856418230640",
+              "start": 141,
+              "url": "https://t.co/GBABHRNNhx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1920014687212654971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 862,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919821856418230640",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没有性魅力的人当然只有掏钱才能获得情绪价值。而哪些人没有性魅力呢，自然就是厌女、物化女性、浅薄、无趣、疲惫、肮脏、缺乏灵魂深度的人。因为他们作为人的尊严全倚仗金钱和权势、未曾想过人格的健全和生命力，仿佛无机质的螺丝钉离开了机器就再也不能成为独立的生命。也自然没法和别的生命相亲相爱 https://t.co/GBABHRNNhx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4175,
+          "following_count": 3385,
+          "like_count": 65975,
+          "listed_count": 8,
+          "media_count": 208,
+          "tweet_count": 5798
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-22T10:25:00.000Z",
+        "description": "「人よ、幸福たれ！」\n| #eb695d\n| “优雅而愉悦”\n| 头图 @zr6ov\n| 谏言者人格：@zoya_genrikh",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 13,
+                "tag": "eb695d"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 42,
+                "start": 36,
+                "username": "zr6ov"
+              },
+              {
+                "end": 64,
+                "start": 51,
+                "username": "zoya_genrikh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "labmikazu.dscf.one",
+                "end": 23,
+                "expanded_url": "http://labmikazu.dscf.one",
+                "start": 0,
+                "url": "https://t.co/j443RDrPzv"
+              }
+            ]
+          }
+        },
+        "id": "1087657375257944064",
+        "location": "opengl106.oikawa.moe",
+        "name": "苏梓月（已切子宫）✨❤️‍🩹✨",
+        "pinned_tweet_id": "1735317515297816948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777172971230228480/-EclZ6YD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3789,
+          "following_count": 1582,
+          "like_count": 73014,
+          "listed_count": 26,
+          "media_count": 634,
+          "tweet_count": 5269
+        },
+        "url": "https://t.co/j443RDrPzv",
+        "username": "ShizukiMinori",
+        "verified": true
+      }
+    ]
+  }
+}

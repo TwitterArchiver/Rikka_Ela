@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1989426367168221510",
+    "created_at": "2025-11-14T20:13:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T21:13:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989426367168221510"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 83,
+          "normalized_text": "Pope Leo",
+          "probability": 0.7688,
+          "start": 76,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1874159272147509251",
+          "start": 3,
+          "username": "ClubConcrave"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989426367168221510",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1279
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989308804425499010",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ClubConcrave: During Transgender Awareness Week and as part of Jubilee, Pope Leo will meet with a group of trans women including trans…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_1989308724880572417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5txvtcXgAED6Yd.jpg",
+        "width": 1601
+      },
+      {
+        "height": 1229,
+        "media_key": "3_1989308801149726720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5tx0JkWcAAfyou.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1989426367168221510",
+        "created_at": "2025-11-14T20:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T21:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989426367168221510"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 83,
+              "normalized_text": "Pope Leo",
+              "probability": 0.7688,
+              "start": 76,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1874159272147509251",
+              "start": 3,
+              "username": "ClubConcrave"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989426367168221510",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1279
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989308804425499010",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ClubConcrave: During Transgender Awareness Week and as part of Jubilee, Pope Leo will meet with a group of trans women including trans…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989308724880572417",
+            "3_1989308801149726720"
+          ]
+        },
+        "author_id": "1874159272147509251",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Pope Francis",
+              "id": "806597775282421760",
+              "name": "Pope Francis"
+            }
+          }
+        ],
+        "conversation_id": "1989308804425499010",
+        "created_at": "2025-11-14T12:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T13:25:35.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989308728999289008",
+          "1989308804425499010"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 65,
+              "normalized_text": "Pope Leo",
+              "probability": 0.6875,
+              "start": 58,
+              "type": "Person"
+            },
+            {
+              "end": 142,
+              "normalized_text": "Alesia Nobile",
+              "probability": 0.544,
+              "start": 130,
+              "type": "Other"
+            },
+            {
+              "end": 173,
+              "normalized_text": "Pope Francis",
+              "probability": 0.8835,
+              "start": 162,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 241,
+              "id": "23318036",
+              "start": 226,
+              "username": "chrisjollyhale"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f6gYz4GGFe",
+              "end": 266,
+              "expanded_url": "https://x.com/ClubConcrave/status/1989308804425499010/photo/1",
+              "media_key": "3_1989308724880572417",
+              "start": 243,
+              "url": "https://t.co/f6gYz4GGFe"
+            },
+            {
+              "display_url": "pic.x.com/f6gYz4GGFe",
+              "end": 266,
+              "expanded_url": "https://x.com/ClubConcrave/status/1989308804425499010/photo/1",
+              "media_key": "3_1989308801149726720",
+              "start": 243,
+              "url": "https://t.co/f6gYz4GGFe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989308804425499010",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 769,
+          "impression_count": 297746,
+          "like_count": 15544,
+          "quote_count": 188,
+          "reply_count": 80,
+          "retweet_count": 1279
+        },
+        "reply_settings": "everyone",
+        "text": "During Transgender Awareness Week and as part of Jubilee, Pope Leo will meet with a group of trans women including trans activist Alesia Nobile, close friends of Pope Francis, in an invitee special luncheon this Sunday.\n\n(via @chrisjollyhale) https://t.co/f6gYz4GGFe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4759,
+          "following_count": 3646,
+          "like_count": 75924,
+          "listed_count": 8,
+          "media_count": 327,
+          "tweet_count": 7465
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-31T18:22:55.000Z",
+        "description": "Home of the unofficial #ConclaveZine of the Vatican. Craving Pope Culture. From Conclave (2024) to conclave (2025). 2nd printing in production! (Ships Jan 2026)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 23,
+                "tag": "ConclaveZine"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "popecrave.com",
+                "end": 23,
+                "expanded_url": "https://popecrave.com",
+                "start": 0,
+                "url": "https://t.co/iMP1rZ8ZI0"
+              }
+            ]
+          }
+        },
+        "id": "1874159272147509251",
+        "location": "Vatican City",
+        "name": "Pope Crave",
+        "pinned_tweet_id": "1976998556704841985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876766231811801088/XTMZWkSL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104197,
+          "following_count": 310,
+          "like_count": 7614,
+          "listed_count": 58,
+          "media_count": 1496,
+          "tweet_count": 4102
+        },
+        "url": "https://t.co/iMP1rZ8ZI0",
+        "username": "ClubConcrave",
+        "verified": true
+      }
+    ]
+  }
+}

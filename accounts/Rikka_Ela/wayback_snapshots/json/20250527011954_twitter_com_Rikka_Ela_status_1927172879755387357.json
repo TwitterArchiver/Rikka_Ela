@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1926505974182940672"
+      ],
+      "media_source_tweet_id": [
+        "1926931816168186089"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "conversation_id": "1927172879755387357",
+    "created_at": "2025-05-27T01:19:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T02:19:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927172879755387357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1446057563561152512",
+          "start": 3,
+          "username": "Luna11054"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/z6bI29OF5R",
+          "end": 43,
+          "expanded_url": "https://x.com/Luna11054/status/1926931816168186089/photo/1",
+          "media_key": "3_1926505974182940672",
+          "start": 20,
+          "url": "https://t.co/z6bI29OF5R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927172879755387357",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 100
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926931816168186089",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Luna11054: おでかけ https://t.co/z6bI29OF5R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1926505974182940672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrxS-fjXkAAmu2s.jpg",
+        "width": 867
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926505974182940672"
+          ],
+          "media_source_tweet_id": [
+            "1926931816168186089"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "1927172879755387357",
+        "created_at": "2025-05-27T01:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T02:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927172879755387357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1446057563561152512",
+              "start": 3,
+              "username": "Luna11054"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z6bI29OF5R",
+              "end": 43,
+              "expanded_url": "https://x.com/Luna11054/status/1926931816168186089/photo/1",
+              "media_key": "3_1926505974182940672",
+              "start": 20,
+              "url": "https://t.co/z6bI29OF5R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927172879755387357",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 100
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926931816168186089",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Luna11054: おでかけ https://t.co/z6bI29OF5R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926505974182940672"
+          ]
+        },
+        "author_id": "1446057563561152512",
+        "conversation_id": "1926931816168186089",
+        "created_at": "2025-05-26T09:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T10:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926931816168186089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z6bI29OF5R",
+              "end": 28,
+              "expanded_url": "https://x.com/Luna11054/status/1926931816168186089/photo/1",
+              "media_key": "3_1926505974182940672",
+              "start": 5,
+              "url": "https://t.co/z6bI29OF5R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926931816168186089",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 7687,
+          "like_count": 890,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 100
+        },
+        "reply_settings": "everyone",
+        "text": "おでかけ https://t.co/z6bI29OF5R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4228,
+          "following_count": 3460,
+          "like_count": 67545,
+          "listed_count": 9,
+          "media_count": 218,
+          "tweet_count": 6013
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-07T10:19:45.000Z",
+        "description": "イラスト/動画/ゲーム/投資。資産は1.1億前後。本業は医薬品の臨床開発★有償案件はお断りしています。 Clip Studio Paint/Canva/copainter/Framepack(AI assist tools)etc.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aiillust.luna1105kablog.com",
+                "end": 23,
+                "expanded_url": "https://www.aiillust.luna1105kablog.com/",
+                "start": 0,
+                "url": "https://t.co/zU5SKaz1ga"
+              }
+            ]
+          }
+        },
+        "id": "1446057563561152512",
+        "location": "プレイ中のゲーム:Stellaris/原神/FEH",
+        "name": "るな @イラスト/ルース収集",
+        "pinned_tweet_id": "1915048552453341449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1446059958202634241/EWFDZe5o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20461,
+          "following_count": 649,
+          "like_count": 169235,
+          "listed_count": 200,
+          "media_count": 3886,
+          "tweet_count": 31420
+        },
+        "url": "https://t.co/zU5SKaz1ga",
+        "username": "Luna11054",
+        "verified": true
+      }
+    ]
+  }
+}

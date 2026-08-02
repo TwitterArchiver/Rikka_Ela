@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1974512597644026088",
+    "created_at": "2025-10-04T16:34:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T17:34:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974513350538416203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1554141238655344641",
+          "start": 0,
+          "username": "Devereux161"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974513350538416203",
+    "in_reply_to_user_id": "1554141238655344641",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974513250235797695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Devereux161 来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1974512597644026088",
+        "created_at": "2025-10-04T16:34:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T17:34:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974513350538416203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1554141238655344641",
+              "start": 0,
+              "username": "Devereux161"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974513350538416203",
+        "in_reply_to_user_id": "1554141238655344641",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974513250235797695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Devereux161 来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554141238655344641",
+        "conversation_id": "1974512597644026088",
+        "created_at": "2025-10-04T16:33:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T17:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974513250235797695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974513250235797695",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974512597644026088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 你来英国了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4657,
+          "following_count": 3569,
+          "like_count": 73355,
+          "listed_count": 9,
+          "media_count": 306,
+          "tweet_count": 7044
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-01T16:25:34.000Z",
+        "description": "20yo, Chinese Nationalist",
+        "id": "1554141238655344641",
+        "location": "Manchester, England",
+        "name": "Prince de Anhalt",
+        "pinned_tweet_id": "1972749684830806523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974481804280156160/y8C1CYvM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 154,
+          "like_count": 14380,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1269
+        },
+        "username": "Devereux161",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1912805855604731904"
+      ],
+      "media_source_tweet_id": [
+        "1912808258366214474"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "conversation_id": "1913032856177451294",
+    "created_at": "2025-04-18T00:52:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T01:52:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913032856177451294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "806097188392603648",
+          "start": 3,
+          "username": "chocoshi3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/D7QVwtLWJq",
+          "end": 43,
+          "expanded_url": "https://x.com/chocoshi3/status/1912808258366214474/photo/1",
+          "media_key": "3_1912805855604731904",
+          "start": 20,
+          "url": "https://t.co/D7QVwtLWJq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913032856177451294",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2894
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912808258366214474",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chocoshi3: 日陰の街 https://t.co/D7QVwtLWJq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1900,
+        "media_key": "3_1912805855604731904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoumyoubcAAPHxN.jpg",
+        "width": 1069
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912805855604731904"
+          ],
+          "media_source_tweet_id": [
+            "1912808258366214474"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "1913032856177451294",
+        "created_at": "2025-04-18T00:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T01:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913032856177451294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "806097188392603648",
+              "start": 3,
+              "username": "chocoshi3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D7QVwtLWJq",
+              "end": 43,
+              "expanded_url": "https://x.com/chocoshi3/status/1912808258366214474/photo/1",
+              "media_key": "3_1912805855604731904",
+              "start": 20,
+              "url": "https://t.co/D7QVwtLWJq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913032856177451294",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2894
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912808258366214474",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chocoshi3: 日陰の街 https://t.co/D7QVwtLWJq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912805855604731904"
+          ]
+        },
+        "author_id": "806097188392603648",
+        "conversation_id": "1912808258366214474",
+        "created_at": "2025-04-17T10:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T11:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912808258366214474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D7QVwtLWJq",
+              "end": 28,
+              "expanded_url": "https://x.com/chocoshi3/status/1912808258366214474/photo/1",
+              "media_key": "3_1912805855604731904",
+              "start": 5,
+              "url": "https://t.co/D7QVwtLWJq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912808258366214474",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3628,
+          "impression_count": 473202,
+          "like_count": 27306,
+          "quote_count": 33,
+          "reply_count": 28,
+          "retweet_count": 2894
+        },
+        "reply_settings": "everyone",
+        "text": "日陰の街 https://t.co/D7QVwtLWJq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4086,
+          "following_count": 3343,
+          "like_count": 64953,
+          "listed_count": 9,
+          "media_count": 195,
+          "tweet_count": 5605
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-06T11:25:21.000Z",
+        "description": "フリーのイラストレーターです\nちょこです。チョコレートが好きです。風景を描いています。 猫と女の子が旅の途中に見た風景。2025年8月以降のお仕事募集しております。\n\n 猫と少女の旅→https://t.co/OTxpzxr9sZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "atlie.io/a/dqOFDoSi7",
+                "end": 115,
+                "expanded_url": "http://atlie.io/a/dqOFDoSi7",
+                "start": 92,
+                "url": "https://t.co/OTxpzxr9sZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chooco013.studio.site",
+                "end": 23,
+                "expanded_url": "https://chooco013.studio.site/",
+                "start": 0,
+                "url": "https://t.co/LSejX7vRtB"
+              }
+            ]
+          }
+        },
+        "id": "806097188392603648",
+        "location": "北極星",
+        "name": "chooco",
+        "pinned_tweet_id": "1591370218546245632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1291730462751129602/PA2UdA9y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207413,
+          "following_count": 773,
+          "like_count": 22257,
+          "listed_count": 1628,
+          "media_count": 648,
+          "tweet_count": 11913
+        },
+        "url": "https://t.co/LSejX7vRtB",
+        "username": "chocoshi3",
+        "verified": true
+      }
+    ]
+  }
+}

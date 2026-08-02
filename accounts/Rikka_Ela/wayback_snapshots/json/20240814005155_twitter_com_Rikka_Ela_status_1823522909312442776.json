@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1823354223138115770",
+    "created_at": "2024-08-14T00:51:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-14T01:51:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823522909312442776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1721033524155916288",
+          "start": 0,
+          "username": "wushoei_Lcy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823522909312442776",
+    "in_reply_to_user_id": "1721033524155916288",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823522672103579847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wushoei_Lcy 学校小网红（×\n晶哥列清单（✓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1823354223138115770",
+        "created_at": "2024-08-14T00:51:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T01:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823522909312442776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1721033524155916288",
+              "start": 0,
+              "username": "wushoei_Lcy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823522909312442776",
+        "in_reply_to_user_id": "1721033524155916288",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823522672103579847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wushoei_Lcy 学校小网红（×\n晶哥列清单（✓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721033524155916288",
+        "conversation_id": "1823354223138115770",
+        "created_at": "2024-08-14T00:50:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T01:50:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823522672103579847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823522672103579847",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823522298902843466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 头像一致+全网同名😇\n也算是在学校里当了小网红（什"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2359,
+          "following_count": 2880,
+          "like_count": 46084,
+          "listed_count": 6,
+          "tweet_count": 3047
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-05T05:15:57.000Z",
+        "description": "最后不知天在水 满船清梦压星河",
+        "id": "1721033524155916288",
+        "name": "无水柠檬不加糖🍋‍🟩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819057901186715648/6808SdQr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 305,
+          "like_count": 22071,
+          "listed_count": 0,
+          "tweet_count": 976
+        },
+        "username": "wushoei_Lcy",
+        "verified": false
+      }
+    ]
+  }
+}

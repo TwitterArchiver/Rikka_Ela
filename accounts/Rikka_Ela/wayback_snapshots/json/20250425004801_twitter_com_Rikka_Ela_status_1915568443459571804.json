@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1914980863189623083",
+    "created_at": "2025-04-25T00:48:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-25T01:48:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915568443459571804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1720342536299196416",
+          "start": 0,
+          "username": "tairuili"
+        },
+        {
+          "end": 20,
+          "id": "1764190950904197120",
+          "start": 10,
+          "username": "v_brigade"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915568443459571804",
+    "in_reply_to_user_id": "1720342536299196416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915059620978069574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tairuili @v_brigade 国安得问你要精神损失费"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1914980863189623083",
+        "created_at": "2025-04-25T00:48:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T01:48:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915568443459571804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1720342536299196416",
+              "start": 0,
+              "username": "tairuili"
+            },
+            {
+              "end": 20,
+              "id": "1764190950904197120",
+              "start": 10,
+              "username": "v_brigade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915568443459571804",
+        "in_reply_to_user_id": "1720342536299196416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915059620978069574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tairuili @v_brigade 国安得问你要精神损失费"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720342536299196416",
+        "conversation_id": "1914980863189623083",
+        "created_at": "2025-04-23T15:06:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T16:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915059620978069574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1764190950904197120",
+              "start": 0,
+              "username": "v_brigade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915059620978069574",
+        "in_reply_to_user_id": "1764190950904197120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10999,
+          "like_count": 210,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914980863189623083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@v_brigade 我把你们报给国安有钱拿吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4117,
+          "following_count": 3347,
+          "like_count": 65127,
+          "listed_count": 9,
+          "media_count": 200,
+          "tweet_count": 5665
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-03T07:30:06.000Z",
+        "description": "",
+        "id": "1720342536299196416",
+        "name": "buziill",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721499597263306752/06e1teGG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 224,
+          "like_count": 5156,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 541
+        },
+        "username": "tairuili",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-03T07:30:34.000Z",
+        "description": "夺取政权，建立共和。 X个人账号：@v_brigade_eric ； IG账号：https://t.co/yjd1AuQPkb； 邮箱：v.brigade.cn@protonmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 17,
+                "username": "v_brigade_eric"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/v.brigade",
+                "end": 63,
+                "expanded_url": "http://www.instagram.com/v.brigade",
+                "start": 40,
+                "url": "https://t.co/yjd1AuQPkb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@V-Brigade-Eric",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@V-Brigade-Eric",
+                "start": 0,
+                "url": "https://t.co/hx8nBVXi5P"
+              }
+            ]
+          }
+        },
+        "id": "1764190950904197120",
+        "name": "V字旅",
+        "pinned_tweet_id": "1902649523933208964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778625850713219072/oxfuCIl0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1486,
+          "following_count": 1,
+          "like_count": 1661,
+          "listed_count": 6,
+          "media_count": 16,
+          "tweet_count": 289
+        },
+        "url": "https://t.co/hx8nBVXi5P",
+        "username": "v_brigade",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018274050385334272"
+      ],
+      "media_source_tweet_id": [
+        "2018274084573106264"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "conversation_id": "2018465795463102605",
+    "created_at": "2026-02-02T23:25:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T00:25:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018465795463102605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1735867925733728256",
+          "start": 3,
+          "username": "netangelyuri"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/V31yjD8NQQ",
+          "end": 41,
+          "expanded_url": "https://x.com/netangelyuri/status/2018274084573106264/photo/1",
+          "media_key": "3_2018274050385334272",
+          "start": 18,
+          "url": "https://t.co/V31yjD8NQQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018465795463102605",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 530
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018274084573106264",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @netangelyuri: https://t.co/V31yjD8NQQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 726,
+        "media_key": "3_2018274050385334272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAJZjjibUAAbfdr.png",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018274050385334272"
+          ],
+          "media_source_tweet_id": [
+            "2018274084573106264"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "2018465795463102605",
+        "created_at": "2026-02-02T23:25:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T00:25:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018465795463102605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1735867925733728256",
+              "start": 3,
+              "username": "netangelyuri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/V31yjD8NQQ",
+              "end": 41,
+              "expanded_url": "https://x.com/netangelyuri/status/2018274084573106264/photo/1",
+              "media_key": "3_2018274050385334272",
+              "start": 18,
+              "url": "https://t.co/V31yjD8NQQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018465795463102605",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 530
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018274084573106264",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @netangelyuri: https://t.co/V31yjD8NQQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018274050385334272"
+          ]
+        },
+        "author_id": "1735867925733728256",
+        "conversation_id": "2018274084573106264",
+        "created_at": "2026-02-02T10:43:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T11:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018274084573106264"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V31yjD8NQQ",
+              "end": 23,
+              "expanded_url": "https://x.com/netangelyuri/status/2018274084573106264/photo/1",
+              "media_key": "3_2018274050385334272",
+              "start": 0,
+              "url": "https://t.co/V31yjD8NQQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018274084573106264",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 147,
+          "impression_count": 22814,
+          "like_count": 2771,
+          "quote_count": 18,
+          "reply_count": 17,
+          "retweet_count": 530
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/V31yjD8NQQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4876,
+          "following_count": 3704,
+          "like_count": 78863,
+          "listed_count": 9,
+          "media_count": 367,
+          "tweet_count": 8145
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-16T03:42:54.000Z",
+        "description": "the internet's angel of yuri, girly girl who likes girly girls ♡ she/her 🏳️‍⚧️ https://t.co/Gel5LsE4c3 DID NOT PAY FOR TWITTER!!  priv: @lanangelyuri",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "lanangelyuri"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "discord.gg/R8xM3Yjn9y",
+                "end": 102,
+                "expanded_url": "https://discord.gg/R8xM3Yjn9y",
+                "start": 79,
+                "url": "https://t.co/Gel5LsE4c3"
+              }
+            ]
+          }
+        },
+        "id": "1735867925733728256",
+        "location": "lesbia",
+        "name": "♡⚢ Ashley ⚢♡ ANGELIC EDITION!!! (≧◡≦)",
+        "pinned_tweet_id": "2012888263543910570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994044443293614080/zdlmdjM__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5043,
+          "following_count": 1700,
+          "like_count": 18379,
+          "listed_count": 75,
+          "media_count": 964,
+          "tweet_count": 2806
+        },
+        "username": "netangelyuri",
+        "verified": true
+      }
+    ]
+  }
+}

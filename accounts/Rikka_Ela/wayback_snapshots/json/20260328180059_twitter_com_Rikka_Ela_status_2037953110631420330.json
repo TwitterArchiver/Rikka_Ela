@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2037920048132600219",
+    "created_at": "2026-03-28T18:00:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T19:00:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037953110631420330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1462419807173677059",
+          "start": 0,
+          "username": "Jane_S_Eye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037953110631420330",
+    "in_reply_to_user_id": "1462419807173677059",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037949525349015613",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jane_S_Eye 🧎‍♀️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2037920048132600219",
+        "created_at": "2026-03-28T18:00:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T19:00:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037953110631420330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1462419807173677059",
+              "start": 0,
+              "username": "Jane_S_Eye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037953110631420330",
+        "in_reply_to_user_id": "1462419807173677059",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037949525349015613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jane_S_Eye 🧎‍♀️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462419807173677059",
+        "conversation_id": "2037920048132600219",
+        "created_at": "2026-03-28T17:46:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T18:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037949525349015613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037949525349015613",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037920048132600219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 等等，能不能毕业？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5008,
+          "following_count": 3732,
+          "like_count": 80816,
+          "listed_count": 9,
+          "media_count": 391,
+          "tweet_count": 8668
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-21T13:58:25.000Z",
+        "description": "she/her but Not a whore.",
+        "id": "1462419807173677059",
+        "name": "Muriel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029156960873136132/u-emapK9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11143,
+          "following_count": 3132,
+          "like_count": 12704,
+          "listed_count": 22,
+          "media_count": 460,
+          "tweet_count": 8120
+        },
+        "username": "Jane_S_Eye",
+        "verified": false
+      }
+    ]
+  }
+}

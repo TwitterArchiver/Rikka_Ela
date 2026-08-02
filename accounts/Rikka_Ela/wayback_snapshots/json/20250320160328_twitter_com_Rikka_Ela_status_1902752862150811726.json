@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1902518339853021412",
+    "created_at": "2025-03-20T16:03:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-20T17:03:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902752862150811726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "982460989005287424",
+          "start": 0,
+          "username": "entangled_pair"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902752862150811726",
+    "in_reply_to_user_id": "982460989005287424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902518339853021412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@entangled_pair 化学呢）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1902518339853021412",
+        "created_at": "2025-03-20T16:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T17:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902752862150811726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "982460989005287424",
+              "start": 0,
+              "username": "entangled_pair"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902752862150811726",
+        "in_reply_to_user_id": "982460989005287424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902518339853021412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@entangled_pair 化学呢）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "982460989005287424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Aerospace",
+              "id": "872801340224806912",
+              "name": "Aerospace"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "NASA",
+              "id": "872802352448667648",
+              "name": "NASA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "NASA",
+              "id": "872802352448667648",
+              "name": "NASA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1352681651516567553",
+              "name": "Space agencies & companies"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1902518339853021412",
+        "created_at": "2025-03-20T00:31:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-20T01:31:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902518339853021412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jane_s_eye/sta…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/jane_s_eye/status/1902306637408600505",
+              "start": 144,
+              "url": "https://t.co/VRxSzGnBYJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902518339853021412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2114,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902306637408600505",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得学数学计算机mtf多是因为这俩学科的内核都是在不同层面抽象一些概念然后发展这个抽象层面的逻辑，这很像mtf们的性别建构过程\n但学物理的我观察mtf就少多了，可能因为物理的内核不是抽象而是第一性原理\n这种思考范式里，对社会性别不满可能更倾向直接解构掉性别概念，所以倒是有可能出非二元 https://t.co/VRxSzGnBYJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3978,
+          "following_count": 3305,
+          "like_count": 62718,
+          "listed_count": 7,
+          "media_count": 181,
+          "tweet_count": 5321
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-07T03:32:07.000Z",
+        "description": "当代生活是垃圾",
+        "id": "982460989005287424",
+        "name": "JK.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795750045972860928/OgxlRTIn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 234,
+          "like_count": 5467,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 1339
+        },
+        "username": "entangled_pair",
+        "verified": false
+      }
+    ]
+  }
+}

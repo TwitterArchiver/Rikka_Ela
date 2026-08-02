@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1836973381985653136",
+    "created_at": "2024-09-20T15:52:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-20T16:52:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837157958419206234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1723320427555213312",
+          "start": 0,
+          "username": "bluebury18"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837157958419206234",
+    "in_reply_to_user_id": "1723320427555213312",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836973381985653136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bluebury18 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1836973381985653136",
+        "created_at": "2024-09-20T15:52:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T16:52:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837157958419206234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1723320427555213312",
+              "start": 0,
+              "username": "bluebury18"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837157958419206234",
+        "in_reply_to_user_id": "1723320427555213312",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836973381985653136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bluebury18 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1723320427555213312",
+        "conversation_id": "1836973381985653136",
+        "created_at": "2024-09-20T03:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T04:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836973381985653136"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1836973381985653136",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 533,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "很难理解那些寄吧打到离谱，身材又好的伪娘体内的激素是如何分泌的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文\n\nwife:@Y32010705",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "Y32010705"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2814,
+          "following_count": 2917,
+          "like_count": 48855,
+          "listed_count": 6,
+          "tweet_count": 3302
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-11T12:43:17.000Z",
+        "description": "呜啊啊啦啦",
+        "id": "1723320427555213312",
+        "name": "💫Nanoto🦈✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786280495996952577/ycMyd3N5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 58,
+          "like_count": 1301,
+          "listed_count": 0,
+          "tweet_count": 439
+        },
+        "username": "bluebury18",
+        "verified": false
+      }
+    ]
+  }
+}

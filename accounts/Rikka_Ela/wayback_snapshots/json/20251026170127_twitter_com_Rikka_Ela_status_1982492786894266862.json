@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1982469123541184821",
+    "created_at": "2025-10-26T17:01:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T18:01:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982492786894266862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1913946244764098560",
+          "start": 0,
+          "username": "Tibmal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982492786894266862",
+    "in_reply_to_user_id": "1913946244764098560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982469123541184821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tibmal 止损在哪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 459,
+        "media_key": "3_1982469119975829504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4MlKTpXMAAjQ3X.jpg",
+        "width": 484
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1982469123541184821",
+        "created_at": "2025-10-26T17:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T18:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982492786894266862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1913946244764098560",
+              "start": 0,
+              "username": "Tibmal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982492786894266862",
+        "in_reply_to_user_id": "1913946244764098560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982469123541184821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tibmal 止损在哪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982469119975829504"
+          ]
+        },
+        "author_id": "1913946244764098560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1982469123541184821",
+        "created_at": "2025-10-26T15:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T16:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982469123541184821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QfLZaw3vBt",
+              "end": 23,
+              "expanded_url": "https://x.com/Tibmal/status/1982469123541184821/photo/1",
+              "media_key": "3_1982469119975829504",
+              "start": 0,
+              "url": "https://t.co/QfLZaw3vBt"
+            },
+            {
+              "display_url": "x.com/8964tou1234567…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/8964tou12345678/status/1982386498113810874",
+              "start": 24,
+              "url": "https://t.co/halrtNFlOO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982469123541184821",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 239,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982386498113810874",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/QfLZaw3vBt https://t.co/halrtNFlOO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4702,
+          "following_count": 3606,
+          "like_count": 74602,
+          "listed_count": 8,
+          "media_count": 317,
+          "tweet_count": 7300
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-20T13:22:05.000Z",
+        "description": "solo el socialismo",
+        "id": "1913946244764098560",
+        "name": "Tibmal",
+        "pinned_tweet_id": "1913949199156330527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970775817480474624/iSQcUbY3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 53,
+          "like_count": 673,
+          "listed_count": 4,
+          "media_count": 179,
+          "tweet_count": 1832
+        },
+        "username": "Tibmal",
+        "verified": false
+      }
+    ]
+  }
+}

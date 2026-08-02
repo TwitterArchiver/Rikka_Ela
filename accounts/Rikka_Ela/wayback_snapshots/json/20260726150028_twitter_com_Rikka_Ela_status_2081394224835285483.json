@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2081389932522897727",
+    "created_at": "2026-07-26T15:00:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T16:00:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081394224835285483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2065088028474068992",
+          "start": 0,
+          "username": "VplusVequalsW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081394224835285483",
+    "in_reply_to_user_id": "2065088028474068992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081389932522897727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VplusVequalsW 老师泥可以这么穿吗（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2388,
+        "media_key": "3_2081389917968670720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOKVGkuaIAA430Y.jpg",
+        "width": 1668
+      },
+      {
+        "height": 2388,
+        "media_key": "3_2081389917981282304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOKVGkxakAAoJZN.jpg",
+        "width": 1668
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2081389932522897727",
+        "created_at": "2026-07-26T15:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T16:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081394224835285483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2065088028474068992",
+              "start": 0,
+              "username": "VplusVequalsW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081394224835285483",
+        "in_reply_to_user_id": "2065088028474068992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081389932522897727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VplusVequalsW 老师泥可以这么穿吗（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081389917968670720",
+            "3_2081389917981282304"
+          ]
+        },
+        "author_id": "2065088028474068992",
+        "conversation_id": "2081389932522897727",
+        "created_at": "2026-07-26T14:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T15:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081389932522897727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Vn0LOiswi",
+              "end": 51,
+              "expanded_url": "https://x.com/VplusVequalsW/status/2081389932522897727/photo/1",
+              "media_key": "3_2081389917968670720",
+              "start": 28,
+              "url": "https://t.co/8Vn0LOiswi"
+            },
+            {
+              "display_url": "pic.x.com/8Vn0LOiswi",
+              "end": 51,
+              "expanded_url": "https://x.com/VplusVequalsW/status/2081389932522897727/photo/1",
+              "media_key": "3_2081389917981282304",
+              "start": 28,
+              "url": "https://t.co/8Vn0LOiswi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081389932522897727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 40,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "重置了一下最近的画，并改成png格式发，应该会清晰一些 https://t.co/8Vn0LOiswi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6476,
+          "following_count": 3771,
+          "like_count": 86021,
+          "listed_count": 9,
+          "media_count": 450,
+          "tweet_count": 10026
+        },
+        "url": "",
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-11T15:15:20.000Z",
+        "description": "03｜mtx｜pokemon爱好者｜喜欢cosplay和画画｜分享自己的日常和绘画作品 | 可以叫我Jane、小减",
+        "id": "2065088028474068992",
+        "location": "Bel Air North, MD",
+        "name": "月桂冠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070897809193377792/vhSF-_Zt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 329,
+          "like_count": 6121,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 660
+        },
+        "url": "",
+        "username": "VplusVequalsW",
+        "verified": false
+      }
+    ]
+  }
+}

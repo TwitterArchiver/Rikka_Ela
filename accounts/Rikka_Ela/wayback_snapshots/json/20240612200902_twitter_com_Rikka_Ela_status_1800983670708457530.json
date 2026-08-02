@@ -1,0 +1,180 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1800768045532545225",
+    "created_at": "2024-06-12T20:09:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-12T21:09:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800983670708457530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1567061441152450560",
+          "start": 0,
+          "username": "Xe1_N0n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800983670708457530",
+    "in_reply_to_user_id": "1567061441152450560",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800768045532545225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xe1_N0n 从没去过😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1800768045532545225",
+        "created_at": "2024-06-12T20:09:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-12T21:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800983670708457530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1567061441152450560",
+              "start": 0,
+              "username": "Xe1_N0n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800983670708457530",
+        "in_reply_to_user_id": "1567061441152450560",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800768045532545225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xe1_N0n 从没去过😭"
+      },
+      {
+        "attachments": {},
+        "author_id": "1567061441152450560",
+        "conversation_id": "1800768045532545225",
+        "created_at": "2024-06-12T05:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-12T06:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800768045532545225"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1800768045532545225",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 337,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跨女想去游泳馆怎么办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UNNC‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2090,
+          "following_count": 2684,
+          "like_count": 38316,
+          "listed_count": 5,
+          "tweet_count": 2361
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-06T08:05:48.000Z",
+        "description": "Chemistry/Biomimetic Total Synthesis/Linkin Park/Scripps.../37CCHO🥈 #Meteora20 #Bayer04",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 78,
+                "start": 68,
+                "tag": "Meteora20"
+              },
+              {
+                "end": 87,
+                "start": 79,
+                "tag": "Bayer04"
+              }
+            ]
+          }
+        },
+        "id": "1567061441152450560",
+        "location": "San Diego, CA",
+        "name": "Xe1",
+        "pinned_tweet_id": "1721031955456618837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1623932638687035393/PYPAr-qx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 465,
+          "like_count": 304,
+          "listed_count": 2,
+          "tweet_count": 664
+        },
+        "username": "Xe1_N0n",
+        "verified": false
+      }
+    ]
+  }
+}

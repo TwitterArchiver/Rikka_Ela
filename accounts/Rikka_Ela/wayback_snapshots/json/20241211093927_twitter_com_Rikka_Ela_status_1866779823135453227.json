@@ -1,0 +1,401 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Space and astronomy",
+          "id": "847899255880564736",
+          "name": "Space"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1866779823135453227",
+    "created_at": "2024-12-11T09:39:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-11T10:39:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1866779823135453227"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Y32010705/stat…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/Y32010705/status/1866773505389498664",
+          "start": 27,
+          "url": "https://t.co/RX9QKRRxk2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866779823135453227",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866773505389498664",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？我免费给所有学化学的大学生操🥵，就当学术联谊了（） https://t.co/RX9QKRRxk2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1866779823135453227",
+        "created_at": "2024-12-11T09:39:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T10:39:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866779823135453227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Y32010705/stat…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/Y32010705/status/1866773505389498664",
+              "start": 27,
+              "url": "https://t.co/RX9QKRRxk2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866779823135453227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866773505389498664",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？我免费给所有学化学的大学生操🥵，就当学术联谊了（） https://t.co/RX9QKRRxk2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1615229704549859329",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Space and astronomy",
+              "id": "847899255880564736",
+              "name": "Space"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1866773505389498664",
+        "created_at": "2024-12-11T09:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T10:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866773505389498664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/coconlai/statu…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/coconlai/status/1866497282054799603",
+              "start": 32,
+              "url": "https://t.co/kbNEAkyaZl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866773505389498664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866497282054799603",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想被南京大学地海院/地科院/大气院/南赫院/天文院/环院的操🥵 https://t.co/kbNEAkyaZl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文\n\n@Y32010705",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 43,
+                "username": "Y32010705"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3162,
+          "following_count": 3108,
+          "like_count": 54198,
+          "listed_count": 7,
+          "media_count": 146,
+          "tweet_count": 4120
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-17T06:09:40.000Z",
+        "description": "I have a great introduction, but it doesn't fit here. ｜ @Rikka_Ela",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 56,
+                "username": "Rikka_Ela"
+              }
+            ]
+          }
+        },
+        "id": "1615229704549859329",
+        "location": "Another Sky",
+        "name": "Anti-Markovnikov reactions",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866304253989703680/8Db2RVXL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1748,
+          "following_count": 3092,
+          "like_count": 38919,
+          "listed_count": 5,
+          "media_count": 933,
+          "tweet_count": 12254
+        },
+        "username": "Y32010705",
+        "verified": false
+      }
+    ]
+  }
+}

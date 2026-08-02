@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2033566273809101023",
+    "created_at": "2026-03-18T21:33:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T22:33:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034382585439154462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1981638054688501760",
+          "start": 0,
+          "username": "ashasw114514"
+        },
+        {
+          "end": 24,
+          "id": "1996563547007176704",
+          "start": 14,
+          "username": "gu_niu666"
+        },
+        {
+          "end": 37,
+          "id": "1764232461439897600",
+          "start": 25,
+          "username": "baobao_7777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034382585439154462",
+    "in_reply_to_user_id": "1981638054688501760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033775774462054783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ashasw114514 @gu_niu666 @baobao_7777 羡慕"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [gu_niu666].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "gu_niu666",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "gu_niu666"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2033566273809101023",
+        "created_at": "2026-03-18T21:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T22:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034382585439154462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1981638054688501760",
+              "start": 0,
+              "username": "ashasw114514"
+            },
+            {
+              "end": 24,
+              "id": "1996563547007176704",
+              "start": 14,
+              "username": "gu_niu666"
+            },
+            {
+              "end": 37,
+              "id": "1764232461439897600",
+              "start": 25,
+              "username": "baobao_7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034382585439154462",
+        "in_reply_to_user_id": "1981638054688501760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033775774462054783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ashasw114514 @gu_niu666 @baobao_7777 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981638054688501760",
+        "conversation_id": "2033566273809101023",
+        "created_at": "2026-03-17T05:21:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T06:21:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033775774462054783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1996563547007176704",
+              "start": 0,
+              "username": "gu_niu666"
+            },
+            {
+              "end": 23,
+              "id": "1764232461439897600",
+              "start": 11,
+              "username": "baobao_7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033775774462054783",
+        "in_reply_to_user_id": "1996563547007176704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033775569654190592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gu_niu666 @baobao_7777 我互fo哥们是雌香家母"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4980,
+          "following_count": 3727,
+          "like_count": 80674,
+          "listed_count": 9,
+          "media_count": 386,
+          "tweet_count": 8574
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T08:25:16.000Z",
+        "description": "enby  they/him  hrt2025.2.27 性少数友好  粉区退散 后现代黑话定型文享受者  此账号一切仇恨言论都是troll  查成分互fo",
+        "id": "1981638054688501760",
+        "name": "搞耍潮爹",
+        "pinned_tweet_id": "2033963961281085452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030408742429409280/FWGJUak7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 612,
+          "like_count": 1654,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 1577
+        },
+        "username": "ashasw114514",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-03T10:13:08.000Z",
+        "description": "一个苦命忧郁更年期男人的碎碎念",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/burger7777",
+                "end": 23,
+                "expanded_url": "https://ngl.link/burger7777",
+                "start": 0,
+                "url": "https://t.co/Q1AVyMgqX0"
+              }
+            ]
+          }
+        },
+        "id": "1764232461439897600",
+        "location": "站街中",
+        "name": "雌香家母",
+        "pinned_tweet_id": "2025291964208619794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033502819215646720/LIozGmTd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1981,
+          "following_count": 143,
+          "like_count": 26155,
+          "listed_count": 3,
+          "media_count": 274,
+          "tweet_count": 10855
+        },
+        "url": "https://t.co/Q1AVyMgqX0",
+        "username": "baobao_7777",
+        "verified": false
+      }
+    ]
+  }
+}

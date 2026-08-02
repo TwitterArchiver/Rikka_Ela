@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2050432444726382739",
+    "created_at": "2026-05-02T12:08:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T13:08:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050548049521365380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "992551168944439296",
+          "start": 0,
+          "username": "pale_machine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050548049521365380",
+    "in_reply_to_user_id": "992551168944439296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050432444726382739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pale_machine 玛莲妮亚….."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050432423532662784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHSZbPCbkAAucJL.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2050432444726382739",
+        "created_at": "2026-05-02T12:08:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T13:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050548049521365380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "992551168944439296",
+              "start": 0,
+              "username": "pale_machine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050548049521365380",
+        "in_reply_to_user_id": "992551168944439296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050432444726382739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pale_machine 玛莲妮亚….."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050432423532662784"
+          ]
+        },
+        "author_id": "992551168944439296",
+        "conversation_id": "2050432444726382739",
+        "created_at": "2026-05-02T04:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T05:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050432444726382739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Z7NIPU4vP",
+              "end": 40,
+              "expanded_url": "https://x.com/pale_machine/status/2050432444726382739/photo/1",
+              "media_key": "3_2050432423532662784",
+              "start": 17,
+              "url": "https://t.co/1Z7NIPU4vP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050432444726382739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 474,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "外接成功，没想到这么简单就解决了 https://t.co/1Z7NIPU4vP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5171,
+          "following_count": 3758,
+          "like_count": 83088,
+          "listed_count": 10,
+          "media_count": 422,
+          "tweet_count": 9229
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-04T23:46:54.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "box.n3ko.cc/_/palemachichi",
+                "end": 23,
+                "expanded_url": "http://box.n3ko.cc/_/palemachichi",
+                "start": 0,
+                "url": "https://t.co/KhELlCif7A"
+              }
+            ]
+          }
+        },
+        "id": "992551168944439296",
+        "location": "雨里",
+        "name": "⏻",
+        "pinned_tweet_id": "1980886254154911905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027036152302325760/PU0HTQ1w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1818,
+          "following_count": 897,
+          "like_count": 11905,
+          "listed_count": 5,
+          "media_count": 209,
+          "tweet_count": 939
+        },
+        "url": "https://t.co/KhELlCif7A",
+        "username": "pale_machine",
+        "verified": false
+      }
+    ]
+  }
+}

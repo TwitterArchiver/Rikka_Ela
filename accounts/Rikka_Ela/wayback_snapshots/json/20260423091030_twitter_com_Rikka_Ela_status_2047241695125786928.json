@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2047214360116994344",
+    "created_at": "2026-04-23T09:10:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T10:10:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047241695125786928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1767161673566359552",
+          "start": 0,
+          "username": "willa_citrus"
+        },
+        {
+          "end": 22,
+          "id": "909909858949922818",
+          "start": 14,
+          "username": "rnpgpsl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047241695125786928",
+    "in_reply_to_user_id": "1767161673566359552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047214360116994344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@willa_citrus @rnpgpsl ？羡慕死了😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2047214360116994344",
+        "created_at": "2026-04-23T09:10:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T10:10:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047241695125786928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1767161673566359552",
+              "start": 0,
+              "username": "willa_citrus"
+            },
+            {
+              "end": 22,
+              "id": "909909858949922818",
+              "start": 14,
+              "username": "rnpgpsl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047241695125786928",
+        "in_reply_to_user_id": "1767161673566359552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047214360116994344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@willa_citrus @rnpgpsl ？羡慕死了😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767161673566359552",
+        "conversation_id": "2047214360116994344",
+        "created_at": "2026-04-23T07:21:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T08:21:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047214360116994344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/B_cat38324/sta…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/B_cat38324/status/2047170561160433835",
+              "start": 12,
+              "url": "https://t.co/vW2ws5i9pq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047214360116994344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1547,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047170561160433835",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很难不带阳具去上大学啊 https://t.co/vW2ws5i9pq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5082,
+          "following_count": 3737,
+          "like_count": 82415,
+          "listed_count": 10,
+          "media_count": 414,
+          "tweet_count": 9083
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T12:12:39.000Z",
+        "description": "试图照见自己 / 杭州三本工科PhD在读 / 怪猎&魂 / 光明果派漫宿研习者 / 彻夜飞旋，直至甜美的生诞 / 家人们动动发财的小手点个赞/ 如果空下来一定要做个播客 / 甜甜同居快六年 @rat_miyari",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 95,
+                "username": "rat_miyari"
+              }
+            ]
+          }
+        },
+        "id": "1767161673566359552",
+        "location": "杭州",
+        "name": "王小檬𝖂𝖎𝖑𝖑𝖆🍋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978691032192782336/2rH_jGCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11699,
+          "following_count": 214,
+          "like_count": 7168,
+          "listed_count": 32,
+          "media_count": 331,
+          "tweet_count": 8204
+        },
+        "username": "willa_citrus",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-18T22:39:50.000Z",
+        "description": "虾头看黄男 （确信）| 什么都干区主包 | 精神红脖子| 48州可飞技术支持劳动力｜有加急需求请用 discord/tg/手机号找我 | 进群🚪/熟人 | 曾经一个人舌战群儒和一群软件工程的隔空互骂 | 脸皮厚+不要脸 | 我是傻逼 | qq爆毙 | 极端反软件工程",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/marketplace/pr…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/marketplace/profile/100014905743315/?ref=permalink&mibextid=dXMIcH",
+                "start": 0,
+                "url": "https://t.co/gP2ETYbaE1"
+              }
+            ]
+          }
+        },
+        "id": "909909858949922818",
+        "location": "Atlanta, GA",
+        "name": "live with physics 鴇鵬機工|Tokiho Engineering",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820028776660492288/LMoi-kVA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10898,
+          "following_count": 6542,
+          "like_count": 157810,
+          "listed_count": 26,
+          "media_count": 6640,
+          "tweet_count": 93153
+        },
+        "url": "https://t.co/gP2ETYbaE1",
+        "username": "rnpgpsl",
+        "verified": false
+      }
+    ]
+  }
+}

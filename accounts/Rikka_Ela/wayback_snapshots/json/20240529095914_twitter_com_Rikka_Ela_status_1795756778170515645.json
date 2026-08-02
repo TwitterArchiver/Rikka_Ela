@@ -1,0 +1,164 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1795755009499611327",
+    "created_at": "2024-05-29T09:59:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-29T10:59:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1795756778170515645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1642609342800338944",
+          "start": 0,
+          "username": "gotouhitori2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1795756778170515645",
+    "in_reply_to_user_id": "1642609342800338944",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1795755009499611327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gotouhitori2 🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1795755009499611327",
+        "created_at": "2024-05-29T09:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-29T10:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1795756778170515645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1642609342800338944",
+              "start": 0,
+              "username": "gotouhitori2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795756778170515645",
+        "in_reply_to_user_id": "1642609342800338944",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795755009499611327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gotouhitori2 🤤"
+      },
+      {
+        "attachments": {},
+        "author_id": "1642609342800338944",
+        "conversation_id": "1795755009499611327",
+        "created_at": "2024-05-29T09:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-29T10:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1795755009499611327"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1795755009499611327",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "过来吃我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UNNC‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2060,
+          "following_count": 2653,
+          "like_count": 36709,
+          "listed_count": 5,
+          "tweet_count": 2237
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-02T19:26:12.000Z",
+        "description": "",
+        "id": "1642609342800338944",
+        "location": "參宿四",
+        "name": "後藤一理",
+        "pinned_tweet_id": "1780416675009151282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736674719519453184/744CYmNE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2324,
+          "following_count": 2547,
+          "like_count": 47597,
+          "listed_count": 6,
+          "tweet_count": 9738
+        },
+        "username": "gotouhitori2",
+        "verified": false
+      }
+    ]
+  }
+}

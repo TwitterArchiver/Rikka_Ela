@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1903412410599563748",
+    "created_at": "2025-03-22T12:22:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T13:22:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903422073902641264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1462419807173677059",
+          "start": 0,
+          "username": "Jane_S_Eye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903422073902641264",
+    "in_reply_to_user_id": "1462419807173677059",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903412410599563748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jane_S_Eye 我也想FFS😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1903412410599563748",
+        "created_at": "2025-03-22T12:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T13:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903422073902641264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1462419807173677059",
+              "start": 0,
+              "username": "Jane_S_Eye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903422073902641264",
+        "in_reply_to_user_id": "1462419807173677059",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903412410599563748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jane_S_Eye 我也想FFS😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462419807173677059",
+        "conversation_id": "1903412410599563748",
+        "created_at": "2025-03-22T11:44:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T12:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903412410599563748"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1903412410599563748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 274,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想了想我这张脸已经砸了快25万、\n但是每天穿着十几块的衣服出门，脸上用的护肤品都是好特卖特价的、嗯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3979,
+          "following_count": 3309,
+          "like_count": 62887,
+          "listed_count": 7,
+          "media_count": 181,
+          "tweet_count": 5341
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-21T13:58:25.000Z",
+        "description": "A reader and insane writer",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tw04.damoplane1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://tw04.damoplane1.com/#/register?code=khRH22kV",
+                "start": 0,
+                "url": "https://t.co/CQ0rWuJGb1"
+              }
+            ]
+          }
+        },
+        "id": "1462419807173677059",
+        "location": "自用梯子🪜",
+        "name": "Véronique🏳️‍🌈🏳️‍⚧️🇺🇦",
+        "pinned_tweet_id": "1902747260406169747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900568924779130880/X0Cpv6hp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9707,
+          "following_count": 2401,
+          "like_count": 10026,
+          "listed_count": 21,
+          "media_count": 818,
+          "tweet_count": 9423
+        },
+        "url": "https://t.co/CQ0rWuJGb1",
+        "username": "Jane_S_Eye",
+        "verified": false
+      }
+    ]
+  }
+}

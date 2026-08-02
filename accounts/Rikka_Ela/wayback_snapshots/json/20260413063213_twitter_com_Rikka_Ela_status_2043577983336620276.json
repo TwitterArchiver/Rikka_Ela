@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2043576373743370612",
+    "created_at": "2026-04-13T06:32:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T07:32:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043577983336620276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1526965927748571136",
+          "start": 0,
+          "username": "Natsumejuri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043577983336620276",
+    "in_reply_to_user_id": "1526965927748571136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043576373743370612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Natsumejuri 对不起🧎‍♀️，主要是timeline被推送的太多了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2043576373743370612",
+        "created_at": "2026-04-13T06:32:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T07:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043577983336620276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1526965927748571136",
+              "start": 0,
+              "username": "Natsumejuri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043577983336620276",
+        "in_reply_to_user_id": "1526965927748571136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043576373743370612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Natsumejuri 对不起🧎‍♀️，主要是timeline被推送的太多了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1526965927748571136",
+        "conversation_id": "2043576373743370612",
+        "created_at": "2026-04-13T06:25:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T07:25:04.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043576183758172160",
+          "2043576373743370612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rikka_Ela/stat…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/Rikka_Ela/status/2043455339027104054",
+              "start": 41,
+              "url": "https://t.co/bFIpIqsoXz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043576373743370612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043455339027104054",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "宝宝你要是再跟风炒这种我在正经跨性别研究论文里见都没见过的神人词汇我就取关你了。 https://t.co/bFIpIqsoXz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5039,
+          "following_count": 3731,
+          "like_count": 81749,
+          "listed_count": 10,
+          "media_count": 410,
+          "tweet_count": 8927
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-18T16:41:01.000Z",
+        "description": "MtF | Computer Science",
+        "id": "1526965927748571136",
+        "location": "亚空间",
+        "name": "夏子",
+        "pinned_tweet_id": "2032355055467446683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996966756427218944/EWv7GHnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3407,
+          "following_count": 455,
+          "like_count": 15976,
+          "listed_count": 5,
+          "media_count": 446,
+          "tweet_count": 1894
+        },
+        "username": "Natsumejuri",
+        "verified": true
+      }
+    ]
+  }
+}

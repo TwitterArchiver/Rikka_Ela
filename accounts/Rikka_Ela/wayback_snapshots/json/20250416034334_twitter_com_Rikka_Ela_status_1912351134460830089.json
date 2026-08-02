@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1911782028065783839",
+    "created_at": "2025-04-16T03:43:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T04:43:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912351134460830089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1747931023277502465",
+          "start": 0,
+          "username": "damatte8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912351134460830089",
+    "in_reply_to_user_id": "1747931023277502465",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911782028065783839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@damatte8964 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1911782028065783839",
+        "created_at": "2025-04-16T03:43:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T04:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912351134460830089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "damatte8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912351134460830089",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911782028065783839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@damatte8964 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "1911782028065783839",
+        "created_at": "2025-04-14T14:02:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T15:02:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911782028065783839"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1911782028065783839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 35592,
+          "like_count": 307,
+          "quote_count": 2,
+          "reply_count": 97,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "今天好开心，幸福的在被窝里拉了一坨屎，软软的，黏糊糊的好舒服"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4082,
+          "following_count": 3342,
+          "like_count": 64800,
+          "listed_count": 9,
+          "media_count": 194,
+          "tweet_count": 5585
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "*セカイヘイワ*",
+        "id": "1747931023277502465",
+        "name": "小咪之家",
+        "pinned_tweet_id": "1866766840078164028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891825641173233664/0vpWJGfT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31381,
+          "following_count": 668,
+          "like_count": 5425,
+          "listed_count": 38,
+          "media_count": 112,
+          "tweet_count": 1762
+        },
+        "username": "damatte8964",
+        "verified": false
+      }
+    ]
+  }
+}

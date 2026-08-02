@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2056451104989192568",
+    "created_at": "2026-05-19T08:52:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T09:52:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056659240400441662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1858023201588260865",
+          "start": 0,
+          "username": "VonLinne2003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056659240400441662",
+    "in_reply_to_user_id": "1858023201588260865",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056545454729662571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VonLinne2003 （？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2056451104989192568",
+        "created_at": "2026-05-19T08:52:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T09:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056659240400441662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1858023201588260865",
+              "start": 0,
+              "username": "VonLinne2003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056659240400441662",
+        "in_reply_to_user_id": "1858023201588260865",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056545454729662571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VonLinne2003 （？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858023201588260865",
+        "conversation_id": "2056451104989192568",
+        "created_at": "2026-05-19T01:20:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T02:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056545454729662571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056545454729662571",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056451104989192568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 在說什麼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5247,
+          "following_count": 3776,
+          "like_count": 84646,
+          "listed_count": 8,
+          "media_count": 429,
+          "tweet_count": 9516
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-17T05:43:58.000Z",
+        "description": "安徽老鄉雞餐飲有限公司深池全資子公司 | Anhui Lao Xiang Ji Catering Co., Ltd. (Dubhlinn Branch)\n以正宗肥西老母雞湯溫暖每一位塔拉人的心。\nAuthentic Chicken Soup for the Taran Soul.\n\n【廣告位招租】",
+        "id": "1858023201588260865",
+        "location": "Dubhlinn",
+        "name": "小學馮",
+        "pinned_tweet_id": "2054755889761206396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054727685734285312/LI7U8spl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 380,
+          "like_count": 24728,
+          "listed_count": 3,
+          "media_count": 278,
+          "tweet_count": 11568
+        },
+        "username": "VonLinne2003",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1946759093013860433",
+    "created_at": "2025-07-20T02:38:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T03:38:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946761717729608012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1845454917236031495",
+          "start": 0,
+          "username": "Dontbesadforit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946761717729608012",
+    "in_reply_to_user_id": "1845454917236031495",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946759093013860433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dontbesadforit 羡慕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1946759093013860433",
+        "created_at": "2025-07-20T02:38:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T03:38:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946761717729608012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1845454917236031495",
+              "start": 0,
+              "username": "Dontbesadforit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946761717729608012",
+        "in_reply_to_user_id": "1845454917236031495",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946759093013860433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dontbesadforit 羡慕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845454917236031495",
+        "conversation_id": "1946759093013860433",
+        "created_at": "2025-07-20T02:28:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T03:28:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946759093013860433"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1946759093013860433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天出门前没找到成对的袜子\n我外婆说帮我找找\n然后五分钟后给我cos美波里的过膝袜拿出来了😰\n和我说这个长的可以吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4443,
+          "following_count": 3534,
+          "like_count": 70968,
+          "listed_count": 7,
+          "media_count": 263,
+          "tweet_count": 6505
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T13:22:23.000Z",
+        "description": "07 XY 高中 目前直的 只有愚人节翻车💢 上学 这里匿了 和线下分开的瞎说号 不想吵架 自然科学笨比 生物学大好き｜ 为什么还活着：没见到绪山美波里/世界上还有爱我的人 ｜里：@MihariSuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "MihariSuki"
+              }
+            ]
+          }
+        },
+        "id": "1845454917236031495",
+        "location": "Earth",
+        "name": "坏中",
+        "pinned_tweet_id": "1877347306317500904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845488742884167690/95RMPh9x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 608,
+          "like_count": 33790,
+          "listed_count": 2,
+          "media_count": 247,
+          "tweet_count": 4902
+        },
+        "username": "Dontbesadforit",
+        "verified": false
+      }
+    ]
+  }
+}

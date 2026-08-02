@@ -1,0 +1,555 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1205545936786579456",
+          "name": "Hidetaka Miyazaki"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming Personalities & Esports Players",
+          "id": "1146103171086819328",
+          "name": "Gaming influencers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1205545936786579456",
+          "name": "Hidetaka Miyazaki"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1288169348553564160",
+          "name": "Game industry professionals"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "136",
+          "name": "Video Game Personality "
+        },
+        "entity": {
+          "id": "1205545936786579456",
+          "name": "Hidetaka Miyazaki"
+        }
+      }
+    ],
+    "conversation_id": "1969288066150855008",
+    "created_at": "2025-09-20T06:30:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T07:30:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969288066150855008"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 116,
+          "normalized_text": "Hidetaka Miyazaki",
+          "probability": 0.9351,
+          "start": 100,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1247846557342412800",
+          "start": 3,
+          "username": "MrMordicai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/tLwsbf1",
+          "end": 139,
+          "start": 119,
+          "url": "https://t.co/tLwsbf1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969288066150855008",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 142
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969049900915597585",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MrMordicai: Happy Birthday to the man that helped create some of my favorite games of all time, Hidetaka Miyazaki. https://t.co/tLwsbf1…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_1969046644499828736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1N1fZ-WUAA-FfG.jpg",
+        "width": 3840
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1969046828772405248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1N1qIcWsAAWE47.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1079,
+        "media_key": "3_1969047189516087296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1N1_IUWcAAU1tR.jpg",
+        "width": 1919
+      },
+      {
+        "height": 360,
+        "media_key": "3_1969049779993800705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1N4V6mXcAEMApg.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1205545936786579456",
+              "name": "Hidetaka Miyazaki"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming Personalities & Esports Players",
+              "id": "1146103171086819328",
+              "name": "Gaming influencers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1205545936786579456",
+              "name": "Hidetaka Miyazaki"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1288169348553564160",
+              "name": "Game industry professionals"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "136",
+              "name": "Video Game Personality "
+            },
+            "entity": {
+              "id": "1205545936786579456",
+              "name": "Hidetaka Miyazaki"
+            }
+          }
+        ],
+        "conversation_id": "1969288066150855008",
+        "created_at": "2025-09-20T06:30:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T07:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969288066150855008"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 116,
+              "normalized_text": "Hidetaka Miyazaki",
+              "probability": 0.9351,
+              "start": 100,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1247846557342412800",
+              "start": 3,
+              "username": "MrMordicai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/tLwsbf1",
+              "end": 139,
+              "start": 119,
+              "url": "https://t.co/tLwsbf1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969288066150855008",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 142
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969049900915597585",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MrMordicai: Happy Birthday to the man that helped create some of my favorite games of all time, Hidetaka Miyazaki. https://t.co/tLwsbf1…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969046644499828736",
+            "3_1969046828772405248",
+            "3_1969047189516087296",
+            "3_1969049779993800705"
+          ]
+        },
+        "author_id": "1247846557342412800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1205545936786579456",
+              "name": "Hidetaka Miyazaki"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming Personalities & Esports Players",
+              "id": "1146103171086819328",
+              "name": "Gaming influencers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1205545936786579456",
+              "name": "Hidetaka Miyazaki"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1288169348553564160",
+              "name": "Game industry professionals"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "136",
+              "name": "Video Game Personality "
+            },
+            "entity": {
+              "id": "1205545936786579456",
+              "name": "Hidetaka Miyazaki"
+            }
+          }
+        ],
+        "conversation_id": "1969049900915597585",
+        "created_at": "2025-09-19T14:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T15:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969049900915597585"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 100,
+              "normalized_text": "Hidetaka Miyazaki",
+              "probability": 0.9348,
+              "start": 84,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tLwsbf1Bwo",
+              "end": 126,
+              "expanded_url": "https://x.com/MrMordicai/status/1969049900915597585/photo/1",
+              "media_key": "3_1969046644499828736",
+              "start": 103,
+              "url": "https://t.co/tLwsbf1Bwo"
+            },
+            {
+              "display_url": "pic.x.com/tLwsbf1Bwo",
+              "end": 126,
+              "expanded_url": "https://x.com/MrMordicai/status/1969049900915597585/photo/1",
+              "media_key": "3_1969046828772405248",
+              "start": 103,
+              "url": "https://t.co/tLwsbf1Bwo"
+            },
+            {
+              "display_url": "pic.x.com/tLwsbf1Bwo",
+              "end": 126,
+              "expanded_url": "https://x.com/MrMordicai/status/1969049900915597585/photo/1",
+              "media_key": "3_1969047189516087296",
+              "start": 103,
+              "url": "https://t.co/tLwsbf1Bwo"
+            },
+            {
+              "display_url": "pic.x.com/tLwsbf1Bwo",
+              "end": 126,
+              "expanded_url": "https://x.com/MrMordicai/status/1969049900915597585/photo/1",
+              "media_key": "3_1969049779993800705",
+              "start": 103,
+              "url": "https://t.co/tLwsbf1Bwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969049900915597585",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 14687,
+          "like_count": 1308,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 142
+        },
+        "reply_settings": "everyone",
+        "text": "Happy Birthday to the man that helped create some of my favorite games of all time, Hidetaka Miyazaki. https://t.co/tLwsbf1Bwo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4524,
+          "following_count": 3550,
+          "like_count": 73077,
+          "listed_count": 9,
+          "media_count": 299,
+          "tweet_count": 6966
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-08T11:20:24.000Z",
+        "description": "THE SILKSONG IS REAL !! Enjoyer of anime/manga & I love One Piece with every fiber of my being. I love animation. Massive Souls fan, Elden Ring my beloved.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@mr.mordicai/v…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@mr.mordicai/videos",
+                "start": 0,
+                "url": "https://t.co/5QbOfWWNET"
+              }
+            ]
+          }
+        },
+        "id": "1247846557342412800",
+        "location": "Pharloom",
+        "name": "Mr.Mordicai 🏴‍☠️",
+        "pinned_tweet_id": "1874502805379321926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962368142136520705/RXTquIjr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 579,
+          "like_count": 90895,
+          "listed_count": 2,
+          "media_count": 4461,
+          "tweet_count": 12864
+        },
+        "url": "https://t.co/5QbOfWWNET",
+        "username": "MrMordicai",
+        "verified": false
+      }
+    ]
+  }
+}

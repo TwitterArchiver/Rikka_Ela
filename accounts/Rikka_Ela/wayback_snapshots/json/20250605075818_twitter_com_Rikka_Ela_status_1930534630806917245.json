@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1930534630806917245",
+    "created_at": "2025-06-05T07:58:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T08:58:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1930534630806917245"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/meuuuu_kk/stat…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/meuuuu_kk/status/1930521217892757819",
+          "start": 6,
+          "url": "https://t.co/67kVt8RZbX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930534630806917245",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930521217892757819",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也这样😇 https://t.co/67kVt8RZbX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1930534630806917245",
+        "created_at": "2025-06-05T07:58:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T08:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930534630806917245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/meuuuu_kk/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/meuuuu_kk/status/1930521217892757819",
+              "start": 6,
+              "url": "https://t.co/67kVt8RZbX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930534630806917245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930521217892757819",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也这样😇 https://t.co/67kVt8RZbX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831127108791529473",
+        "conversation_id": "1930521217892757819",
+        "created_at": "2025-06-05T07:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T08:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930521217892757819"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1930521217892757819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "学德语的时候是觉得自己声音最男的时候💧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4262,
+          "following_count": 3484,
+          "like_count": 68281,
+          "listed_count": 8,
+          "media_count": 226,
+          "tweet_count": 6112
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T00:28:52.000Z",
+        "description": "垃圾桶；\n二刺螈账号@melt_release；\n\n🏳️‍⚧️🏳️‍🌈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "melt_release"
+              }
+            ]
+          }
+        },
+        "id": "1831127108791529473",
+        "location": "they/it/him",
+        "name": "🥥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909584494035890176/p84FrQs9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 84,
+          "like_count": 2320,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 1171
+        },
+        "username": "Meuuuu_kk",
+        "verified": false
+      }
+    ]
+  }
+}

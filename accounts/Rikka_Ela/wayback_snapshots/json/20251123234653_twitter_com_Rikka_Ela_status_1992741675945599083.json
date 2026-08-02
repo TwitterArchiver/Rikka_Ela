@@ -1,0 +1,974 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992741670916333568"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027048853",
+          "name": "PlayStation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1575492093224419328",
+          "name": "State of Play"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1204465930320805888",
+          "name": "State of Play"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1135979287733948416",
+          "name": "Elden Ring"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027048853",
+          "name": "PlayStation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming News",
+          "id": "1034501001544257536",
+          "name": "Gaming news"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1135979287733948416",
+          "name": "Elden Ring"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1204465930320805888",
+          "name": "State of Play"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291094662682271744",
+          "name": "Gaming events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898668479250438",
+          "name": "Fantasy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      }
+    ],
+    "conversation_id": "1992741675945599083",
+    "created_at": "2025-11-23T23:46:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T00:46:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992741675945599083"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vveWOfgbLT",
+          "end": 144,
+          "expanded_url": "https://x.com/Rikka_Ela/status/1992741675945599083/photo/1",
+          "media_key": "3_1992741670916333568",
+          "start": 121,
+          "url": "https://t.co/vveWOfgbLT"
+        },
+        {
+          "display_url": "x.com/ign/status/198…",
+          "end": 168,
+          "expanded_url": "https://twitter.com/ign/status/1988375879693791566",
+          "start": 145,
+          "url": "https://t.co/iY0pV2lkma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992741675945599083",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988375879693791566",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "时刻准备着🫡\n深夜模式打完了回去打普通Boss，能很明显的感觉到哪些是老登，哪些是有魂游基础刚开始打黑环的，哪些是第一次接触魂类的。在这期间遇到不少全程倒地的。但是没关系，不管是在本体还是DLC，这一次，我们魂游结晶人老ass会保下所有人🌹 https://t.co/vveWOfgbLT https://t.co/iY0pV2lkma"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1682,
+        "media_key": "3_1992741670916333568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6ej_eAWIAAxdQf.jpg",
+        "width": 1279
+      },
+      {
+        "height": 1286,
+        "media_key": "3_1988375588936015872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ghEDKW4AAX5vD.jpg",
+        "width": 2308
+      },
+      {
+        "height": 1266,
+        "media_key": "3_1988375611144855552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ghFV5W4AA_qsz.jpg",
+        "width": 2278
+      },
+      {
+        "height": 1300,
+        "media_key": "3_1988375644820873216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ghHTWWIAAxhTW.jpg",
+        "width": 2316
+      },
+      {
+        "height": 1284,
+        "media_key": "3_1988375681957285888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ghJdsW0AAsR3x.jpg",
+        "width": 2280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992741670916333568"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027048853",
+              "name": "PlayStation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1575492093224419328",
+              "name": "State of Play"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1204465930320805888",
+              "name": "State of Play"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027048853",
+              "name": "PlayStation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming News",
+              "id": "1034501001544257536",
+              "name": "Gaming news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1204465930320805888",
+              "name": "State of Play"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291094662682271744",
+              "name": "Gaming events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "1992741675945599083",
+        "created_at": "2025-11-23T23:46:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T00:46:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992741675945599083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vveWOfgbLT",
+              "end": 144,
+              "expanded_url": "https://x.com/Rikka_Ela/status/1992741675945599083/photo/1",
+              "media_key": "3_1992741670916333568",
+              "start": 121,
+              "url": "https://t.co/vveWOfgbLT"
+            },
+            {
+              "display_url": "x.com/ign/status/198…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/ign/status/1988375879693791566",
+              "start": 145,
+              "url": "https://t.co/iY0pV2lkma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992741675945599083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988375879693791566",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "时刻准备着🫡\n深夜模式打完了回去打普通Boss，能很明显的感觉到哪些是老登，哪些是有魂游基础刚开始打黑环的，哪些是第一次接触魂类的。在这期间遇到不少全程倒地的。但是没关系，不管是在本体还是DLC，这一次，我们魂游结晶人老ass会保下所有人🌹 https://t.co/vveWOfgbLT https://t.co/iY0pV2lkma"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988375588936015872",
+            "3_1988375611144855552",
+            "3_1988375644820873216",
+            "3_1988375681957285888"
+          ]
+        },
+        "author_id": "18927441",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027048853",
+              "name": "PlayStation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1106638172182597632",
+              "name": "IGN"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1575492093224419328",
+              "name": "State of Play"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1204465930320805888",
+              "name": "State of Play"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027048853",
+              "name": "PlayStation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming News",
+              "id": "1034501001544257536",
+              "name": "Gaming news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1106638172182597632",
+              "name": "IGN"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1204465930320805888",
+              "name": "State of Play"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291094662682271744",
+              "name": "Gaming events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Sony's latest livestream showcase is set to feature new reveals and updates from \"beloved Japanese publishers\" and other developers around the world. Keep up with all the highlights and reactions right here.",
+              "id": "1501321999808819204",
+              "name": "All the announcements from Sony's State of Play"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Este jueves Sony presentó un State of Play dedicado enteramente a 'Hogwarts Legacy', videojuego basado en el mundo de Harry Potter. Durante la transmisión se ofreció un primer vistazo al gameplay, seguido de comentarios de integrantes de Avalanche Software, la compañía desarrolladora. También se anunció que el lanzamiento se espera para finales de 2022 🎮. \n\nMira lo más destacado de esta mágica presentación a través de Tweets aquí👇",
+              "id": "1504240931586727942",
+              "name": "La magia de Hogwarts llega al State of Play de Sony 🪄"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1562349135579074560",
+              "name": "#nmf"
+            }
+          }
+        ],
+        "conversation_id": "1988375879693791566",
+        "created_at": "2025-11-11T22:38:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T23:38:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988375879693791566"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "Elden Ring Nightreign",
+              "probability": 0.8666,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 46,
+              "normalized_text": "The Forsaken Hollows DLC",
+              "probability": 0.6447,
+              "start": 23,
+              "type": "Other"
+            },
+            {
+              "end": 81,
+              "normalized_text": "StateOfPlay",
+              "probability": 0.517,
+              "start": 71,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 82,
+              "start": 70,
+              "tag": "StateOfPlay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x3Ufo1fJfr",
+              "end": 106,
+              "expanded_url": "https://x.com/IGN/status/1988375879693791566/photo/1",
+              "media_key": "3_1988375588936015872",
+              "start": 83,
+              "url": "https://t.co/x3Ufo1fJfr"
+            },
+            {
+              "display_url": "pic.x.com/x3Ufo1fJfr",
+              "end": 106,
+              "expanded_url": "https://x.com/IGN/status/1988375879693791566/photo/1",
+              "media_key": "3_1988375611144855552",
+              "start": 83,
+              "url": "https://t.co/x3Ufo1fJfr"
+            },
+            {
+              "display_url": "pic.x.com/x3Ufo1fJfr",
+              "end": 106,
+              "expanded_url": "https://x.com/IGN/status/1988375879693791566/photo/1",
+              "media_key": "3_1988375644820873216",
+              "start": 83,
+              "url": "https://t.co/x3Ufo1fJfr"
+            },
+            {
+              "display_url": "pic.x.com/x3Ufo1fJfr",
+              "end": 106,
+              "expanded_url": "https://x.com/IGN/status/1988375879693791566/photo/1",
+              "media_key": "3_1988375681957285888",
+              "start": 83,
+              "url": "https://t.co/x3Ufo1fJfr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988375879693791566",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 125030,
+          "like_count": 1613,
+          "quote_count": 26,
+          "reply_count": 17,
+          "retweet_count": 154
+        },
+        "reply_settings": "everyone",
+        "text": "Elden Ring Nightreign: The Forsaken Hollows DLC is coming December 4. #StateOfPlay https://t.co/x3Ufo1fJfr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4755,
+          "following_count": 3646,
+          "like_count": 76486,
+          "listed_count": 8,
+          "media_count": 331,
+          "tweet_count": 7523
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2009-01-13T03:56:38.000Z",
+        "description": "We're all about movies, TV, and video games!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ign.com",
+                "end": 23,
+                "expanded_url": "http://www.ign.com",
+                "start": 0,
+                "url": "https://t.co/ElwEYZyR3H"
+              }
+            ]
+          }
+        },
+        "id": "18927441",
+        "name": "IGN",
+        "pinned_tweet_id": "1989051174620917911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981776839241551872/U6hEZLu1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10094995,
+          "following_count": 1441,
+          "like_count": 16019,
+          "listed_count": 25255,
+          "media_count": 177615,
+          "tweet_count": 248450
+        },
+        "url": "https://t.co/ElwEYZyR3H",
+        "username": "IGN",
+        "verified": true
+      }
+    ]
+  }
+}

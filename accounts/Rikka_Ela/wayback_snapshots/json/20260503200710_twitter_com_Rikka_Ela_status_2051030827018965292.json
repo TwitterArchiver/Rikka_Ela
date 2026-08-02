@@ -1,0 +1,636 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051011130370273280"
+      ],
+      "media_source_tweet_id": [
+        "2051011133557911654"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1135979287733948416",
+          "name": "Elden Ring"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1135979287733948416",
+          "name": "Elden Ring"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898668479250438",
+          "name": "Fantasy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      }
+    ],
+    "conversation_id": "2051030827018965292",
+    "created_at": "2026-05-03T20:07:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T21:07:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051030827018965292"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 48,
+          "start": 38,
+          "tag": "ELDENRING"
+        },
+        {
+          "end": 60,
+          "start": 49,
+          "tag": "NIGHTREIGN"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1683015703895449600",
+          "start": 3,
+          "username": "TheHalberick"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JRTlVx0XOg",
+          "end": 84,
+          "expanded_url": "https://x.com/TheHalberick/status/2051011133557911654/photo/1",
+          "media_key": "3_2051011130370273280",
+          "start": 61,
+          "url": "https://t.co/JRTlVx0XOg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051030827018965292",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051011133557911654",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TheHalberick: Night of the Demon\n\n#ELDENRING #NIGHTREIGN https://t.co/JRTlVx0XOg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2051011130370273280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHanwaAXsAAV0d6.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051011130370273280"
+          ],
+          "media_source_tweet_id": [
+            "2051011133557911654"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2051030827018965292",
+        "created_at": "2026-05-03T20:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T21:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051030827018965292"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 38,
+              "tag": "ELDENRING"
+            },
+            {
+              "end": 60,
+              "start": 49,
+              "tag": "NIGHTREIGN"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1683015703895449600",
+              "start": 3,
+              "username": "TheHalberick"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JRTlVx0XOg",
+              "end": 84,
+              "expanded_url": "https://x.com/TheHalberick/status/2051011133557911654/photo/1",
+              "media_key": "3_2051011130370273280",
+              "start": 61,
+              "url": "https://t.co/JRTlVx0XOg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051030827018965292",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051011133557911654",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TheHalberick: Night of the Demon\n\n#ELDENRING #NIGHTREIGN https://t.co/JRTlVx0XOg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051011130370273280"
+          ]
+        },
+        "author_id": "1683015703895449600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2051011133557911654",
+        "created_at": "2026-05-03T18:48:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T19:48:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051011133557911654"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 20,
+              "tag": "ELDENRING"
+            },
+            {
+              "end": 42,
+              "start": 31,
+              "tag": "NIGHTREIGN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JRTlVx0XOg",
+              "end": 66,
+              "expanded_url": "https://x.com/TheHalberick/status/2051011133557911654/photo/1",
+              "media_key": "3_2051011130370273280",
+              "start": 43,
+              "url": "https://t.co/JRTlVx0XOg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051011133557911654",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 961,
+          "like_count": 137,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "Night of the Demon\n\n#ELDENRING #NIGHTREIGN https://t.co/JRTlVx0XOg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5169,
+          "following_count": 3761,
+          "like_count": 83236,
+          "listed_count": 10,
+          "media_count": 422,
+          "tweet_count": 9259
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T07:26:49.000Z",
+        "description": "Aspiring digital artist • Lore creator • FromSoftware enthusiast • Bandai Namco Creator Collective 🎨💜 \nPRINTS → https://t.co/LQNmkSvrR6⁠",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "inprnt.com/gallery/halber…",
+                "end": 135,
+                "expanded_url": "https://www.inprnt.com/gallery/halberick/",
+                "start": 112,
+                "url": "https://t.co/LQNmkSvrR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "halberick.carrd.co",
+                "end": 23,
+                "expanded_url": "https://halberick.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/qcEzduRVPM"
+              }
+            ]
+          }
+        },
+        "id": "1683015703895449600",
+        "location": "Altair of Despair",
+        "name": "Halberick",
+        "pinned_tweet_id": "2027859309896355891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018610538998030336/YJFB8NVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11737,
+          "following_count": 68,
+          "like_count": 2347,
+          "listed_count": 18,
+          "media_count": 132,
+          "tweet_count": 361
+        },
+        "url": "https://t.co/qcEzduRVPM",
+        "username": "TheHalberick",
+        "verified": false
+      }
+    ]
+  }
+}

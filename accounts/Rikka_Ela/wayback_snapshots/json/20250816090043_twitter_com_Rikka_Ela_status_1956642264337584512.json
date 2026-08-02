@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1956559387537104896"
+      ],
+      "media_source_tweet_id": [
+        "1956559406348611729"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "conversation_id": "1956642264337584512",
+    "created_at": "2025-08-16T09:00:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-16T10:00:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956642264337584512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "953968255156207616",
+          "start": 3,
+          "username": "tokoyoRE"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZsfYW0CXtp",
+          "end": 37,
+          "expanded_url": "https://x.com/tokoyoRE/status/1956559406348611729/photo/1",
+          "media_key": "3_1956559387537104896",
+          "start": 14,
+          "url": "https://t.co/ZsfYW0CXtp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956642264337584512",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 505
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956559406348611729",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tokoyoRE: https://t.co/ZsfYW0CXtp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1093,
+        "media_key": "3_1956559387537104896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GycYZYwa4AAEpnq.jpg",
+        "width": 765
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956559387537104896"
+          ],
+          "media_source_tweet_id": [
+            "1956559406348611729"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "1956642264337584512",
+        "created_at": "2025-08-16T09:00:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T10:00:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956642264337584512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "953968255156207616",
+              "start": 3,
+              "username": "tokoyoRE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZsfYW0CXtp",
+              "end": 37,
+              "expanded_url": "https://x.com/tokoyoRE/status/1956559406348611729/photo/1",
+              "media_key": "3_1956559387537104896",
+              "start": 14,
+              "url": "https://t.co/ZsfYW0CXtp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956642264337584512",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 505
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956559406348611729",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tokoyoRE: https://t.co/ZsfYW0CXtp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956559387537104896"
+          ]
+        },
+        "author_id": "953968255156207616",
+        "conversation_id": "1956559406348611729",
+        "created_at": "2025-08-16T03:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-16T04:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956559406348611729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZsfYW0CXtp",
+              "end": 23,
+              "expanded_url": "https://x.com/tokoyoRE/status/1956559406348611729/photo/1",
+              "media_key": "3_1956559387537104896",
+              "start": 0,
+              "url": "https://t.co/ZsfYW0CXtp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956559406348611729",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 229,
+          "impression_count": 41122,
+          "like_count": 3112,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 505
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ZsfYW0CXtp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4486,
+          "following_count": 3545,
+          "like_count": 72009,
+          "listed_count": 7,
+          "media_count": 284,
+          "tweet_count": 6766
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-18T12:32:10.000Z",
+        "description": "bio欄は短いほど良いと思っているし、mbtiやアンケートばかり載せるやつはださいと思っている",
+        "id": "953968255156207616",
+        "location": "ここにいる。",
+        "name": "常世草",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797559414574235649/7wy61cTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 144,
+          "like_count": 28094,
+          "listed_count": 12,
+          "media_count": 2306,
+          "tweet_count": 69383
+        },
+        "username": "tokoyoRE",
+        "verified": false
+      }
+    ]
+  }
+}

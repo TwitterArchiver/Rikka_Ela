@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1814642982236402117",
+    "created_at": "2024-07-26T03:20:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-26T04:20:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816674812951167315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1510522802486448130",
+          "start": 0,
+          "username": "boeritsa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816674812951167315",
+    "in_reply_to_user_id": "1510522802486448130",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816670614285127987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boeritsa 🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1814642982236402117",
+        "created_at": "2024-07-26T03:20:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T04:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816674812951167315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1510522802486448130",
+              "start": 0,
+              "username": "boeritsa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816674812951167315",
+        "in_reply_to_user_id": "1510522802486448130",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816670614285127987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boeritsa 🥰"
+      },
+      {
+        "attachments": {},
+        "author_id": "1510522802486448130",
+        "conversation_id": "1814642982236402117",
+        "created_at": "2024-07-26T03:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-26T04:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816670614285127987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816670614285127987",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1814642982236402117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 想抱～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2258,
+          "following_count": 2817,
+          "like_count": 43332,
+          "listed_count": 6,
+          "tweet_count": 2765
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-03T07:43:31.000Z",
+        "description": "中文/粤语/English | 很少用推特/X | Possible SENG@HKUST/INFO&AI ENGG@PolyU/DEE@CityU | 主要在毛象上活跃\n\n长毛象：@aliyajadzia@stelpolva.moe",
+        "id": "1510522802486448130",
+        "location": "Earth, Sol, Sector 001, UFP",
+        "name": "林雅仪Aliya Lin🏳️‍⚧️🇭🇰🇺🇦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815380692408393728/zRTVmFdX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 46,
+          "like_count": 36,
+          "listed_count": 0,
+          "tweet_count": 11
+        },
+        "username": "boeritsa",
+        "verified": false
+      }
+    ]
+  }
+}

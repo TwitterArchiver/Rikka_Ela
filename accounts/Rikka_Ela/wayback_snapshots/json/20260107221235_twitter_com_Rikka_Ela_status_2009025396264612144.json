@@ -1,0 +1,671 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1135979287733948416",
+          "name": "Elden Ring"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1135979287733948416",
+          "name": "Elden Ring"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898668479250438",
+          "name": "Fantasy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      }
+    ],
+    "conversation_id": "2009025396264612144",
+    "created_at": "2026-01-07T22:12:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T23:12:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009025396264612144"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bandainamcous/…",
+          "end": 73,
+          "expanded_url": "https://twitter.com/bandainamcous/status/1780010945508417674",
+          "start": 50,
+          "url": "https://t.co/JSrNnfOSHA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009025396264612144",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1780010945508417674",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？I'm ready to receive all 18 inches of Messmer🥵🥵🥵 https://t.co/JSrNnfOSHA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 47560,
+        "height": 405,
+        "media_key": "13_1780010835982557184",
+        "preview_image_url": "https://pbs.twimg.com/media/GLPehTcW0AAFQHp.jpg",
+        "public_metrics": {
+          "view_count": 993644
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1780010835982557184/vid/avc1/1920x1080/xXT4dhAT5N051cHm.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1780010835982557184/vid/avc1/1280x720/o-dAMTwQhsbl5vsT.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1780010835982557184/pl/FpBzkMBVwjtOsYJY.m3u8?tag=16"
+          },
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1780010835982557184/vid/avc1/480x270/5nNbZdW38UHEnTK-.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1780010835982557184/vid/avc1/640x360/naGmEtR47FBZhHuS.mp4?tag=16"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2009025396264612144",
+        "created_at": "2026-01-07T22:12:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T23:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009025396264612144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bandainamcous/…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/bandainamcous/status/1780010945508417674",
+              "start": 50,
+              "url": "https://t.co/JSrNnfOSHA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009025396264612144",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1780010945508417674",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？I'm ready to receive all 18 inches of Messmer🥵🥵🥵 https://t.co/JSrNnfOSHA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1780010835982557184"
+          ]
+        },
+        "author_id": "19003121",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "1181015430711758848",
+              "name": "Bandai Namco"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1181015430711758848",
+              "name": "Bandai Namco"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "1780010945508417674",
+        "created_at": "2024-04-15T23:10:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-04-16T00:10:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1780010945508417674"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 49,
+              "normalized_text": "Messmer the Impaler",
+              "probability": 0.6942,
+              "start": 31,
+              "type": "Other"
+            },
+            {
+              "end": 79,
+              "normalized_text": "Elden Ring:",
+              "probability": 0.7476,
+              "start": 69,
+              "type": "Other"
+            },
+            {
+              "end": 121,
+              "normalized_text": "Shadow of the Erdtree Collector's Edition",
+              "probability": 0.8024,
+              "start": 81,
+              "type": "Other"
+            },
+            {
+              "end": 133,
+              "normalized_text": "ELDENRING",
+              "probability": 0.6765,
+              "start": 125,
+              "type": "Other"
+            },
+            {
+              "end": 155,
+              "normalized_text": "ELDEN RING",
+              "probability": 0.7761,
+              "start": 146,
+              "type": "Other"
+            },
+            {
+              "end": 177,
+              "normalized_text": "Shadow of the Erdtree",
+              "probability": 0.8023,
+              "start": 157,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 134,
+              "start": 124,
+              "tag": "ELDENRING"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "bnent.eu/EldenRing-SOTE",
+              "end": 203,
+              "expanded_url": "https://bnent.eu/EldenRing-SOTE",
+              "start": 180,
+              "status": 200,
+              "unwound_url": "https://www.bandainamcoent.com/games/elden-ring#editions",
+              "url": "https://t.co/oYk0s9FqpN"
+            },
+            {
+              "display_url": "pic.x.com/IG9KKBJ9hT",
+              "end": 227,
+              "expanded_url": "https://x.com/BandaiNamcoUS/status/1780010945508417674/video/1",
+              "media_key": "13_1780010835982557184",
+              "start": 204,
+              "url": "https://t.co/IG9KKBJ9hT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1780010945508417674",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2511,
+          "impression_count": 5270791,
+          "like_count": 22956,
+          "quote_count": 3616,
+          "reply_count": 690,
+          "retweet_count": 3182
+        },
+        "reply_settings": "everyone",
+        "text": "Treat yourself to 18 inches of Messmer the Impaler and more with the Elden Ring: Shadow of the Erdtree Collector's Edition. #ELDENRING\n\nPre-order ELDEN RING Shadow of the Erdtree: https://t.co/oYk0s9FqpN https://t.co/IG9KKBJ9hT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4843,
+          "following_count": 3674,
+          "like_count": 78296,
+          "listed_count": 8,
+          "media_count": 356,
+          "tweet_count": 7949
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2009-01-15T00:17:20.000Z",
+        "description": "Official account of Bandai Namco Entertainment America! Promoting console & PC video games. Our Support Team is here to help: https://t.co/ccIMBDgC1p",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "support.bandainamcoent.com",
+                "end": 149,
+                "expanded_url": "http://support.bandainamcoent.com",
+                "start": 126,
+                "url": "https://t.co/ccIMBDgC1p"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bandainamcoent.com",
+                "end": 23,
+                "expanded_url": "https://www.bandainamcoent.com/",
+                "start": 0,
+                "url": "https://t.co/JDA3UhPWzb"
+              }
+            ]
+          }
+        },
+        "id": "19003121",
+        "location": "Irvine, CA",
+        "name": "Bandai Namco US",
+        "pinned_tweet_id": "2008210637361455390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992280122142097408/AA_zezbs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1079139,
+          "following_count": 298,
+          "like_count": 26710,
+          "listed_count": 3644,
+          "media_count": 15345,
+          "tweet_count": 35677
+        },
+        "url": "https://t.co/JDA3UhPWzb",
+        "username": "BandaiNamcoUS",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1820072667552317572",
+    "created_at": "2024-08-04T15:22:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-04T16:22:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1820118017768071219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1615229704549859329",
+          "start": 0,
+          "username": "Y32010705"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820118017768071219",
+    "in_reply_to_user_id": "1615229704549859329",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820072667552317572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y32010705 我手术估计来回都是经济舱，因为付完手术费没钱了😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1820072667552317572",
+        "created_at": "2024-08-04T15:22:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-04T16:22:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820118017768071219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1615229704549859329",
+              "start": 0,
+              "username": "Y32010705"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820118017768071219",
+        "in_reply_to_user_id": "1615229704549859329",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820072667552317572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y32010705 我手术估计来回都是经济舱，因为付完手术费没钱了😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1615229704549859329",
+        "conversation_id": "1820072667552317572",
+        "created_at": "2024-08-04T12:21:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-04T13:21:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1820072667552317572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Y32010705/stat…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/Y32010705/status/1820071272199663951",
+              "start": 105,
+              "url": "https://t.co/m7oLT11SMn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820072667552317572",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 300,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820071272199663951",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "又想到虽然很多人都不是很了解机票，但是看到一些trans出国手术买了大几千往返的机票结果还是亚航春秋那样的航司，看的我都要心肌梗死\n同等价值当然是有更舒服的选择在的，都出去srs了就应该把每一分钱都花在刀刃上 https://t.co/m7oLT11SMn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2313,
+          "following_count": 2854,
+          "like_count": 44862,
+          "listed_count": 6,
+          "tweet_count": 2928
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-17T06:09:40.000Z",
+        "description": "心系搶錢每一程",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "geogsoc.org.tw",
+                "end": 23,
+                "expanded_url": "https://geogsoc.org.tw/",
+                "start": 0,
+                "url": "https://t.co/d95fC3JVIu"
+              }
+            ]
+          }
+        },
+        "id": "1615229704549859329",
+        "location": "HRB NKG HGH YIW HKG ICN BKK",
+        "name": "Yuyao🌍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817492479677235200/ShfaJ7_D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1550,
+          "following_count": 2984,
+          "like_count": 36306,
+          "listed_count": 4,
+          "tweet_count": 10419
+        },
+        "url": "https://t.co/d95fC3JVIu",
+        "username": "Y32010705",
+        "verified": false
+      }
+    ]
+  }
+}

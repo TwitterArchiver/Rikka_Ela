@@ -1,0 +1,612 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1928262614225932290"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1135979287733948416",
+          "name": "Elden Ring"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1135979287733948416",
+          "name": "Elden Ring"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898668479250438",
+          "name": "Fantasy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      }
+    ],
+    "conversation_id": "1928262620529766677",
+    "created_at": "2025-05-30T01:30:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T02:30:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1928262620529766677"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rYJHfP10iD",
+          "end": 31,
+          "expanded_url": "https://x.com/Rikka_Ela/status/1928262620529766677/photo/1",
+          "media_key": "3_1928262614225932290",
+          "start": 8,
+          "url": "https://t.co/rYJHfP10iD"
+        },
+        {
+          "display_url": "x.com/fromsoftware_p…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/fromsoftware_pr/status/1928224840529629445",
+          "start": 32,
+          "url": "https://t.co/Tuxnp06R2e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928262620529766677",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928224840529629445",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "“Mixed” https://t.co/rYJHfP10iD https://t.co/Tuxnp06R2e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 308,
+        "media_key": "3_1928262614225932290",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsKQoZqaUAIXXkA.jpg",
+        "width": 277
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1928087945409613827",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsHxxVnaUAMiU5u.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928262614225932290"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "1928262620529766677",
+        "created_at": "2025-05-30T01:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T02:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928262620529766677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rYJHfP10iD",
+              "end": 31,
+              "expanded_url": "https://x.com/Rikka_Ela/status/1928262620529766677/photo/1",
+              "media_key": "3_1928262614225932290",
+              "start": 8,
+              "url": "https://t.co/rYJHfP10iD"
+            },
+            {
+              "display_url": "x.com/fromsoftware_p…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/fromsoftware_pr/status/1928224840529629445",
+              "start": 32,
+              "url": "https://t.co/Tuxnp06R2e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928262620529766677",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928224840529629445",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“Mixed” https://t.co/rYJHfP10iD https://t.co/Tuxnp06R2e"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928087945409613827"
+          ]
+        },
+        "author_id": "150151699",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "1131284511411458048",
+              "name": "FromSoftware"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1131284511411458048",
+              "name": "FromSoftware"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "1928224840529629445",
+        "created_at": "2025-05-29T23:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T00:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928224840529629445"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "ELDEN RING NIGHTREIGN",
+              "probability": 0.7483,
+              "start": 1,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wL5EKTh62r",
+              "end": 127,
+              "expanded_url": "https://x.com/fromsoftware_pr/status/1928224840529629445/photo/1",
+              "media_key": "3_1928087945409613827",
+              "start": 104,
+              "url": "https://t.co/wL5EKTh62r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928224840529629445",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 111,
+          "impression_count": 244811,
+          "like_count": 6250,
+          "quote_count": 119,
+          "reply_count": 33,
+          "retweet_count": 2593
+        },
+        "reply_settings": "everyone",
+        "text": "『ELDEN RING NIGHTREIGN』、本日発売です。よろしければぜひ、協力型サバイバルアクションとなる本作で、「リムベルド」での冒険を楽しんでいただければ幸いです。どうぞよろしくお願いいたします。 https://t.co/wL5EKTh62r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4249,
+          "following_count": 3476,
+          "like_count": 67884,
+          "listed_count": 8,
+          "media_count": 220,
+          "tweet_count": 6047
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-31T06:22:05.000Z",
+        "description": "株式会社フロム・ソフトウェアの公式アカウントです。\nThe Official X of FromSoftware, Inc.\n自社ゲームタイトルに関する情報をお伝えします。\ncontact: https://t.co/HRadAItosz…",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fromsoftware.jp/pc/inquiry_per",
+                "end": 119,
+                "expanded_url": "http://fromsoftware.jp/pc/inquiry_per",
+                "start": 96,
+                "url": "https://t.co/HRadAItosz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fromsoftware.jp",
+                "end": 23,
+                "expanded_url": "http://www.fromsoftware.jp/",
+                "start": 0,
+                "url": "https://t.co/JrTlJl0FD2"
+              }
+            ]
+          }
+        },
+        "id": "150151699",
+        "location": "Tokyo",
+        "name": "FROMSOFTWARE",
+        "pinned_tweet_id": "1889675860782817614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/875586745479249922/GYekVrNZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711684,
+          "following_count": 15,
+          "like_count": 0,
+          "listed_count": 2769,
+          "media_count": 413,
+          "tweet_count": 1942
+        },
+        "url": "https://t.co/JrTlJl0FD2",
+        "username": "fromsoftware_pr",
+        "verified": true
+      }
+    ]
+  }
+}

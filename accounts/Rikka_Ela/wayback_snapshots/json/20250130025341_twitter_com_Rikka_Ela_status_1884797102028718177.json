@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1884683354705928605",
+    "created_at": "2025-01-30T02:53:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T03:53:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884797102028718177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1563750837578792960",
+          "start": 0,
+          "username": "Georgesumer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884797102028718177",
+    "in_reply_to_user_id": "1563750837578792960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884683354705928605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Georgesumer 好欸🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1884683354705928605",
+        "created_at": "2025-01-30T02:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T03:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884797102028718177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1563750837578792960",
+              "start": 0,
+              "username": "Georgesumer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884797102028718177",
+        "in_reply_to_user_id": "1563750837578792960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884683354705928605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Georgesumer 好欸🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563750837578792960",
+        "conversation_id": "1884683354705928605",
+        "created_at": "2025-01-29T19:21:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T20:21:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884683354705928605"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1884683354705928605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2213,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好说歹说在美国应该是pass了，穿男装说了话还能被叫ma'am，希望回国了不要给我沉重一击…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3627,
+          "following_count": 3210,
+          "like_count": 58398,
+          "listed_count": 6,
+          "media_count": 163,
+          "tweet_count": 4680
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-28T04:50:36.000Z",
+        "description": "碎掉的北美mtf/hrt: 09/04/2024/intj/姛/重度原相机患者/category theory/topology/graph theory",
+        "id": "1563750837578792960",
+        "location": "Baltimore, MD",
+        "name": "Simplicial小八🏳️‍⚧️",
+        "pinned_tweet_id": "1878820659603890393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860021832541167616/Z2_BTYxE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 136,
+          "like_count": 47,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 279
+        },
+        "username": "Georgesumer",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1962683974519849004",
+    "created_at": "2025-09-02T01:08:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T02:08:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962683974519849004"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/less_than_ever…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/less_than_ever/status/1962491649646575959",
+          "start": 5,
+          "url": "https://t.co/NsBAqZjCQJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962683974519849004",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962491649646575959",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好吃🥹） https://t.co/NsBAqZjCQJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1962683974519849004",
+        "created_at": "2025-09-02T01:08:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T02:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962683974519849004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/less_than_ever…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/less_than_ever/status/1962491649646575959",
+              "start": 5,
+              "url": "https://t.co/NsBAqZjCQJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962683974519849004",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962491649646575959",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好吃🥹） https://t.co/NsBAqZjCQJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1538765792392536064",
+        "conversation_id": "1962491649646575959",
+        "created_at": "2025-09-01T12:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T13:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962491649646575959"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962491649646575959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3936,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚梦到新宿舍的直男室友毫无预兆地也喜欢我，然后和他做爱。他还会在带着哥们来宿舍的时候，我想上去亲他，他有点慌张但又带着爱意地和我说“他还在这儿呢”，一边还是让我亲亲了。一个晚上都在等他和我亲热。因为一共做了两天，第一天的时候我醒来还在想是不是搞错了，结果他确实馋我身子。1/n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4511,
+          "following_count": 3542,
+          "like_count": 72551,
+          "listed_count": 9,
+          "media_count": 291,
+          "tweet_count": 6883
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-20T06:09:10.000Z",
+        "description": "PKU  社科\n游走在主流和亚文化的边缘",
+        "id": "1538765792392536064",
+        "name": "Less Than Ever",
+        "pinned_tweet_id": "1945311412894752858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1748987668502040576/3eEUT0jL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1563,
+          "following_count": 175,
+          "like_count": 955,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 753
+        },
+        "username": "Less_than_ever",
+        "verified": false
+      }
+    ]
+  }
+}

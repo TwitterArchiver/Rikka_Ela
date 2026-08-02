@@ -1,0 +1,737 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977069982929309696",
+        "3_1977069982941949953",
+        "3_1977069982920884224",
+        "3_1977069982950236160"
+      ],
+      "media_source_tweet_id": [
+        "1977070010171265261",
+        "1977070010171265261",
+        "1977070010171265261",
+        "1977070010171265261"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1135979287733948416",
+          "name": "Elden Ring"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1135979287733948416",
+          "name": "Elden Ring"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898668479250438",
+          "name": "Fantasy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      }
+    ],
+    "conversation_id": "1977135207988723923",
+    "created_at": "2025-10-11T22:12:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T23:12:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977135207988723923"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "Elden Ring",
+          "probability": 0.9612,
+          "start": 15,
+          "type": "Other"
+        },
+        {
+          "end": 70,
+          "normalized_text": "ELDENRING",
+          "probability": 0.7793,
+          "start": 62,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 71,
+          "start": 61,
+          "tag": "ELDENRING"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1375125015016923138",
+          "start": 3,
+          "username": "AliveWake"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4OCW9UNrP0",
+          "end": 95,
+          "expanded_url": "https://x.com/AliveWake/status/1977070010171265261/photo/1",
+          "media_key": "3_1977069982929309696",
+          "start": 72,
+          "url": "https://t.co/4OCW9UNrP0"
+        },
+        {
+          "display_url": "pic.x.com/4OCW9UNrP0",
+          "end": 95,
+          "expanded_url": "https://x.com/AliveWake/status/1977070010171265261/photo/1",
+          "media_key": "3_1977069982941949953",
+          "start": 72,
+          "url": "https://t.co/4OCW9UNrP0"
+        },
+        {
+          "display_url": "pic.x.com/4OCW9UNrP0",
+          "end": 95,
+          "expanded_url": "https://x.com/AliveWake/status/1977070010171265261/photo/1",
+          "media_key": "3_1977069982920884224",
+          "start": 72,
+          "url": "https://t.co/4OCW9UNrP0"
+        },
+        {
+          "display_url": "pic.x.com/4OCW9UNrP0",
+          "end": 95,
+          "expanded_url": "https://x.com/AliveWake/status/1977070010171265261/photo/1",
+          "media_key": "3_1977069982950236160",
+          "start": 72,
+          "url": "https://t.co/4OCW9UNrP0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977135207988723923",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 67
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977070010171265261",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AliveWake: Elden Ring pieces I’ve made this year so far\n\n#ELDENRING https://t.co/4OCW9UNrP0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1977069982929309696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2_2rKyW0AADmDU.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1977069982941949953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2_2rK1XsAE7FQz.jpg",
+        "width": 1366
+      },
+      {
+        "height": 1366,
+        "media_key": "3_1977069982920884224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2_2rKwWQAAuXTO.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1977069982950236160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2_2rK3WIAAtQ9Q.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977069982929309696",
+            "3_1977069982941949953",
+            "3_1977069982920884224",
+            "3_1977069982950236160"
+          ],
+          "media_source_tweet_id": [
+            "1977070010171265261",
+            "1977070010171265261",
+            "1977070010171265261",
+            "1977070010171265261"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "1977135207988723923",
+        "created_at": "2025-10-11T22:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T23:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977135207988723923"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "Elden Ring",
+              "probability": 0.9612,
+              "start": 15,
+              "type": "Other"
+            },
+            {
+              "end": 70,
+              "normalized_text": "ELDENRING",
+              "probability": 0.7793,
+              "start": 62,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 71,
+              "start": 61,
+              "tag": "ELDENRING"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1375125015016923138",
+              "start": 3,
+              "username": "AliveWake"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4OCW9UNrP0",
+              "end": 95,
+              "expanded_url": "https://x.com/AliveWake/status/1977070010171265261/photo/1",
+              "media_key": "3_1977069982929309696",
+              "start": 72,
+              "url": "https://t.co/4OCW9UNrP0"
+            },
+            {
+              "display_url": "pic.x.com/4OCW9UNrP0",
+              "end": 95,
+              "expanded_url": "https://x.com/AliveWake/status/1977070010171265261/photo/1",
+              "media_key": "3_1977069982941949953",
+              "start": 72,
+              "url": "https://t.co/4OCW9UNrP0"
+            },
+            {
+              "display_url": "pic.x.com/4OCW9UNrP0",
+              "end": 95,
+              "expanded_url": "https://x.com/AliveWake/status/1977070010171265261/photo/1",
+              "media_key": "3_1977069982920884224",
+              "start": 72,
+              "url": "https://t.co/4OCW9UNrP0"
+            },
+            {
+              "display_url": "pic.x.com/4OCW9UNrP0",
+              "end": 95,
+              "expanded_url": "https://x.com/AliveWake/status/1977070010171265261/photo/1",
+              "media_key": "3_1977069982950236160",
+              "start": 72,
+              "url": "https://t.co/4OCW9UNrP0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977135207988723923",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 67
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977070010171265261",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AliveWake: Elden Ring pieces I’ve made this year so far\n\n#ELDENRING https://t.co/4OCW9UNrP0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977069982929309696",
+            "3_1977069982941949953",
+            "3_1977069982920884224",
+            "3_1977069982950236160"
+          ]
+        },
+        "author_id": "1375125015016923138",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "1977070010171265261",
+        "created_at": "2025-10-11T17:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T18:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977070010171265261"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "Elden Ring",
+              "probability": 0.9523,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 55,
+              "normalized_text": "ELDENRING",
+              "probability": 0.7855,
+              "start": 47,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 46,
+              "tag": "ELDENRING"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4OCW9UNrP0",
+              "end": 80,
+              "expanded_url": "https://x.com/AliveWake/status/1977070010171265261/photo/1",
+              "media_key": "3_1977069982929309696",
+              "start": 57,
+              "url": "https://t.co/4OCW9UNrP0"
+            },
+            {
+              "display_url": "pic.x.com/4OCW9UNrP0",
+              "end": 80,
+              "expanded_url": "https://x.com/AliveWake/status/1977070010171265261/photo/1",
+              "media_key": "3_1977069982941949953",
+              "start": 57,
+              "url": "https://t.co/4OCW9UNrP0"
+            },
+            {
+              "display_url": "pic.x.com/4OCW9UNrP0",
+              "end": 80,
+              "expanded_url": "https://x.com/AliveWake/status/1977070010171265261/photo/1",
+              "media_key": "3_1977069982920884224",
+              "start": 57,
+              "url": "https://t.co/4OCW9UNrP0"
+            },
+            {
+              "display_url": "pic.x.com/4OCW9UNrP0",
+              "end": 80,
+              "expanded_url": "https://x.com/AliveWake/status/1977070010171265261/photo/1",
+              "media_key": "3_1977069982950236160",
+              "start": 57,
+              "url": "https://t.co/4OCW9UNrP0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977070010171265261",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 5088,
+          "like_count": 430,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "Elden Ring pieces I’ve made this year so far\n\n#ELDENRING https://t.co/4OCW9UNrP0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4670,
+          "following_count": 3575,
+          "like_count": 73824,
+          "listed_count": 9,
+          "media_count": 307,
+          "tweet_count": 7106
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-25T16:39:27.000Z",
+        "description": "Freelance Illustrator. NO NFTS Coms (Open) Currently looking for full time work. contact: alivewakeillustration@gmail.com or DMs",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "inprnt.com/profile/alivew…",
+                "end": 23,
+                "expanded_url": "https://www.inprnt.com/profile/alivewake/",
+                "start": 0,
+                "url": "https://t.co/ziEOFiIoUR"
+              }
+            ]
+          }
+        },
+        "id": "1375125015016923138",
+        "name": "AliveWake - Commissions Open",
+        "pinned_tweet_id": "1976817658688622995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1571692345933942785/t0omsfaG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12017,
+          "following_count": 481,
+          "like_count": 19473,
+          "listed_count": 47,
+          "media_count": 337,
+          "tweet_count": 1956
+        },
+        "url": "https://t.co/ziEOFiIoUR",
+        "username": "AliveWake",
+        "verified": false
+      }
+    ]
+  }
+}

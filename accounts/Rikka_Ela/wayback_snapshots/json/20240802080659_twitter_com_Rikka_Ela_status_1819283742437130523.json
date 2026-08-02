@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1819283742437130523",
+    "created_at": "2024-08-02T08:06:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-02T09:06:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1819283742437130523"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Wisteria8964/s…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/Wisteria8964/status/1819282125709029670",
+          "start": 42,
+          "url": "https://t.co/BvTXUfzi4Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819283742437130523",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819282125709029670",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有一说一这玩意护甲还没纯粹的粉红高，随便来点有关他认同的价值观的地狱笑话就破防了🤓 https://t.co/BvTXUfzi4Y"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1819283742437130523",
+        "created_at": "2024-08-02T08:06:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-02T09:06:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1819283742437130523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Wisteria8964/s…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/Wisteria8964/status/1819282125709029670",
+              "start": 42,
+              "url": "https://t.co/BvTXUfzi4Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819283742437130523",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819282125709029670",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有一说一这玩意护甲还没纯粹的粉红高，随便来点有关他认同的价值观的地狱笑话就破防了🤓 https://t.co/BvTXUfzi4Y"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572782961925443584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1819277766799597590",
+        "created_at": "2024-08-02T08:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-02T09:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819282125709029670"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1819282125709029670",
+        "in_reply_to_user_id": "1572782961925443584",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819279482886541425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种玩意一般成分是顺直男，学生，没经历过社会拷打，但由于长期作为社会主流喜欢标榜自己的道德水准，最喜欢干的事情是去观察者网和b站键政大v下面搬外网二手屎，嘲笑外国女权和LGBT然后爱国，大概率还cosplay网左，最喜欢的皮肤是毛派，但遇到犹太人视频也会化身网右玩两把纳粹\n找两天工作就老实了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2308,
+          "following_count": 2846,
+          "like_count": 44512,
+          "listed_count": 6,
+          "tweet_count": 2890
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-22T03:01:12.000Z",
+        "description": "我是一个茄子",
+        "id": "1572782961925443584",
+        "location": "Camelot",
+        "name": "🌈Mash Kyrielight💛🤍💜🖤",
+        "pinned_tweet_id": "1755393534289756328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783693407833214976/7pxwdixJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 777,
+          "like_count": 157210,
+          "listed_count": 2,
+          "tweet_count": 3733
+        },
+        "username": "Wisteria8964",
+        "verified": false
+      }
+    ]
+  }
+}

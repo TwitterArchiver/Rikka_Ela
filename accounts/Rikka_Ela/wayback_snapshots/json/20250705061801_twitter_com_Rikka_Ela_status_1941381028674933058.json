@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1941147247044964352"
+      ],
+      "media_source_tweet_id": [
+        "1941147252179030145"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "conversation_id": "1941381028674933058",
+    "created_at": "2025-07-05T06:18:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T07:18:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941381028674933058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1818015508488232960",
+          "start": 3,
+          "username": "chosenundeadone"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wflH8Oiqec",
+          "end": 44,
+          "expanded_url": "https://x.com/chosenundeadone/status/1941147252179030145/photo/1",
+          "media_key": "3_1941147247044964352",
+          "start": 21,
+          "url": "https://t.co/wflH8Oiqec"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941381028674933058",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 623
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941147252179030145",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chosenundeadone: https://t.co/wflH8Oiqec"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_1941147247044964352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvBXIvTXsAA6x64.jpg",
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941147247044964352"
+          ],
+          "media_source_tweet_id": [
+            "1941147252179030145"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "1941381028674933058",
+        "created_at": "2025-07-05T06:18:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T07:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941381028674933058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1818015508488232960",
+              "start": 3,
+              "username": "chosenundeadone"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wflH8Oiqec",
+              "end": 44,
+              "expanded_url": "https://x.com/chosenundeadone/status/1941147252179030145/photo/1",
+              "media_key": "3_1941147247044964352",
+              "start": 21,
+              "url": "https://t.co/wflH8Oiqec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941381028674933058",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 623
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941147252179030145",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chosenundeadone: https://t.co/wflH8Oiqec"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941147247044964352"
+          ]
+        },
+        "author_id": "1818015508488232960",
+        "conversation_id": "1941147252179030145",
+        "created_at": "2025-07-04T14:49:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T15:49:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941147252179030145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wflH8Oiqec",
+              "end": 23,
+              "expanded_url": "https://x.com/chosenundeadone/status/1941147252179030145/photo/1",
+              "media_key": "3_1941147247044964352",
+              "start": 0,
+              "url": "https://t.co/wflH8Oiqec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941147252179030145",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 469,
+          "impression_count": 138623,
+          "like_count": 9587,
+          "quote_count": 17,
+          "reply_count": 39,
+          "retweet_count": 623
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/wflH8Oiqec"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4378,
+          "following_count": 3516,
+          "like_count": 70120,
+          "listed_count": 7,
+          "media_count": 253,
+          "tweet_count": 6362
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-29T20:07:41.000Z",
+        "description": "edits, memes and much more. DM open for business.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/chosenundeadone",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/chosenundeadone",
+                "start": 0,
+                "url": "https://t.co/em9fnla9XZ"
+              }
+            ]
+          }
+        },
+        "id": "1818015508488232960",
+        "name": "chosen undead",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874530486904586241/1mLkp4Zz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48320,
+          "following_count": 2,
+          "like_count": 240,
+          "listed_count": 43,
+          "media_count": 707,
+          "tweet_count": 948
+        },
+        "url": "https://t.co/em9fnla9XZ",
+        "username": "chosenundeadone",
+        "verified": true
+      }
+    ]
+  }
+}

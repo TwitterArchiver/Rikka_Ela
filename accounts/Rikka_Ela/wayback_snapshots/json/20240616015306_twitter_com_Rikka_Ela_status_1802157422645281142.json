@@ -1,0 +1,163 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1802011866191049094",
+    "created_at": "2024-06-16T01:53:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-16T02:53:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802157422645281142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1757616332240224256",
+          "start": 0,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802157422645281142",
+    "in_reply_to_user_id": "1757616332240224256",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802011866191049094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@B_cat38324 🥵🥵🥵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1802011866191049094",
+        "created_at": "2024-06-16T01:53:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T02:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802157422645281142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757616332240224256",
+              "start": 0,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802157422645281142",
+        "in_reply_to_user_id": "1757616332240224256",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802011866191049094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B_cat38324 🥵🥵🥵"
+      },
+      {
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "1802011866191049094",
+        "created_at": "2024-06-15T16:14:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T17:14:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802011866191049094"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1802011866191049094",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1547,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男娘本的套路太单一了。从日本换成中国大概就是：一个小镇做题家，可能是师医公家庭出身，可能打过竞赛，或者做科研，是导师底下的扛把子。看不起不学理的男性。满脑子愚蠢的低等雄性不配给我提鞋。然后被雄性在床上玩坏之后对\"真正\"的雄性产生了恐惧和敬佩，顺便激发起了渴望受孕的雌性本能。\n\n无聊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UNNC‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2099,
+          "following_count": 2697,
+          "like_count": 38299,
+          "listed_count": 5,
+          "tweet_count": 2390
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "黑猫",
+        "pinned_tweet_id": "1788987285796712719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4175,
+          "following_count": 95,
+          "like_count": 67,
+          "listed_count": 10,
+          "tweet_count": 2865
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

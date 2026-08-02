@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2075866073703063999",
+    "created_at": "2026-07-11T11:40:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T12:40:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075908143486497197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1487336894522265601",
+          "start": 0,
+          "username": "HDHZMcD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075908143486497197",
+    "in_reply_to_user_id": "1487336894522265601",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075900001549754372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HDHZMcD 😭😭😭一定是的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2075900001549754372].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2075900001549754372",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2075900001549754372"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2075866073703063999",
+        "created_at": "2026-07-11T11:40:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T12:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075908143486497197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1487336894522265601",
+              "start": 0,
+              "username": "HDHZMcD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075908143486497197",
+        "in_reply_to_user_id": "1487336894522265601",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075900001549754372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HDHZMcD 😭😭😭一定是的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6138,
+          "following_count": 3771,
+          "like_count": 86079,
+          "listed_count": 7,
+          "media_count": 445,
+          "tweet_count": 9934
+        },
+        "url": "",
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-29T08:09:04.000Z",
+        "description": "Cis/Asexual",
+        "id": "1487336894522265601",
+        "location": "Gary, IN",
+        "name": "板烧",
+        "pinned_tweet_id": "1811642636777783792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1487337829470699520/KCbKhMxM_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1607,
+          "following_count": 6294,
+          "like_count": 96019,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 7193
+        },
+        "url": "",
+        "username": "HDHZMcD",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1791684902556975461",
+    "created_at": "2024-05-18T04:19:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-18T05:19:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1791684902556975461"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 28,
+          "normalized_text": "LGBT",
+          "probability": 0.8017,
+          "start": 25,
+          "type": "Place"
+        },
+        {
+          "end": 91,
+          "normalized_text": "France",
+          "probability": 0.969,
+          "start": 86,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "438355707",
+          "start": 3,
+          "username": "francediplo_EN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1791684902556975461",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791450820505895186",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @francediplo_EN: Anti-LGBT+ discrimination, violence and hate are still ongoing in France &amp; and across the world.\n\n🇫🇷, a pioneer in this…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1791684902556975461",
+        "created_at": "2024-05-18T04:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-18T05:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791684902556975461"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "LGBT",
+              "probability": 0.8017,
+              "start": 25,
+              "type": "Place"
+            },
+            {
+              "end": 91,
+              "normalized_text": "France",
+              "probability": 0.969,
+              "start": 86,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "438355707",
+              "start": 3,
+              "username": "francediplo_EN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791684902556975461",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791450820505895186",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @francediplo_EN: Anti-LGBT+ discrimination, violence and hate are still ongoing in France &amp; and across the world.\n\n🇫🇷, a pioneer in this…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1791448653237735424"
+          ]
+        },
+        "author_id": "438355707",
+        "conversation_id": "1791450820505895186",
+        "created_at": "2024-05-17T12:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-17T13:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1791450820505895186"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 161,
+              "start": 156,
+              "tag": "LGBT"
+            },
+            {
+              "end": 254,
+              "start": 237,
+              "tag": "FightAgainstHate"
+            },
+            {
+              "end": 264,
+              "start": 255,
+              "tag": "IDAHOBIT"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Discrimination, violence and anti-LGBT+ hatred remains a reality in France and around the world. France has been at the forefront of defending (…)",
+              "display_url": "fdip.fr/LGBTRights",
+              "end": 235,
+              "expanded_url": "http://fdip.fr/LGBTRights",
+              "images": [
+                {
+                  "height": 800,
+                  "url": "https://pbs.twimg.com/news_img/1791450863430488064/z-m3xv4a?format=jpg&name=orig",
+                  "width": 800
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1791450863430488064/z-m3xv4a?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 212,
+              "status": 200,
+              "title": "France's action for the rights of LGBT+ people",
+              "unwound_url": "https://www.diplomatie.gouv.fr/en/french-foreign-policy/human-rights/france-s-action-for-the-rights-of-lgbt-people/article/france-s-action-for-the-rights-of-lgbt-people",
+              "url": "https://t.co/fdnwWia9J5"
+            },
+            {
+              "display_url": "pic.twitter.com/I9rcJSXVvU",
+              "end": 288,
+              "expanded_url": "https://twitter.com/francediplo_EN/status/1791450820505895186/video/1",
+              "media_key": "13_1791448653237735424",
+              "start": 265,
+              "url": "https://t.co/I9rcJSXVvU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791450820505895186",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6954,
+          "like_count": 72,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "Anti-LGBT+ discrimination, violence and hate are still ongoing in France &amp; and across the world.\n\n🇫🇷, a pioneer in this area, continues to advocate for #LGBT+ people’s rights to be recognized and upheld. \n\n🔗 https://t.co/fdnwWia9J5\n\n#FightAgainstHate #IDAHOBIT https://t.co/I9rcJSXVvU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "A student in UNNC‖Chemistry‖She/Her‖Viva La France🇫🇷‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷是碳酰氯呐🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1992,
+          "following_count": 2570,
+          "like_count": 35010,
+          "listed_count": 5,
+          "tweet_count": 2132
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2011-12-16T13:56:21.000Z",
+        "description": "French Ministry for Europe and Foreign Affairs - Official English version of @francediplo, @francediplo_AR, @francediplo_DE, @francediplo_ES, @francediplo_RU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 77,
+                "username": "francediplo"
+              },
+              {
+                "end": 106,
+                "start": 91,
+                "username": "francediplo_AR"
+              },
+              {
+                "end": 123,
+                "start": 108,
+                "username": "francediplo_DE"
+              },
+              {
+                "end": 140,
+                "start": 125,
+                "username": "francediplo_ES"
+              },
+              {
+                "end": 157,
+                "start": 142,
+                "username": "francediplo_RU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "diplomatie.gouv.fr/en/",
+                "end": 23,
+                "expanded_url": "http://www.diplomatie.gouv.fr/en/",
+                "start": 0,
+                "url": "https://t.co/02nOfabhzW"
+              }
+            ]
+          }
+        },
+        "id": "438355707",
+        "location": "Paris, France",
+        "name": "France Diplomacy 🇫🇷🇪🇺",
+        "pinned_tweet_id": "1791450820505895186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1663885845131149313/4URf9Drr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145139,
+          "following_count": 1658,
+          "like_count": 6359,
+          "listed_count": 1906,
+          "tweet_count": 28125
+        },
+        "url": "https://t.co/02nOfabhzW",
+        "username": "francediplo_EN",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,555 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596157251587",
+          "name": "Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597226729473",
+          "name": "Non-profit - Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Global conversation about the United Nations and all related efforts.",
+          "id": "10044311823",
+          "name": "United Nations"
+        }
+      },
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "Global conversation about the United Nations and all related efforts.",
+          "id": "10044311823",
+          "name": "United Nations"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Global conversation about the United Nations and all related efforts.",
+          "id": "10044311823",
+          "name": "United Nations"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      }
+    ],
+    "conversation_id": "1927922324927357321",
+    "created_at": "2025-05-29T02:57:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T03:57:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927922324927357321"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 138,
+          "normalized_text": "Eskitaşçıo",
+          "probability": 0.5573,
+          "start": 129,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "17137628",
+          "start": 3,
+          "username": "UN_Women"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927922324927357321",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927756817678946332",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UN_Women: Menstruation. Periods. Tampons.\n\nIn too many places, these words are considered shameful and even immoral.\n\nİlayda Eskitaşçıo…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 64300,
+        "height": 1280,
+        "media_key": "7_1927755676731764736",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1927755676731764736/pu/img/sAfiJfTrlMGCpDy4.jpg",
+        "public_metrics": {
+          "view_count": 791
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1927755676731764736/pu/vid/avc1/320x568/0RKdBaVS2ZG2_dov.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1927755676731764736/pu/vid/avc1/480x852/reTR-jNN0WAwMzA7.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1927755676731764736/pu/vid/avc1/720x1280/jtd0xwQyhp1kObJi.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1927755676731764736/pu/pl/ku9qPa1wvHdZiBiO.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597226729473",
+              "name": "Non-profit - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "1927922324927357321",
+        "created_at": "2025-05-29T02:57:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T03:57:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927922324927357321"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 138,
+              "normalized_text": "Eskitaşçıo",
+              "probability": 0.5573,
+              "start": 129,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "17137628",
+              "start": 3,
+              "username": "UN_Women"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927922324927357321",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927756817678946332",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @UN_Women: Menstruation. Periods. Tampons.\n\nIn too many places, these words are considered shameful and even immoral.\n\nİlayda Eskitaşçıo…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1927755676731764736"
+          ]
+        },
+        "author_id": "17137628",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597226729473",
+              "name": "Non-profit - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "1927756817678946332",
+        "created_at": "2025-05-28T16:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T17:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927756817678946332"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 127,
+              "normalized_text": "İlayda Eskitaşçıoğlu",
+              "probability": 0.8692,
+              "start": 108,
+              "type": "Person"
+            },
+            {
+              "end": 165,
+              "normalized_text": "We Need to Talk",
+              "probability": 0.8382,
+              "start": 151,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 277,
+              "start": 257,
+              "tag": "MenstrualHygieneDay"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Fighting stigma, poverty, and silence: Turkish activists push for menstrual justice and change.",
+              "display_url": "unwo.men/rlgF50VZuzt",
+              "end": 255,
+              "expanded_url": "http://unwo.men/rlgF50VZuzt",
+              "images": [
+                {
+                  "height": 800,
+                  "url": "https://pbs.twimg.com/news_img/1927293186860371968/Onfo8A0V?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1927293186860371968/Onfo8A0V?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 232,
+              "status": 200,
+              "title": "Five ways activists are fighting for menstrual justice in Türkiye | UN Women – Headquarters",
+              "unwound_url": "https://www.unwomen.org/en/articles/explainer/five-ways-activists-are-fighting-for-menstrual-justice-in-turkey",
+              "url": "https://t.co/zYjgvymnZj"
+            },
+            {
+              "display_url": "pic.x.com/zk8J6i7hk3",
+              "end": 301,
+              "expanded_url": "https://x.com/UN_Women/status/1927756817678946332/video/1",
+              "media_key": "7_1927755676731764736",
+              "start": 278,
+              "url": "https://t.co/zk8J6i7hk3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927756817678946332",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3648,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "Menstruation. Periods. Tampons.\n\nIn too many places, these words are considered shameful and even immoral.\n\nİlayda Eskitaşçıoğlu and her organization 'We Need to Talk' are challenging menstrual stigma head-on.\n\nRead about her work: https://t.co/zYjgvymnZj\n\n#MenstrualHygieneDay https://t.co/zk8J6i7hk3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4252,
+          "following_count": 3474,
+          "like_count": 67800,
+          "listed_count": 8,
+          "media_count": 218,
+          "tweet_count": 6037
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2008-11-03T19:28:09.000Z",
+        "description": "UN Women is the United Nations entity for gender equality and women's empowerment.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "unwomen.org",
+                "end": 23,
+                "expanded_url": "http://www.unwomen.org",
+                "start": 0,
+                "url": "https://t.co/BSG2LoQLOc"
+              }
+            ]
+          }
+        },
+        "id": "17137628",
+        "location": "Worldwide",
+        "name": "UN Women",
+        "pinned_tweet_id": "1924613585491173669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866520865258536960/3cUpRGl7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2261624,
+          "following_count": 4117,
+          "like_count": 9972,
+          "listed_count": 11899,
+          "media_count": 18743,
+          "tweet_count": 69561
+        },
+        "url": "https://t.co/BSG2LoQLOc",
+        "username": "UN_Women",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,724 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1928816120087089152",
+        "3_1928816120179359744",
+        "3_1928816431417692160",
+        "3_1928816430914424832"
+      ],
+      "media_source_tweet_id": [
+        "1928816498002346006",
+        "1928816498002346006",
+        "1928816498002346006",
+        "1928816498002346006"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1135979287733948416",
+          "name": "Elden Ring"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1135979287733948416",
+          "name": "Elden Ring"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898668479250438",
+          "name": "Fantasy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      }
+    ],
+    "conversation_id": "1928829120160452719",
+    "created_at": "2025-05-31T15:01:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T16:01:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928829120160452719"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 36,
+          "normalized_text": "Farum Azula",
+          "probability": 0.6888,
+          "start": 26,
+          "type": "Person"
+        },
+        {
+          "end": 49,
+          "normalized_text": "ELDENRING",
+          "probability": 0.6211,
+          "start": 41,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 50,
+          "start": 40,
+          "tag": "ELDENRING"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1557432317794308104",
+          "start": 3,
+          "username": "Eldenievel"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/c4tusXfYwm",
+          "end": 74,
+          "expanded_url": "https://x.com/Eldenievel/status/1928816498002346006/photo/1",
+          "media_key": "3_1928816120087089152",
+          "start": 51,
+          "url": "https://t.co/c4tusXfYwm"
+        },
+        {
+          "display_url": "pic.x.com/c4tusXfYwm",
+          "end": 74,
+          "expanded_url": "https://x.com/Eldenievel/status/1928816498002346006/photo/1",
+          "media_key": "3_1928816120179359744",
+          "start": 51,
+          "url": "https://t.co/c4tusXfYwm"
+        },
+        {
+          "display_url": "pic.x.com/c4tusXfYwm",
+          "end": 74,
+          "expanded_url": "https://x.com/Eldenievel/status/1928816498002346006/photo/1",
+          "media_key": "3_1928816431417692160",
+          "start": 51,
+          "url": "https://t.co/c4tusXfYwm"
+        },
+        {
+          "display_url": "pic.x.com/c4tusXfYwm",
+          "end": 74,
+          "expanded_url": "https://x.com/Eldenievel/status/1928816498002346006/photo/1",
+          "media_key": "3_1928816430914424832",
+          "start": 51,
+          "url": "https://t.co/c4tusXfYwm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928829120160452719",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928816498002346006",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Eldenievel: Crumbling Farum Azula.\n\n#ELDENRING https://t.co/c4tusXfYwm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_1928816120087089152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsSICrrWkAAGXt6.jpg",
+        "width": 3840
+      },
+      {
+        "height": 2160,
+        "media_key": "3_1928816120179359744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsSICsBWgAAb3us.jpg",
+        "width": 3840
+      },
+      {
+        "height": 2160,
+        "media_key": "3_1928816431417692160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsSIUzeWkAAIwRG.jpg",
+        "width": 3840
+      },
+      {
+        "height": 2160,
+        "media_key": "3_1928816430914424832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsSIUxmXUAAyLN0.jpg",
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928816120087089152",
+            "3_1928816120179359744",
+            "3_1928816431417692160",
+            "3_1928816430914424832"
+          ],
+          "media_source_tweet_id": [
+            "1928816498002346006",
+            "1928816498002346006",
+            "1928816498002346006",
+            "1928816498002346006"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "1928829120160452719",
+        "created_at": "2025-05-31T15:01:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T16:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928829120160452719"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "Farum Azula",
+              "probability": 0.6888,
+              "start": 26,
+              "type": "Person"
+            },
+            {
+              "end": 49,
+              "normalized_text": "ELDENRING",
+              "probability": 0.6211,
+              "start": 41,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 40,
+              "tag": "ELDENRING"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1557432317794308104",
+              "start": 3,
+              "username": "Eldenievel"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c4tusXfYwm",
+              "end": 74,
+              "expanded_url": "https://x.com/Eldenievel/status/1928816498002346006/photo/1",
+              "media_key": "3_1928816120087089152",
+              "start": 51,
+              "url": "https://t.co/c4tusXfYwm"
+            },
+            {
+              "display_url": "pic.x.com/c4tusXfYwm",
+              "end": 74,
+              "expanded_url": "https://x.com/Eldenievel/status/1928816498002346006/photo/1",
+              "media_key": "3_1928816120179359744",
+              "start": 51,
+              "url": "https://t.co/c4tusXfYwm"
+            },
+            {
+              "display_url": "pic.x.com/c4tusXfYwm",
+              "end": 74,
+              "expanded_url": "https://x.com/Eldenievel/status/1928816498002346006/photo/1",
+              "media_key": "3_1928816431417692160",
+              "start": 51,
+              "url": "https://t.co/c4tusXfYwm"
+            },
+            {
+              "display_url": "pic.x.com/c4tusXfYwm",
+              "end": 74,
+              "expanded_url": "https://x.com/Eldenievel/status/1928816498002346006/photo/1",
+              "media_key": "3_1928816430914424832",
+              "start": 51,
+              "url": "https://t.co/c4tusXfYwm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928829120160452719",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928816498002346006",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @Eldenievel: Crumbling Farum Azula.\n\n#ELDENRING https://t.co/c4tusXfYwm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928816120087089152",
+            "3_1928816120179359744",
+            "3_1928816431417692160",
+            "3_1928816430914424832"
+          ]
+        },
+        "author_id": "1557432317794308104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "1928816498002346006",
+        "created_at": "2025-05-31T14:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T15:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928816498002346006"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "Farum Azula",
+              "probability": 0.5479,
+              "start": 10,
+              "type": "Person"
+            },
+            {
+              "end": 33,
+              "normalized_text": "ELDENRING",
+              "probability": 0.7081,
+              "start": 25,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 24,
+              "tag": "ELDENRING"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c4tusXfYwm",
+              "end": 58,
+              "expanded_url": "https://x.com/Eldenievel/status/1928816498002346006/photo/1",
+              "media_key": "3_1928816120087089152",
+              "start": 35,
+              "url": "https://t.co/c4tusXfYwm"
+            },
+            {
+              "display_url": "pic.x.com/c4tusXfYwm",
+              "end": 58,
+              "expanded_url": "https://x.com/Eldenievel/status/1928816498002346006/photo/1",
+              "media_key": "3_1928816120179359744",
+              "start": 35,
+              "url": "https://t.co/c4tusXfYwm"
+            },
+            {
+              "display_url": "pic.x.com/c4tusXfYwm",
+              "end": 58,
+              "expanded_url": "https://x.com/Eldenievel/status/1928816498002346006/photo/1",
+              "media_key": "3_1928816431417692160",
+              "start": 35,
+              "url": "https://t.co/c4tusXfYwm"
+            },
+            {
+              "display_url": "pic.x.com/c4tusXfYwm",
+              "end": 58,
+              "expanded_url": "https://x.com/Eldenievel/status/1928816498002346006/photo/1",
+              "media_key": "3_1928816430914424832",
+              "start": 35,
+              "url": "https://t.co/c4tusXfYwm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928816498002346006",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 332,
+          "like_count": 47,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "following",
+        "text": "Crumbling Farum Azula.\n\n#ELDENRING https://t.co/c4tusXfYwm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4258,
+          "following_count": 3482,
+          "like_count": 68035,
+          "listed_count": 8,
+          "media_count": 222,
+          "tweet_count": 6071
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-10T18:24:15.000Z",
+        "description": "FromSoft photography. Please do not reupload my screenies. ic: BlackSalander.",
+        "id": "1557432317794308104",
+        "location": "lesbian, she/her. solty's. ♡ ",
+        "name": "۟",
+        "pinned_tweet_id": "1907928723254542629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928195342811484163/PPkmUlqE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3164,
+          "following_count": 83,
+          "like_count": 6402,
+          "listed_count": 4,
+          "media_count": 155,
+          "tweet_count": 1301
+        },
+        "username": "Eldenievel",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2039727866108387593",
+    "created_at": "2026-04-02T17:02:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T18:02:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039750434395500996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1401733664682102786",
+          "start": 0,
+          "username": "mukdengise"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039750434395500996",
+    "in_reply_to_user_id": "1401733664682102786",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039727866108387593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mukdengise 羡慕死了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2039727866108387593",
+        "created_at": "2026-04-02T17:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T18:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039750434395500996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1401733664682102786",
+              "start": 0,
+              "username": "mukdengise"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039750434395500996",
+        "in_reply_to_user_id": "1401733664682102786",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039727866108387593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mukdengise 羡慕死了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1401733664682102786",
+        "conversation_id": "2039727866108387593",
+        "created_at": "2026-04-02T15:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T16:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039727866108387593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mukdengise/sta…",
+              "end": 106,
+              "expanded_url": "https://twitter.com/mukdengise/status/2038853882449895445",
+              "start": 83,
+              "url": "https://t.co/IzjT9Mrpi5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039727866108387593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2127,
+          "like_count": 50,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038853882449895445",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好像没发生什么，就主办方说我不说的话完全没有人能看得出来。然后女生都加了微信，会后聊了很多，男的没有一人再理我或者要我微信。果真我的女人缘就是这样好男人缘就是这样差 https://t.co/IzjT9Mrpi5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5011,
+          "following_count": 3735,
+          "like_count": 81087,
+          "listed_count": 9,
+          "media_count": 392,
+          "tweet_count": 8721
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-07T02:52:13.000Z",
+        "description": "爱人类的探险者/IG: ilhajugvn/烹饪日常在 #花路食堂/好诡秘：@__Ju___Ju__/里：@Lulu_ilha",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 28,
+                "tag": "花路食堂"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 50,
+                "start": 38,
+                "username": "__Ju___Ju__"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "Lulu_ilha"
+              }
+            ]
+          }
+        },
+        "id": "1401733664682102786",
+        "name": "花路探險記",
+        "pinned_tweet_id": "2023992011494416709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021635233884598273/yaJUaGpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10036,
+          "following_count": 757,
+          "like_count": 140333,
+          "listed_count": 52,
+          "media_count": 1844,
+          "tweet_count": 24670
+        },
+        "username": "mukdengise",
+        "verified": false
+      }
+    ]
+  }
+}

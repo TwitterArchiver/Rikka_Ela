@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1935561385750180264",
+    "created_at": "2025-06-19T10:04:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T11:04:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935639815963451474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1630596839530708994",
+          "start": 0,
+          "username": "Shell_WO_Ghost"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935639815963451474",
+    "in_reply_to_user_id": "1630596839530708994",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935561385750180264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shell_WO_Ghost 2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1935561385750180264",
+        "created_at": "2025-06-19T10:04:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T11:04:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935639815963451474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1630596839530708994",
+              "start": 0,
+              "username": "Shell_WO_Ghost"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935639815963451474",
+        "in_reply_to_user_id": "1630596839530708994",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935561385750180264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shell_WO_Ghost 2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1630596839530708994",
+        "conversation_id": "1935561385750180264",
+        "created_at": "2025-06-19T04:52:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T05:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935561385750180264"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1935561385750180264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 447,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "评论区留言，根据主页量身定制terf语录。（不会这么做）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4340,
+          "following_count": 3508,
+          "like_count": 69280,
+          "listed_count": 7,
+          "media_count": 237,
+          "tweet_count": 6244
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-28T15:52:53.000Z",
+        "description": "Sisters of the Moon",
+        "id": "1630596839530708994",
+        "name": "Valery Kyrie 💛🤍💜🖤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717584658559639554/eWtnF57K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 404,
+          "like_count": 925,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 1104
+        },
+        "username": "Shell_WO_Ghost",
+        "verified": false
+      }
+    ]
+  }
+}

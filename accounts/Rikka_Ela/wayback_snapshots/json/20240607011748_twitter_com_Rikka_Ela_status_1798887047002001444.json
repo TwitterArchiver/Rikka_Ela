@@ -1,0 +1,163 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1798624076220776734",
+    "created_at": "2024-06-07T01:17:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-07T02:17:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798887047002001444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1705164295976214528",
+          "start": 0,
+          "username": "ziname1113"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798887047002001444",
+    "in_reply_to_user_id": "1705164295976214528",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1798624076220776734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ziname1113 我也😭😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1798624076220776734",
+        "created_at": "2024-06-07T01:17:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-07T02:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798887047002001444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1705164295976214528",
+              "start": 0,
+              "username": "ziname1113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798887047002001444",
+        "in_reply_to_user_id": "1705164295976214528",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798624076220776734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ziname1113 我也😭😭😭😭"
+      },
+      {
+        "attachments": {},
+        "author_id": "1705164295976214528",
+        "conversation_id": "1798624076220776734",
+        "created_at": "2024-06-06T07:52:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-06T08:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1798624076220776734"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1798624076220776734",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 389,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我知道我有大小眼 但是别提行不行 我已经很焦虑了😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UNNC‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2077,
+          "following_count": 2672,
+          "like_count": 37597,
+          "listed_count": 5,
+          "tweet_count": 2305
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-22T10:17:24.000Z",
+        "description": "当我面对现实，我张开双臂拥抱大地/🏳️‍⚧️🏳️‍🌈/门槛50元/激素替换1.4年/一名流浪在外的落魄少妇/不建政⚠️建政浓度高的别fo我",
+        "id": "1705164295976214528",
+        "name": "冷泽安-Zina(毛毛妞）🍥",
+        "pinned_tweet_id": "1793614116138979639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798735156577980417/jdP__rFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1522,
+          "following_count": 456,
+          "like_count": 8218,
+          "listed_count": 4,
+          "tweet_count": 11498
+        },
+        "username": "ziname1113",
+        "verified": false
+      }
+    ]
+  }
+}

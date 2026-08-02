@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1971371995721068544"
+      ],
+      "media_source_tweet_id": [
+        "1971372083784699922"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1972035544051040390",
+    "created_at": "2025-09-27T20:28:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T21:28:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972035544051040390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "737530226058530817",
+          "start": 3,
+          "username": "rustyvandal"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XC0GAofj2f",
+          "end": 48,
+          "expanded_url": "https://x.com/rustyvandal/status/1971372083784699922/video/1",
+          "media_key": "7_1971371995721068544",
+          "start": 25,
+          "url": "https://t.co/XC0GAofj2f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972035544051040390",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 834
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971372083784699922",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rustyvandal: Yikes 🤣 https://t.co/XC0GAofj2f"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1972035544051040390].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1972035544051040390",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1972035544051040390"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 60234,
+        "height": 1280,
+        "media_key": "7_1971371995721068544",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1971371995721068544/pu/img/lahzMkOQbDouwJ24.jpg",
+        "public_metrics": {
+          "view_count": 382720
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1971371995721068544/pu/vid/avc1/320x568/BC1F-1uWl-GjOhxc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1971371995721068544/pu/vid/avc1/480x852/MHS2O3AGxmEUETqp.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1971371995721068544/pu/vid/avc1/720x1280/vDeYnR7G6WgKnX8V.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1971371995721068544/pu/pl/wnp39s2DJBDLwlAo.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1971371995721068544"
+          ]
+        },
+        "author_id": "737530226058530817",
+        "conversation_id": "1971372083784699922",
+        "created_at": "2025-09-26T00:31:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T01:31:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971372083784699922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XC0GAofj2f",
+              "end": 31,
+              "expanded_url": "https://x.com/rustyvandal/status/1971372083784699922/video/1",
+              "media_key": "7_1971371995721068544",
+              "start": 8,
+              "url": "https://t.co/XC0GAofj2f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971372083784699922",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2345,
+          "impression_count": 17418,
+          "like_count": 10921,
+          "quote_count": 21,
+          "reply_count": 234,
+          "retweet_count": 834
+        },
+        "reply_settings": "everyone",
+        "text": "Yikes 🤣 https://t.co/XC0GAofj2f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4604,
+          "following_count": 3551,
+          "like_count": 73149,
+          "listed_count": 9,
+          "media_count": 303,
+          "tweet_count": 7004
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-31T06:24:43.000Z",
+        "description": "sharing is caring || DM for credit || feel free to DM me for business inquiries 📩💵📱",
+        "id": "737530226058530817",
+        "name": "herman basquito",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937203304792223744/AcnE6v4Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5410,
+          "following_count": 1958,
+          "like_count": 46670,
+          "listed_count": 8,
+          "media_count": 162,
+          "tweet_count": 44354
+        },
+        "username": "rustyvandal",
+        "verified": true
+      }
+    ]
+  }
+}

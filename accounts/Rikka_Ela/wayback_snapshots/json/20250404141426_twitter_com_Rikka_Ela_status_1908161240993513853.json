@@ -1,0 +1,513 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Video Game Publisher like 'Activision'",
+          "id": "78",
+          "name": "Video Game Publisher"
+        },
+        "entity": {
+          "id": "1131284511411458048",
+          "name": "FromSoftware"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Publisher",
+          "id": "1070028312276127746",
+          "name": "Game development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1131284511411458048",
+          "name": "FromSoftware"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491568352442998784",
+          "name": "Game companies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898017464549376",
+          "name": "Multiplayer games"
+        }
+      }
+    ],
+    "conversation_id": "1908161240993513853",
+    "created_at": "2025-04-04T14:14:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T15:14:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1908161240993513853"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fromsoftupdate…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/fromsoftupdates/status/1908149418353697129",
+          "start": 26,
+          "url": "https://t.co/jDMSMDYkdz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908161240993513853",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908149418353697129",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "“not”  “multiplayer only” https://t.co/jDMSMDYkdz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 518,
+        "media_key": "3_1908149414738178048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnsbyGvWsAAhzAY.jpg",
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "1131284511411458048",
+              "name": "FromSoftware"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1131284511411458048",
+              "name": "FromSoftware"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491568352442998784",
+              "name": "Game companies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898017464549376",
+              "name": "Multiplayer games"
+            }
+          }
+        ],
+        "conversation_id": "1908161240993513853",
+        "created_at": "2025-04-04T14:14:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T15:14:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908161240993513853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fromsoftupdate…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/fromsoftupdates/status/1908149418353697129",
+              "start": 26,
+              "url": "https://t.co/jDMSMDYkdz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908161240993513853",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908149418353697129",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“not”  “multiplayer only” https://t.co/jDMSMDYkdz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1908149414738178048"
+          ]
+        },
+        "author_id": "1801254216725409792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "1131284511411458048",
+              "name": "FromSoftware"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1131284511411458048",
+              "name": "FromSoftware"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491568352442998784",
+              "name": "Game companies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898017464549376",
+              "name": "Multiplayer games"
+            }
+          }
+        ],
+        "conversation_id": "1908149418353697129",
+        "created_at": "2025-04-04T13:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T14:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908149418353697129"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "Miyazaki",
+              "probability": 0.4361,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 30,
+              "normalized_text": "FromSoft",
+              "probability": 0.7879,
+              "start": 23,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q3M0wxv5z6",
+              "end": 303,
+              "expanded_url": "https://x.com/FromSoftUpdates/status/1908149418353697129/photo/1",
+              "media_key": "3_1908149414738178048",
+              "start": 280,
+              "url": "https://t.co/q3M0wxv5z6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908149418353697129",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Miyazaki confirms that FromSoft is not shifting to multiplayer only games:\n\n\"As a side note, please allow me to address one thing. As previously mentioned, this is an online multiplayer title at its core, but this doesn’t mean that we as a company have decided to shift to a more multiplayer-focused direction with titles going forward.\n\nThe Switch 2 version of Elden Ring was also announced, and we still intend to actively develop single player focused games such as this that embrace our more traditional style.\""
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2325,
+          "like_count": 146,
+          "quote_count": 9,
+          "reply_count": 9,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "Miyazaki confirms that FromSoft is not shifting to multiplayer only games:\n\n\"As a side note, please allow me to address one thing. As previously mentioned, this is an online multiplayer title at its core, but this doesn’t mean that we as a company have decided to shift to a more https://t.co/q3M0wxv5z6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4023,
+          "following_count": 3318,
+          "like_count": 64031,
+          "listed_count": 8,
+          "media_count": 187,
+          "tweet_count": 5480
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-13T14:04:26.000Z",
+        "description": "Follow for news, memes and all things FromSoft (and soulslike) games. | This is a fan acct. not affiliated w/ FromSoft. | Amazon Affiliate",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/fromsoftnews",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/fromsoftnews",
+                "start": 0,
+                "url": "https://t.co/vp2Wby17Ok"
+              }
+            ]
+          }
+        },
+        "id": "1801254216725409792",
+        "location": "The Lands Between",
+        "name": "FromSoft Central",
+        "pinned_tweet_id": "1907439058587980184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889721340569010176/007T5stp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18366,
+          "following_count": 114,
+          "like_count": 6903,
+          "listed_count": 22,
+          "media_count": 1287,
+          "tweet_count": 4291
+        },
+        "url": "https://t.co/vp2Wby17Ok",
+        "username": "FromSoftUpdates",
+        "verified": true
+      }
+    ]
+  }
+}

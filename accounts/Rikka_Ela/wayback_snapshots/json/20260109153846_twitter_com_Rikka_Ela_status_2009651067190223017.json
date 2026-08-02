@@ -1,0 +1,695 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009226503771574274",
+        "3_2009226556984709126"
+      ],
+      "media_source_tweet_id": [
+        "2009226886157873383",
+        "2009226886157873383"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1135979287733948416",
+          "name": "Elden Ring"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1135979287733948416",
+          "name": "Elden Ring"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898668479250438",
+          "name": "Fantasy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      }
+    ],
+    "conversation_id": "2009651067190223017",
+    "created_at": "2026-01-09T15:38:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T16:38:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009651067190223017"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 36,
+          "normalized_text": "Bell Bearing Hunter",
+          "probability": 0.8455,
+          "start": 18,
+          "type": "Other"
+        },
+        {
+          "end": 47,
+          "normalized_text": "ELDENRING",
+          "probability": 0.7501,
+          "start": 39,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 48,
+          "start": 38,
+          "tag": "ELDENRING"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1127933583308382209",
+          "start": 3,
+          "username": "asaki_vision"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ryNXwS8UVr",
+          "end": 72,
+          "expanded_url": "https://x.com/asaki_vision/status/2009226886157873383/photo/1",
+          "media_key": "3_2009226503771574274",
+          "start": 49,
+          "url": "https://t.co/ryNXwS8UVr"
+        },
+        {
+          "display_url": "pic.x.com/ryNXwS8UVr",
+          "end": 72,
+          "expanded_url": "https://x.com/asaki_vision/status/2009226886157873383/photo/1",
+          "media_key": "3_2009226556984709126",
+          "start": 49,
+          "url": "https://t.co/ryNXwS8UVr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009651067190223017",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 262
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009226886157873383",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @asaki_vision: Bell Bearing Hunter\n#ELDENRING https://t.co/ryNXwS8UVr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1676,
+        "media_key": "3_2009226503771574274",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-I03B6a0AIUeuA.jpg",
+        "width": 2980
+      },
+      {
+        "height": 1659,
+        "media_key": "3_2009226556984709126",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-I06IJa0AYfDdQ.jpg",
+        "width": 3400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009226503771574274",
+            "3_2009226556984709126"
+          ],
+          "media_source_tweet_id": [
+            "2009226886157873383",
+            "2009226886157873383"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2009651067190223017",
+        "created_at": "2026-01-09T15:38:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T16:38:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009651067190223017"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "Bell Bearing Hunter",
+              "probability": 0.8455,
+              "start": 18,
+              "type": "Other"
+            },
+            {
+              "end": 47,
+              "normalized_text": "ELDENRING",
+              "probability": 0.7501,
+              "start": 39,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 38,
+              "tag": "ELDENRING"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1127933583308382209",
+              "start": 3,
+              "username": "asaki_vision"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ryNXwS8UVr",
+              "end": 72,
+              "expanded_url": "https://x.com/asaki_vision/status/2009226886157873383/photo/1",
+              "media_key": "3_2009226503771574274",
+              "start": 49,
+              "url": "https://t.co/ryNXwS8UVr"
+            },
+            {
+              "display_url": "pic.x.com/ryNXwS8UVr",
+              "end": 72,
+              "expanded_url": "https://x.com/asaki_vision/status/2009226886157873383/photo/1",
+              "media_key": "3_2009226556984709126",
+              "start": 49,
+              "url": "https://t.co/ryNXwS8UVr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009651067190223017",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 262
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009226886157873383",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @asaki_vision: Bell Bearing Hunter\n#ELDENRING https://t.co/ryNXwS8UVr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009226503771574274",
+            "3_2009226556984709126"
+          ]
+        },
+        "author_id": "1127933583308382209",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          }
+        ],
+        "conversation_id": "2009226886157873383",
+        "created_at": "2026-01-08T11:33:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T12:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009226886157873383"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "Bell Bearing Hunter",
+              "probability": 0.7986,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 29,
+              "normalized_text": "ELDENRING",
+              "probability": 0.7396,
+              "start": 21,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 20,
+              "tag": "ELDENRING"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ryNXwS8UVr",
+              "end": 54,
+              "expanded_url": "https://x.com/asaki_vision/status/2009226886157873383/photo/1",
+              "media_key": "3_2009226503771574274",
+              "start": 31,
+              "url": "https://t.co/ryNXwS8UVr"
+            },
+            {
+              "display_url": "pic.x.com/ryNXwS8UVr",
+              "end": 54,
+              "expanded_url": "https://x.com/asaki_vision/status/2009226886157873383/photo/1",
+              "media_key": "3_2009226556984709126",
+              "start": 31,
+              "url": "https://t.co/ryNXwS8UVr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009226886157873383",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 224,
+          "impression_count": 42850,
+          "like_count": 2179,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 262
+        },
+        "reply_settings": "everyone",
+        "text": "Bell Bearing Hunter\n#ELDENRING https://t.co/ryNXwS8UVr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4852,
+          "following_count": 3681,
+          "like_count": 78351,
+          "listed_count": 8,
+          "media_count": 356,
+          "tweet_count": 7968
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-13T13:48:17.000Z",
+        "description": "Illustrator, Concept Artist ■ご連絡→asakivision@gmail.com ■Patreon→https://t.co/zjAY3ozbJq■Skeb→https://t.co/NyJhrRlzqw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "patreon.com/asaki_vision",
+                "end": 87,
+                "expanded_url": "https://patreon.com/asaki_vision",
+                "start": 64,
+                "url": "https://t.co/zjAY3ozbJq"
+              },
+              {
+                "display_url": "skeb.jp/@asakivision",
+                "end": 116,
+                "expanded_url": "http://skeb.jp/@asakivision",
+                "start": 93,
+                "url": "https://t.co/NyJhrRlzqw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "asaki_vision.artstation.com",
+                "end": 23,
+                "expanded_url": "https://asaki_vision.artstation.com/",
+                "start": 0,
+                "url": "https://t.co/x1Cg7KvZqw"
+              }
+            ]
+          }
+        },
+        "id": "1127933583308382209",
+        "location": "Japan",
+        "name": "Asaki",
+        "pinned_tweet_id": "1947293248759943309",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773070970645020675/z-Y5ha9T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17884,
+          "following_count": 316,
+          "like_count": 18316,
+          "listed_count": 85,
+          "media_count": 530,
+          "tweet_count": 2144
+        },
+        "url": "https://t.co/x1Cg7KvZqw",
+        "username": "asaki_vision",
+        "verified": false
+      }
+    ]
+  }
+}

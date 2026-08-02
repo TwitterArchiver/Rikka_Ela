@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1881348231101386943",
+    "created_at": "2025-01-21T00:11:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-21T01:11:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881494865793716676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1462419807173677059",
+          "start": 0,
+          "username": "Jane_S_Eye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881494865793716676",
+    "in_reply_to_user_id": "1462419807173677059",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881348231101386943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jane_S_Eye 职业生涯规划（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1881348231101386943",
+        "created_at": "2025-01-21T00:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T01:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881494865793716676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1462419807173677059",
+              "start": 0,
+              "username": "Jane_S_Eye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881494865793716676",
+        "in_reply_to_user_id": "1462419807173677059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881348231101386943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jane_S_Eye 职业生涯规划（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462419807173677059",
+        "conversation_id": "1881348231101386943",
+        "created_at": "2025-01-20T14:29:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T15:29:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881348231101386943"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1881348231101386943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2523,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "话说你们跨子去泰国芭提雅看人妖秀是什么心情💢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3607,
+          "following_count": 3203,
+          "like_count": 57692,
+          "listed_count": 6,
+          "media_count": 162,
+          "tweet_count": 4589
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-21T13:58:25.000Z",
+        "description": "a reader and insane writer",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tw04.damoplane1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://tw04.damoplane1.com/#/register?code=khRH22kV",
+                "start": 0,
+                "url": "https://t.co/CQ0rWuJGb1"
+              }
+            ]
+          }
+        },
+        "id": "1462419807173677059",
+        "location": "自用梯子🪜",
+        "name": "Céline🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875555448285491200/1_VMLw1r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9269,
+          "following_count": 2043,
+          "like_count": 7958,
+          "listed_count": 20,
+          "media_count": 802,
+          "tweet_count": 8810
+        },
+        "url": "https://t.co/CQ0rWuJGb1",
+        "username": "Jane_S_Eye",
+        "verified": false
+      }
+    ]
+  }
+}

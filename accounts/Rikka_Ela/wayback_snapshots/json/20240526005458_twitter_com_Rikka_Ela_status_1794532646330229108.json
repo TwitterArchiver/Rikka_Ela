@@ -1,0 +1,164 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1794531195629564057",
+    "created_at": "2024-05-26T00:54:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-26T01:54:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794532646330229108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1560129932524544000",
+          "start": 0,
+          "username": "xijiu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794532646330229108",
+    "in_reply_to_user_id": "1560129932524544000",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794531195629564057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xijiu_ 真的很提神吗（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1794531195629564057",
+        "created_at": "2024-05-26T00:54:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-26T01:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794532646330229108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1560129932524544000",
+              "start": 0,
+              "username": "xijiu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794532646330229108",
+        "in_reply_to_user_id": "1560129932524544000",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794531195629564057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xijiu_ 真的很提神吗（）"
+      },
+      {
+        "attachments": {},
+        "author_id": "1560129932524544000",
+        "conversation_id": "1794531195629564057",
+        "created_at": "2024-05-26T00:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-26T01:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794531195629564057"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1794531195629564057",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直觉得小黄文写在学校里带一些奇奇怪怪的东西特别不真实，直到后来自己开始在学校里面带肛塞，突然就觉得这个世界远比我们想象的要逆天。但某节竞赛课我正激昂慷慨得说自己的四元氧环过渡态时把它坐断了，突然呆住的时候真的觉得小黄文害人不浅()不过就防止上课犯困而言，塞子可比咖啡有用多了()"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UNNC‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2015,
+          "following_count": 2632,
+          "like_count": 36229,
+          "listed_count": 5,
+          "tweet_count": 2205
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-18T05:02:26.000Z",
+        "description": "⚧一只在校高中生|I am who I am,would never be defined🍥",
+        "id": "1560129932524544000",
+        "location": "中国 山东省",
+        "name": "🍥希玖.",
+        "pinned_tweet_id": "1755408844518510856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754690859118022656/mVGfnCd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 956,
+          "following_count": 588,
+          "like_count": 47137,
+          "listed_count": 2,
+          "tweet_count": 2346
+        },
+        "username": "xijiu_",
+        "verified": false
+      }
+    ]
+  }
+}

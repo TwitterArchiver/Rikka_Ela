@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2068873127959142417",
+    "created_at": "2026-06-22T10:18:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T11:18:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069001985127481546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "4677053179",
+          "start": 0,
+          "username": "Nohomework0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069001985127481546",
+    "in_reply_to_user_id": "4677053179",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068873127959142417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nohomework0 😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2068873127959142417",
+        "created_at": "2026-06-22T10:18:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T11:18:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069001985127481546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "4677053179",
+              "start": 0,
+              "username": "Nohomework0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069001985127481546",
+        "in_reply_to_user_id": "4677053179",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068873127959142417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nohomework0 😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4677053179",
+        "conversation_id": "2068873127959142417",
+        "created_at": "2026-06-22T01:46:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T02:46:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068873127959142417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kristall_wang_…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/kristall_wang_/status/2068597129287790786",
+              "start": 62,
+              "url": "https://t.co/ZFm8yxG7tN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068873127959142417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1915,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068597129287790786",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "然而事实上这些工作距离phd可能还差3倍工作量，问题就在于写paper和改paper才是巨大的工作量，尤其遇到难缠的导师。 https://t.co/ZFm8yxG7tN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5870,
+          "following_count": 3776,
+          "like_count": 86408,
+          "listed_count": 7,
+          "media_count": 442,
+          "tweet_count": 9804
+        },
+        "url": "",
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-30T07:53:28.000Z",
+        "description": "万年单身但也不要和你在一起/告诉你不为人知的故事/不线下游玩/不加vx/我一点也不可爱/喜欢看樱桃小丸子/只狼，怪猎玩家/独立游戏爱好者/键政人远离，否则block/年糕精灵",
+        "id": "4677053179",
+        "name": "双层牛肉汉堡",
+        "pinned_tweet_id": "1277715332564545536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1263655317541236736/CJJovtRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5217,
+          "following_count": 3496,
+          "like_count": 12838,
+          "listed_count": 28,
+          "media_count": 1919,
+          "tweet_count": 27028
+        },
+        "url": "",
+        "username": "Nohomework0",
+        "verified": false
+      }
+    ]
+  }
+}

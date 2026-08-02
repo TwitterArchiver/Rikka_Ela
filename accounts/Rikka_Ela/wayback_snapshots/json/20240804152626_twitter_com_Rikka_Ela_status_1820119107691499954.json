@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1820106021974761857",
+    "created_at": "2024-08-04T15:26:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-04T16:26:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1820119107691499954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1385239266985271299",
+          "start": 0,
+          "username": "ARASHIqianye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820119107691499954",
+    "in_reply_to_user_id": "1385239266985271299",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820106021974761857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ARASHIqianye 日雌效果这么好吗，想换用日雌了🥵（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1820106021974761857",
+        "created_at": "2024-08-04T15:26:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-04T16:26:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820119107691499954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1385239266985271299",
+              "start": 0,
+              "username": "ARASHIqianye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820119107691499954",
+        "in_reply_to_user_id": "1385239266985271299",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820106021974761857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ARASHIqianye 日雌效果这么好吗，想换用日雌了🥵（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1385239266985271299",
+        "conversation_id": "1820106021974761857",
+        "created_at": "2024-08-04T14:34:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-04T15:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1820106021974761857"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1820106021974761857",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 367,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在总算知道你圈xyn为什么需要人陪了\n妈的，根本控制不住\n我应该在枕头边放根假唧唧\n睡觉的时候含着\n这样就有人陪我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2313,
+          "following_count": 2854,
+          "like_count": 44866,
+          "listed_count": 6,
+          "tweet_count": 2929
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-22T14:29:20.000Z",
+        "description": "CSGO/雀魂/业余coser/ISTJ",
+        "id": "1385239266985271299",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "王溪茗",
+        "pinned_tweet_id": "1778031104488087778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793297696918507521/uP2qcPh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2089,
+          "following_count": 1116,
+          "like_count": 17952,
+          "listed_count": 25,
+          "tweet_count": 4029
+        },
+        "username": "ARASHIqianye",
+        "verified": false
+      }
+    ]
+  }
+}

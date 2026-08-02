@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Ongoing News Stories like 'Brexit'",
+          "id": "123",
+          "name": "Ongoing News Story"
+        },
+        "entity": {
+          "id": "1220701888179359745",
+          "name": "COVID-19"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1220701888179359745",
+          "name": "COVID-19"
+        }
+      }
+    ],
+    "conversation_id": "1847842935330787451",
+    "created_at": "2024-10-20T03:31:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-20T04:31:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1847842935330787451"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/OliviaWantsHug…",
+          "end": 157,
+          "expanded_url": "https://twitter.com/OliviaWantsHugs/status/1847684333764825394",
+          "start": 134,
+          "url": "https://t.co/Qsx77AL3RX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1847842935330787451",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847684333764825394",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我一直都觉得中国的跨儿就没有真正家长党，他们所谓的接受跨性别只不过是在用这方面的妥协来换回其他方面的控制罢了（因为不妥协的话你可能就会完全脱离了他们的控制），东亚的文化浸润太严重了，他们作为已经在这个文化圈里受感染几十年了，已经牢牢的生根扎地了，这是永远也无法改变的 https://t.co/Qsx77AL3RX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Ongoing News Stories like 'Brexit'",
+              "id": "123",
+              "name": "Ongoing News Story"
+            },
+            "entity": {
+              "id": "1220701888179359745",
+              "name": "COVID-19"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1220701888179359745",
+              "name": "COVID-19"
+            }
+          }
+        ],
+        "conversation_id": "1847842935330787451",
+        "created_at": "2024-10-20T03:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-20T04:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1847842935330787451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/OliviaWantsHug…",
+              "end": 157,
+              "expanded_url": "https://twitter.com/OliviaWantsHugs/status/1847684333764825394",
+              "start": 134,
+              "url": "https://t.co/Qsx77AL3RX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847842935330787451",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847684333764825394",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一直都觉得中国的跨儿就没有真正家长党，他们所谓的接受跨性别只不过是在用这方面的妥协来换回其他方面的控制罢了（因为不妥协的话你可能就会完全脱离了他们的控制），东亚的文化浸润太严重了，他们作为已经在这个文化圈里受感染几十年了，已经牢牢的生根扎地了，这是永远也无法改变的 https://t.co/Qsx77AL3RX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1004362078956613632",
+        "conversation_id": "1847682689207599505",
+        "created_at": "2024-10-19T17:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-19T18:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1847684333764825394"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1847684333764825394",
+        "in_reply_to_user_id": "1004362078956613632",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 604,
+          "like_count": 17,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847682689207599505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老中家长很多时候的接受并不是接受你作为女性\n而是接受自己已经很难再做什么/控制不了你一辈子\n我通过新加坡奖学金和身份并且物理层面在他们眼前证明了友好环境以及我活的下去活的开心应该让他们不再天天想弄死了\n就算发生什么只要我不出境他们能不能入境都是个问题\n你在中国出事你逃都逃不了怎么敢的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文\n\nwife:@Y32010705",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "Y32010705"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2973,
+          "following_count": 2985,
+          "like_count": 50970,
+          "listed_count": 5,
+          "tweet_count": 3649
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-06T13:59:14.000Z",
+        "description": "She\\her \\ Liberty & Love & Life \\ 新加坡中推第一枕头公主 \\ 里号：@OliviaNeedsHugs \\ 互fo眼熟随便加联系方式 \\ 留学申请/润新加坡私信 \\ 最可爱的妹妹: @Azuelle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "OliviaNeedsHugs"
+              },
+              {
+                "end": 115,
+                "start": 107,
+                "username": "Azuelle"
+              }
+            ]
+          }
+        },
+        "id": "1004362078956613632",
+        "location": "Singapore",
+        "name": "Olivia🇸🇬🏳️‍⚧️⭕🍐🐸 新加坡代理蓝主席",
+        "pinned_tweet_id": "1807816448360042949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758180277183266816/_v7Su7II_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3624,
+          "following_count": 914,
+          "like_count": 21739,
+          "listed_count": 16,
+          "tweet_count": 17245
+        },
+        "username": "OliviaWantsHugs",
+        "verified": false
+      }
+    ]
+  }
+}

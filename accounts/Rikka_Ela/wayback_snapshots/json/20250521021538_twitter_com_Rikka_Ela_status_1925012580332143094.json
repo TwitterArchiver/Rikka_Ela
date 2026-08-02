@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1924754611619168257"
+      ],
+      "media_source_tweet_id": [
+        "1924755497481339187"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "conversation_id": "1925012580332143094",
+    "created_at": "2025-05-21T02:15:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T03:15:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925012580332143094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "968287704864538624",
+          "start": 3,
+          "username": "gyoukan000"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/P1RorH3P9a",
+          "end": 47,
+          "expanded_url": "https://x.com/gyoukan000/status/1924755497481339187/photo/1",
+          "media_key": "3_1924754611619168257",
+          "start": 24,
+          "url": "https://t.co/P1RorH3P9a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925012580332143094",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1847
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924755497481339187",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gyoukan000: 此処より始まる https://t.co/P1RorH3P9a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3508,
+        "media_key": "3_1924754611619168257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrYaHxlbAAEtvK-.jpg",
+        "width": 2480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924754611619168257"
+          ],
+          "media_source_tweet_id": [
+            "1924755497481339187"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "1925012580332143094",
+        "created_at": "2025-05-21T02:15:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T03:15:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925012580332143094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "968287704864538624",
+              "start": 3,
+              "username": "gyoukan000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P1RorH3P9a",
+              "end": 47,
+              "expanded_url": "https://x.com/gyoukan000/status/1924755497481339187/photo/1",
+              "media_key": "3_1924754611619168257",
+              "start": 24,
+              "url": "https://t.co/P1RorH3P9a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925012580332143094",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1847
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924755497481339187",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gyoukan000: 此処より始まる https://t.co/P1RorH3P9a"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924754611619168257"
+          ]
+        },
+        "author_id": "968287704864538624",
+        "conversation_id": "1924755497481339187",
+        "created_at": "2025-05-20T09:14:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T10:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924755497481339187"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P1RorH3P9a",
+              "end": 31,
+              "expanded_url": "https://x.com/gyoukan000/status/1924755497481339187/photo/1",
+              "media_key": "3_1924754611619168257",
+              "start": 8,
+              "url": "https://t.co/P1RorH3P9a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924755497481339187",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2862,
+          "impression_count": 386466,
+          "like_count": 23431,
+          "quote_count": 17,
+          "reply_count": 13,
+          "retweet_count": 1847
+        },
+        "reply_settings": "everyone",
+        "text": "此処より始まる https://t.co/P1RorH3P9a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4215,
+          "following_count": 3441,
+          "like_count": 66985,
+          "listed_count": 8,
+          "media_count": 214,
+          "tweet_count": 5933
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-27T00:52:33.000Z",
+        "description": "絵描く\n\n【fanbox】https://t.co/UDB1GX6cBH\n【coloso(講座動画)】https://t.co/wWw8WXAC4H\n【有償依頼】gyoukan000@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "gyoukan000.fanbox.cc",
+                "end": 36,
+                "expanded_url": "https://gyoukan000.fanbox.cc/",
+                "start": 13,
+                "url": "https://t.co/UDB1GX6cBH"
+              },
+              {
+                "display_url": "bit.ly/4k3dHdO",
+                "end": 74,
+                "expanded_url": "https://bit.ly/4k3dHdO",
+                "start": 51,
+                "url": "https://t.co/wWw8WXAC4H"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gyoukan000.wixsite.com/illustration",
+                "end": 23,
+                "expanded_url": "https://gyoukan000.wixsite.com/illustration",
+                "start": 0,
+                "url": "https://t.co/Wwc8KLfX7f"
+              }
+            ]
+          }
+        },
+        "id": "968287704864538624",
+        "location": "無断転載禁止",
+        "name": "行間",
+        "pinned_tweet_id": "1921856114330681580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747483856268406784/Ixaw2DQK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112595,
+          "following_count": 590,
+          "like_count": 8184,
+          "listed_count": 807,
+          "media_count": 487,
+          "tweet_count": 6990
+        },
+        "url": "https://t.co/Wwc8KLfX7f",
+        "username": "gyoukan000",
+        "verified": false
+      }
+    ]
+  }
+}

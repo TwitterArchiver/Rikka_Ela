@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1898963846498578432",
+        "3_1898963846502768640"
+      ],
+      "media_source_tweet_id": [
+        "1898963857793482937",
+        "1898963857793482937"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1899611801492287917",
+    "created_at": "2025-03-12T00:02:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-12T01:02:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899611801492287917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1304790538982273024",
+          "start": 3,
+          "username": "bossgobu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ag4wy0MYia",
+          "end": 54,
+          "expanded_url": "https://x.com/bossgobu/status/1898963857793482937/photo/1",
+          "media_key": "3_1898963846498578432",
+          "start": 31,
+          "url": "https://t.co/ag4wy0MYia"
+        },
+        {
+          "display_url": "pic.x.com/ag4wy0MYia",
+          "end": 54,
+          "expanded_url": "https://x.com/bossgobu/status/1898963857793482937/photo/1",
+          "media_key": "3_1898963846502768640",
+          "start": 31,
+          "url": "https://t.co/ag4wy0MYia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899611801492287917",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 599
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898963857793482937",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bossgobu: 猫耳ヘッドホンがまた見れるとは👀 https://t.co/ag4wy0MYia"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2340,
+        "media_key": "3_1898963846498578432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Glp5jqfbcAAlrDf.jpg",
+        "width": 4096
+      },
+      {
+        "height": 1261,
+        "media_key": "3_1898963846502768640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Glp5jqgbYAA0huu.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898963846498578432",
+            "3_1898963846502768640"
+          ],
+          "media_source_tweet_id": [
+            "1898963857793482937",
+            "1898963857793482937"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1899611801492287917",
+        "created_at": "2025-03-12T00:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-12T01:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899611801492287917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1304790538982273024",
+              "start": 3,
+              "username": "bossgobu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ag4wy0MYia",
+              "end": 54,
+              "expanded_url": "https://x.com/bossgobu/status/1898963857793482937/photo/1",
+              "media_key": "3_1898963846498578432",
+              "start": 31,
+              "url": "https://t.co/ag4wy0MYia"
+            },
+            {
+              "display_url": "pic.x.com/ag4wy0MYia",
+              "end": 54,
+              "expanded_url": "https://x.com/bossgobu/status/1898963857793482937/photo/1",
+              "media_key": "3_1898963846502768640",
+              "start": 31,
+              "url": "https://t.co/ag4wy0MYia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899611801492287917",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 599
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898963857793482937",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bossgobu: 猫耳ヘッドホンがまた見れるとは👀 https://t.co/ag4wy0MYia"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898963846498578432",
+            "3_1898963846502768640"
+          ]
+        },
+        "author_id": "1304790538982273024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1898963857793482937",
+        "created_at": "2025-03-10T05:07:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T06:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898963857793482937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ag4wy0MYia",
+              "end": 40,
+              "expanded_url": "https://x.com/bossgobu/status/1898963857793482937/photo/1",
+              "media_key": "3_1898963846498578432",
+              "start": 17,
+              "url": "https://t.co/ag4wy0MYia"
+            },
+            {
+              "display_url": "pic.x.com/ag4wy0MYia",
+              "end": 40,
+              "expanded_url": "https://x.com/bossgobu/status/1898963857793482937/photo/1",
+              "media_key": "3_1898963846502768640",
+              "start": 17,
+              "url": "https://t.co/ag4wy0MYia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898963857793482937",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 290,
+          "impression_count": 174596,
+          "like_count": 10052,
+          "quote_count": 31,
+          "reply_count": 9,
+          "retweet_count": 599
+        },
+        "reply_settings": "everyone",
+        "text": "猫耳ヘッドホンがまた見れるとは👀 https://t.co/ag4wy0MYia"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3936,
+          "following_count": 3300,
+          "like_count": 61904,
+          "listed_count": 6,
+          "media_count": 178,
+          "tweet_count": 5194
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-12T14:34:55.000Z",
+        "description": "プロセカエンジョイ勢 宵崎奏と望月穂波推し：質問系ポストは16時、出題系と企画系は19時に投稿（予定変更する時もあります）概要は固定ポストに記載してます：サブ→@bossgobu2 ：ヘッダー→ @sakubonge 様 アイコン→ @marimo577 様に描いて頂きました",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 80,
+                "username": "bossgobu2"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "sakubonge"
+              },
+              {
+                "end": 127,
+                "start": 117,
+                "username": "marimo577"
+              }
+            ]
+          }
+        },
+        "id": "1304790538982273024",
+        "location": "1日1回、かーねーちょん",
+        "name": "ボスゴブ",
+        "pinned_tweet_id": "1895532427994624069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760610085401960448/22dsZv6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88879,
+          "following_count": 22176,
+          "like_count": 56612,
+          "listed_count": 213,
+          "media_count": 17402,
+          "tweet_count": 31521
+        },
+        "username": "bossgobu",
+        "verified": true
+      }
+    ]
+  }
+}

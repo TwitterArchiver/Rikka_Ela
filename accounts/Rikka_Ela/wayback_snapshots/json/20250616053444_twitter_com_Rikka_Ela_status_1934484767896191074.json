@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1934095248655069185"
+      ],
+      "media_source_tweet_id": [
+        "1934095252148846848"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "conversation_id": "1934484767896191074",
+    "created_at": "2025-06-16T05:34:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T06:34:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934484767896191074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1468298589709697024",
+          "start": 3,
+          "username": "zhbl01"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yp5rhTO1wa",
+          "end": 88,
+          "expanded_url": "https://x.com/zhbl01/status/1934095252148846848/photo/1",
+          "media_key": "3_1934095248655069185",
+          "start": 65,
+          "url": "https://t.co/yp5rhTO1wa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934484767896191074",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 171
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934095252148846848",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhbl01: 一位参加「不要国王」游行的102岁老大爷的标语：「1945年我干过法西斯，102岁了我又在干法西斯！」🫡 https://t.co/yp5rhTO1wa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1295,
+        "media_key": "3_1934095248655069185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtdJYaHbMAEqxMw.jpg",
+        "width": 1025
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934095248655069185"
+          ],
+          "media_source_tweet_id": [
+            "1934095252148846848"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "1934484767896191074",
+        "created_at": "2025-06-16T05:34:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T06:34:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934484767896191074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1468298589709697024",
+              "start": 3,
+              "username": "zhbl01"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yp5rhTO1wa",
+              "end": 88,
+              "expanded_url": "https://x.com/zhbl01/status/1934095252148846848/photo/1",
+              "media_key": "3_1934095248655069185",
+              "start": 65,
+              "url": "https://t.co/yp5rhTO1wa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934484767896191074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 171
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934095252148846848",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhbl01: 一位参加「不要国王」游行的102岁老大爷的标语：「1945年我干过法西斯，102岁了我又在干法西斯！」🫡 https://t.co/yp5rhTO1wa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934095248655069185"
+          ]
+        },
+        "author_id": "1468298589709697024",
+        "conversation_id": "1934095252148846848",
+        "created_at": "2025-06-15T03:46:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T04:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934095252148846848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yp5rhTO1wa",
+              "end": 76,
+              "expanded_url": "https://x.com/zhbl01/status/1934095252148846848/photo/1",
+              "media_key": "3_1934095248655069185",
+              "start": 53,
+              "url": "https://t.co/yp5rhTO1wa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934095252148846848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 101839,
+          "like_count": 1714,
+          "quote_count": 10,
+          "reply_count": 43,
+          "retweet_count": 171
+        },
+        "reply_settings": "everyone",
+        "text": "一位参加「不要国王」游行的102岁老大爷的标语：「1945年我干过法西斯，102岁了我又在干法西斯！」🫡 https://t.co/yp5rhTO1wa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4337,
+          "following_count": 3503,
+          "like_count": 69068,
+          "listed_count": 7,
+          "media_count": 234,
+          "tweet_count": 6215
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-07T19:17:32.000Z",
+        "description": "分享来自知乎的暴论",
+        "id": "1468298589709697024",
+        "name": "知乎暴论 💙💛 🏳️‍🌈",
+        "pinned_tweet_id": "1890286780571873441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1500718427295477762/y2koOQpq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146560,
+          "following_count": 176,
+          "like_count": 766,
+          "listed_count": 355,
+          "media_count": 1244,
+          "tweet_count": 2237
+        },
+        "username": "zhbl01",
+        "verified": false
+      }
+    ]
+  }
+}

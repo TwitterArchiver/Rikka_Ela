@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1916582586207633759",
+    "created_at": "2025-04-29T06:59:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T07:59:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917111467452830080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "536359168",
+          "start": 0,
+          "username": "DevelvDeva"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917111467452830080",
+    "in_reply_to_user_id": "536359168",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916582586207633759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DevelvDeva 🥵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1916582386743341056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpkRhribcAAwrn5.jpg",
+        "width": 939
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1916582586207633759",
+        "created_at": "2025-04-29T06:59:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T07:59:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917111467452830080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "536359168",
+              "start": 0,
+              "username": "DevelvDeva"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917111467452830080",
+        "in_reply_to_user_id": "536359168",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916582586207633759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DevelvDeva 🥵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916582386743341056"
+          ]
+        },
+        "author_id": "536359168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044774920",
+              "name": "Dark Souls"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044774920",
+              "name": "Dark Souls"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900785013129216",
+              "name": "Soulslike games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "1916582586207633759",
+        "created_at": "2025-04-27T19:57:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T20:57:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916582586207633759"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 20,
+              "tag": "DarkSouls"
+            },
+            {
+              "end": 41,
+              "start": 31,
+              "tag": "Gwyndolin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/V2Mkmqzve4",
+              "end": 65,
+              "expanded_url": "https://x.com/DevelvDeva/status/1916582586207633759/photo/1",
+              "media_key": "3_1916582386743341056",
+              "start": 42,
+              "url": "https://t.co/V2Mkmqzve4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916582586207633759",
+        "lang": "cy",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 355,
+          "impression_count": 37591,
+          "like_count": 3405,
+          "quote_count": 8,
+          "reply_count": 10,
+          "retweet_count": 463
+        },
+        "reply_settings": "everyone",
+        "text": "Dark Sun Gwyndolin.\n#DarkSouls #Gwyndolin https://t.co/V2Mkmqzve4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4127,
+          "following_count": 3372,
+          "like_count": 65525,
+          "listed_count": 9,
+          "media_count": 203,
+          "tweet_count": 5718
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-25T14:38:48.000Z",
+        "description": "Artist. Asexual/Agender. 🌈\nsometimes 18+ posts or arts.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/dev_elv",
+                "end": 23,
+                "expanded_url": "https://www.patreon.com/dev_elv",
+                "start": 0,
+                "url": "https://t.co/RnzH0Bmwtz"
+              }
+            ]
+          }
+        },
+        "id": "536359168",
+        "name": "D. Art",
+        "pinned_tweet_id": "1856766466231775549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827448279422091264/HVytfQl0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4602,
+          "following_count": 334,
+          "like_count": 29447,
+          "listed_count": 19,
+          "media_count": 3123,
+          "tweet_count": 12450
+        },
+        "url": "https://t.co/RnzH0Bmwtz",
+        "username": "DevelvDeva",
+        "verified": false
+      }
+    ]
+  }
+}

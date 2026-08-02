@@ -1,0 +1,458 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013857841413791744",
+        "3_2013857899223699456",
+        "3_2013857951271018496",
+        "3_2013858351478906880"
+      ],
+      "media_source_tweet_id": [
+        "2013858594299748530",
+        "2013858594299748530",
+        "2013858594299748530",
+        "2013858594299748530"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2014072965634072674",
+    "created_at": "2026-01-21T20:29:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T21:29:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014072965634072674"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "Art Train",
+          "probability": 0.7197,
+          "start": 15,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1863437119991222272",
+          "start": 3,
+          "username": "rileeart_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qGE447yU0v",
+          "end": 90,
+          "expanded_url": "https://x.com/rileeart_/status/2013858594299748530/photo/1",
+          "media_key": "3_2013857841413791744",
+          "start": 67,
+          "url": "https://t.co/qGE447yU0v"
+        },
+        {
+          "display_url": "pic.x.com/qGE447yU0v",
+          "end": 90,
+          "expanded_url": "https://x.com/rileeart_/status/2013858594299748530/photo/1",
+          "media_key": "3_2013857899223699456",
+          "start": 67,
+          "url": "https://t.co/qGE447yU0v"
+        },
+        {
+          "display_url": "pic.x.com/qGE447yU0v",
+          "end": 90,
+          "expanded_url": "https://x.com/rileeart_/status/2013858594299748530/photo/1",
+          "media_key": "3_2013857951271018496",
+          "start": 67,
+          "url": "https://t.co/qGE447yU0v"
+        },
+        {
+          "display_url": "pic.x.com/qGE447yU0v",
+          "end": 90,
+          "expanded_url": "https://x.com/rileeart_/status/2013858594299748530/photo/1",
+          "media_key": "3_2013858351478906880",
+          "start": 67,
+          "url": "https://t.co/qGE447yU0v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014072965634072674",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 119
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013858594299748530",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rileeart_: Art Train 🚂 Time! \n\nanyone feel free to tag along ! https://t.co/qGE447yU0v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 885,
+        "media_key": "3_2013857841413791744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_KpCXGaoAAP2kp.jpg",
+        "width": 2261
+      },
+      {
+        "height": 859,
+        "media_key": "3_2013857899223699456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_KpFudX0AAh_o4.jpg",
+        "width": 2004
+      },
+      {
+        "height": 1500,
+        "media_key": "3_2013857951271018496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_KpIwWa4AAFpt4.jpg",
+        "width": 1500
+      },
+      {
+        "height": 760,
+        "media_key": "3_2013858351478906880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_KpgDPaoAAx5Rf.jpg",
+        "width": 1773
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013857841413791744",
+            "3_2013857899223699456",
+            "3_2013857951271018496",
+            "3_2013858351478906880"
+          ],
+          "media_source_tweet_id": [
+            "2013858594299748530",
+            "2013858594299748530",
+            "2013858594299748530",
+            "2013858594299748530"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2014072965634072674",
+        "created_at": "2026-01-21T20:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T21:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014072965634072674"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "Art Train",
+              "probability": 0.7197,
+              "start": 15,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1863437119991222272",
+              "start": 3,
+              "username": "rileeart_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qGE447yU0v",
+              "end": 90,
+              "expanded_url": "https://x.com/rileeart_/status/2013858594299748530/photo/1",
+              "media_key": "3_2013857841413791744",
+              "start": 67,
+              "url": "https://t.co/qGE447yU0v"
+            },
+            {
+              "display_url": "pic.x.com/qGE447yU0v",
+              "end": 90,
+              "expanded_url": "https://x.com/rileeart_/status/2013858594299748530/photo/1",
+              "media_key": "3_2013857899223699456",
+              "start": 67,
+              "url": "https://t.co/qGE447yU0v"
+            },
+            {
+              "display_url": "pic.x.com/qGE447yU0v",
+              "end": 90,
+              "expanded_url": "https://x.com/rileeart_/status/2013858594299748530/photo/1",
+              "media_key": "3_2013857951271018496",
+              "start": 67,
+              "url": "https://t.co/qGE447yU0v"
+            },
+            {
+              "display_url": "pic.x.com/qGE447yU0v",
+              "end": 90,
+              "expanded_url": "https://x.com/rileeart_/status/2013858594299748530/photo/1",
+              "media_key": "3_2013858351478906880",
+              "start": 67,
+              "url": "https://t.co/qGE447yU0v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014072965634072674",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 119
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013858594299748530",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rileeart_: Art Train 🚂 Time! \n\nanyone feel free to tag along ! https://t.co/qGE447yU0v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013857841413791744",
+            "3_2013857899223699456",
+            "3_2013857951271018496",
+            "3_2013858351478906880"
+          ]
+        },
+        "author_id": "1863437119991222272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2013858594299748530",
+        "created_at": "2026-01-21T06:17:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T07:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013858594299748530"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "Art Train",
+              "probability": 0.6713,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qGE447yU0v",
+              "end": 75,
+              "expanded_url": "https://x.com/rileeart_/status/2013858594299748530/photo/1",
+              "media_key": "3_2013857841413791744",
+              "start": 52,
+              "url": "https://t.co/qGE447yU0v"
+            },
+            {
+              "display_url": "pic.x.com/qGE447yU0v",
+              "end": 75,
+              "expanded_url": "https://x.com/rileeart_/status/2013858594299748530/photo/1",
+              "media_key": "3_2013857899223699456",
+              "start": 52,
+              "url": "https://t.co/qGE447yU0v"
+            },
+            {
+              "display_url": "pic.x.com/qGE447yU0v",
+              "end": 75,
+              "expanded_url": "https://x.com/rileeart_/status/2013858594299748530/photo/1",
+              "media_key": "3_2013857951271018496",
+              "start": 52,
+              "url": "https://t.co/qGE447yU0v"
+            },
+            {
+              "display_url": "pic.x.com/qGE447yU0v",
+              "end": 75,
+              "expanded_url": "https://x.com/rileeart_/status/2013858594299748530/photo/1",
+              "media_key": "3_2013858351478906880",
+              "start": 52,
+              "url": "https://t.co/qGE447yU0v"
+            },
+            {
+              "display_url": "x.com/auroraunity_/s…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/auroraunity_/status/2013269724424024426",
+              "start": 76,
+              "url": "https://t.co/G9iQILQrJz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013858594299748530",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 163,
+          "impression_count": 26064,
+          "like_count": 1004,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 119
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013269724424024426",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Art Train 🚂 Time! \n\nanyone feel free to tag along ! https://t.co/qGE447yU0v https://t.co/G9iQILQrJz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4885,
+          "following_count": 3702,
+          "like_count": 78781,
+          "listed_count": 8,
+          "media_count": 365,
+          "tweet_count": 8094
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:16:57.000Z",
+        "description": "Please check my commission slots on Ko-fi!\n\nArtist | multifandom (Currently FromSoft)\n\npls ask for perms and credit my work! , NO ai training!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/rileeart",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/rileeart",
+                "start": 0,
+                "url": "https://t.co/XxnZ9Tv59C"
+              }
+            ]
+          }
+        },
+        "id": "1863437119991222272",
+        "location": "hmmmm",
+        "name": "rilee ✨ | COMMISSIONS CLOSED!!",
+        "pinned_tweet_id": "1986275332174062050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988098951300669440/PkVGVtqH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3351,
+          "following_count": 477,
+          "like_count": 32032,
+          "listed_count": 11,
+          "media_count": 1342,
+          "tweet_count": 9836
+        },
+        "url": "https://t.co/XxnZ9Tv59C",
+        "username": "rileeart_",
+        "verified": false
+      }
+    ]
+  }
+}

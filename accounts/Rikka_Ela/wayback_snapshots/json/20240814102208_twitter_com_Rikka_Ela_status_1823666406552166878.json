@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1823649917929447462",
+    "created_at": "2024-08-14T10:22:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-14T11:22:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823666406552166878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1664859019830517760",
+          "start": 0,
+          "username": "kagurazakachiyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823666406552166878",
+    "in_reply_to_user_id": "1664859019830517760",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823649917929447462",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kagurazakachiyo 🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1823649917929447462",
+        "created_at": "2024-08-14T10:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T11:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823666406552166878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1664859019830517760",
+              "start": 0,
+              "username": "kagurazakachiyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823666406552166878",
+        "in_reply_to_user_id": "1664859019830517760",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823649917929447462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kagurazakachiyo 🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1664859019830517760",
+        "conversation_id": "1823649917929447462",
+        "created_at": "2024-08-14T09:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T10:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1823649917929447462"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1823649917929447462",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 191,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有全程SRS的视频🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2367,
+          "following_count": 2882,
+          "like_count": 46215,
+          "listed_count": 6,
+          "tweet_count": 3054
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-03T04:58:45.000Z",
+        "description": "别讨厌我🥺",
+        "id": "1664859019830517760",
+        "name": "神楽坂千代🍥（推友寻回）",
+        "pinned_tweet_id": "1817779378534981910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816712967162925056/QM2X2ZK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 935,
+          "following_count": 1455,
+          "like_count": 2391,
+          "listed_count": 1,
+          "tweet_count": 362
+        },
+        "username": "kagurazakachiyo",
+        "verified": false
+      }
+    ]
+  }
+}

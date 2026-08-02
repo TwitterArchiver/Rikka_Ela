@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1912408032627118080"
+      ],
+      "media_source_tweet_id": [
+        "1912408861165908030"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "conversation_id": "1912622190052405380",
+    "created_at": "2025-04-16T21:40:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T22:40:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912622190052405380"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 15,
+          "normalized_text": "祥",
+          "probability": 0.6745,
+          "start": 15,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "990093840605364224",
+          "start": 3,
+          "username": "tokkyusan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/g3kF7Bu1zj",
+          "end": 40,
+          "expanded_url": "https://x.com/tokkyusan/status/1912408861165908030/photo/1",
+          "media_key": "3_1912408032627118080",
+          "start": 17,
+          "url": "https://t.co/g3kF7Bu1zj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912622190052405380",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2640
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912408861165908030",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tokkyusan: 祥 https://t.co/g3kF7Bu1zj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1300,
+        "media_key": "3_1912408032627118080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Goo8-SpX0AAfqch.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912408032627118080"
+          ],
+          "media_source_tweet_id": [
+            "1912408861165908030"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "1912622190052405380",
+        "created_at": "2025-04-16T21:40:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T22:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912622190052405380"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "祥",
+              "probability": 0.6745,
+              "start": 15,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "990093840605364224",
+              "start": 3,
+              "username": "tokkyusan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g3kF7Bu1zj",
+              "end": 40,
+              "expanded_url": "https://x.com/tokkyusan/status/1912408861165908030/photo/1",
+              "media_key": "3_1912408032627118080",
+              "start": 17,
+              "url": "https://t.co/g3kF7Bu1zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912622190052405380",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2640
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912408861165908030",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tokkyusan: 祥 https://t.co/g3kF7Bu1zj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912408032627118080"
+          ]
+        },
+        "author_id": "990093840605364224",
+        "conversation_id": "1912408861165908030",
+        "created_at": "2025-04-16T07:32:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T08:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912408861165908030"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 0,
+              "normalized_text": "祥",
+              "probability": 0.7021,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g3kF7Bu1zj",
+              "end": 25,
+              "expanded_url": "https://x.com/tokkyusan/status/1912408861165908030/photo/1",
+              "media_key": "3_1912408032627118080",
+              "start": 2,
+              "url": "https://t.co/g3kF7Bu1zj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912408861165908030",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2812,
+          "impression_count": 354491,
+          "like_count": 23465,
+          "quote_count": 31,
+          "reply_count": 27,
+          "retweet_count": 2640
+        },
+        "reply_settings": "everyone",
+        "text": "祥 https://t.co/g3kF7Bu1zj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4084,
+          "following_count": 3344,
+          "like_count": 64833,
+          "listed_count": 9,
+          "media_count": 194,
+          "tweet_count": 5593
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-28T05:02:21.000Z",
+        "description": "대충 그림그리는 사람",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/23098486",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/23098486",
+                "start": 0,
+                "url": "https://t.co/vsgEC4nKor"
+              }
+            ]
+          }
+        },
+        "id": "990093840605364224",
+        "location": "네오아카데미 강의중",
+        "name": "Tokkyu",
+        "pinned_tweet_id": "1770739910728667186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1573550724897976320/hCC2aVFx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469155,
+          "following_count": 202,
+          "like_count": 2614,
+          "listed_count": 3415,
+          "media_count": 118,
+          "tweet_count": 1934
+        },
+        "url": "https://t.co/vsgEC4nKor",
+        "username": "tokkyusan",
+        "verified": true
+      }
+    ]
+  }
+}

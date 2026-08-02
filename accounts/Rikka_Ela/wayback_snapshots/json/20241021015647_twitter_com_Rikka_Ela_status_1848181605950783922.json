@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1848061010483286289",
+    "created_at": "2024-10-21T01:56:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-21T02:56:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1848181605950783922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1313383273079345152",
+          "start": 0,
+          "username": "ValeriaEulabeia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1848181605950783922",
+    "in_reply_to_user_id": "1313383273079345152",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1848061010483286289",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ValeriaEulabeia 我怎么感觉是⛵呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1848061010483286289",
+        "created_at": "2024-10-21T01:56:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-21T02:56:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1848181605950783922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1313383273079345152",
+              "start": 0,
+              "username": "ValeriaEulabeia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1848181605950783922",
+        "in_reply_to_user_id": "1313383273079345152",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1848061010483286289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ValeriaEulabeia 我怎么感觉是⛵呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1313383273079345152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "1848061010483286289",
+        "created_at": "2024-10-20T17:57:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-20T18:57:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1848061010483286289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/XYNPride/statu…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/XYNPride/status/1848002264755282270",
+              "start": 21,
+              "url": "https://t.co/j9cAJE9a2j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1848061010483286289",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 652,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1848002264755282270",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这下真Chicken for KFC了🤣 https://t.co/j9cAJE9a2j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文\n\nwife:@Y32010705",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "Y32010705"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2984,
+          "following_count": 2990,
+          "like_count": 50828,
+          "listed_count": 5,
+          "tweet_count": 3662
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-06T07:39:19.000Z",
+        "description": "Unluckily...got a boy's body at birth. MtF🏳️‍⚧️ | HRT🍥 started at: 2021.12.6 |  International Communication Study |  Borderline Personality Disorder",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "feijiyun38.xyz/auth/register?…",
+                "end": 23,
+                "expanded_url": "https://feijiyun38.xyz/auth/register?code=ECn1",
+                "start": 0,
+                "url": "https://t.co/JRYrTUtOwa"
+              }
+            ]
+          }
+        },
+        "id": "1313383273079345152",
+        "location": "链接是自用🛫",
+        "name": "🍥Valeria Eulabeia🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746515536283140096/-tyRLvuA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5940,
+          "following_count": 2985,
+          "like_count": 110970,
+          "listed_count": 14,
+          "tweet_count": 16640
+        },
+        "url": "https://t.co/JRYrTUtOwa",
+        "username": "ValeriaEulabeia",
+        "verified": false
+      }
+    ]
+  }
+}

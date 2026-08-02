@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1822990549676114074",
+    "created_at": "2024-08-12T13:48:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T14:48:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822993537581130141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1510522802486448130",
+          "start": 0,
+          "username": "boeritsa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822993537581130141",
+    "in_reply_to_user_id": "1510522802486448130",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822991942780961013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boeritsa 呜呜呜我声音不好听🥺）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1822990549676114074",
+        "created_at": "2024-08-12T13:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T14:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822993537581130141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1510522802486448130",
+              "start": 0,
+              "username": "boeritsa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822993537581130141",
+        "in_reply_to_user_id": "1510522802486448130",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822991942780961013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boeritsa 呜呜呜我声音不好听🥺）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510522802486448130",
+        "conversation_id": "1822990549676114074",
+        "created_at": "2024-08-12T13:42:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T14:42:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822991942780961013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822991942780961013",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822990549676114074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 教我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2360,
+          "following_count": 2877,
+          "like_count": 45947,
+          "listed_count": 6,
+          "tweet_count": 3031
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-03T07:43:31.000Z",
+        "description": "中文/粤语/English | BDEGEE@CityU Year1 | 在港城读书的废物少女 | 长毛象：@aliyajadzia@stelpolva.moe",
+        "id": "1510522802486448130",
+        "location": "Earth, Sol, Sector 001, UFP",
+        "name": "林雅仪Aliya Lin🇭🇰🇺🇦",
+        "pinned_tweet_id": "1818935842880069678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815380692408393728/zRTVmFdX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 132,
+          "like_count": 1228,
+          "listed_count": 0,
+          "tweet_count": 437
+        },
+        "username": "boeritsa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1958195081795813519",
+    "created_at": "2025-08-20T15:51:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T16:51:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1958195081795813519"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kagurazakaazur…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/kagurazakaazure/status/1958172122217673137",
+          "start": 17,
+          "url": "https://t.co/j2liu5vUEe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958195081795813519",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958172122217673137",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？有没有关系好的朋友愿意和我做爱 https://t.co/j2liu5vUEe"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1958172122217673137].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1958172122217673137",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1958172122217673137"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1958195081795813519",
+        "created_at": "2025-08-20T15:51:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T16:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958195081795813519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kagurazakaazur…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/kagurazakaazure/status/1958172122217673137",
+              "start": 17,
+              "url": "https://t.co/j2liu5vUEe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958195081795813519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958172122217673137",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？有没有关系好的朋友愿意和我做爱 https://t.co/j2liu5vUEe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4486,
+          "following_count": 3545,
+          "like_count": 72204,
+          "listed_count": 8,
+          "media_count": 289,
+          "tweet_count": 6805
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      }
+    ]
+  }
+}

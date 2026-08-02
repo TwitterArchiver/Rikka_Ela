@@ -1,0 +1,471 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010314635652616192"
+      ],
+      "media_source_tweet_id": [
+        "2010314688593338663"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2010382632375431405",
+    "created_at": "2026-01-11T16:05:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T17:05:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010382632375431405"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 45,
+          "normalized_text": "osagechanFA",
+          "probability": 0.6782,
+          "start": 35,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 46,
+          "start": 34,
+          "tag": "osagechanFA"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1442493511169810434",
+          "start": 3,
+          "username": "afterxmins"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tWElka7eSL",
+          "end": 70,
+          "expanded_url": "https://x.com/afterxmins/status/2010314688593338663/photo/1",
+          "media_key": "3_2010314635652616192",
+          "start": 47,
+          "url": "https://t.co/tWElka7eSL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010382632375431405",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010314688593338663",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @afterxmins: suck it art block\n#osagechanFA https://t.co/tWElka7eSL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 638,
+        "media_key": "3_2010314635652616192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-YSgpDX0AAB-wr.png",
+        "width": 1174
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010314635652616192"
+          ],
+          "media_source_tweet_id": [
+            "2010314688593338663"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2010382632375431405",
+        "created_at": "2026-01-11T16:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T17:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010382632375431405"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 45,
+              "normalized_text": "osagechanFA",
+              "probability": 0.6782,
+              "start": 35,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 34,
+              "tag": "osagechanFA"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1442493511169810434",
+              "start": 3,
+              "username": "afterxmins"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tWElka7eSL",
+              "end": 70,
+              "expanded_url": "https://x.com/afterxmins/status/2010314688593338663/photo/1",
+              "media_key": "3_2010314635652616192",
+              "start": 47,
+              "url": "https://t.co/tWElka7eSL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010382632375431405",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010314688593338663",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @afterxmins: suck it art block\n#osagechanFA https://t.co/tWElka7eSL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010314635652616192"
+          ]
+        },
+        "author_id": "1442493511169810434",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2010314688593338663",
+        "created_at": "2026-01-11T11:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T12:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010314688593338663"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "osagechanFA",
+              "probability": 0.7325,
+              "start": 19,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 18,
+              "tag": "osagechanFA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tWElka7eSL",
+              "end": 54,
+              "expanded_url": "https://x.com/afterxmins/status/2010314688593338663/photo/1",
+              "media_key": "3_2010314635652616192",
+              "start": 31,
+              "url": "https://t.co/tWElka7eSL"
+            },
+            {
+              "display_url": "x.com/afterxmins/sta…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/afterxmins/status/2009964602088726938",
+              "start": 55,
+              "url": "https://t.co/McEhl18BEC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010314688593338663",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 1920,
+          "like_count": 232,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009964602088726938",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "suck it art block\n#osagechanFA https://t.co/tWElka7eSL https://t.co/McEhl18BEC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4856,
+          "following_count": 3693,
+          "like_count": 78575,
+          "listed_count": 8,
+          "media_count": 359,
+          "tweet_count": 8010
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-27T14:17:56.000Z",
+        "description": "nerd that likes inabakumori too much for his own good",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCmzMo…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCmzMoP4EnRBhWdynfySo7Pw",
+                "start": 0,
+                "url": "https://t.co/XwotDD2Smj"
+              }
+            ]
+          }
+        },
+        "id": "1442493511169810434",
+        "name": "aftermins",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974109677848846336/F_j18uY8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 60,
+          "like_count": 2891,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1198
+        },
+        "url": "https://t.co/XwotDD2Smj",
+        "username": "afterxmins",
+        "verified": false
+      }
+    ]
+  }
+}

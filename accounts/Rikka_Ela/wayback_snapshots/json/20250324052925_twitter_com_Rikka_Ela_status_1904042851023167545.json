@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1903486931570507782",
+    "created_at": "2025-03-24T05:29:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T06:29:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904042851023167545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1764991223792906240",
+          "start": 0,
+          "username": "ZW3333T"
+        },
+        {
+          "end": 23,
+          "id": "1595756551699984384",
+          "start": 9,
+          "username": "JustJoker3562"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904042851023167545",
+    "in_reply_to_user_id": "1764991223792906240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903492333871698417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZW3333T @JustJoker3562 真没绷住"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_1903492331195793408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmqQMKmbAAAI2SG.jpg",
+        "width": 578
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1903486931570507782",
+        "created_at": "2025-03-24T05:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T06:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904042851023167545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1764991223792906240",
+              "start": 0,
+              "username": "ZW3333T"
+            },
+            {
+              "end": 23,
+              "id": "1595756551699984384",
+              "start": 9,
+              "username": "JustJoker3562"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904042851023167545",
+        "in_reply_to_user_id": "1764991223792906240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903492333871698417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZW3333T @JustJoker3562 真没绷住"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903492331195793408"
+          ]
+        },
+        "author_id": "1764991223792906240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1903486931570507782",
+        "created_at": "2025-03-22T17:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T18:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903492333871698417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1595756551699984384",
+              "start": 0,
+              "username": "JustJoker3562"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WOhoCmQFZN",
+              "end": 38,
+              "expanded_url": "https://x.com/ZW3333T/status/1903492333871698417/photo/1",
+              "media_key": "3_1903492331195793408",
+              "start": 15,
+              "url": "https://t.co/WOhoCmQFZN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903492333871698417",
+        "in_reply_to_user_id": "1595756551699984384",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 8955,
+          "like_count": 872,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903486931570507782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JustJoker3562 https://t.co/WOhoCmQFZN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3995,
+          "following_count": 3310,
+          "like_count": 62997,
+          "listed_count": 7,
+          "media_count": 181,
+          "tweet_count": 5362
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T12:28:14.000Z",
+        "description": "我说话笨笨的，打字也慢慢的",
+        "id": "1764991223792906240",
+        "location": "VA-11 HALL-A ",
+        "name": "wet.zZz😺🕊",
+        "pinned_tweet_id": "1837145243860488666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901808155539230720/Iy1Y55tq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1618,
+          "following_count": 2540,
+          "like_count": 197058,
+          "listed_count": 13,
+          "media_count": 897,
+          "tweet_count": 20970
+        },
+        "username": "ZW3333T",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-24T12:31:53.000Z",
+        "description": "中文(母语)/English/日本語(苦手)┃帖子仅供娱乐‼️不代表个人观点┃信息真假注意甄别┃求follow┃06软工大一┃喜欢分享meme图(网络/原创)┃转载居多-侵删┃ACG痴迷┃爱搞抽象┃偶尔吐槽生活┃欢迎私信┃每周挑几个匿名信回复 ┃ *`꒳´ * )⃕↝ https://t.co/dXHZEfIIhM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/justjoker",
+                "end": 158,
+                "expanded_url": "http://ngl.link/justjoker",
+                "start": 135,
+                "url": "https://t.co/dXHZEfIIhM"
+              }
+            ]
+          }
+        },
+        "id": "1595756551699984384",
+        "location": "乌托邦",
+        "name": "Just.Joker",
+        "pinned_tweet_id": "1903056412093321260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901524622304301056/CdWvSxID_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 81,
+          "like_count": 1756,
+          "listed_count": 5,
+          "media_count": 421,
+          "tweet_count": 563
+        },
+        "username": "JustJoker3562",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "1802259212946583844",
+    "created_at": "2024-06-17T00:12:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-17T01:12:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802494606728388773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1605554180953104385",
+          "start": 0,
+          "username": "xynmolly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802494606728388773",
+    "in_reply_to_user_id": "1605554180953104385",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802259212946583844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xynmolly 这是什么漫画（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "1802259212946583844",
+        "created_at": "2024-06-17T00:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-17T01:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802494606728388773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1605554180953104385",
+              "start": 0,
+              "username": "xynmolly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802494606728388773",
+        "in_reply_to_user_id": "1605554180953104385",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802259212946583844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xynmolly 这是什么漫画（"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1802259205115826176"
+          ]
+        },
+        "author_id": "1605554180953104385",
+        "conversation_id": "1802259212946583844",
+        "created_at": "2024-06-16T08:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T09:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802259212946583844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/OJqkL36hGL",
+              "end": 38,
+              "expanded_url": "https://twitter.com/xynmolly/status/1802259212946583844/photo/1",
+              "media_key": "3_1802259205115826176",
+              "start": 15,
+              "url": "https://t.co/OJqkL36hGL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802259212946583844",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2408,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下午好啊\n喵~\n和大家贴贴~ https://t.co/OJqkL36hGL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UNNC‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2106,
+          "following_count": 2701,
+          "like_count": 38461,
+          "listed_count": 5,
+          "tweet_count": 2401
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-21T13:22:11.000Z",
+        "description": "【已出柜】【超级弱受】【是brat】我是陌漓~| 喜欢别人叫我漓宝~|  码农 | 🍥持证含糖mtf | HRT:2023.12.05| 小证:2024.6.14 | ISFP-T | 同类互fo|\n\n最爱千璃姐姐@senricirilla | 喜欢的人@TheSnowWinter | 主人@xiaozhang233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 107,
+                "username": "senricirilla"
+              },
+              {
+                "end": 141,
+                "start": 127,
+                "username": "TheSnowWinter"
+              },
+              {
+                "end": 159,
+                "start": 146,
+                "username": "xiaozhang233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "honkaihyperion.cn",
+                "end": 23,
+                "expanded_url": "https://honkaihyperion.cn",
+                "start": 0,
+                "url": "https://t.co/gPzJYi9qO6"
+              }
+            ]
+          }
+        },
+        "id": "1605554180953104385",
+        "location": "休伯利安科技研发部部长",
+        "name": "陌漓Molly🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1801607071416389809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732318585945821184/sDFPCRiz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1539,
+          "following_count": 1275,
+          "like_count": 9556,
+          "listed_count": 5,
+          "tweet_count": 3630
+        },
+        "url": "https://t.co/gPzJYi9qO6",
+        "username": "xynmolly",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,514 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044014809562185728",
+        "3_2044014849743630336"
+      ],
+      "media_source_tweet_id": [
+        "2044014852985770462",
+        "2044014852985770462"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      }
+    ],
+    "conversation_id": "2044138403399082340",
+    "created_at": "2026-04-14T19:39:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T20:39:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044138403399082340"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 20,
+          "tag": "portfolioday"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "576977531",
+          "start": 3,
+          "username": "Reinrice"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UFqYy9StBT",
+          "end": 61,
+          "expanded_url": "https://x.com/Reinrice/status/2044014852985770462/photo/1",
+          "media_key": "3_2044014809562185728",
+          "start": 38,
+          "url": "https://t.co/UFqYy9StBT"
+        },
+        {
+          "display_url": "pic.x.com/UFqYy9StBT",
+          "end": 61,
+          "expanded_url": "https://x.com/Reinrice/status/2044014852985770462/photo/1",
+          "media_key": "3_2044014849743630336",
+          "start": 38,
+          "url": "https://t.co/UFqYy9StBT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044138403399082340",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044014852985770462",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Reinrice: hello #portfolioday 🎀 ! https://t.co/UFqYy9StBT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044014809562185728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF3Mo7-XgAA8QEK.jpg",
+        "width": 1523
+      },
+      {
+        "height": 1254,
+        "media_key": "3_2044014849743630336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF3MrRqXsAALFnt.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044014809562185728",
+            "3_2044014849743630336"
+          ],
+          "media_source_tweet_id": [
+            "2044014852985770462",
+            "2044014852985770462"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "2044138403399082340",
+        "created_at": "2026-04-14T19:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T20:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044138403399082340"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 20,
+              "tag": "portfolioday"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "576977531",
+              "start": 3,
+              "username": "Reinrice"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UFqYy9StBT",
+              "end": 61,
+              "expanded_url": "https://x.com/Reinrice/status/2044014852985770462/photo/1",
+              "media_key": "3_2044014809562185728",
+              "start": 38,
+              "url": "https://t.co/UFqYy9StBT"
+            },
+            {
+              "display_url": "pic.x.com/UFqYy9StBT",
+              "end": 61,
+              "expanded_url": "https://x.com/Reinrice/status/2044014852985770462/photo/1",
+              "media_key": "3_2044014849743630336",
+              "start": 38,
+              "url": "https://t.co/UFqYy9StBT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044138403399082340",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044014852985770462",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Reinrice: hello #portfolioday 🎀 ! https://t.co/UFqYy9StBT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044014809562185728",
+            "3_2044014849743630336"
+          ]
+        },
+        "author_id": "576977531",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "2044014852985770462",
+        "created_at": "2026-04-14T11:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T12:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044014852985770462"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 6,
+              "tag": "portfolioday"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UFqYy9StBT",
+              "end": 47,
+              "expanded_url": "https://x.com/Reinrice/status/2044014852985770462/photo/1",
+              "media_key": "3_2044014809562185728",
+              "start": 24,
+              "url": "https://t.co/UFqYy9StBT"
+            },
+            {
+              "display_url": "pic.x.com/UFqYy9StBT",
+              "end": 47,
+              "expanded_url": "https://x.com/Reinrice/status/2044014852985770462/photo/1",
+              "media_key": "3_2044014849743630336",
+              "start": 24,
+              "url": "https://t.co/UFqYy9StBT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044014852985770462",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 4702,
+          "like_count": 571,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "hello #portfolioday 🎀 ! https://t.co/UFqYy9StBT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5063,
+          "following_count": 3734,
+          "like_count": 81912,
+          "listed_count": 10,
+          "media_count": 412,
+          "tweet_count": 8970
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2012-05-11T09:01:18.000Z",
+        "description": "rus|eng\nartist",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/re1nrice",
+                "end": 23,
+                "expanded_url": "https://t.me/re1nrice",
+                "start": 0,
+                "url": "https://t.co/ZB1YGS4Hcu"
+              }
+            ]
+          }
+        },
+        "id": "576977531",
+        "name": "Rein",
+        "pinned_tweet_id": "1989699662601720050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852992853527650304/xJ3UU9GZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1450,
+          "following_count": 60,
+          "like_count": 255,
+          "listed_count": 8,
+          "media_count": 24,
+          "tweet_count": 34
+        },
+        "url": "https://t.co/ZB1YGS4Hcu",
+        "username": "Reinrice",
+        "verified": false
+      }
+    ]
+  }
+}

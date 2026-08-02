@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044365339094605824"
+      ],
+      "media_source_tweet_id": [
+        "2044365658864193803"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "conversation_id": "2047788151993675856",
+    "created_at": "2026-04-24T21:21:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T22:21:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047788151993675856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "223710779",
+          "start": 3,
+          "username": "gishiki_unc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gSW3fk9Btj",
+          "end": 44,
+          "expanded_url": "https://x.com/gishiki_unc/status/2044365658864193803/photo/1",
+          "media_key": "3_2044365339094605824",
+          "start": 21,
+          "url": "https://t.co/gSW3fk9Btj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047788151993675856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 960
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044365658864193803",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gishiki_unc: 太った https://t.co/gSW3fk9Btj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2924,
+        "media_key": "3_2044365339094605824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF8LccPa4AArP3j.jpg",
+        "width": 2067
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044365339094605824"
+          ],
+          "media_source_tweet_id": [
+            "2044365658864193803"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "2047788151993675856",
+        "created_at": "2026-04-24T21:21:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T22:21:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047788151993675856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "223710779",
+              "start": 3,
+              "username": "gishiki_unc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gSW3fk9Btj",
+              "end": 44,
+              "expanded_url": "https://x.com/gishiki_unc/status/2044365658864193803/photo/1",
+              "media_key": "3_2044365339094605824",
+              "start": 21,
+              "url": "https://t.co/gSW3fk9Btj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047788151993675856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 960
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044365658864193803",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gishiki_unc: 太った https://t.co/gSW3fk9Btj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044365339094605824"
+          ]
+        },
+        "author_id": "223710779",
+        "conversation_id": "2044365658864193803",
+        "created_at": "2026-04-15T10:42:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T11:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044365658864193803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gSW3fk9Btj",
+              "end": 27,
+              "expanded_url": "https://x.com/gishiki_unc/status/2044365658864193803/photo/1",
+              "media_key": "3_2044365339094605824",
+              "start": 4,
+              "url": "https://t.co/gSW3fk9Btj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044365658864193803",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1246,
+          "impression_count": 135313,
+          "like_count": 12465,
+          "quote_count": 17,
+          "reply_count": 9,
+          "retweet_count": 960
+        },
+        "reply_settings": "everyone",
+        "text": "太った https://t.co/gSW3fk9Btj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5086,
+          "following_count": 3745,
+          "like_count": 82609,
+          "listed_count": 10,
+          "media_count": 418,
+          "tweet_count": 9109
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2010-12-07T03:42:14.000Z",
+        "description": "FANBOX→ https://t.co/ElvfRXkxMM BOOTH→ https://t.co/Lt7UeaqI3b   insta→ https://t.co/Ensd7reRfp Bluesky→ @gishiki.bsky.social",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 105,
+                "username": "gishiki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "gishiki-unc.fanbox.cc",
+                "end": 31,
+                "expanded_url": "http://gishiki-unc.fanbox.cc",
+                "start": 8,
+                "url": "https://t.co/ElvfRXkxMM"
+              },
+              {
+                "display_url": "gshk.booth.pm",
+                "end": 62,
+                "expanded_url": "https://gshk.booth.pm/",
+                "start": 39,
+                "url": "https://t.co/Lt7UeaqI3b"
+              },
+              {
+                "display_url": "instagram.com/gishiki_unc/",
+                "end": 95,
+                "expanded_url": "http://instagram.com/gishiki_unc/",
+                "start": 72,
+                "url": "https://t.co/Ensd7reRfp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "deathangels.shop",
+                "end": 23,
+                "expanded_url": "https://deathangels.shop/",
+                "start": 0,
+                "url": "https://t.co/aMdXskutjv"
+              }
+            ]
+          }
+        },
+        "id": "223710779",
+        "location": "tokyo",
+        "name": "儀式",
+        "pinned_tweet_id": "2025523713215701223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978047416952832000/YS6GnKz-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364450,
+          "following_count": 361,
+          "like_count": 10753,
+          "listed_count": 2911,
+          "media_count": 1039,
+          "tweet_count": 4085
+        },
+        "url": "https://t.co/aMdXskutjv",
+        "username": "gishiki_unc",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1933897445655875584"
+      ],
+      "media_source_tweet_id": [
+        "1933897592792047935"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "conversation_id": "1934154965993595314",
+    "created_at": "2025-06-15T07:44:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T08:44:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934154965993595314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1228260397104283650",
+          "start": 3,
+          "username": "sofw0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aoJu0HOp0t",
+          "end": 34,
+          "expanded_url": "https://x.com/sofw0/status/1933897592792047935/photo/1",
+          "media_key": "3_1933897445655875584",
+          "start": 11,
+          "url": "https://t.co/aoJu0HOp0t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934154965993595314",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 549
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933897592792047935",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sofw0: https://t.co/aoJu0HOp0t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 554,
+        "media_key": "3_1933897445655875584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtaVewhakAAQ7_p.png",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933897445655875584"
+          ],
+          "media_source_tweet_id": [
+            "1933897592792047935"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "1934154965993595314",
+        "created_at": "2025-06-15T07:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T08:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934154965993595314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1228260397104283650",
+              "start": 3,
+              "username": "sofw0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aoJu0HOp0t",
+              "end": 34,
+              "expanded_url": "https://x.com/sofw0/status/1933897592792047935/photo/1",
+              "media_key": "3_1933897445655875584",
+              "start": 11,
+              "url": "https://t.co/aoJu0HOp0t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934154965993595314",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 549
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933897592792047935",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sofw0: https://t.co/aoJu0HOp0t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933897445655875584"
+          ]
+        },
+        "author_id": "1228260397104283650",
+        "conversation_id": "1933897592792047935",
+        "created_at": "2025-06-14T14:41:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T15:41:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933897592792047935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aoJu0HOp0t",
+              "end": 23,
+              "expanded_url": "https://x.com/sofw0/status/1933897592792047935/photo/1",
+              "media_key": "3_1933897445655875584",
+              "start": 0,
+              "url": "https://t.co/aoJu0HOp0t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933897592792047935",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1029,
+          "impression_count": 101540,
+          "like_count": 6739,
+          "quote_count": 11,
+          "reply_count": 14,
+          "retweet_count": 549
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/aoJu0HOp0t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4340,
+          "following_count": 3504,
+          "like_count": 68940,
+          "listed_count": 7,
+          "media_count": 232,
+          "tweet_count": 6195
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-14T10:11:24.000Z",
+        "description": "絵/映像/ゲ制/他\nBOOTH https://t.co/oMYVhA0jZF \ncommission✖️",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "suzua.booth.pm",
+                "end": 39,
+                "expanded_url": "http://suzua.booth.pm",
+                "start": 16,
+                "url": "https://t.co/oMYVhA0jZF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/sofw0",
+                "end": 23,
+                "expanded_url": "http://lit.link/sofw0",
+                "start": 0,
+                "url": "https://t.co/rBVKoT6Cuh"
+              }
+            ]
+          }
+        },
+        "id": "1228260397104283650",
+        "name": "すずあ",
+        "pinned_tweet_id": "1640692715024441344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770367667679158272/Kvns9xUr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13168,
+          "following_count": 79,
+          "like_count": 1012,
+          "listed_count": 121,
+          "media_count": 354,
+          "tweet_count": 564
+        },
+        "url": "https://t.co/rBVKoT6Cuh",
+        "username": "sofw0",
+        "verified": false
+      }
+    ]
+  }
+}

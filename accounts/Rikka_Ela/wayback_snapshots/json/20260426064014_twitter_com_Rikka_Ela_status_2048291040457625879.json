@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2048183352633819297",
+    "created_at": "2026-04-26T06:40:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T07:40:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048291040457625879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1468298719447887872",
+          "start": 0,
+          "username": "dviolettchan"
+        },
+        {
+          "end": 21,
+          "id": "1864739862697644032",
+          "start": 14,
+          "username": "2196F3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048291040457625879",
+    "in_reply_to_user_id": "1468298719447887872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048289948797702648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dviolettchan @2196F3 已经…..没法再回头了…..😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2048183352633819297",
+        "created_at": "2026-04-26T06:40:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T07:40:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048291040457625879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1468298719447887872",
+              "start": 0,
+              "username": "dviolettchan"
+            },
+            {
+              "end": 21,
+              "id": "1864739862697644032",
+              "start": 14,
+              "username": "2196F3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048291040457625879",
+        "in_reply_to_user_id": "1468298719447887872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048289948797702648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dviolettchan @2196F3 已经…..没法再回头了…..😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468298719447887872",
+        "conversation_id": "2048183352633819297",
+        "created_at": "2026-04-26T06:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T07:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048289948797702648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            },
+            {
+              "end": 18,
+              "id": "1864739862697644032",
+              "start": 11,
+              "username": "2196F3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048289948797702648",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048287690316030001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela @2196F3 感觉这些年干啥都比申phd强，现在是科研大形势最差的几年。\n\n可能试试申请其他地区会好很多。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5121,
+          "following_count": 3750,
+          "like_count": 82665,
+          "listed_count": 10,
+          "media_count": 418,
+          "tweet_count": 9132
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-07T19:18:15.000Z",
+        "description": "制服收藏家 | 想要变得幸福 | 北美菜校ECE PhD Candidate | 魏晋名士 | ❤️: @xinxinUnique | 🍻: @sheriyuo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "xinxinUnique"
+              },
+              {
+                "end": 80,
+                "start": 71,
+                "username": "sheriyuo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "thesecatsdonotexist.com",
+                "end": 23,
+                "expanded_url": "https://thesecatsdonotexist.com/",
+                "start": 0,
+                "url": "https://t.co/XxMPM0e5ee"
+              }
+            ]
+          }
+        },
+        "id": "1468298719447887872",
+        "location": "Ontario, Canada",
+        "name": "紫云",
+        "pinned_tweet_id": "1999916217818333233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999225008120340481/KS3I1fWx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3340,
+          "following_count": 539,
+          "like_count": 8590,
+          "listed_count": 8,
+          "media_count": 54,
+          "tweet_count": 3466
+        },
+        "url": "https://t.co/XxMPM0e5ee",
+        "username": "dviolettchan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-05T18:33:59.000Z",
+        "description": "研究生物医学小分子和神经科学，Candidacy↑。\n\n本体是香香软软没有攻击性的INTP猞猁！\n\n是explorer，coser和Les，想做大家的好朋友给人们带来快乐。\n\n看到做得不好的实验会整个炸掉(然后亲自上手) 。😿 \n\n私信话题：源石会上调 IL6吗？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "prts.eterea.uk/?quickacc=bull…",
+                "end": 23,
+                "expanded_url": "http://prts.eterea.uk/?quickacc=bulletin",
+                "start": 0,
+                "url": "https://t.co/fVFEeZUeRA"
+              }
+            ]
+          }
+        },
+        "id": "1864739862697644032",
+        "location": "California, USA",
+        "name": "凯尔希是猫猫",
+        "pinned_tweet_id": "1949626289104802165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952307711271735297/Kt15yKo2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1139,
+          "following_count": 897,
+          "like_count": 5426,
+          "listed_count": 4,
+          "media_count": 728,
+          "tweet_count": 4599
+        },
+        "url": "https://t.co/fVFEeZUeRA",
+        "username": "2196F3",
+        "verified": true
+      }
+    ]
+  }
+}

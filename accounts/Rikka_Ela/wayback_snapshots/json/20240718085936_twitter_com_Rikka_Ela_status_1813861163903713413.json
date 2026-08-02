@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1813725155035918501",
+    "created_at": "2024-07-18T08:59:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-18T09:59:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813861163903713413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "569860610",
+          "start": 0,
+          "username": "EricLiu_USA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813861163903713413",
+    "in_reply_to_user_id": "569860610",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813725155035918501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EricLiu_USA 笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1813725155035918501",
+        "created_at": "2024-07-18T08:59:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-18T09:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813861163903713413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "569860610",
+              "start": 0,
+              "username": "EricLiu_USA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813861163903713413",
+        "in_reply_to_user_id": "569860610",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813725155035918501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EricLiu_USA 笑死我了"
+      },
+      {
+        "attachments": {},
+        "author_id": "569860610",
+        "conversation_id": "1813725155035918501",
+        "created_at": "2024-07-17T23:59:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-18T00:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1813725155035918501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JoeBiden/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/JoeBiden/status/1813715902250017022",
+              "start": 5,
+              "url": "https://t.co/Q2N4xmd7yJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813725155035918501",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 76983,
+          "like_count": 612,
+          "quote_count": 5,
+          "reply_count": 32,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813715902250017022",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "叫医生来 https://t.co/Q2N4xmd7yJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2185,
+          "following_count": 2783,
+          "like_count": 42293,
+          "listed_count": 6,
+          "tweet_count": 2667
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2012-05-03T10:25:01.000Z",
+        "description": "新黄色新闻鉴黄师（副高级职称）",
+        "id": "569860610",
+        "name": "Eric Liu 刘力朋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780786052632068096/kCo4J36h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67965,
+          "following_count": 1533,
+          "like_count": 22361,
+          "listed_count": 297,
+          "tweet_count": 21094
+        },
+        "username": "EricLiu_USA",
+        "verified": false
+      }
+    ]
+  }
+}

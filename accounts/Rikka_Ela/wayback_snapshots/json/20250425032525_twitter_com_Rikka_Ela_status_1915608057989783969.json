@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1915359912449712547",
+    "created_at": "2025-04-25T03:25:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-25T04:25:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915608057989783969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1790370144755351552",
+          "start": 0,
+          "username": "FurinaDF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915608057989783969",
+    "in_reply_to_user_id": "1790370144755351552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915359912449712547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FurinaDF 我也希望😍"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33622,
+        "height": 1024,
+        "media_key": "7_1915359854472159235",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1915359854472159235/pu/img/eD-HGrHGJTvwRM8a.jpg",
+        "public_metrics": {
+          "view_count": 61432
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1915359854472159235/pu/vid/avc1/320x568/LmVn_w5b5-toPTw-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1915359854472159235/pu/vid/avc1/480x852/4L-sEQI2IwVKz2yk.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1915359854472159235/pu/vid/avc1/576x1024/_NFlOKXp8_qocP1h.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1915359854472159235/pu/pl/QkNYvUDNLWpEDwwh.m3u8?tag=12&v=db5"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1915359912449712547",
+        "created_at": "2025-04-25T03:25:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T04:25:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915608057989783969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1790370144755351552",
+              "start": 0,
+              "username": "FurinaDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915608057989783969",
+        "in_reply_to_user_id": "1790370144755351552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915359912449712547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FurinaDF 我也希望😍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1915359854472159235"
+          ]
+        },
+        "author_id": "1790370144755351552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1915359912449712547",
+        "created_at": "2025-04-24T10:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T11:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915359912449712547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kg9Vqa0LiD",
+              "end": 39,
+              "expanded_url": "https://x.com/FurinaDF/status/1915359912449712547/video/1",
+              "media_key": "7_1915359854472159235",
+              "start": 16,
+              "url": "https://t.co/kg9Vqa0LiD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915359912449712547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 183,
+          "impression_count": 144447,
+          "like_count": 510,
+          "quote_count": 19,
+          "reply_count": 214,
+          "retweet_count": 77
+        },
+        "reply_settings": "everyone",
+        "text": "一个小学生，祝习近平长生不老： https://t.co/kg9Vqa0LiD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4119,
+          "following_count": 3351,
+          "like_count": 65149,
+          "listed_count": 9,
+          "media_count": 200,
+          "tweet_count": 5669
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "太好啦！太好啦！听妈妈说，我手机里的推特自动关注了芙宁娜娜，我不知所云地欢呼起来。芙宁娜娜这个恶俗玩意儿到底是什么呢？爸爸告诉我，她就像一个遍布网络的巨大屎壳郎，把抽象乐子和魔怔烂梗搬运得到处都是。有了芙宁娜娜，咱们的推特就变成了一个小垃圾堆，五洲四海的浪蛆们可以随时进行别样的炒作大战。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zgysd1",
+                "end": 23,
+                "expanded_url": "https://t.me/zgysd1",
+                "start": 0,
+                "url": "https://t.co/UXOSrcIdSv"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "原教旨主义自由精神党",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "pinned_tweet_id": "1912207020780028155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22156,
+          "following_count": 2045,
+          "like_count": 23862,
+          "listed_count": 58,
+          "media_count": 4236,
+          "tweet_count": 8081
+        },
+        "url": "https://t.co/UXOSrcIdSv",
+        "username": "FurinaDF",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2045079423632687407",
+    "created_at": "2026-04-17T11:22:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T12:22:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045100576996823497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1499442786453663745",
+          "start": 0,
+          "username": "Ted_yeet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045100576996823497",
+    "in_reply_to_user_id": "1499442786453663745",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045079423632687407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ted_yeet ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2045079423632687407",
+        "created_at": "2026-04-17T11:22:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T12:22:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045100576996823497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1499442786453663745",
+              "start": 0,
+              "username": "Ted_yeet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045100576996823497",
+        "in_reply_to_user_id": "1499442786453663745",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045079423632687407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ted_yeet ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499442786453663745",
+        "conversation_id": "2045079423632687407",
+        "created_at": "2026-04-17T09:58:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T10:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045079423632687407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ted_yeet/statu…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/ted_yeet/status/2044135091576692874",
+              "start": 26,
+              "url": "https://t.co/JptANClj1j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045079423632687407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 781,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044135091576692874",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "然后发现根本不gd只想草人😋\n我要当很厉害的雄性😋 https://t.co/JptANClj1j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5068,
+          "following_count": 3732,
+          "like_count": 82048,
+          "listed_count": 10,
+          "media_count": 413,
+          "tweet_count": 9009
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-03T17:53:30.000Z",
+        "description": "姛/brat/整点𝕄𝕒𝕥𝕙/养毛绒玩具/偶尔拍点📸/超业余贝斯手/会说LaTeX的人形编译器/域ℍ上的非交换同构@Ted_noncommute",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 56,
+                "username": "Ted_noncommute"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ted_noncommute",
+                "end": 23,
+                "expanded_url": "https://t.me/ted_noncommute",
+                "start": 0,
+                "url": "https://t.co/7gqKcdwXFH"
+              }
+            ]
+          }
+        },
+        "id": "1499442786453663745",
+        "name": "Ted",
+        "pinned_tweet_id": "1990718236422189238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009094704332460037/BxRpL0wq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4432,
+          "following_count": 1683,
+          "like_count": 47563,
+          "listed_count": 15,
+          "media_count": 470,
+          "tweet_count": 10804
+        },
+        "url": "https://t.co/7gqKcdwXFH",
+        "username": "Ted_yeet",
+        "verified": true
+      }
+    ]
+  }
+}

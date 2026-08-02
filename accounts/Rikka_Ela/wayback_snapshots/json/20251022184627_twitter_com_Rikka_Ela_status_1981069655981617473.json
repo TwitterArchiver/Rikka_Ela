@@ -1,0 +1,649 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980992457148919808"
+      ],
+      "media_source_tweet_id": [
+        "1980992527965790325"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10044774920",
+          "name": "Dark Souls"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10044774920",
+          "name": "Dark Souls"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900785013129216",
+          "name": "Soulslike games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      }
+    ],
+    "conversation_id": "1981069655981617473",
+    "created_at": "2025-10-22T18:46:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T19:46:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981069655981617473"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 27,
+          "normalized_text": "Old Friend",
+          "probability": 0.8397,
+          "start": 18,
+          "type": "Other"
+        },
+        {
+          "end": 39,
+          "normalized_text": "DarkSouls3",
+          "probability": 0.9172,
+          "start": 30,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 29,
+          "tag": "DarkSouls3"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1127933583308382209",
+          "start": 3,
+          "username": "asaki_vision"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3GZycuXC5c",
+          "end": 64,
+          "expanded_url": "https://x.com/asaki_vision/status/1980992527965790325/photo/1",
+          "media_key": "3_1980992457148919808",
+          "start": 41,
+          "url": "https://t.co/3GZycuXC5c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981069655981617473",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980992527965790325",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @asaki_vision: Old Friend\n#DarkSouls3 https://t.co/3GZycuXC5c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2304,
+        "media_key": "3_1980992457148919808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G33mJN8W8AAk-ZW.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980992457148919808"
+          ],
+          "media_source_tweet_id": [
+            "1980992527965790325"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044774920",
+              "name": "Dark Souls"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044774920",
+              "name": "Dark Souls"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900785013129216",
+              "name": "Soulslike games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "1981069655981617473",
+        "created_at": "2025-10-22T18:46:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T19:46:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981069655981617473"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "Old Friend",
+              "probability": 0.8397,
+              "start": 18,
+              "type": "Other"
+            },
+            {
+              "end": 39,
+              "normalized_text": "DarkSouls3",
+              "probability": 0.9172,
+              "start": 30,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 29,
+              "tag": "DarkSouls3"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1127933583308382209",
+              "start": 3,
+              "username": "asaki_vision"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3GZycuXC5c",
+              "end": 64,
+              "expanded_url": "https://x.com/asaki_vision/status/1980992527965790325/photo/1",
+              "media_key": "3_1980992457148919808",
+              "start": 41,
+              "url": "https://t.co/3GZycuXC5c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981069655981617473",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980992527965790325",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @asaki_vision: Old Friend\n#DarkSouls3 https://t.co/3GZycuXC5c"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980992457148919808"
+          ]
+        },
+        "author_id": "1127933583308382209",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044774920",
+              "name": "Dark Souls"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900785013129216",
+              "name": "Soulslike games"
+            }
+          }
+        ],
+        "conversation_id": "1980992527965790325",
+        "created_at": "2025-10-22T13:39:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T14:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980992527965790325"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "Old Friend",
+              "probability": 0.8294,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 21,
+              "normalized_text": "DarkSouls3",
+              "probability": 0.8901,
+              "start": 12,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 11,
+              "tag": "DarkSouls3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3GZycuXC5c",
+              "end": 46,
+              "expanded_url": "https://x.com/asaki_vision/status/1980992527965790325/photo/1",
+              "media_key": "3_1980992457148919808",
+              "start": 23,
+              "url": "https://t.co/3GZycuXC5c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980992527965790325",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 4970,
+          "like_count": 391,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "Old Friend\n#DarkSouls3 https://t.co/3GZycuXC5c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4707,
+          "following_count": 3597,
+          "like_count": 74697,
+          "listed_count": 9,
+          "media_count": 314,
+          "tweet_count": 7248
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-13T13:48:17.000Z",
+        "description": "Illustrator,Concept Artist ■Mail→asakivision@gmail.com ■ArtStation→https://t.co/x1Cg7KvZqw ■Skeb→https://t.co/NyJhrRlzqw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "asaki_vision.artstation.com",
+                "end": 90,
+                "expanded_url": "https://asaki_vision.artstation.com/",
+                "start": 67,
+                "url": "https://t.co/x1Cg7KvZqw"
+              },
+              {
+                "display_url": "skeb.jp/@asakivision",
+                "end": 120,
+                "expanded_url": "http://skeb.jp/@asakivision",
+                "start": 97,
+                "url": "https://t.co/NyJhrRlzqw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "asakivision.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://asakivision.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/gEJxlQBJOG"
+              }
+            ]
+          }
+        },
+        "id": "1127933583308382209",
+        "location": "Japan",
+        "name": "Asaki",
+        "pinned_tweet_id": "1947293248759943309",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773070970645020675/z-Y5ha9T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17078,
+          "following_count": 305,
+          "like_count": 18076,
+          "listed_count": 82,
+          "media_count": 512,
+          "tweet_count": 2093
+        },
+        "url": "https://t.co/gEJxlQBJOG",
+        "username": "asaki_vision",
+        "verified": false
+      }
+    ]
+  }
+}

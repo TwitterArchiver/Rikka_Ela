@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1891511694775517288",
+    "created_at": "2025-02-18T12:36:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-18T13:36:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891829215898534295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1667407467540619264",
+          "start": 0,
+          "username": "mayorio2004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891829215898534295",
+    "in_reply_to_user_id": "1667407467540619264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891760483121631733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mayorio2004 是雾雨给我扎的（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1891511694775517288",
+        "created_at": "2025-02-18T12:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-18T13:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891829215898534295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1667407467540619264",
+              "start": 0,
+              "username": "mayorio2004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891829215898534295",
+        "in_reply_to_user_id": "1667407467540619264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891760483121631733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mayorio2004 是雾雨给我扎的（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667407467540619264",
+        "conversation_id": "1891511694775517288",
+        "created_at": "2025-02-18T08:03:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-18T09:03:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891760483121631733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891760483121631733",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891511694775517288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 兔兔给我扎扎日雌（自己扎怕疼😭）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3726,
+          "following_count": 3252,
+          "like_count": 59577,
+          "listed_count": 7,
+          "media_count": 168,
+          "tweet_count": 4814
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-10T05:45:01.000Z",
+        "description": "mtf/想要变得可爱，仅此而已/究极无敌的丧/日常猫猫、丧推",
+        "id": "1667407467540619264",
+        "name": "真夜理央",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732834536927731713/Vw4cwS0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 601,
+          "like_count": 3588,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 392
+        },
+        "username": "mayorio2004",
+        "verified": false
+      }
+    ]
+  }
+}

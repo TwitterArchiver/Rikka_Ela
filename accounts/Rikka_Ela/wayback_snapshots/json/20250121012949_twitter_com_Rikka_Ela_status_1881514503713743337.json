@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1881382437240062145",
+    "created_at": "2025-01-21T01:29:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-21T02:29:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881514503713743337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1778616836214439936",
+          "start": 0,
+          "username": "H20_chemistry_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881514503713743337",
+    "in_reply_to_user_id": "1778616836214439936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881382437240062145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@H20_chemistry_x 欸别骂了😭😭😭😭😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1881382437240062145",
+        "created_at": "2025-01-21T01:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T02:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881514503713743337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1778616836214439936",
+              "start": 0,
+              "username": "H20_chemistry_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881514503713743337",
+        "in_reply_to_user_id": "1778616836214439936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881382437240062145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@H20_chemistry_x 欸别骂了😭😭😭😭😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778616836214439936",
+        "conversation_id": "1881382437240062145",
+        "created_at": "2025-01-20T16:45:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T17:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881382437240062145"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1881382437240062145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "疯狂照镜子发现了自己的骨架真的好大、、、😿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3608,
+          "following_count": 3203,
+          "like_count": 57730,
+          "listed_count": 6,
+          "media_count": 162,
+          "tweet_count": 4591
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T02:51:20.000Z",
+        "description": "No one like me,doesn't mean you won't like me./🏳‍⚧️友跨/infp/欢迎互fo交朋友喵/防失联@h20_chemistry2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 72,
+                "username": "h20_chemistry2"
+              }
+            ]
+          }
+        },
+        "id": "1778616836214439936",
+        "name": "一氧化二氢",
+        "pinned_tweet_id": "1874417607568494921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807703472961445888/QlrmPoet_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 1411,
+          "like_count": 28305,
+          "listed_count": 2,
+          "media_count": 539,
+          "tweet_count": 7705
+        },
+        "username": "H20_chemistry_x",
+        "verified": false
+      }
+    ]
+  }
+}

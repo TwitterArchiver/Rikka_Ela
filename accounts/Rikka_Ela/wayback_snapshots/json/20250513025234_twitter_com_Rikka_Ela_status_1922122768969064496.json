@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1922122768969064496",
+    "created_at": "2025-05-13T02:52:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T03:52:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1922122768969064496"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hyotochandesuy…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/hyotochandesuyo/status/1921983968594870760",
+          "start": 18,
+          "url": "https://t.co/NMITHyuhSM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922122768969064496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921983968594870760",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "友跨顺男缺爱b可以来草我没必要翻车 https://t.co/NMITHyuhSM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1922122768969064496",
+        "created_at": "2025-05-13T02:52:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T03:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922122768969064496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hyotochandesuy…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/hyotochandesuyo/status/1921983968594870760",
+              "start": 18,
+              "url": "https://t.co/NMITHyuhSM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922122768969064496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921983968594870760",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "友跨顺男缺爱b可以来草我没必要翻车 https://t.co/NMITHyuhSM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680834021377593344",
+        "conversation_id": "1921983968594870760",
+        "created_at": "2025-05-12T17:41:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T18:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921983968594870760"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1921983968594870760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 334,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "友跨顺男缺爱b可以来找我没必要翻车"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4201,
+          "following_count": 3411,
+          "like_count": 66548,
+          "listed_count": 8,
+          "media_count": 213,
+          "tweet_count": 5865
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-17T06:57:26.000Z",
+        "description": "いつまでも風に吹かれたい",
+        "id": "1680834021377593344",
+        "location": "土星",
+        "name": "温原ひょと💤",
+        "pinned_tweet_id": "1903805604915020062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921813012744400896/dMbLImZ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2297,
+          "following_count": 989,
+          "like_count": 97584,
+          "listed_count": 15,
+          "media_count": 4196,
+          "tweet_count": 28277
+        },
+        "username": "HyotoChandesuyo",
+        "verified": false
+      }
+    ]
+  }
+}

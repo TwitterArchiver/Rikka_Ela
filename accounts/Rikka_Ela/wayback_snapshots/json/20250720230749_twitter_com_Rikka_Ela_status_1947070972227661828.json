@@ -1,0 +1,452 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1946980977940537344"
+      ],
+      "media_source_tweet_id": [
+        "1946981031266877703"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1135979287733948416",
+          "name": "Elden Ring"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1135979287733948416",
+          "name": "Elden Ring"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898668479250438",
+          "name": "Fantasy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      }
+    ],
+    "conversation_id": "1947070972227661828",
+    "created_at": "2025-07-20T23:07:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T00:07:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947070972227661828"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 48,
+          "start": 38,
+          "tag": "ELDENRING"
+        },
+        {
+          "end": 60,
+          "start": 49,
+          "tag": "NIGHTREIGN"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1770370244038873088",
+          "start": 3,
+          "username": "EldenRingAlert"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oEvWjTqCFs",
+          "end": 98,
+          "expanded_url": "https://x.com/EldenRingAlert/status/1946981031266877703/video/1",
+          "media_key": "7_1946980977940537344",
+          "start": 75,
+          "url": "https://t.co/oEvWjTqCFs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947070972227661828",
+    "lang": "sv",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946981031266877703",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EldenRingAlert: Stay still bruh \n\n#ELDENRING #NIGHTREIGN \n🎦smythyfiver https://t.co/oEvWjTqCFs"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1947070972227661828].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1947070972227661828",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1947070972227661828"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29305,
+        "height": 720,
+        "media_key": "7_1946980977940537344",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1946980977940537344/pu/img/nq3V-iK1WqV1j2mF.jpg",
+        "public_metrics": {
+          "view_count": 5693
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1946980977940537344/pu/vid/avc1/320x320/Tr9tKjW_6-N7fpnI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1946980977940537344/pu/vid/avc1/540x540/5pPHy5pMsD6vVSuT.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1946980977940537344/pu/vid/avc1/720x720/udEunCFE1soA58xH.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1946980977940537344/pu/pl/NbUWRwd_F9NFjNZV.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1946980977940537344"
+          ]
+        },
+        "author_id": "1770370244038873088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "1946981031266877703",
+        "created_at": "2025-07-20T17:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T18:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946981031266877703"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 18,
+              "tag": "ELDENRING"
+            },
+            {
+              "end": 40,
+              "start": 29,
+              "tag": "NIGHTREIGN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oEvWjTqCFs",
+              "end": 78,
+              "expanded_url": "https://x.com/EldenRingAlert/status/1946981031266877703/video/1",
+              "media_key": "7_1946980977940537344",
+              "start": 55,
+              "url": "https://t.co/oEvWjTqCFs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946981031266877703",
+        "lang": "sv",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 12621,
+          "like_count": 562,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "Stay still bruh \n\n#ELDENRING #NIGHTREIGN \n🎦smythyfiver https://t.co/oEvWjTqCFs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4441,
+          "following_count": 3535,
+          "like_count": 70971,
+          "listed_count": 7,
+          "media_count": 264,
+          "tweet_count": 6512
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-20T08:42:30.000Z",
+        "description": "Sharing news, leaks, and updates for Elden Ring,#Nightreign and other FromSoftware titles. Not affiliated with @ELDENRING.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 59,
+                "start": 48,
+                "tag": "Nightreign"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 121,
+                "start": 111,
+                "username": "ELDENRING"
+              }
+            ]
+          }
+        },
+        "id": "1770370244038873088",
+        "name": "ELDEN ALERTS",
+        "pinned_tweet_id": "1942589274840297614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925599479518117888/161KUfD4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41541,
+          "following_count": 7,
+          "like_count": 625,
+          "listed_count": 26,
+          "media_count": 554,
+          "tweet_count": 689
+        },
+        "username": "EldenRingAlert",
+        "verified": true
+      }
+    ]
+  }
+}

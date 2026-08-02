@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1979117605089624230",
+    "created_at": "2025-10-17T09:29:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T10:29:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979117605089624230"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wakahana77/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/wakahana77/status/1978852214752911459",
+          "start": 9,
+          "url": "https://t.co/1X05h7CIUN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979117605089624230",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978852214752911459",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "补药抛弃窝😭😭😭 https://t.co/1X05h7CIUN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1979117605089624230",
+        "created_at": "2025-10-17T09:29:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T10:29:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979117605089624230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wakahana77/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/wakahana77/status/1978852214752911459",
+              "start": 9,
+              "url": "https://t.co/1X05h7CIUN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979117605089624230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978852214752911459",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "补药抛弃窝😭😭😭 https://t.co/1X05h7CIUN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "863583848789024769",
+        "conversation_id": "1978852214752911459",
+        "created_at": "2025-10-16T15:55:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T16:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978852214752911459"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1978852214752911459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 606,
+          "like_count": 11,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "比讨厌更可怕的是不在乎，每次都感叹这句话的正确"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4678,
+          "following_count": 3586,
+          "like_count": 74221,
+          "listed_count": 9,
+          "media_count": 308,
+          "tweet_count": 7160
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-14T02:36:48.000Z",
+        "description": "中文/English/日本語 | 🏳️‍🌈",
+        "id": "863583848789024769",
+        "name": "🌸",
+        "pinned_tweet_id": "1978681061321126189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922234132521680896/QSsgk6MY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 116,
+          "like_count": 18586,
+          "listed_count": 0,
+          "media_count": 395,
+          "tweet_count": 7211
+        },
+        "username": "wakahana77",
+        "verified": false
+      }
+    ]
+  }
+}

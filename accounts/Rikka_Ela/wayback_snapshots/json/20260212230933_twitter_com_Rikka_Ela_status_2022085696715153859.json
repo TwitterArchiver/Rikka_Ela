@@ -1,0 +1,500 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1575492093224419328",
+          "name": "State of Play"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "872842877063147521",
+          "name": "Bloodborne"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "872842877063147521",
+          "name": "Bloodborne"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Bloodborne",
+          "id": "10049908034",
+          "name": "Bloodborne"
+        }
+      }
+    ],
+    "conversation_id": "2022085696715153859",
+    "created_at": "2026-02-12T23:09:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T00:09:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022085696715153859"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "bloodborne",
+          "probability": 0.7564,
+          "start": 12,
+          "type": "Other"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/fromsoftcentra…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/fromsoftcentral/status/2021962051850318206",
+          "start": 36,
+          "url": "https://t.co/1g49joHJol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022085696715153859",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021962051850318206",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "If still no bloodborne PC news, me: https://t.co/1g49joHJol"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 404,
+        "media_key": "3_2021962048142262272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA9zxRzXQAAz83N.jpg",
+        "width": 820
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1575492093224419328",
+              "name": "State of Play"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "872842877063147521",
+              "name": "Bloodborne"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "872842877063147521",
+              "name": "Bloodborne"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Bloodborne",
+              "id": "10049908034",
+              "name": "Bloodborne"
+            }
+          }
+        ],
+        "conversation_id": "2022085696715153859",
+        "created_at": "2026-02-12T23:09:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T00:09:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022085696715153859"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "bloodborne",
+              "probability": 0.7564,
+              "start": 12,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/fromsoftcentra…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/fromsoftcentral/status/2021962051850318206",
+              "start": 36,
+              "url": "https://t.co/1g49joHJol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022085696715153859",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021962051850318206",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "If still no bloodborne PC news, me: https://t.co/1g49joHJol"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021962048142262272"
+          ]
+        },
+        "author_id": "1801254216725409792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1575492093224419328",
+              "name": "State of Play"
+            }
+          }
+        ],
+        "conversation_id": "2021962051850318206",
+        "created_at": "2026-02-12T14:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T15:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021962051850318206"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "of Play",
+              "probability": 0.5115,
+              "start": 6,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wIrBwAzDh5",
+              "end": 66,
+              "expanded_url": "https://x.com/FromSoftCentral/status/2021962051850318206/photo/1",
+              "media_key": "3_2021962048142262272",
+              "start": 43,
+              "url": "https://t.co/wIrBwAzDh5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021962051850318206",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 177,
+          "impression_count": 138758,
+          "like_count": 5344,
+          "quote_count": 16,
+          "reply_count": 12,
+          "retweet_count": 263
+        },
+        "reply_settings": "everyone",
+        "text": "State of Play at 5pm.\n\nState of me at 6pm: https://t.co/wIrBwAzDh5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4870,
+          "following_count": 3708,
+          "like_count": 79094,
+          "listed_count": 9,
+          "media_count": 372,
+          "tweet_count": 8210
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-13T14:04:26.000Z",
+        "description": "News, memes & everything FromSoft (& soulslikes) | This is a fan acct. not affiliated w/ FromSoft | Amazon Affiliate | Biz Inquires: fromsoftcentral@yahoo.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/fromsoftnews",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/fromsoftnews",
+                "start": 0,
+                "url": "https://t.co/vp2Wby17Ok"
+              }
+            ]
+          }
+        },
+        "id": "1801254216725409792",
+        "location": "👇Streaming 3x/week on YouTube",
+        "name": "FromSoft Central",
+        "pinned_tweet_id": "2021379034480078895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926622248095338497/XW3lBufM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22012,
+          "following_count": 264,
+          "like_count": 15358,
+          "listed_count": 32,
+          "media_count": 2759,
+          "tweet_count": 9848
+        },
+        "url": "https://t.co/vp2Wby17Ok",
+        "username": "FromSoftCentral",
+        "verified": true
+      }
+    ]
+  }
+}

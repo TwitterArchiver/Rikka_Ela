@@ -1,0 +1,191 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1805798403471012194",
+    "created_at": "2024-06-26T20:30:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-26T21:30:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806062554554544433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1596416860752207872",
+          "start": 0,
+          "username": "Longlinlon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806062554554544433",
+    "in_reply_to_user_id": "1596416860752207872",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805798403471012194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Longlinlon 我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1805798403471012194",
+        "created_at": "2024-06-26T20:30:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T21:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806062554554544433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596416860752207872",
+              "start": 0,
+              "username": "Longlinlon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806062554554544433",
+        "in_reply_to_user_id": "1596416860752207872",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805798403471012194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Longlinlon 我"
+      },
+      {
+        "attachments": {},
+        "author_id": "1596416860752207872",
+        "conversation_id": "1805798403471012194",
+        "created_at": "2024-06-26T03:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T04:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805798403471012194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/8964Low1Q9/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/8964Low1Q9/status/1805788231952482465",
+              "start": 5,
+              "url": "https://t.co/seIg3Vw0uc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805798403471012194",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1085,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805788231952482465",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哪位推友 https://t.co/seIg3Vw0uc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UNNC‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2130,
+          "following_count": 2724,
+          "like_count": 40073,
+          "listed_count": 5,
+          "tweet_count": 2505
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T08:13:47.000Z",
+        "description": "🌸mtf ‖ 爱人 @KagurazakaSenba 🌸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "KagurazakaSenba"
+              }
+            ]
+          }
+        },
+        "id": "1596416860752207872",
+        "location": "崆",
+        "name": "-Wiggin",
+        "pinned_tweet_id": "1803101471669641352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780952872995393537/tuOlbGLs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1708,
+          "following_count": 2016,
+          "like_count": 144656,
+          "listed_count": 10,
+          "tweet_count": 10244
+        },
+        "username": "Longlinlon",
+        "verified": false
+      }
+    ]
+  }
+}

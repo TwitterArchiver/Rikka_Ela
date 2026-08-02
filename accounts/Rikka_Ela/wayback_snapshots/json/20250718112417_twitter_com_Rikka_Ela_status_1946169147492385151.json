@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1946145375078993999",
+    "created_at": "2025-07-18T11:24:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T12:24:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946169147492385151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1807107145756008448",
+          "start": 0,
+          "username": "KagurazakaAzure"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946169147492385151",
+    "in_reply_to_user_id": "1807107145756008448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946145375078993999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KagurazakaAzure 怎么把我发出来了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19508,
+        "height": 1280,
+        "media_key": "13_1946145304237281280",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1946145304237281280/img/3kN4_ebXiUVaSaeN.jpg",
+        "public_metrics": {
+          "view_count": 198
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1946145304237281280/vid/avc1/320x568/GE4GHx9C9vzXvTf7.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1946145304237281280/vid/avc1/480x852/PoPmN4V6vZpXqGBP.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1946145304237281280/vid/avc1/720x1280/btI1_ftWI5axPr0-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1946145304237281280/pl/OpPZfmQyUfm5QIU-.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1946145375078993999",
+        "created_at": "2025-07-18T11:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T12:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946169147492385151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1807107145756008448",
+              "start": 0,
+              "username": "KagurazakaAzure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946169147492385151",
+        "in_reply_to_user_id": "1807107145756008448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946145375078993999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KagurazakaAzure 怎么把我发出来了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1946145304237281280"
+          ]
+        },
+        "author_id": "1807107145756008448",
+        "conversation_id": "1946145375078993999",
+        "created_at": "2025-07-18T09:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T10:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946145375078993999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lFLj5XY1Zs",
+              "end": 30,
+              "expanded_url": "https://x.com/KagurazakaAzure/status/1946145375078993999/video/1",
+              "media_key": "13_1946145304237281280",
+              "start": 7,
+              "url": "https://t.co/lFLj5XY1Zs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946145375078993999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 585,
+          "like_count": 25,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈呀你们一中 https://t.co/lFLj5XY1Zs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4445,
+          "following_count": 3535,
+          "like_count": 70812,
+          "listed_count": 7,
+          "media_count": 263,
+          "tweet_count": 6488
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "⛩️🌊⁉️“洞烛の摩耶” | 避雷概率掉落R18🔞｜líng ｜MtX｜🍥hrt24.4.20｜持证ADHD&ASD｜179cm55kg｜🇬🇧英区留子｜08｜重庆｜入坑半年音游 ｜Arcaea&maimaiでらっくす｜Arc ptt 11.00｜买雌二醇找@minokakay｜洞烛@juhao0721❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 128,
+                "username": "minokakay"
+              },
+              {
+                "end": 151,
+                "start": 141,
+                "username": "juhao0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/zULBkaIhWS"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "「查看更多」里面有自我介绍⬇️",
+        "name": "。InSightの⛩️まや_翎",
+        "pinned_tweet_id": "1900823119130227094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941707843977261056/0OzLQ_0g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7886,
+          "following_count": 1100,
+          "like_count": 36303,
+          "listed_count": 9,
+          "media_count": 2591,
+          "tweet_count": 20771
+        },
+        "url": "https://t.co/zULBkaIhWS",
+        "username": "KagurazakaAzure",
+        "verified": true
+      }
+    ]
+  }
+}

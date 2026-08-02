@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2036974001013358924",
+    "created_at": "2026-03-26T18:07:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T19:07:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037229913124614267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1529658600649539584",
+          "start": 0,
+          "username": "DrSunan2022422"
+        },
+        {
+          "end": 27,
+          "id": "1621552410048237569",
+          "start": 16,
+          "username": "amecandy_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037229913124614267",
+    "in_reply_to_user_id": "1529658600649539584",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037088807141666824",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DrSunan2022422 @amecandy_x ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2036974001013358924",
+        "created_at": "2026-03-26T18:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T19:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037229913124614267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1529658600649539584",
+              "start": 0,
+              "username": "DrSunan2022422"
+            },
+            {
+              "end": 27,
+              "id": "1621552410048237569",
+              "start": 16,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037229913124614267",
+        "in_reply_to_user_id": "1529658600649539584",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037088807141666824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrSunan2022422 @amecandy_x ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529658600649539584",
+        "conversation_id": "2036974001013358924",
+        "created_at": "2026-03-26T08:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T09:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037088807141666824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1621552410048237569",
+              "start": 0,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037088807141666824",
+        "in_reply_to_user_id": "1621552410048237569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 101,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036974001013358924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amecandy_x 姐你这是😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5009,
+          "following_count": 3729,
+          "like_count": 80690,
+          "listed_count": 9,
+          "media_count": 390,
+          "tweet_count": 8651
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-26T03:00:24.000Z",
+        "description": "一般路过土豆地雷系女高 /喜欢油豆腐的赛博狐狸 | 要素过多啥都能聊 | | 业余喜欢写小说 |睿智的P社玩家｜看到有趣的人会回关｜最闹麻的主任@CnDiode｜最爱的姐姐@g60Yts1kvzO4g8q",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 72,
+                "username": "CnDiode"
+              },
+              {
+                "end": 102,
+                "start": 86,
+                "username": "g60Yts1kvzO4g8q"
+              }
+            ]
+          }
+        },
+        "id": "1529658600649539584",
+        "location": "SCP基金会中国分部34号站点",
+        "name": "SCP-Dr.Sunan🐾",
+        "pinned_tweet_id": "1977929373727834336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1530385867826556928/p_rx1WWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3431,
+          "following_count": 773,
+          "like_count": 40058,
+          "listed_count": 10,
+          "media_count": 401,
+          "tweet_count": 5762
+        },
+        "username": "DrSunan2022422",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "🚬/ 07年 / 跨性别女性 / radical communist / ally / 大模型 / 独立AI研究者 / biohack / 競馬 / Vocaloid / 铁道迷 / @whitecloud_ybw ❤️/欢迎有聊无聊的人找我玩，私信即可",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 92,
+                "username": "whitecloud_ybw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "山东·济南",
+        "name": "小雨",
+        "pinned_tweet_id": "2033907657996963865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023354415944495104/Uixnel15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5844,
+          "following_count": 2036,
+          "like_count": 26575,
+          "listed_count": 16,
+          "media_count": 1356,
+          "tweet_count": 9732
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1874045677287919790",
+    "created_at": "2024-12-31T11:30:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-31T12:30:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1874055455758286856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1611741965531615233",
+          "start": 0,
+          "username": "xynzjz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874055455758286856",
+    "in_reply_to_user_id": "1611741965531615233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874054312315469935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xynzjz 可能我体质不行😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1874045677287919790",
+        "created_at": "2024-12-31T11:30:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T12:30:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874055455758286856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1611741965531615233",
+              "start": 0,
+              "username": "xynzjz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874055455758286856",
+        "in_reply_to_user_id": "1611741965531615233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874054312315469935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xynzjz 可能我体质不行😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611741965531615233",
+        "conversation_id": "1874045677287919790",
+        "created_at": "2024-12-31T11:25:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-31T12:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874054312315469935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874054312315469935",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874045677287919790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 抱抱这么严重吗？我SRS之后都没有这样。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3323,
+          "following_count": 3160,
+          "like_count": 56431,
+          "listed_count": 7,
+          "media_count": 158,
+          "tweet_count": 4438
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-07T15:10:18.000Z",
+        "description": "mtf/QQ：3146524861",
+        "id": "1611741965531615233",
+        "location": "中国大陆",
+        "name": "虾虾喵喵",
+        "pinned_tweet_id": "1710482550467240101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836661388514848768/G6j_5dAj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 656,
+          "like_count": 116,
+          "listed_count": 2,
+          "media_count": 30,
+          "tweet_count": 237
+        },
+        "username": "xynzjz",
+        "verified": false
+      }
+    ]
+  }
+}

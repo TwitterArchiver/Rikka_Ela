@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1821920565860720738",
+    "created_at": "2024-08-09T15:44:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-09T16:44:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1821935629959360874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "111942564",
+          "start": 0,
+          "username": "boiledwater"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821935629959360874",
+    "in_reply_to_user_id": "111942564",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821920565860720738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boiledwater 🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1821920565860720738",
+        "created_at": "2024-08-09T15:44:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-09T16:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821935629959360874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "111942564",
+              "start": 0,
+              "username": "boiledwater"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821935629959360874",
+        "in_reply_to_user_id": "111942564",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821920565860720738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boiledwater 🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "111942564",
+        "conversation_id": "1821920565860720738",
+        "created_at": "2024-08-09T14:44:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-09T15:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821920565860720738"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1821920565860720738",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2239,
+          "like_count": 98,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "女儿：我上次和Elina亲嘴了。我是lesbian吗？\n\n我：你来决定。现在不确定也没关系，你还有很长的时间探索，有很多的可能性可以选择。\n\n女儿：你和爸爸都是straight的，如果我是lesbian，你们会不高兴吗？\n\n我：不会的啊！我们爱你，爱你的一切。\n\n于是我想到了性少数在顺直老保子父母面前得多么压抑。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2346,
+          "following_count": 2872,
+          "like_count": 45564,
+          "listed_count": 6,
+          "tweet_count": 2991
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-06T17:49:59.000Z",
+        "description": "打破原生家庭之环的人，只能是你自己。",
+        "id": "111942564",
+        "location": "Stockholm, Sweden",
+        "name": "Jess",
+        "pinned_tweet_id": "1732176179971436769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1601123559812009984/2vI25CZP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35850,
+          "following_count": 1708,
+          "like_count": 25314,
+          "listed_count": 144,
+          "tweet_count": 29964
+        },
+        "username": "boiledwater",
+        "verified": true
+      }
+    ]
+  }
+}

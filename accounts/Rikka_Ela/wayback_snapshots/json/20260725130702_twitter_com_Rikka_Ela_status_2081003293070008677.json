@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2081003293070008677",
+    "created_at": "2026-07-25T13:07:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T14:07:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081003293070008677"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nothousand/sta…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/nothousand/status/2081003079009554666",
+          "start": 15,
+          "url": "https://t.co/ZwgzVBqXF1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081003293070008677",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081003079009554666",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我现在就这样🥲怎么办呀……😭 https://t.co/ZwgzVBqXF1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2081003293070008677",
+        "created_at": "2026-07-25T13:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081003293070008677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nothousand/sta…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/nothousand/status/2081003079009554666",
+              "start": 15,
+              "url": "https://t.co/ZwgzVBqXF1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081003293070008677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081003079009554666",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我现在就这样🥲怎么办呀……😭 https://t.co/ZwgzVBqXF1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "623965569",
+        "conversation_id": "2081003079009554666",
+        "created_at": "2026-07-25T13:06:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:06:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081003079009554666"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081003079009554666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来术完后弄丢活下去的理由是这样一种感觉\n（不要担心我只是体验到了，以我的心理状态不至于去实践 。熟悉我的人应该知道我有很强的通感能力）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6443,
+          "following_count": 3773,
+          "like_count": 85965,
+          "listed_count": 9,
+          "media_count": 450,
+          "tweet_count": 10018
+        },
+        "url": "",
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-01T16:27:02.000Z",
+        "description": "并非这个世界的生命体",
+        "id": "623965569",
+        "location": "earth",
+        "name": "菁芊镜華",
+        "pinned_tweet_id": "2067307566095556947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079387399390695424/1IPeK7Oz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2956,
+          "following_count": 124,
+          "like_count": 9254,
+          "listed_count": 8,
+          "media_count": 571,
+          "tweet_count": 5853
+        },
+        "url": "",
+        "username": "nothousand",
+        "verified": false
+      }
+    ]
+  }
+}

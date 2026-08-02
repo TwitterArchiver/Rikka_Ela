@@ -1,0 +1,437 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002318754706042881",
+        "3_2002318754705985537",
+        "3_2002318754701848576",
+        "3_2002318754697674752"
+      ],
+      "media_source_tweet_id": [
+        "2002318847798587840",
+        "2002318847798587840",
+        "2002318847798587840",
+        "2002318847798587840"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2002381234547159335",
+    "created_at": "2025-12-20T14:11:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T15:11:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002381234547159335"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 27,
+          "normalized_text": "BLACKSOULS",
+          "probability": 0.5086,
+          "start": 18,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 17,
+          "tag": "BLACKSOULS"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1648077503158972417",
+          "start": 3,
+          "username": "Teiteiis511"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OncBCaOI0E",
+          "end": 60,
+          "expanded_url": "https://x.com/Teiteiis511/status/2002318847798587840/photo/1",
+          "media_key": "3_2002318754706042881",
+          "start": 37,
+          "url": "https://t.co/OncBCaOI0E"
+        },
+        {
+          "display_url": "pic.x.com/OncBCaOI0E",
+          "end": 60,
+          "expanded_url": "https://x.com/Teiteiis511/status/2002318847798587840/photo/1",
+          "media_key": "3_2002318754705985537",
+          "start": 37,
+          "url": "https://t.co/OncBCaOI0E"
+        },
+        {
+          "display_url": "pic.x.com/OncBCaOI0E",
+          "end": 60,
+          "expanded_url": "https://x.com/Teiteiis511/status/2002318847798587840/photo/1",
+          "media_key": "3_2002318754701848576",
+          "start": 37,
+          "url": "https://t.co/OncBCaOI0E"
+        },
+        {
+          "display_url": "pic.x.com/OncBCaOI0E",
+          "end": 60,
+          "expanded_url": "https://x.com/Teiteiis511/status/2002318847798587840/photo/1",
+          "media_key": "3_2002318754697674752",
+          "start": 37,
+          "url": "https://t.co/OncBCaOI0E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002381234547159335",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 88
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002318847798587840",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Teiteiis511: #BLACKSOULS No game https://t.co/OncBCaOI0E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2304,
+        "media_key": "3_2002318754706042881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8mqTHVbMAExOqJ.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2002318754705985537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8mqTHVaUAEUm_5.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2002318754701848576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8mqTHUbMAAlu9Q.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2002318754697674752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8mqTHTbgAA0Rwj.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002318754706042881",
+            "3_2002318754705985537",
+            "3_2002318754701848576",
+            "3_2002318754697674752"
+          ],
+          "media_source_tweet_id": [
+            "2002318847798587840",
+            "2002318847798587840",
+            "2002318847798587840",
+            "2002318847798587840"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2002381234547159335",
+        "created_at": "2025-12-20T14:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T15:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002381234547159335"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "BLACKSOULS",
+              "probability": 0.5086,
+              "start": 18,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 17,
+              "tag": "BLACKSOULS"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1648077503158972417",
+              "start": 3,
+              "username": "Teiteiis511"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OncBCaOI0E",
+              "end": 60,
+              "expanded_url": "https://x.com/Teiteiis511/status/2002318847798587840/photo/1",
+              "media_key": "3_2002318754706042881",
+              "start": 37,
+              "url": "https://t.co/OncBCaOI0E"
+            },
+            {
+              "display_url": "pic.x.com/OncBCaOI0E",
+              "end": 60,
+              "expanded_url": "https://x.com/Teiteiis511/status/2002318847798587840/photo/1",
+              "media_key": "3_2002318754705985537",
+              "start": 37,
+              "url": "https://t.co/OncBCaOI0E"
+            },
+            {
+              "display_url": "pic.x.com/OncBCaOI0E",
+              "end": 60,
+              "expanded_url": "https://x.com/Teiteiis511/status/2002318847798587840/photo/1",
+              "media_key": "3_2002318754701848576",
+              "start": 37,
+              "url": "https://t.co/OncBCaOI0E"
+            },
+            {
+              "display_url": "pic.x.com/OncBCaOI0E",
+              "end": 60,
+              "expanded_url": "https://x.com/Teiteiis511/status/2002318847798587840/photo/1",
+              "media_key": "3_2002318754697674752",
+              "start": 37,
+              "url": "https://t.co/OncBCaOI0E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002381234547159335",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 88
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002318847798587840",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Teiteiis511: #BLACKSOULS No game https://t.co/OncBCaOI0E"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002318754706042881",
+            "3_2002318754705985537",
+            "3_2002318754701848576",
+            "3_2002318754697674752"
+          ]
+        },
+        "author_id": "1648077503158972417",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2002318847798587840",
+        "created_at": "2025-12-20T10:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T11:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002318847798587840"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "BLACKSOULS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OncBCaOI0E",
+              "end": 43,
+              "expanded_url": "https://x.com/Teiteiis511/status/2002318847798587840/photo/1",
+              "media_key": "3_2002318754706042881",
+              "start": 20,
+              "url": "https://t.co/OncBCaOI0E"
+            },
+            {
+              "display_url": "pic.x.com/OncBCaOI0E",
+              "end": 43,
+              "expanded_url": "https://x.com/Teiteiis511/status/2002318847798587840/photo/1",
+              "media_key": "3_2002318754705985537",
+              "start": 20,
+              "url": "https://t.co/OncBCaOI0E"
+            },
+            {
+              "display_url": "pic.x.com/OncBCaOI0E",
+              "end": 43,
+              "expanded_url": "https://x.com/Teiteiis511/status/2002318847798587840/photo/1",
+              "media_key": "3_2002318754701848576",
+              "start": 20,
+              "url": "https://t.co/OncBCaOI0E"
+            },
+            {
+              "display_url": "pic.x.com/OncBCaOI0E",
+              "end": 43,
+              "expanded_url": "https://x.com/Teiteiis511/status/2002318847798587840/photo/1",
+              "media_key": "3_2002318754697674752",
+              "start": 20,
+              "url": "https://t.co/OncBCaOI0E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002318847798587840",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 162,
+          "impression_count": 8780,
+          "like_count": 725,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 88
+        },
+        "reply_settings": "everyone",
+        "text": "#BLACKSOULS No game https://t.co/OncBCaOI0E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4824,
+          "following_count": 3657,
+          "like_count": 77580,
+          "listed_count": 8,
+          "media_count": 348,
+          "tweet_count": 7753
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T21:34:43.000Z",
+        "description": "🌹",
+        "id": "1648077503158972417",
+        "name": "Nan",
+        "pinned_tweet_id": "1998165382704800005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999566466828603392/WJ8TjkIR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1685,
+          "following_count": 326,
+          "like_count": 4364,
+          "listed_count": 4,
+          "media_count": 138,
+          "tweet_count": 445
+        },
+        "username": "Teiteiis511",
+        "verified": false
+      }
+    ]
+  }
+}

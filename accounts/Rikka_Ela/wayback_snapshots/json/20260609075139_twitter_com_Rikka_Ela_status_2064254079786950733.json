@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2063674796911534427",
+    "created_at": "2026-06-09T07:51:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T08:51:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064254079786950733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1949519427009130497",
+          "start": 0,
+          "username": "aosanwusang"
+        },
+        {
+          "end": 22,
+          "id": "923604035126603778",
+          "start": 13,
+          "username": "KARDSccg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064254079786950733",
+    "in_reply_to_user_id": "1949519427009130497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063795875714056608",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aosanwusang @KARDSccg T34，碰碰车卡组可以用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2063674796911534427",
+        "created_at": "2026-06-09T07:51:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T08:51:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064254079786950733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1949519427009130497",
+              "start": 0,
+              "username": "aosanwusang"
+            },
+            {
+              "end": 22,
+              "id": "923604035126603778",
+              "start": 13,
+              "username": "KARDSccg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064254079786950733",
+        "in_reply_to_user_id": "1949519427009130497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063795875714056608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aosanwusang @KARDSccg T34，碰碰车卡组可以用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949519427009130497",
+        "conversation_id": "2063674796911534427",
+        "created_at": "2026-06-08T01:30:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T02:30:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063795875714056608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "923604035126603778",
+              "start": 0,
+              "username": "KARDSccg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063795875714056608",
+        "in_reply_to_user_id": "923604035126603778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063674796911534427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KARDSccg 你出的这个苏联2阶段有啥用啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5393,
+          "following_count": 3771,
+          "like_count": 85924,
+          "listed_count": 7,
+          "media_count": 440,
+          "tweet_count": 9712
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-27T17:17:23.000Z",
+        "description": "",
+        "id": "1949519427009130497",
+        "name": "aosanwu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949519499541278720/PdJ9TKDt_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 33,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "aosanwusang",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-26T17:35:36.000Z",
+        "description": "The WWII Card Game",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kards.com",
+                "end": 23,
+                "expanded_url": "https://www.kards.com",
+                "start": 0,
+                "url": "https://t.co/Bvri3fgzF4"
+              }
+            ]
+          }
+        },
+        "id": "923604035126603778",
+        "location": "Iceland",
+        "name": "KARDS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1184144677529935872/ddMRde1Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8717,
+          "following_count": 6,
+          "like_count": 393,
+          "listed_count": 27,
+          "media_count": 1060,
+          "tweet_count": 1626
+        },
+        "url": "https://t.co/Bvri3fgzF4",
+        "username": "KARDSccg",
+        "verified": false
+      }
+    ]
+  }
+}

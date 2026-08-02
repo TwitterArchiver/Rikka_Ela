@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2078047522568974524",
+    "created_at": "2026-07-17T16:22:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T17:22:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078153334129881293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1772125073937199104",
+          "start": 0,
+          "username": "xnan432624"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078153334129881293",
+    "in_reply_to_user_id": "1772125073937199104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078069824337662347",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xnan432624 浙江某地级市"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2078047522568974524",
+        "created_at": "2026-07-17T16:22:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T17:22:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078153334129881293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1772125073937199104",
+              "start": 0,
+              "username": "xnan432624"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078153334129881293",
+        "in_reply_to_user_id": "1772125073937199104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078069824337662347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xnan432624 浙江某地级市"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1772125073937199104",
+        "conversation_id": "2078047522568974524",
+        "created_at": "2026-07-17T10:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T11:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078069824337662347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078069824337662347",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 230,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078047522568974524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 在哪个地区啊，为啥这样要求"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6297,
+          "following_count": 3769,
+          "like_count": 86219,
+          "listed_count": 7,
+          "media_count": 448,
+          "tweet_count": 9979
+        },
+        "url": "",
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-25T04:55:34.000Z",
+        "description": "🏳️‍⚧️/Be who you want to be.🐖🐖🐖🐖🐖🐖🐖🐖🐖",
+        "id": "1772125073937199104",
+        "location": "wellwellwell",
+        "name": "JINNN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077734563162595328/iB9NbKgG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 429,
+          "like_count": 9836,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 629
+        },
+        "url": "",
+        "username": "xnan432624",
+        "verified": false
+      }
+    ]
+  }
+}

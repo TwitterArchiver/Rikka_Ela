@@ -1,0 +1,680 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050298196530733057"
+      ],
+      "media_source_tweet_id": [
+        "2050298808576209077"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10044774920",
+          "name": "Dark Souls"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10044774920",
+          "name": "Dark Souls"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900785013129216",
+          "name": "Soulslike games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      }
+    ],
+    "conversation_id": "2050326015411409157",
+    "created_at": "2026-05-01T21:26:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T22:26:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050326015411409157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2980930011",
+          "start": 3,
+          "username": "ArtStationHQ_"
+        },
+        {
+          "end": 102,
+          "id": "3312369037",
+          "start": 95,
+          "username": "ZYZ_02"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/p0n98DCTYG",
+          "end": 126,
+          "expanded_url": "https://x.com/ArtStationHQ_/status/2050298808576209077/photo/1",
+          "media_key": "3_2050298196530733057",
+          "start": 103,
+          "url": "https://t.co/p0n98DCTYG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050326015411409157",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050298808576209077",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ArtStationHQ_: ⛈️ Illustration / Dark Souls III · \"The Ashen One Against Nameless King\"\n\n— @ZYZ_02 https://t.co/p0n98DCTYG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3070,
+        "media_key": "3_2050298196530733057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHQfWMfWoAEYdMV.jpg",
+        "width": 2176
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050298196530733057"
+          ],
+          "media_source_tweet_id": [
+            "2050298808576209077"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044774920",
+              "name": "Dark Souls"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044774920",
+              "name": "Dark Souls"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900785013129216",
+              "name": "Soulslike games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2050326015411409157",
+        "created_at": "2026-05-01T21:26:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T22:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050326015411409157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2980930011",
+              "start": 3,
+              "username": "ArtStationHQ_"
+            },
+            {
+              "end": 102,
+              "id": "3312369037",
+              "start": 95,
+              "username": "ZYZ_02"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p0n98DCTYG",
+              "end": 126,
+              "expanded_url": "https://x.com/ArtStationHQ_/status/2050298808576209077/photo/1",
+              "media_key": "3_2050298196530733057",
+              "start": 103,
+              "url": "https://t.co/p0n98DCTYG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050326015411409157",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050298808576209077",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ArtStationHQ_: ⛈️ Illustration / Dark Souls III · \"The Ashen One Against Nameless King\"\n\n— @ZYZ_02 https://t.co/p0n98DCTYG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050298196530733057"
+          ]
+        },
+        "author_id": "2980930011",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044774920",
+              "name": "Dark Souls"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044774920",
+              "name": "Dark Souls"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900785013129216",
+              "name": "Soulslike games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2050298808576209077",
+        "created_at": "2026-05-01T19:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T20:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050298808576209077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 83,
+              "id": "3312369037",
+              "start": 76,
+              "username": "ZYZ_02"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p0n98DCTYG",
+              "end": 107,
+              "expanded_url": "https://x.com/ArtStationHQ_/status/2050298808576209077/photo/1",
+              "media_key": "3_2050298196530733057",
+              "start": 84,
+              "url": "https://t.co/p0n98DCTYG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050298808576209077",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1341,
+          "like_count": 102,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "⛈️ Illustration / Dark Souls III · \"The Ashen One Against Nameless King\"\n\n— @ZYZ_02 https://t.co/p0n98DCTYG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5168,
+          "following_count": 3755,
+          "like_count": 83025,
+          "listed_count": 10,
+          "media_count": 422,
+          "tweet_count": 9213
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-16T11:13:49.000Z",
+        "description": "Sharing daily #FanArt, #PixelArt and #OfficialArt cross gaming, anime, manga, comics and etc realms every day! ✨🎨 (promo open) ✉️ Sub: @KanzuFigs",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 21,
+                "start": 14,
+                "tag": "FanArt"
+              },
+              {
+                "end": 32,
+                "start": 23,
+                "tag": "PixelArt"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "tag": "OfficialArt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 145,
+                "start": 135,
+                "username": "KanzuFigs"
+              }
+            ]
+          }
+        },
+        "id": "2980930011",
+        "name": "ArtShareHQ",
+        "pinned_tweet_id": "2050298808576209077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028782441092075520/ahQG0kpW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103702,
+          "following_count": 3780,
+          "like_count": 3540,
+          "listed_count": 427,
+          "media_count": 7765,
+          "tweet_count": 8333
+        },
+        "username": "ArtStationHQ_",
+        "verified": true
+      },
+      {
+        "created_at": "2015-08-11T10:47:24.000Z",
+        "description": "",
+        "id": "3312369037",
+        "location": "中华人民共和国",
+        "name": "HAOXIN Z",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/649262387472781312/X3sZAjEc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 25,
+          "like_count": 6,
+          "listed_count": 5,
+          "media_count": 48,
+          "tweet_count": 63
+        },
+        "username": "ZYZ_02",
+        "verified": false
+      }
+    ]
+  }
+}

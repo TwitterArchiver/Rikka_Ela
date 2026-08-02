@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1955123141833003011"
+      ],
+      "media_source_tweet_id": [
+        "1955123144580284692"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "conversation_id": "1955276834674761748",
+    "created_at": "2025-08-12T14:34:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T15:34:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955276834674761748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1815588883482165248",
+          "start": 3,
+          "username": "Cheese_yogurt33"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/smXia6PvXO",
+          "end": 44,
+          "expanded_url": "https://x.com/Cheese_yogurt33/status/1955123144580284692/photo/1",
+          "media_key": "3_1955123141833003011",
+          "start": 21,
+          "url": "https://t.co/smXia6PvXO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955276834674761748",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955123144580284692",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cheese_yogurt33: https://t.co/smXia6PvXO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 764,
+        "media_key": "3_1955123141833003011",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyH-I4kaEAMOwc_.jpg",
+        "width": 1042
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955123141833003011"
+          ],
+          "media_source_tweet_id": [
+            "1955123144580284692"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "1955276834674761748",
+        "created_at": "2025-08-12T14:34:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T15:34:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955276834674761748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1815588883482165248",
+              "start": 3,
+              "username": "Cheese_yogurt33"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/smXia6PvXO",
+              "end": 44,
+              "expanded_url": "https://x.com/Cheese_yogurt33/status/1955123144580284692/photo/1",
+              "media_key": "3_1955123141833003011",
+              "start": 21,
+              "url": "https://t.co/smXia6PvXO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955276834674761748",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955123144580284692",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cheese_yogurt33: https://t.co/smXia6PvXO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955123141833003011"
+          ]
+        },
+        "author_id": "1815588883482165248",
+        "conversation_id": "1955123144580284692",
+        "created_at": "2025-08-12T04:24:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T05:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955123144580284692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/smXia6PvXO",
+              "end": 23,
+              "expanded_url": "https://x.com/Cheese_yogurt33/status/1955123144580284692/photo/1",
+              "media_key": "3_1955123141833003011",
+              "start": 0,
+              "url": "https://t.co/smXia6PvXO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955123144580284692",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 25369,
+          "like_count": 516,
+          "quote_count": 3,
+          "reply_count": 18,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/smXia6PvXO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4452,
+          "following_count": 3542,
+          "like_count": 71804,
+          "listed_count": 7,
+          "media_count": 283,
+          "tweet_count": 6738
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T03:25:04.000Z",
+        "description": "I know you're tired of loving",
+        "id": "1815588883482165248",
+        "location": "你心里",
+        "name": "芝士酸奶",
+        "pinned_tweet_id": "1902738900948521285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954050784116797440/s5plBH2B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12655,
+          "following_count": 702,
+          "like_count": 9103,
+          "listed_count": 42,
+          "media_count": 306,
+          "tweet_count": 853
+        },
+        "username": "Cheese_yogurt33",
+        "verified": false
+      }
+    ]
+  }
+}

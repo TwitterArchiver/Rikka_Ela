@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975502375281696771"
+      ],
+      "media_source_tweet_id": [
+        "1975502806254842133"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1975700286216765443",
+    "created_at": "2025-10-07T23:10:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T00:10:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975700286216765443"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 44,
+          "normalized_text": "Nanaya",
+          "probability": 0.671,
+          "start": 39,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "818813151458136064",
+          "start": 3,
+          "username": "Chun_Grandfa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Fp5BlSfiqm",
+          "end": 73,
+          "expanded_url": "https://x.com/Chun_Grandfa/status/1975502806254842133/photo/1",
+          "media_key": "3_1975502375281696771",
+          "start": 50,
+          "url": "https://t.co/Fp5BlSfiqm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975700286216765443",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1284
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975502806254842133",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chun_Grandfa: \"forgive me, dearest Nanaya...\" https://t.co/Fp5BlSfiqm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2306,
+        "media_key": "3_1975502375281696771",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2pk8ZObIAME-Mj.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975502375281696771"
+          ],
+          "media_source_tweet_id": [
+            "1975502806254842133"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1975700286216765443",
+        "created_at": "2025-10-07T23:10:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T00:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975700286216765443"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 44,
+              "normalized_text": "Nanaya",
+              "probability": 0.671,
+              "start": 39,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "818813151458136064",
+              "start": 3,
+              "username": "Chun_Grandfa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fp5BlSfiqm",
+              "end": 73,
+              "expanded_url": "https://x.com/Chun_Grandfa/status/1975502806254842133/photo/1",
+              "media_key": "3_1975502375281696771",
+              "start": 50,
+              "url": "https://t.co/Fp5BlSfiqm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975700286216765443",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1284
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975502806254842133",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chun_Grandfa: \"forgive me, dearest Nanaya...\" https://t.co/Fp5BlSfiqm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975502375281696771"
+          ]
+        },
+        "author_id": "818813151458136064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1975502806254842133",
+        "created_at": "2025-10-07T10:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T11:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975502806254842133"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "Nanaya",
+              "probability": 0.6529,
+              "start": 21,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fp5BlSfiqm",
+              "end": 55,
+              "expanded_url": "https://x.com/Chun_Grandfa/status/1975502806254842133/photo/1",
+              "media_key": "3_1975502375281696771",
+              "start": 32,
+              "url": "https://t.co/Fp5BlSfiqm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975502806254842133",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1099,
+          "impression_count": 154162,
+          "like_count": 15148,
+          "quote_count": 29,
+          "reply_count": 42,
+          "retweet_count": 1284
+        },
+        "reply_settings": "everyone",
+        "text": "\"forgive me, dearest Nanaya...\" https://t.co/Fp5BlSfiqm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4664,
+          "following_count": 3573,
+          "like_count": 73569,
+          "listed_count": 9,
+          "media_count": 306,
+          "tweet_count": 7065
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-10T13:34:02.000Z",
+        "description": "- I enjoy drawing as a hobby  - 🇰🇷\n🚫AI not used🚫 \nBluesky : https://t.co/o2qWyg3dOz\n\npfp : @govy9807\nheader : @zizibubu_14",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "govy9807"
+              },
+              {
+                "end": 122,
+                "start": 110,
+                "username": "zizibubu_14"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/chungr…",
+                "end": 83,
+                "expanded_url": "https://bsky.app/profile/chungrandfa.bsky.social",
+                "start": 60,
+                "url": "https://t.co/o2qWyg3dOz"
+              }
+            ]
+          }
+        },
+        "id": "818813151458136064",
+        "name": "춘식할아버지",
+        "pinned_tweet_id": "1826252285271560427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806311690176520192/bmcOTSn2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10055,
+          "following_count": 72,
+          "like_count": 26901,
+          "listed_count": 42,
+          "media_count": 5255,
+          "tweet_count": 13342
+        },
+        "username": "Chun_Grandfa",
+        "verified": false
+      }
+    ]
+  }
+}

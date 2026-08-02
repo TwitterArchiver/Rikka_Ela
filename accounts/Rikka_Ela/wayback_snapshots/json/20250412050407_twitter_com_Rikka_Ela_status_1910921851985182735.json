@@ -1,0 +1,784 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1909625688925024257",
+        "3_1909625688941842432",
+        "3_1909625704330719232",
+        "3_1909625704355962880"
+      ],
+      "media_source_tweet_id": [
+        "1909625723083514193",
+        "1909625723083514193",
+        "1909625723083514193",
+        "1909625723083514193"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10044774920",
+          "name": "Dark Souls"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10044774920",
+          "name": "Dark Souls"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900785013129216",
+          "name": "Soulslike games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      }
+    ],
+    "conversation_id": "1910921851985182735",
+    "created_at": "2025-04-12T05:04:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-12T06:04:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910921851985182735"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "Irithyll",
+          "probability": 0.6344,
+          "start": 16,
+          "type": "Other"
+        },
+        {
+          "end": 44,
+          "normalized_text": "Boreal Valley",
+          "probability": 0.5453,
+          "start": 32,
+          "type": "Other"
+        },
+        {
+          "end": 58,
+          "normalized_text": "DarkSouls3",
+          "probability": 0.83,
+          "start": 49,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 59,
+          "start": 48,
+          "tag": "DarkSouls3"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1557432317794308104",
+          "start": 3,
+          "username": "Eldenievel"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ypbDjI1Aa7",
+          "end": 83,
+          "expanded_url": "https://x.com/Eldenievel/status/1909625723083514193/photo/1",
+          "media_key": "3_1909625688925024257",
+          "start": 60,
+          "url": "https://t.co/ypbDjI1Aa7"
+        },
+        {
+          "display_url": "pic.x.com/ypbDjI1Aa7",
+          "end": 83,
+          "expanded_url": "https://x.com/Eldenievel/status/1909625723083514193/photo/1",
+          "media_key": "3_1909625688941842432",
+          "start": 60,
+          "url": "https://t.co/ypbDjI1Aa7"
+        },
+        {
+          "display_url": "pic.x.com/ypbDjI1Aa7",
+          "end": 83,
+          "expanded_url": "https://x.com/Eldenievel/status/1909625723083514193/photo/1",
+          "media_key": "3_1909625704330719232",
+          "start": 60,
+          "url": "https://t.co/ypbDjI1Aa7"
+        },
+        {
+          "display_url": "pic.x.com/ypbDjI1Aa7",
+          "end": 83,
+          "expanded_url": "https://x.com/Eldenievel/status/1909625723083514193/photo/1",
+          "media_key": "3_1909625704355962880",
+          "start": 60,
+          "url": "https://t.co/ypbDjI1Aa7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910921851985182735",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 350
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909625723083514193",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @Eldenievel: Irithyll of the Boreal Valley.\n\n#DarkSouls3 https://t.co/ypbDjI1Aa7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_1909625688925024257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoBackpWMAE8Lhi.jpg",
+        "width": 3840
+      },
+      {
+        "height": 2160,
+        "media_key": "3_1909625688941842432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoBacktW0AA40EA.jpg",
+        "width": 3840
+      },
+      {
+        "height": 2160,
+        "media_key": "3_1909625704330719232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoBadeCWcAA1dNh.jpg",
+        "width": 3840
+      },
+      {
+        "height": 2160,
+        "media_key": "3_1909625704355962880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoBadeIXoAAek9G.jpg",
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909625688925024257",
+            "3_1909625688941842432",
+            "3_1909625704330719232",
+            "3_1909625704355962880"
+          ],
+          "media_source_tweet_id": [
+            "1909625723083514193",
+            "1909625723083514193",
+            "1909625723083514193",
+            "1909625723083514193"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044774920",
+              "name": "Dark Souls"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044774920",
+              "name": "Dark Souls"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900785013129216",
+              "name": "Soulslike games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "1910921851985182735",
+        "created_at": "2025-04-12T05:04:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T06:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910921851985182735"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "Irithyll",
+              "probability": 0.6344,
+              "start": 16,
+              "type": "Other"
+            },
+            {
+              "end": 44,
+              "normalized_text": "Boreal Valley",
+              "probability": 0.5453,
+              "start": 32,
+              "type": "Other"
+            },
+            {
+              "end": 58,
+              "normalized_text": "DarkSouls3",
+              "probability": 0.83,
+              "start": 49,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 48,
+              "tag": "DarkSouls3"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1557432317794308104",
+              "start": 3,
+              "username": "Eldenievel"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ypbDjI1Aa7",
+              "end": 83,
+              "expanded_url": "https://x.com/Eldenievel/status/1909625723083514193/photo/1",
+              "media_key": "3_1909625688925024257",
+              "start": 60,
+              "url": "https://t.co/ypbDjI1Aa7"
+            },
+            {
+              "display_url": "pic.x.com/ypbDjI1Aa7",
+              "end": 83,
+              "expanded_url": "https://x.com/Eldenievel/status/1909625723083514193/photo/1",
+              "media_key": "3_1909625688941842432",
+              "start": 60,
+              "url": "https://t.co/ypbDjI1Aa7"
+            },
+            {
+              "display_url": "pic.x.com/ypbDjI1Aa7",
+              "end": 83,
+              "expanded_url": "https://x.com/Eldenievel/status/1909625723083514193/photo/1",
+              "media_key": "3_1909625704330719232",
+              "start": 60,
+              "url": "https://t.co/ypbDjI1Aa7"
+            },
+            {
+              "display_url": "pic.x.com/ypbDjI1Aa7",
+              "end": 83,
+              "expanded_url": "https://x.com/Eldenievel/status/1909625723083514193/photo/1",
+              "media_key": "3_1909625704355962880",
+              "start": 60,
+              "url": "https://t.co/ypbDjI1Aa7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910921851985182735",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 350
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909625723083514193",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @Eldenievel: Irithyll of the Boreal Valley.\n\n#DarkSouls3 https://t.co/ypbDjI1Aa7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909625688925024257",
+            "3_1909625688941842432",
+            "3_1909625704330719232",
+            "3_1909625704355962880"
+          ]
+        },
+        "author_id": "1557432317794308104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044774920",
+              "name": "Dark Souls"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044774920",
+              "name": "Dark Souls"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900785013129216",
+              "name": "Soulslike games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "1909625723083514193",
+        "created_at": "2025-04-08T15:13:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T16:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909625723083514193"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "Irithyll",
+              "probability": 0.6121,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 28,
+              "normalized_text": "Boreal Valley",
+              "probability": 0.4746,
+              "start": 16,
+              "type": "Other"
+            },
+            {
+              "end": 42,
+              "normalized_text": "DarkSouls3",
+              "probability": 0.8386,
+              "start": 33,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 32,
+              "tag": "DarkSouls3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ypbDjI1Aa7",
+              "end": 67,
+              "expanded_url": "https://x.com/Eldenievel/status/1909625723083514193/photo/1",
+              "media_key": "3_1909625688925024257",
+              "start": 44,
+              "url": "https://t.co/ypbDjI1Aa7"
+            },
+            {
+              "display_url": "pic.x.com/ypbDjI1Aa7",
+              "end": 67,
+              "expanded_url": "https://x.com/Eldenievel/status/1909625723083514193/photo/1",
+              "media_key": "3_1909625688941842432",
+              "start": 44,
+              "url": "https://t.co/ypbDjI1Aa7"
+            },
+            {
+              "display_url": "pic.x.com/ypbDjI1Aa7",
+              "end": 67,
+              "expanded_url": "https://x.com/Eldenievel/status/1909625723083514193/photo/1",
+              "media_key": "3_1909625704330719232",
+              "start": 44,
+              "url": "https://t.co/ypbDjI1Aa7"
+            },
+            {
+              "display_url": "pic.x.com/ypbDjI1Aa7",
+              "end": 67,
+              "expanded_url": "https://x.com/Eldenievel/status/1909625723083514193/photo/1",
+              "media_key": "3_1909625704355962880",
+              "start": 44,
+              "url": "https://t.co/ypbDjI1Aa7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909625723083514193",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 148,
+          "impression_count": 38882,
+          "like_count": 2183,
+          "quote_count": 14,
+          "reply_count": 0,
+          "retweet_count": 350
+        },
+        "reply_settings": "following",
+        "text": "Irithyll of the Boreal Valley.\n\n#DarkSouls3 https://t.co/ypbDjI1Aa7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4066,
+          "following_count": 3331,
+          "like_count": 64671,
+          "listed_count": 9,
+          "media_count": 192,
+          "tweet_count": 5550
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-10T18:24:15.000Z",
+        "description": "FromSoft photography. Please do not reupload my screenies.",
+        "id": "1557432317794308104",
+        "location": "lesbian, she/her. solty's. ♡",
+        "name": "۟",
+        "pinned_tweet_id": "1907928723254542629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894743256304381952/PEhY0YHs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3080,
+          "following_count": 90,
+          "like_count": 6375,
+          "listed_count": 4,
+          "media_count": 151,
+          "tweet_count": 1304
+        },
+        "username": "Eldenievel",
+        "verified": false
+      }
+    ]
+  }
+}

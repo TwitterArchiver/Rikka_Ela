@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1836328045185241199",
+    "created_at": "2024-09-18T10:41:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-18T11:41:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1836354824088228235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1608294527453876225",
+          "start": 0,
+          "username": "Paris1Von"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1836354824088228235",
+    "in_reply_to_user_id": "1608294527453876225",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1836349963347083291",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Paris1Von 我学的这些目前不考试，学着玩的🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1836328045185241199",
+        "created_at": "2024-09-18T10:41:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-18T11:41:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836354824088228235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608294527453876225",
+              "start": 0,
+              "username": "Paris1Von"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836354824088228235",
+        "in_reply_to_user_id": "1608294527453876225",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836349963347083291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Paris1Von 我学的这些目前不考试，学着玩的🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608294527453876225",
+        "conversation_id": "1836328045185241199",
+        "created_at": "2024-09-18T10:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-18T11:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1836349963347083291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1836349963347083291",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1836328045185241199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 没办法只能看考的那本就用那个，考完赶紧忘然后记最新的理论"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文\n\nwife:@Y32010705",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "Y32010705"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2420,
+          "following_count": 2911,
+          "like_count": 48678,
+          "listed_count": 6,
+          "tweet_count": 3267
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-29T02:51:18.000Z",
+        "description": "一只mtx（或者什麼東西）Fr/En/中文,生物/化學/Environmental science🇪🇺🇫🇷🇬🇧🏴󠁧󠁢󠁳󠁣󠁴󠁿🇵🇱",
+        "id": "1608294527453876225",
+        "location": "Amiens, France",
+        "name": "Parish🇫🇷🇪🇺🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1608643534894280707/BJqRXdbX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 318,
+          "like_count": 6968,
+          "listed_count": 0,
+          "tweet_count": 623
+        },
+        "username": "Paris1Von",
+        "verified": false
+      }
+    ]
+  }
+}

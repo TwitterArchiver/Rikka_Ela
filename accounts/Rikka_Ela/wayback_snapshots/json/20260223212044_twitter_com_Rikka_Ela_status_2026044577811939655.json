@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2026041226865017178",
+    "created_at": "2026-02-23T21:20:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T22:20:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026044577811939655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1937591116985171969",
+          "start": 0,
+          "username": "Aiyo44"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026044577811939655",
+    "in_reply_to_user_id": "1937591116985171969",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026041226865017178",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aiyo44 羡慕黑皮🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1591,
+        "media_key": "3_2026041222712737792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB3xwfQXQAAqQ4G.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2026041226865017178",
+        "created_at": "2026-02-23T21:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T22:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026044577811939655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1937591116985171969",
+              "start": 0,
+              "username": "Aiyo44"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026044577811939655",
+        "in_reply_to_user_id": "1937591116985171969",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026041226865017178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aiyo44 羡慕黑皮🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026041222712737792"
+          ]
+        },
+        "author_id": "1937591116985171969",
+        "conversation_id": "2026041226865017178",
+        "created_at": "2026-02-23T21:07:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T22:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026041226865017178"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 13,
+              "tag": "tomboy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s61Vc53qKY",
+              "end": 44,
+              "expanded_url": "https://x.com/Aiyo44/status/2026041226865017178/photo/1",
+              "media_key": "3_2026041222712737792",
+              "start": 21,
+              "url": "https://t.co/s61Vc53qKY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026041226865017178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "等一下我好像会一点厚涂了\n#tomboy https://t.co/s61Vc53qKY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4900,
+          "following_count": 3724,
+          "like_count": 79588,
+          "listed_count": 9,
+          "media_count": 377,
+          "tweet_count": 8306
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-24T19:18:32.000Z",
+        "description": "良辰美景奈何天",
+        "id": "1937591116985171969",
+        "name": "小爱lovv1e",
+        "pinned_tweet_id": "2004983142130790835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024651641308262402/uHarkzYZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 261,
+          "like_count": 9520,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 1932
+        },
+        "username": "Aiyo44",
+        "verified": false
+      }
+    ]
+  }
+}

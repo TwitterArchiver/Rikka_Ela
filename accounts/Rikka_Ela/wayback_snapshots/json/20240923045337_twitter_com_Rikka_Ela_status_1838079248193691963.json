@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1838079248193691963",
+    "created_at": "2024-09-23T04:53:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-23T05:53:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1838079248193691963"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kjkluk/status/…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/kjkluk/status/1838053352313426039",
+          "start": 4,
+          "url": "https://t.co/HtrRyukLE7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838079248193691963",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838053352313426039",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这我😭 https://t.co/HtrRyukLE7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1838079248193691963",
+        "created_at": "2024-09-23T04:53:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T05:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838079248193691963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kjkluk/status/…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/kjkluk/status/1838053352313426039",
+              "start": 4,
+              "url": "https://t.co/HtrRyukLE7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838079248193691963",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838053352313426039",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这我😭 https://t.co/HtrRyukLE7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467175651954200577",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1838053352313426039",
+        "created_at": "2024-09-23T03:10:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T04:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838053352313426039"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1838053352313426039",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 538,
+          "like_count": 22,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "姐妹你快吃糖吧，我24岁家暴党，没有一点天赋，大证小证都没有，不会化妆cosplay，maimai机厅、宜家、萨莉亚离家超过200里，推特fo数不过百，上周尝试性做了六项，睾酮甚至超出男性标准，手术费一点头绪没有。所以我真不知道怎么和你们竞争？你真的要头铁，那么咱们出勤的时间见吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文\n\nwife:@Y32010705",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "Y32010705"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2823,
+          "following_count": 2923,
+          "like_count": 49024,
+          "listed_count": 6,
+          "tweet_count": 3327
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-04T16:55:23.000Z",
+        "description": "風暴貓貓正在返航",
+        "id": "1467175651954200577",
+        "location": "Japan",
+        "name": "川井 橘音🏳️‍⚧️",
+        "pinned_tweet_id": "1778705963245330728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835473451345440768/Knfh7kzt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1367,
+          "following_count": 1605,
+          "like_count": 122068,
+          "listed_count": 6,
+          "tweet_count": 5350
+        },
+        "username": "kjkluk",
+        "verified": false
+      }
+    ]
+  }
+}

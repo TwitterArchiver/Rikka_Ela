@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1934964805997318401",
+    "created_at": "2025-06-17T13:40:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T14:40:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934969310352667050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1762064334048702464",
+          "start": 0,
+          "username": "adamanteyecc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934969310352667050",
+    "in_reply_to_user_id": "1762064334048702464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934965396819587458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@adamanteyecc 没看过🥺）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1934964805997318401",
+        "created_at": "2025-06-17T13:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T14:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934969310352667050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1762064334048702464",
+              "start": 0,
+              "username": "adamanteyecc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934969310352667050",
+        "in_reply_to_user_id": "1762064334048702464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934965396819587458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@adamanteyecc 没看过🥺）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762064334048702464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1397698182792896513",
+              "name": "Girls und Panzer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1397698182792896513",
+              "name": "Girls und Panzer"
+            }
+          }
+        ],
+        "conversation_id": "1934964805997318401",
+        "created_at": "2025-06-17T13:24:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T14:24:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934965396819587458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934965396819587458",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934964805997318401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela girls und Panzer!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4346,
+          "following_count": 3506,
+          "like_count": 69224,
+          "listed_count": 7,
+          "media_count": 236,
+          "tweet_count": 6230
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-26T10:37:42.000Z",
+        "description": "是 mtf，不常上推，欢迎到电报上和我聊天~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/adamanteye",
+                "end": 23,
+                "expanded_url": "http://github.com/adamanteye",
+                "start": 0,
+                "url": "https://t.co/ltjgLQT17Q"
+              }
+            ]
+          }
+        },
+        "id": "1762064334048702464",
+        "location": "北京",
+        "name": "adamanteye",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922873819389153280/0y40V8yq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 117,
+          "like_count": 4817,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 166
+        },
+        "url": "https://t.co/ltjgLQT17Q",
+        "username": "adamanteyecc",
+        "verified": false
+      }
+    ]
+  }
+}

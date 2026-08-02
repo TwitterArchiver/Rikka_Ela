@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1993250150601703684",
+    "created_at": "2025-11-25T16:22:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T17:22:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993354652138532872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1142344230565629953",
+          "start": 0,
+          "username": "Evilkiruirui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993354652138532872",
+    "in_reply_to_user_id": "1142344230565629953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993340169970499960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Evilkiruirui 吃饭也不张😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1993250150601703684",
+        "created_at": "2025-11-25T16:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T17:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993354652138532872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1142344230565629953",
+              "start": 0,
+              "username": "Evilkiruirui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993354652138532872",
+        "in_reply_to_user_id": "1142344230565629953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993340169970499960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Evilkiruirui 吃饭也不张😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1142344230565629953",
+        "conversation_id": "1993250150601703684",
+        "created_at": "2025-11-25T15:25:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T16:25:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993340169970499960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993340169970499960",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993250150601703684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 好好吃饭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4758,
+          "following_count": 3647,
+          "like_count": 76631,
+          "listed_count": 8,
+          "media_count": 331,
+          "tweet_count": 7538
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-22T08:11:03.000Z",
+        "description": "早更少妇/碎嘴子/谜语人/中文(繁简)/20岁零两百多个月/三八拖拉機手/家有一只可爱的团子🍡/知食分子/504司膳",
+        "id": "1142344230565629953",
+        "location": "0.1km",
+        "name": "瑞瑞（笨猫喝酒就醉版）",
+        "pinned_tweet_id": "1963509700806545602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992108379230334977/UAy6RyM1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1153,
+          "following_count": 190,
+          "like_count": 121798,
+          "listed_count": 4,
+          "media_count": 2754,
+          "tweet_count": 54968
+        },
+        "username": "Evilkiruirui",
+        "verified": false
+      }
+    ]
+  }
+}

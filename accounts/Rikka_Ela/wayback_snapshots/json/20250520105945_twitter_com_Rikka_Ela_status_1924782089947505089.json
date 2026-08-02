@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1924568194574131200"
+      ],
+      "media_source_tweet_id": [
+        "1924568197132587079"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "conversation_id": "1924782089947505089",
+    "created_at": "2025-05-20T10:59:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T11:59:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924782089947505089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1644912879802654720",
+          "start": 3,
+          "username": "jyabochii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CfBaORSq8w",
+          "end": 41,
+          "expanded_url": "https://x.com/jyabochii/status/1924568197132587079/photo/1",
+          "media_key": "3_1924568194574131200",
+          "start": 18,
+          "url": "https://t.co/CfBaORSq8w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924782089947505089",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 123
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924568197132587079",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jyabochii: 86 https://t.co/CfBaORSq8w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2200,
+        "media_key": "3_1924568194574131200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrVwk3-bIAAWWgY.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924568194574131200"
+          ],
+          "media_source_tweet_id": [
+            "1924568197132587079"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "1924782089947505089",
+        "created_at": "2025-05-20T10:59:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T11:59:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924782089947505089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1644912879802654720",
+              "start": 3,
+              "username": "jyabochii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CfBaORSq8w",
+              "end": 41,
+              "expanded_url": "https://x.com/jyabochii/status/1924568197132587079/photo/1",
+              "media_key": "3_1924568194574131200",
+              "start": 18,
+              "url": "https://t.co/CfBaORSq8w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924782089947505089",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 123
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924568197132587079",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jyabochii: 86 https://t.co/CfBaORSq8w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924568194574131200"
+          ]
+        },
+        "author_id": "1644912879802654720",
+        "conversation_id": "1924568197132587079",
+        "created_at": "2025-05-19T20:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T21:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924568197132587079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CfBaORSq8w",
+              "end": 26,
+              "expanded_url": "https://x.com/jyabochii/status/1924568197132587079/photo/1",
+              "media_key": "3_1924568194574131200",
+              "start": 3,
+              "url": "https://t.co/CfBaORSq8w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924568197132587079",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 154,
+          "impression_count": 18993,
+          "like_count": 1384,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 123
+        },
+        "reply_settings": "everyone",
+        "text": "86 https://t.co/CfBaORSq8w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4215,
+          "following_count": 3442,
+          "like_count": 66929,
+          "listed_count": 8,
+          "media_count": 214,
+          "tweet_count": 5924
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-09T03:59:40.000Z",
+        "description": "Illustration generation+retouch.\nUnauthorized reproduction prohibited.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/jyabochii",
+                "end": 23,
+                "expanded_url": "https://lit.link/jyabochii",
+                "start": 0,
+                "url": "https://t.co/5JOxNgRGKf"
+              }
+            ]
+          }
+        },
+        "id": "1644912879802654720",
+        "name": "じゃぼちぃ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1659908290636292096/E955cQGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199070,
+          "following_count": 242,
+          "like_count": 50393,
+          "listed_count": 1128,
+          "media_count": 3511,
+          "tweet_count": 32898
+        },
+        "url": "https://t.co/5JOxNgRGKf",
+        "username": "jyabochii",
+        "verified": true
+      }
+    ]
+  }
+}

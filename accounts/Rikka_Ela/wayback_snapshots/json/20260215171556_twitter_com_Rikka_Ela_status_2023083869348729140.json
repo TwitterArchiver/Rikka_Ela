@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2022718424741187716",
+    "created_at": "2026-02-15T17:15:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T18:15:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023083869348729140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1477146542754578432",
+          "start": 0,
+          "username": "xxxppppx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023083869348729140",
+    "in_reply_to_user_id": "1477146542754578432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022850884724511040",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxxppppx 不到啊，和朋友聊天的时候他说为什么英国都买不到面桃，他最喜欢吃面桃了\n我：😱😱😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2022718424741187716",
+        "created_at": "2026-02-15T17:15:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T18:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023083869348729140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1477146542754578432",
+              "start": 0,
+              "username": "xxxppppx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023083869348729140",
+        "in_reply_to_user_id": "1477146542754578432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022850884724511040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxxppppx 不到啊，和朋友聊天的时候他说为什么英国都买不到面桃，他最喜欢吃面桃了\n我：😱😱😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1477146542754578432",
+        "conversation_id": "2022718424741187716",
+        "created_at": "2026-02-15T01:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T02:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022850884724511040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022850884724511040",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022718424741187716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 面苹果也算了，居然还存在面桃吗😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 里号@Rika202601｜小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "Rika202601"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4882,
+          "following_count": 3713,
+          "like_count": 79185,
+          "listed_count": 9,
+          "media_count": 372,
+          "tweet_count": 8229
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-01T05:16:06.000Z",
+        "description": "假ftm真mtx 假intp真infj｜自留地https://t.co/HgGz8DQ5de",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/leonar…",
+                "end": 46,
+                "expanded_url": "https://bsky.app/profile/leonard-sturmauge.bsky.social",
+                "start": 23,
+                "url": "https://t.co/HgGz8DQ5de"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/76720689",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/76720689",
+                "start": 0,
+                "url": "https://t.co/w5AGVTiCCE"
+              }
+            ]
+          }
+        },
+        "id": "1477146542754578432",
+        "location": "模拟器里",
+        "name": "Leonard🏳️‍⚧️",
+        "pinned_tweet_id": "2011431395118448719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787920141923364864/S23X_Lio_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 381,
+          "like_count": 2805,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 3758
+        },
+        "url": "https://t.co/w5AGVTiCCE",
+        "username": "xxxppppx",
+        "verified": false
+      }
+    ]
+  }
+}

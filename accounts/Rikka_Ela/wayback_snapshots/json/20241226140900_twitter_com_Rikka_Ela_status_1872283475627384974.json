@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1871911897030910116",
+    "created_at": "2024-12-26T14:09:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-26T15:09:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872283475627384974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "881154222472912896",
+          "start": 0,
+          "username": "SeluneMoonbow"
+        },
+        {
+          "end": 26,
+          "id": "1401733664682102786",
+          "start": 15,
+          "username": "mukdengise"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872283475627384974",
+    "in_reply_to_user_id": "881154222472912896",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872243667714670652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SeluneMoonbow @mukdengise 😭😭😭😭"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1872243667714670652].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1872243667714670652",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1872243667714670652"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1871911897030910116",
+        "created_at": "2024-12-26T14:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T15:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872283475627384974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "881154222472912896",
+              "start": 0,
+              "username": "SeluneMoonbow"
+            },
+            {
+              "end": 26,
+              "id": "1401733664682102786",
+              "start": 15,
+              "username": "mukdengise"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872283475627384974",
+        "in_reply_to_user_id": "881154222472912896",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872243667714670652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SeluneMoonbow @mukdengise 😭😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文\n\n@Y32010705",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 43,
+                "username": "Y32010705"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3248,
+          "following_count": 3143,
+          "like_count": 55709,
+          "listed_count": 7,
+          "media_count": 156,
+          "tweet_count": 4347
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-01T14:15:12.000Z",
+        "description": "成分是一只后现代萌萌人 || 随便挂点：🏳️‍🌈🏳️‍⚧️🏴❤️🧡💛💚💙💜🤎🖤🩵🩷🤍💛💜🤍💚♀️⚧️ || 老婆 @QiuNing_ 超级超级可爱~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 57,
+                "username": "QiuNing_"
+              }
+            ]
+          }
+        },
+        "id": "881154222472912896",
+        "name": "昕月🏳️‍⚧️",
+        "pinned_tweet_id": "1761742159081087247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761743798370283520/Vvyn42Oc_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1202,
+          "following_count": 661,
+          "like_count": 64041,
+          "listed_count": 2,
+          "media_count": 1011,
+          "tweet_count": 23949
+        },
+        "username": "SeluneMoonbow",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-07T02:52:13.000Z",
+        "description": "东海渥集巫女/IG: ilhajugvn/裏：@fulgiyan/桔：@__Ju___Ju__",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "fulgiyan"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "__Ju___Ju__"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xyz.damo3.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://xyz.damo3.site/#/register?code=P96et4ns",
+                "start": 0,
+                "url": "https://t.co/1G1Jz64Dew"
+              }
+            ]
+          }
+        },
+        "id": "1401733664682102786",
+        "location": "自用VPN🪜👉🏻",
+        "name": "花路探險記",
+        "pinned_tweet_id": "1843689660666786148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865659207124664320/z7pLnQDe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7430,
+          "following_count": 709,
+          "like_count": 120704,
+          "listed_count": 49,
+          "media_count": 1277,
+          "tweet_count": 16569
+        },
+        "url": "https://t.co/1G1Jz64Dew",
+        "username": "mukdengise",
+        "verified": false
+      }
+    ]
+  }
+}

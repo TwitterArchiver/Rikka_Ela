@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2077241398609539507",
+    "created_at": "2026-07-15T05:59:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T06:59:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077271797859602444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1499442786453663745",
+          "start": 0,
+          "username": "Ted_yeet"
+        },
+        {
+          "end": 19,
+          "id": "1792933283040284673",
+          "start": 10,
+          "username": "tuamitx0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077271797859602444",
+    "in_reply_to_user_id": "1499442786453663745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077241398609539507",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ted_yeet @tuamitx0 你很可爱…."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077241365432512512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNPYBCNaMAAKf6q.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2077241398609539507",
+        "created_at": "2026-07-15T05:59:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T06:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077271797859602444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1499442786453663745",
+              "start": 0,
+              "username": "Ted_yeet"
+            },
+            {
+              "end": 19,
+              "id": "1792933283040284673",
+              "start": 10,
+              "username": "tuamitx0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077271797859602444",
+        "in_reply_to_user_id": "1499442786453663745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077241398609539507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ted_yeet @tuamitx0 你很可爱…."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077241365432512512"
+          ]
+        },
+        "author_id": "1499442786453663745",
+        "conversation_id": "2077241398609539507",
+        "created_at": "2026-07-15T03:58:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T04:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077241398609539507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iXBVPgpQwX",
+              "end": 48,
+              "expanded_url": "https://x.com/Ted_yeet/status/2077241398609539507/photo/1",
+              "media_key": "3_2077241365432512512",
+              "start": 25,
+              "url": "https://t.co/iXBVPgpQwX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077241398609539507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 997,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "在康宁精神病看到一半意外得知自己脑子有洞（物理） https://t.co/iXBVPgpQwX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6256,
+          "following_count": 3769,
+          "like_count": 86166,
+          "listed_count": 7,
+          "media_count": 446,
+          "tweet_count": 9958
+        },
+        "url": "",
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-03T17:53:30.000Z",
+        "description": "神秘旅商/🏳️‍🌈🏳️‍⚧️/姛/brat/毛绒玩具/📸/贝斯/说LaTeX的人形编译器\n有偿SRS咨询请私信 10€/h",
+        "id": "1499442786453663745",
+        "location": "Cantonia",
+        "name": "Ted",
+        "pinned_tweet_id": "2055181133973954997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057063305681002496/0duENI7-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6606,
+          "following_count": 1809,
+          "like_count": 55027,
+          "listed_count": 24,
+          "media_count": 553,
+          "tweet_count": 13028
+        },
+        "url": "",
+        "username": "Ted_yeet",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-21T15:00:28.000Z",
+        "description": "我希望我爱的人都好好的🥺♥️/联络方式：https://t.co/2eUjAnLNoF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "matrix.to/#/@ai0bsw6k:ma…",
+                "end": 43,
+                "expanded_url": "https://matrix.to/#/@ai0bsw6k:matrix.org",
+                "start": 20,
+                "url": "https://t.co/2eUjAnLNoF"
+              }
+            ]
+          }
+        },
+        "id": "1792933283040284673",
+        "location": "🌕月球",
+        "name": "catalyst 🍫🐢🐦",
+        "pinned_tweet_id": "2053508177342406719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065841064477618176/PjwC8R-Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 870,
+          "like_count": 33384,
+          "listed_count": 0,
+          "media_count": 406,
+          "tweet_count": 18467
+        },
+        "url": "",
+        "username": "tuamitx0",
+        "verified": false
+      }
+    ]
+  }
+}

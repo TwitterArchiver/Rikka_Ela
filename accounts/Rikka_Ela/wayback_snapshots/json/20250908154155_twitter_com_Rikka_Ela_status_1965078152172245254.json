@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1964726479763218432"
+      ],
+      "media_source_tweet_id": [
+        "1964726492161855569"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "conversation_id": "1965078152172245254",
+    "created_at": "2025-09-08T15:41:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T16:41:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965078152172245254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1653091103573262347",
+          "start": 3,
+          "username": "lilimfan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xZJIVy5d6f",
+          "end": 37,
+          "expanded_url": "https://x.com/lilimfan/status/1964726492161855569/photo/1",
+          "media_key": "3_1964726479763218432",
+          "start": 14,
+          "url": "https://t.co/xZJIVy5d6f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965078152172245254",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 297
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964726492161855569",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lilimfan: https://t.co/xZJIVy5d6f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1672,
+        "media_key": "3_1964726479763218432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0QcUuMXIAA2oSo.jpg",
+        "width": 1672
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964726479763218432"
+          ],
+          "media_source_tweet_id": [
+            "1964726492161855569"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "1965078152172245254",
+        "created_at": "2025-09-08T15:41:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T16:41:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965078152172245254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1653091103573262347",
+              "start": 3,
+              "username": "lilimfan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xZJIVy5d6f",
+              "end": 37,
+              "expanded_url": "https://x.com/lilimfan/status/1964726492161855569/photo/1",
+              "media_key": "3_1964726479763218432",
+              "start": 14,
+              "url": "https://t.co/xZJIVy5d6f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965078152172245254",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 297
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964726492161855569",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lilimfan: https://t.co/xZJIVy5d6f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964726479763218432"
+          ]
+        },
+        "author_id": "1653091103573262347",
+        "conversation_id": "1964726492161855569",
+        "created_at": "2025-09-07T16:24:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T17:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964726492161855569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xZJIVy5d6f",
+              "end": 23,
+              "expanded_url": "https://x.com/lilimfan/status/1964726492161855569/photo/1",
+              "media_key": "3_1964726479763218432",
+              "start": 0,
+              "url": "https://t.co/xZJIVy5d6f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964726492161855569",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 633,
+          "impression_count": 31119,
+          "like_count": 3550,
+          "quote_count": 18,
+          "reply_count": 12,
+          "retweet_count": 297
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/xZJIVy5d6f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4514,
+          "following_count": 3551,
+          "like_count": 72810,
+          "listed_count": 9,
+          "media_count": 294,
+          "tweet_count": 6928
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-01T17:36:59.000Z",
+        "description": "yabai girl",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/tmu5Ml1wEDA?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/tmu5Ml1wEDA?si=JbaZBxAfOQbAFKI1",
+                "start": 0,
+                "url": "https://t.co/VkJIaCZQTt"
+              }
+            ]
+          }
+        },
+        "id": "1653091103573262347",
+        "location": "she",
+        "name": "minamino",
+        "pinned_tweet_id": "1890148254672908332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955678100953370630/bta9y6ca_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 2191,
+          "like_count": 105026,
+          "listed_count": 5,
+          "media_count": 1499,
+          "tweet_count": 40244
+        },
+        "url": "https://t.co/VkJIaCZQTt",
+        "username": "lilimfan",
+        "verified": false
+      }
+    ]
+  }
+}

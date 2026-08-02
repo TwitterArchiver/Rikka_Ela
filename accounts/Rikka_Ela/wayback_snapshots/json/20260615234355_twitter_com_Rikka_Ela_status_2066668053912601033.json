@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2066564338832609717",
+    "created_at": "2026-06-15T23:43:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T00:43:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066668053912601033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2035413632994193408",
+          "start": 0,
+          "username": "Yumesame10086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066668053912601033",
+    "in_reply_to_user_id": "2035413632994193408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066573718042873866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yumesame10086 我学习的是男方啊🫢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2066564338832609717",
+        "created_at": "2026-06-15T23:43:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T00:43:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066668053912601033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2035413632994193408",
+              "start": 0,
+              "username": "Yumesame10086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066668053912601033",
+        "in_reply_to_user_id": "2035413632994193408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066573718042873866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumesame10086 我学习的是男方啊🫢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035413632994193408",
+        "conversation_id": "2066564338832609717",
+        "created_at": "2026-06-15T17:29:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T18:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066573718042873866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066573718042873866",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 443,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066564338832609717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 学得真快😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5576,
+          "following_count": 3778,
+          "like_count": 86165,
+          "listed_count": 7,
+          "media_count": 442,
+          "tweet_count": 9738
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-21T17:50:22.000Z",
+        "description": "「此水几时休，此恨何时已」   『此恨烈烈無絕期』\n\n  💕齿轮   宠物 @Mave_503    bdsm   switch  \n\n     和讨厌的人互动过多会被mute   一個無趣的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 38,
+                "username": "Mave_503"
+              }
+            ]
+          }
+        },
+        "id": "2035413632994193408",
+        "name": "Koeno",
+        "pinned_tweet_id": "2049596929122939358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035414187921534977/WJ8XnsOJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 78,
+          "like_count": 713,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 534
+        },
+        "username": "Yumesame10086",
+        "verified": false
+      }
+    ]
+  }
+}

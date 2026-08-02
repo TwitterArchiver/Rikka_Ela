@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1954818661291524421",
+    "created_at": "2025-08-12T16:13:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T17:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955301502047883308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1829423359043719169",
+          "start": 0,
+          "username": "ujjkujjk74901"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955301502047883308",
+    "in_reply_to_user_id": "1829423359043719169",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954818661291524421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ujjkujjk74901 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1954818661291524421",
+        "created_at": "2025-08-12T16:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T17:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955301502047883308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1829423359043719169",
+              "start": 0,
+              "username": "ujjkujjk74901"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955301502047883308",
+        "in_reply_to_user_id": "1829423359043719169",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954818661291524421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ujjkujjk74901 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829423359043719169",
+        "conversation_id": "1954818661291524421",
+        "created_at": "2025-08-11T08:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T09:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954818661291524421"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1954818661291524421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 56279,
+          "like_count": 421,
+          "quote_count": 1,
+          "reply_count": 51,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "真的...高中生的性能力太吓人了😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4453,
+          "following_count": 3542,
+          "like_count": 71811,
+          "listed_count": 7,
+          "media_count": 283,
+          "tweet_count": 6739
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T07:38:25.000Z",
+        "description": "战无不胜的习近平新时代中国特色社会主义思想万岁 里推@ujjkujjk74902",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "ujjkujjk74902"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zh.wikipedia.org/wiki/%E5%85%AD…",
+                "end": 23,
+                "expanded_url": "https://zh.wikipedia.org/wiki/%E5%85%AD%E5%9B%9B%E4%BA%8B%E4%BB%B6",
+                "start": 0,
+                "url": "https://t.co/s1A6sGVo9N"
+              }
+            ]
+          }
+        },
+        "id": "1829423359043719169",
+        "location": "5元300G不限时不限速VPN，大粉红倾力推荐👇",
+        "name": "一般通过大粉红",
+        "pinned_tweet_id": "1950858249936474345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932714339871698945/Hn-jAAwf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2138,
+          "following_count": 214,
+          "like_count": 627,
+          "listed_count": 9,
+          "media_count": 219,
+          "tweet_count": 1599
+        },
+        "url": "https://t.co/s1A6sGVo9N",
+        "username": "ujjkujjk74901",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998431110544633860"
+      ],
+      "media_source_tweet_id": [
+        "1998431118203420734"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "conversation_id": "1998506755417059479",
+    "created_at": "2025-12-09T21:35:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T22:35:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998506755417059479"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 28,
+          "normalized_text": "Twisted Fate",
+          "probability": 0.8947,
+          "start": 17,
+          "type": "Other"
+        },
+        {
+          "end": 39,
+          "normalized_text": "Tarnished",
+          "probability": 0.5101,
+          "start": 31,
+          "type": "Other"
+        },
+        {
+          "end": 48,
+          "normalized_text": "Melina",
+          "probability": 0.5135,
+          "start": 43,
+          "type": "Other"
+        },
+        {
+          "end": 65,
+          "normalized_text": "EldenRingFanart",
+          "probability": 0.7604,
+          "start": 51,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 66,
+          "start": 50,
+          "tag": "EldenRingFanart"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1561670067339001861",
+          "start": 3,
+          "username": "shiro_622_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/u1rf5dyChf",
+          "end": 90,
+          "expanded_url": "https://x.com/shiro_622_/status/1998431118203420734/photo/1",
+          "media_key": "3_1998431110544633860",
+          "start": 67,
+          "url": "https://t.co/u1rf5dyChf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998506755417059479",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998431118203420734",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shiro_622_: 《Twisted Fate》\nTarnished x Melina #EldenRingFanart https://t.co/u1rf5dyChf"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1998506755417059479].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1998506755417059479",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1998506755417059479"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1998431110544633860",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7vagcQaMAQuduO.jpg",
+        "width": 1384
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998431110544633860"
+          ]
+        },
+        "author_id": "1561670067339001861",
+        "conversation_id": "1998431118203420734",
+        "created_at": "2025-12-09T16:34:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T17:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998431118203420734"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "Twisted Fate",
+              "probability": 0.8733,
+              "start": 1,
+              "type": "Other"
+            },
+            {
+              "end": 23,
+              "normalized_text": "Tarnished",
+              "probability": 0.5057,
+              "start": 15,
+              "type": "Other"
+            },
+            {
+              "end": 32,
+              "normalized_text": "Melina",
+              "probability": 0.4981,
+              "start": 27,
+              "type": "Other"
+            },
+            {
+              "end": 49,
+              "normalized_text": "EldenRingFanart",
+              "probability": 0.737,
+              "start": 35,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 34,
+              "tag": "EldenRingFanart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u1rf5dyChf",
+              "end": 74,
+              "expanded_url": "https://x.com/shiro_622_/status/1998431118203420734/photo/1",
+              "media_key": "3_1998431110544633860",
+              "start": 51,
+              "url": "https://t.co/u1rf5dyChf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998431118203420734",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 511,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "《Twisted Fate》\nTarnished x Melina #EldenRingFanart https://t.co/u1rf5dyChf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN | Chemistry | Deutsch／Français／English／中文 | 小男友@OnlyFoFemboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "OnlyFoFemboy"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4761,
+          "following_count": 3663,
+          "like_count": 77261,
+          "listed_count": 8,
+          "media_count": 339,
+          "tweet_count": 7654
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T11:02:24.000Z",
+        "description": "Student, I like to draw, mostly soulsborne art: Elden Ring, Bloodborne, Dark souls.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/shiro_622025?i…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/shiro_622025?igsh=ZnZhNWdzdWoxOTBq&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/EfDUkGjfDy"
+              }
+            ]
+          }
+        },
+        "id": "1561670067339001861",
+        "name": "しろ",
+        "pinned_tweet_id": "1994835293913207102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998433807150755841/b3eBoDWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 584,
+          "like_count": 3892,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 321
+        },
+        "url": "https://t.co/EfDUkGjfDy",
+        "username": "shiro_622_",
+        "verified": false
+      }
+    ]
+  }
+}

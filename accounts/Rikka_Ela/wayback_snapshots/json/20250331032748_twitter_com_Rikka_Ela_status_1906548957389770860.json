@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1906548957389770860",
+    "created_at": "2025-03-31T03:27:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T04:27:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906548957389770860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1424779836938022913",
+          "start": 3,
+          "username": "amber_toffee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906548957389770860",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906419920205713682",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_toffee: 祝大家现身日快乐 希望我们有朝一日能既不必现身也不必隐身"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1906548957389770860",
+        "created_at": "2025-03-31T03:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T04:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906548957389770860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1424779836938022913",
+              "start": 3,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906548957389770860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906419920205713682",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_toffee: 祝大家现身日快乐 希望我们有朝一日能既不必现身也不必隐身"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424779836938022913",
+        "conversation_id": "1906419920205713682",
+        "created_at": "2025-03-30T18:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T19:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906419920205713682"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1906419920205713682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3118,
+          "like_count": 135,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "祝大家现身日快乐 希望我们有朝一日能既不必现身也不必隐身"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4024,
+          "following_count": 3318,
+          "like_count": 63619,
+          "listed_count": 8,
+          "media_count": 184,
+          "tweet_count": 5424
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "ଳ ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "name": "amber",
+        "pinned_tweet_id": "1905273257168711695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897152328362233856/uJFVlByt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9871,
+          "following_count": 2293,
+          "like_count": 30985,
+          "listed_count": 31,
+          "media_count": 429,
+          "tweet_count": 14318
+        },
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

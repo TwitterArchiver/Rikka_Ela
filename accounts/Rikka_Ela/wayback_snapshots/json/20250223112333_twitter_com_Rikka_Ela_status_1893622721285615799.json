@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1893601364011561025",
+    "created_at": "2025-02-23T11:23:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-23T12:23:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893622721285615799"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "美波利",
+          "probability": 0.431,
+          "start": 14,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1874082291800301570",
+          "start": 0,
+          "username": "ainonaka8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893622721285615799",
+    "in_reply_to_user_id": "1874082291800301570",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893601364011561025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ainonaka8964 美波利是？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1893601364011561025",
+        "created_at": "2025-02-23T11:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T12:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893622721285615799"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "美波利",
+              "probability": 0.431,
+              "start": 14,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1874082291800301570",
+              "start": 0,
+              "username": "ainonaka8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893622721285615799",
+        "in_reply_to_user_id": "1874082291800301570",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893601364011561025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ainonaka8964 美波利是？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874082291800301570",
+        "conversation_id": "1893601364011561025",
+        "created_at": "2025-02-23T09:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-23T10:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893601364011561025"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1893601364011561025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "少混药圈 ，看多了会把本来不好的精神状态弄得更糟糕的。\n看到过得好的会焦虑，看到比自己惨的会绝望，还是控制一下接触药圈的时间比较好。\n盐田自杀，美波里翻车之后我就不太相信什么群体了，聊聊天吹吹水还可以，真有事别太指望其他人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3778,
+          "following_count": 3270,
+          "like_count": 60227,
+          "listed_count": 7,
+          "media_count": 168,
+          "tweet_count": 4903
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-31T13:17:04.000Z",
+        "description": "無言フォロー失礼します。Hrt2023.6 。",
+        "id": "1874082291800301570",
+        "name": "酒カス",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888580413859438592/8qZK-SRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 250,
+          "like_count": 11592,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 390
+        },
+        "username": "ainonaka8964",
+        "verified": false
+      }
+    ]
+  }
+}

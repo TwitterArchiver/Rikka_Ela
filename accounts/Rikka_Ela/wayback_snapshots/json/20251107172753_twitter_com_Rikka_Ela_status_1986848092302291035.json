@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1909511885332095382",
+    "created_at": "2025-11-07T17:27:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T18:27:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986848092302291035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1667407467540619264",
+          "start": 0,
+          "username": "mayorio2004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986848092302291035",
+    "in_reply_to_user_id": "1667407467540619264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909511885332095382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mayorio2004 同问🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1909511885332095382",
+        "created_at": "2025-11-07T17:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T18:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986848092302291035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1667407467540619264",
+              "start": 0,
+              "username": "mayorio2004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986848092302291035",
+        "in_reply_to_user_id": "1667407467540619264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909511885332095382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mayorio2004 同问🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667407467540619264",
+        "conversation_id": "1909511885332095382",
+        "created_at": "2025-04-08T07:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T08:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909511885332095382"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1909511885332095382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想请教大家如何偷偷改证🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4726,
+          "following_count": 3628,
+          "like_count": 75514,
+          "listed_count": 8,
+          "media_count": 324,
+          "tweet_count": 7398
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-10T05:45:01.000Z",
+        "description": "理央要吃带鱼",
+        "id": "1667407467540619264",
+        "name": "真夜理央",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732834536927731713/Vw4cwS0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 601,
+          "like_count": 3852,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 477
+        },
+        "username": "mayorio2004",
+        "verified": false
+      }
+    ]
+  }
+}

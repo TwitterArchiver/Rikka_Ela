@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1979240059120345398",
+    "created_at": "2025-10-18T09:12:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T10:12:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979475722348482764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "708541868842356736",
+          "start": 0,
+          "username": "SFish235"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979475722348482764",
+    "in_reply_to_user_id": "708541868842356736",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979273674000863386",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SFish235 🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1979240059120345398",
+        "created_at": "2025-10-18T09:12:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T10:12:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979475722348482764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "708541868842356736",
+              "start": 0,
+              "username": "SFish235"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979475722348482764",
+        "in_reply_to_user_id": "708541868842356736",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979273674000863386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SFish235 🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "708541868842356736",
+        "conversation_id": "1979240059120345398",
+        "created_at": "2025-10-17T19:49:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T20:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979273674000863386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979273674000863386",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979240059120345398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 这简直是超幸福的事😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4684,
+          "following_count": 3591,
+          "like_count": 74253,
+          "listed_count": 9,
+          "media_count": 309,
+          "tweet_count": 7167
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-12T06:35:20.000Z",
+        "description": "把鱼鱼做成鱼排或者鱼板都是可以的———🚎🚎🚎🚈🚋/无能的赛博面点师/鸟厨/IGBTQLA+(学EE学的)/一所G5大学/🦋：https://t.co/RYQutiRqcW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/fish-s…",
+                "end": 85,
+                "expanded_url": "http://bsky.app/profile/fish-sakana.bsky.social",
+                "start": 62,
+                "url": "https://t.co/RYQutiRqcW"
+              }
+            ]
+          }
+        },
+        "id": "708541868842356736",
+        "location": "旧纽约",
+        "name": "雜魚薯條",
+        "pinned_tweet_id": "1852689758939455829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943365713630052352/LBdlYEDt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 578,
+          "like_count": 77982,
+          "listed_count": 3,
+          "media_count": 809,
+          "tweet_count": 12132
+        },
+        "username": "SFish235",
+        "verified": false
+      }
+    ]
+  }
+}

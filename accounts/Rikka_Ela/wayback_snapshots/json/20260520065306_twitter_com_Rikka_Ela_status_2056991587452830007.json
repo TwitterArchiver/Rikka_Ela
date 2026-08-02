@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2056926246978633843",
+    "created_at": "2026-05-20T06:53:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T07:53:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056991587452830007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2041159531657416704",
+          "start": 0,
+          "username": "amber_digit2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056991587452830007",
+    "in_reply_to_user_id": "2041159531657416704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056926246978633843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_digit2 我因为在墙内发这个然后被大规模转发了，号被封了三天💔🧎‍♀️）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2056926246978633843",
+        "created_at": "2026-05-20T06:53:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T07:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056991587452830007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056991587452830007",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056926246978633843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 我因为在墙内发这个然后被大规模转发了，号被封了三天💔🧎‍♀️）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "conversation_id": "2056926246978633843",
+        "created_at": "2026-05-20T02:33:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T03:33:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056926246978633843"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bigglesworthx/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/bigglesworthx/status/2056919451560546473",
+              "start": 6,
+              "url": "https://t.co/khU47aS8Ro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056926246978633843",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2841,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056919451560546473",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真不行了 https://t.co/khU47aS8Ro"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5254,
+          "following_count": 3781,
+          "like_count": 84791,
+          "listed_count": 8,
+          "media_count": 431,
+          "tweet_count": 9548
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056937942124302336/mzq6YSLp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2233,
+          "following_count": 390,
+          "like_count": 549,
+          "listed_count": 5,
+          "media_count": 43,
+          "tweet_count": 661
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": false
+      }
+    ]
+  }
+}

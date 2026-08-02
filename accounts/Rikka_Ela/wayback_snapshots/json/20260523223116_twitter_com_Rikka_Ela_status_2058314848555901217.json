@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2058314848555901217",
+    "created_at": "2026-05-23T22:31:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T23:31:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058314848555901217"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sheriyuo/statu…",
+          "end": 121,
+          "expanded_url": "https://twitter.com/sheriyuo/status/2058302837176889753",
+          "start": 98,
+          "url": "https://t.co/KwU0x6lFDp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058314848555901217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058302837176889753",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实我从一开始组会汇报就是纯手作的，之前用粉笔，现在用电子黑板。因为我不具备中文学术能力，但是我能肉眼看出来这句话、这段话是否合适\n\n国内的老板看到我的中文汇报大为震撼：“谁拉这了”。🧎‍♀️（ https://t.co/KwU0x6lFDp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2058314848555901217",
+        "created_at": "2026-05-23T22:31:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T23:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058314848555901217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sheriyuo/statu…",
+              "end": 121,
+              "expanded_url": "https://twitter.com/sheriyuo/status/2058302837176889753",
+              "start": 98,
+              "url": "https://t.co/KwU0x6lFDp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058314848555901217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058302837176889753",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实我从一开始组会汇报就是纯手作的，之前用粉笔，现在用电子黑板。因为我不具备中文学术能力，但是我能肉眼看出来这句话、这段话是否合适\n\n国内的老板看到我的中文汇报大为震撼：“谁拉这了”。🧎‍♀️（ https://t.co/KwU0x6lFDp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018976131849039872",
+        "conversation_id": "2058302837176889753",
+        "created_at": "2026-05-23T21:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T22:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058302837176889753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dviolettchan/s…",
+              "end": 191,
+              "expanded_url": "https://twitter.com/dviolettchan/status/2058251596488724963",
+              "start": 168,
+              "url": "https://t.co/DzZUv0S4Fi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058302837176889753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "其实我从一开始写 paper 就是纯用 AI 写的，之前用 DeepSeek R1，现在用 V4。因为我不具备英语学术能力，但是我能肉眼看出来这句话、这段话是否合适\n\n对于中文写作，我还是比较有自信的，所以我的第一篇 paper 内几乎 90% 内容都是我用 DeepSeek R1 完成的，以 Introduction 为例：\n1. 先写一份中文大纲，这个大纲极其重要必须要好好写，显著影响你的后续质量\n2. 把你的中文大纲和几篇你导师的 paper 一起喂给 LLM，让它照着写\n3. 不管第一次生成什么，一定跟它说“太长了，短一点，用语要精炼浓缩，符合 ICML camera-ready 的水平”\n4. 这样初稿大概就能看了，然后一句话一句话的看，感觉不对就让 LLM 继续改，从头到尾我只写中文 prompt，对于论文英文的改动不大于一个词的级别\n\n老板看到我写出来的初稿大为震撼：“不像是第一次写 Paper 能写出来的”。\n\n其实都是 Prompt 写的好、n-shot 给的多，rethinking turns 多罢了。改 LLM 生成的垃圾 writing 真的比我写还累，坐着改一整天 writing 下班回出床上直接累瘫😭"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 909,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058251596488724963",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实我从一开始写 paper 就是纯用 AI 写的，之前用 DeepSeek R1，现在用 V4。因为我不具备英语学术能力，但是我能肉眼看出来这句话、这段话是否合适\n\n对于中文写作，我还是比较有自信的，所以我的第一篇 paper 内几乎 90% 内容都是我用 DeepSeek R1 完成的，以 Introduction 为例：\n1. https://t.co/DzZUv0S4Fi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5265,
+          "following_count": 3782,
+          "like_count": 85108,
+          "listed_count": 7,
+          "media_count": 432,
+          "tweet_count": 9593
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-04T09:13:26.000Z",
+        "description": "Undergrad @RUC1937 | RL, Optimization, dLLM | Intern @JD_Corporate | Applying for Fall 27 PhD | Friend @dviolettchan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 10,
+                "username": "RUC1937"
+              },
+              {
+                "end": 66,
+                "start": 53,
+                "username": "JD_Corporate"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "dviolettchan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sheriyuo.github.io",
+                "end": 23,
+                "expanded_url": "http://sheriyuo.github.io",
+                "start": 0,
+                "url": "https://t.co/7yHglOnlhA"
+              }
+            ]
+          }
+        },
+        "id": "2018976131849039872",
+        "location": "Beijing, China",
+        "name": "Xiuyu Li",
+        "pinned_tweet_id": "2042072816712085577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018976441795502081/bpw974ir_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7272,
+          "following_count": 1191,
+          "like_count": 9088,
+          "listed_count": 51,
+          "media_count": 199,
+          "tweet_count": 1702
+        },
+        "url": "https://t.co/7yHglOnlhA",
+        "username": "sheriyuo",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1952915466030333952"
+      ],
+      "media_source_tweet_id": [
+        "1952915470098604304"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "conversation_id": "1953050955789865335",
+    "created_at": "2025-08-06T11:10:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-06T12:10:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953050955789865335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "965702632319922176",
+          "start": 3,
+          "username": "bluefolf"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZbfjPDUU6n",
+          "end": 37,
+          "expanded_url": "https://x.com/bluefolf/status/1952915470098604304/photo/1",
+          "media_key": "3_1952915466030333952",
+          "start": 14,
+          "url": "https://t.co/ZbfjPDUU6n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953050955789865335",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1421
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952915470098604304",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bluefolf: https://t.co/ZbfjPDUU6n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1023,
+        "media_key": "3_1952915466030333952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxomRPUawAAu-nV.jpg",
+        "width": 758
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952915466030333952"
+          ],
+          "media_source_tweet_id": [
+            "1952915470098604304"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "1953050955789865335",
+        "created_at": "2025-08-06T11:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T12:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953050955789865335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "965702632319922176",
+              "start": 3,
+              "username": "bluefolf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZbfjPDUU6n",
+              "end": 37,
+              "expanded_url": "https://x.com/bluefolf/status/1952915470098604304/photo/1",
+              "media_key": "3_1952915466030333952",
+              "start": 14,
+              "url": "https://t.co/ZbfjPDUU6n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953050955789865335",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1421
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952915470098604304",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bluefolf: https://t.co/ZbfjPDUU6n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952915466030333952"
+          ]
+        },
+        "author_id": "965702632319922176",
+        "conversation_id": "1952915470098604304",
+        "created_at": "2025-08-06T02:11:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T03:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952915470098604304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZbfjPDUU6n",
+              "end": 23,
+              "expanded_url": "https://x.com/bluefolf/status/1952915470098604304/photo/1",
+              "media_key": "3_1952915466030333952",
+              "start": 0,
+              "url": "https://t.co/ZbfjPDUU6n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952915470098604304",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 480,
+          "impression_count": 117876,
+          "like_count": 19298,
+          "quote_count": 7,
+          "reply_count": 37,
+          "retweet_count": 1421
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ZbfjPDUU6n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4448,
+          "following_count": 3538,
+          "like_count": 71649,
+          "listed_count": 7,
+          "media_count": 277,
+          "tweet_count": 6681
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-19T21:40:24.000Z",
+        "description": "🐕 a blue folf!! 💙 • 21 • tgirl 🏳️‍⚧️• she/her • furry • meme poster • SFW • single • PMs open! • banner: @guarimbasmrd • 👑 🌸 •",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 105,
+                "username": "guarimbasmrd"
+              }
+            ]
+          }
+        },
+        "id": "965702632319922176",
+        "location": "Denver, CO",
+        "name": "Blue 🏳️‍⚧️",
+        "pinned_tweet_id": "1952196892861108610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952914569636319233/bAikCvG__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119472,
+          "following_count": 13867,
+          "like_count": 36726,
+          "listed_count": 762,
+          "media_count": 2145,
+          "tweet_count": 11446
+        },
+        "username": "bluefolf",
+        "verified": false
+      }
+    ]
+  }
+}

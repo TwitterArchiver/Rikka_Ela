@@ -1,0 +1,238 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "1607956751667847169",
+    "created_at": "2022-12-28T06:55:31.000Z",
+    "edit_controls": {
+      "editable_until": "2022-12-28T07:25:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1607993632241377280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1464281160125661192",
+          "start": 0,
+          "username": "timoskyflan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1607993632241377280",
+    "in_reply_to_user_id": "1464281160125661192",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1607956751667847169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@timoskyflan 通过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "1607956751667847169",
+        "created_at": "2022-12-28T06:55:31.000Z",
+        "edit_controls": {
+          "editable_until": "2022-12-28T07:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1607993632241377280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1464281160125661192",
+              "start": 0,
+              "username": "timoskyflan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1607993632241377280",
+        "in_reply_to_user_id": "1464281160125661192",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1607956751667847169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@timoskyflan 通过"
+      },
+      {
+        "attachments": {
+          "poll_ids": [
+            "1607956750438928388"
+          ]
+        },
+        "author_id": "1464281160125661192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1607956751667847169",
+        "created_at": "2022-12-28T04:28:58.000Z",
+        "edit_controls": {
+          "editable_until": "2022-12-28T04:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1607956751667847169"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1607956751667847169",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 38,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "投票：\n\n你对习近平连任的态度是？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "浙江高三牲畜一只‖精神法国人🇫🇷‖接受不同政治观点‖HRT from 2022.8.1 to 10.15（暂时无糖）‖R6‖BF1,5‖Apex‖明日方舟‖贴贴@Usu1711 @sendSEND_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 80,
+                "username": "Usu1711"
+              },
+              {
+                "end": 99,
+                "start": 89,
+                "username": "sendSEND_"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷是碳酰氯呐🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564079315951689730/fOyGZtgi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 974,
+          "following_count": 1098,
+          "listed_count": 3,
+          "tweet_count": 671
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-26T17:13:38.000Z",
+        "description": "芙兰朵露归来，看地灵殿土崩瓦解，红魔馆的出头之日已经到来！",
+        "id": "1464281160125661192",
+        "location": "云南",
+        "name": "Timosky-Flan",
+        "pinned_tweet_id": "1596219045011132417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1596569277968285696/5AN8a11H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27940,
+          "following_count": 826,
+          "listed_count": 63,
+          "tweet_count": 7438
+        },
+        "username": "timoskyflan",
+        "verified": false
+      }
+    ]
+  }
+}

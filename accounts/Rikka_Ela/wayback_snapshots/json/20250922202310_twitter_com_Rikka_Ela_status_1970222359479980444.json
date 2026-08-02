@@ -1,0 +1,849 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1492296947465555970",
+          "name": "Famitsu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10044774920",
+          "name": "Dark Souls"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10044774920",
+          "name": "Dark Souls"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming News",
+          "id": "1034501001544257536",
+          "name": "Gaming news"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900785013129216",
+          "name": "Soulslike games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1492293504529166341",
+          "name": "Games media"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1492296947465555970",
+          "name": "Famitsu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      }
+    ],
+    "conversation_id": "1970222359479980444",
+    "created_at": "2025-09-22T20:23:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T21:23:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970222359479980444"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 51,
+          "normalized_text": "DARK SOULS（ダークソウル）",
+          "probability": 0.4727,
+          "start": 34,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "5921162",
+          "start": 3,
+          "username": "famitsu"
+        }
+      ],
+      "urls": [
+        {
+          "description": "過去のこの日、ゲーム業界に何があったのかを振り返る。2011年（平成23年）9月22日は、プレイステーション3（PS3）用『DARK SOULS（ダークソウル）』（ダクソ）が発売された日。",
+          "display_url": "famitsu.com/article/202509…",
+          "end": 88,
+          "expanded_url": "https://www.famitsu.com/article/202509/52595",
+          "images": [
+            {
+              "height": 297,
+              "url": "https://pbs.twimg.com/news_img/1969892037802807296/KbTHyaD8?format=jpg&name=orig",
+              "width": 527
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1969892037802807296/KbTHyaD8?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 65,
+          "status": 200,
+          "title": "『ダークソウル』が発売された日。高難度アクションRPG“死にゲー”の地位を確固たるものにした人気シリーズの初代作品。ゆるくつながるオンライン要素も魅力【今日は何の日？】 | ゲーム・エンタメ最新情報のファミ通.com",
+          "unwound_url": "https://www.famitsu.com/article/202509/52595",
+          "url": "https://t.co/vIN7Fw4r5t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970222359479980444",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1058
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969891994760880297",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @famitsu: 【今日は何の日？】\n2011年9月22日『DARK SOULS（ダークソウル）』が発売。今年で14周年\nhttps://t.co/vIN7Fw4r5t\n\n過酷な運命を切り開く高難度アクションRPG。“死にゲー”の地位を確固たるものにした人気シリーズの初…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 482,
+        "media_key": "3_1969891977375494144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1Z2UQVbsAAIPNZ.jpg",
+        "width": 416
+      },
+      {
+        "height": 297,
+        "media_key": "3_1969891982765162496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1Z2UkabgAAQ1HK.jpg",
+        "width": 527
+      },
+      {
+        "height": 345,
+        "media_key": "3_1969891989522137088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1Z2U9lawAAbTJt.jpg",
+        "width": 612
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1492296947465555970",
+              "name": "Famitsu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044774920",
+              "name": "Dark Souls"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044774920",
+              "name": "Dark Souls"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming News",
+              "id": "1034501001544257536",
+              "name": "Gaming news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900785013129216",
+              "name": "Soulslike games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1492293504529166341",
+              "name": "Games media"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1492296947465555970",
+              "name": "Famitsu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "1970222359479980444",
+        "created_at": "2025-09-22T20:23:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T21:23:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970222359479980444"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 51,
+              "normalized_text": "DARK SOULS（ダークソウル）",
+              "probability": 0.4727,
+              "start": 34,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "5921162",
+              "start": 3,
+              "username": "famitsu"
+            }
+          ],
+          "urls": [
+            {
+              "description": "過去のこの日、ゲーム業界に何があったのかを振り返る。2011年（平成23年）9月22日は、プレイステーション3（PS3）用『DARK SOULS（ダークソウル）』（ダクソ）が発売された日。",
+              "display_url": "famitsu.com/article/202509…",
+              "end": 88,
+              "expanded_url": "https://www.famitsu.com/article/202509/52595",
+              "images": [
+                {
+                  "height": 297,
+                  "url": "https://pbs.twimg.com/news_img/1969892037802807296/KbTHyaD8?format=jpg&name=orig",
+                  "width": 527
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1969892037802807296/KbTHyaD8?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 65,
+              "status": 200,
+              "title": "『ダークソウル』が発売された日。高難度アクションRPG“死にゲー”の地位を確固たるものにした人気シリーズの初代作品。ゆるくつながるオンライン要素も魅力【今日は何の日？】 | ゲーム・エンタメ最新情報のファミ通.com",
+              "unwound_url": "https://www.famitsu.com/article/202509/52595",
+              "url": "https://t.co/vIN7Fw4r5t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970222359479980444",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1058
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969891994760880297",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @famitsu: 【今日は何の日？】\n2011年9月22日『DARK SOULS（ダークソウル）』が発売。今年で14周年\nhttps://t.co/vIN7Fw4r5t\n\n過酷な運命を切り開く高難度アクションRPG。“死にゲー”の地位を確固たるものにした人気シリーズの初…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969891977375494144",
+            "3_1969891982765162496",
+            "3_1969891989522137088"
+          ]
+        },
+        "author_id": "5921162",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1492296947465555970",
+              "name": "Famitsu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044774920",
+              "name": "Dark Souls"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10044774920",
+              "name": "Dark Souls"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming News",
+              "id": "1034501001544257536",
+              "name": "Gaming news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900785013129216",
+              "name": "Soulslike games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1492293504529166341",
+              "name": "Games media"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1492296947465555970",
+              "name": "Famitsu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "1969891994760880297",
+        "created_at": "2025-09-21T22:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T23:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969891994760880297"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "DARK SOULS（ダークソウル）",
+              "probability": 0.513,
+              "start": 21,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 160,
+              "start": 150,
+              "tag": "DarkSouls"
+            }
+          ],
+          "urls": [
+            {
+              "description": "過去のこの日、ゲーム業界に何があったのかを振り返る。2011年（平成23年）9月22日は、プレイステーション3（PS3）用『DARK SOULS（ダークソウル）』（ダクソ）が発売された日。",
+              "display_url": "famitsu.com/article/202509…",
+              "end": 75,
+              "expanded_url": "https://www.famitsu.com/article/202509/52595",
+              "images": [
+                {
+                  "height": 297,
+                  "url": "https://pbs.twimg.com/news_img/1969892037802807296/KbTHyaD8?format=jpg&name=orig",
+                  "width": 527
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1969892037802807296/KbTHyaD8?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 52,
+              "status": 200,
+              "title": "『ダークソウル』が発売された日。高難度アクションRPG“死にゲー”の地位を確固たるものにした人気シリーズの初代作品。ゆるくつながるオンライン要素も魅力【今日は何の日？】 | ゲーム・エンタメ最新情報のファミ通.com",
+              "unwound_url": "https://www.famitsu.com/article/202509/52595",
+              "url": "https://t.co/vIN7Fw4r5t"
+            },
+            {
+              "display_url": "pic.x.com/0gt3wykvfb",
+              "end": 184,
+              "expanded_url": "https://x.com/famitsu/status/1969891994760880297/photo/1",
+              "media_key": "3_1969891977375494144",
+              "start": 161,
+              "url": "https://t.co/0gt3wykvfb"
+            },
+            {
+              "display_url": "pic.x.com/0gt3wykvfb",
+              "end": 184,
+              "expanded_url": "https://x.com/famitsu/status/1969891994760880297/photo/1",
+              "media_key": "3_1969891982765162496",
+              "start": 161,
+              "url": "https://t.co/0gt3wykvfb"
+            },
+            {
+              "display_url": "pic.x.com/0gt3wykvfb",
+              "end": 184,
+              "expanded_url": "https://x.com/famitsu/status/1969891994760880297/photo/1",
+              "media_key": "3_1969891989522137088",
+              "start": 161,
+              "url": "https://t.co/0gt3wykvfb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969891994760880297",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 90,
+          "impression_count": 253448,
+          "like_count": 2430,
+          "quote_count": 110,
+          "reply_count": 14,
+          "retweet_count": 1058
+        },
+        "reply_settings": "everyone",
+        "text": "【今日は何の日？】\n2011年9月22日『DARK SOULS（ダークソウル）』が発売。今年で14周年\nhttps://t.co/vIN7Fw4r5t\n\n過酷な運命を切り開く高難度アクションRPG。“死にゲー”の地位を確固たるものにした人気シリーズの初代作品。ゆるくつながるオンライン要素も魅力。\n\n#DarkSouls https://t.co/0gt3wykvfb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN‖Chemistry‖Deutsch／Français／English／中文",
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "🇫🇷Rika🇪🇺🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920276820290584577/Evz1drx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4560,
+          "following_count": 3552,
+          "like_count": 73066,
+          "listed_count": 9,
+          "media_count": 300,
+          "tweet_count": 6981
+        },
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2007-05-10T05:03:05.000Z",
+        "description": "ゲーム、エンタメ情報サイト「ファミ通.com」の公式アカウントです。ゲーム、アニメ、マンガなど、いろいろなエンタメ情報を発信中！ YouTubeチャンネル▶https://t.co/TrFZeaPZs8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/user/famitsutu…",
+                "end": 101,
+                "expanded_url": "https://www.youtube.com/user/famitsutube",
+                "start": 78,
+                "url": "https://t.co/TrFZeaPZs8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "famitsu.com",
+                "end": 23,
+                "expanded_url": "https://www.famitsu.com/",
+                "start": 0,
+                "url": "https://t.co/MmaWx7YOAT"
+              }
+            ]
+          }
+        },
+        "id": "5921162",
+        "name": "ファミ通.com",
+        "pinned_tweet_id": "1968933761485033973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963800212306341888/CeZD_6Pc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1183767,
+          "following_count": 42799,
+          "like_count": 86,
+          "listed_count": 12112,
+          "media_count": 168267,
+          "tweet_count": 329742
+        },
+        "url": "https://t.co/MmaWx7YOAT",
+        "username": "famitsu",
+        "verified": true
+      }
+    ]
+  }
+}
