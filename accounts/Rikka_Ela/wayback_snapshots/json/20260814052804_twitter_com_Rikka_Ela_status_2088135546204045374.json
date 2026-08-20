@@ -1,0 +1,706 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087812897606934528"
+      ],
+      "media_source_tweet_id": [
+        "2087812946546065889"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1135979287733948416",
+          "name": "Elden Ring"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1135979287733948416",
+          "name": "Elden Ring"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898668479250438",
+          "name": "Fantasy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1541880308336713728",
+          "name": "Action games"
+        }
+      }
+    ],
+    "conversation_id": "2088135546204045374",
+    "created_at": "2026-08-14T05:28:04.000Z",
+    "display_text_range": [
+      0,
+      83
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T06:28:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088135546204045374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "839280506931924992",
+          "start": 3,
+          "username": "VideoArtGame"
+        },
+        {
+          "end": 59,
+          "id": "900580700939735040",
+          "start": 48,
+          "username": "yagaminoue"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CundH5F4Vy",
+          "end": 83,
+          "expanded_url": "https://x.com/VideoArtGame/status/2087812946546065889/photo/1",
+          "media_key": "3_2087812897606934528",
+          "start": 60,
+          "url": "https://t.co/CundH5F4Vy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088135546204045374",
+    "lang": "no",
+    "media_metadata": [
+      {
+        "media_key": "3_2087812897606934528"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 154
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087812946546065889",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @VideoArtGame: Fan art | Elden Ring\n\nArtist: @yagaminoue https://t.co/CundH5F4Vy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2087812897606934528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPlmxMdXIAAAJL5.jpg",
+        "width": 647
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087812897606934528"
+          ]
+        },
+        "author_id": "839280506931924992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2087812946546065889",
+        "created_at": "2026-08-13T08:06:10.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T09:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087812946546065889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 41,
+              "id": "900580700939735040",
+              "start": 30,
+              "username": "yagaminoue"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CundH5F4Vy",
+              "end": 65,
+              "expanded_url": "https://x.com/VideoArtGame/status/2087812946546065889/photo/1",
+              "media_key": "3_2087812897606934528",
+              "start": 42,
+              "url": "https://t.co/CundH5F4Vy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087812946546065889",
+        "lang": "no",
+        "media_metadata": [
+          {
+            "media_key": "3_2087812897606934528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 145,
+          "impression_count": 19682,
+          "like_count": 1871,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 154
+        },
+        "reply_settings": "everyone",
+        "text": "Fan art | Elden Ring\n\nArtist: @yagaminoue https://t.co/CundH5F4Vy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087812897606934528"
+          ],
+          "media_source_tweet_id": [
+            "2087812946546065889"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1135979287733948416",
+              "name": "Elden Ring"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898668479250438",
+              "name": "Fantasy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2088135546204045374",
+        "created_at": "2026-08-14T05:28:04.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T06:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088135546204045374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "839280506931924992",
+              "start": 3,
+              "username": "VideoArtGame"
+            },
+            {
+              "end": 59,
+              "id": "900580700939735040",
+              "start": 48,
+              "username": "yagaminoue"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CundH5F4Vy",
+              "end": 83,
+              "expanded_url": "https://x.com/VideoArtGame/status/2087812946546065889/photo/1",
+              "media_key": "3_2087812897606934528",
+              "start": 60,
+              "url": "https://t.co/CundH5F4Vy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088135546204045374",
+        "lang": "no",
+        "media_metadata": [
+          {
+            "media_key": "3_2087812897606934528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 154
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087812946546065889",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @VideoArtGame: Fan art | Elden Ring\n\nArtist: @yagaminoue https://t.co/CundH5F4Vy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "is_identity_verified": false,
+        "location": "France",
+        "most_recent_tweet_id": "2088135546204045374",
+        "name": "Rika☁️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1418942200457662477/1700665945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6662,
+          "following_count": 3777,
+          "like_count": 86060,
+          "listed_count": 9,
+          "media_count": 458,
+          "tweet_count": 10162
+        },
+        "url": "",
+        "username": "Rikka_Ela",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-03-08T01:04:00.000Z",
+        "description": "Dedicated to art: animation, concept art, illustration, pixel art, etc. Video games, anime and more. Follow our alt account for retro nostalgia @MemoryCardFiles",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 144,
+                "username": "MemoryCardFiles"
+              }
+            ]
+          }
+        },
+        "id": "839280506931924992",
+        "is_identity_verified": false,
+        "location": "videoartgameofficial@gmail.com",
+        "most_recent_tweet_id": "2088128483763347511",
+        "name": "VideoArtGame",
+        "pinned_tweet_id": "1869065024922071247",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/839280506931924992/1505730848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/909705555098443777/h2LZE2he_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479749,
+          "following_count": 100,
+          "like_count": 6561,
+          "listed_count": 2135,
+          "media_count": 48035,
+          "tweet_count": 53420
+        },
+        "url": "",
+        "username": "VideoArtGame",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-08-24T04:49:05.000Z",
+        "description": "Visdev/Concept Artist https://t.co/AybrEksCht",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/yagaminoue",
+                "end": 45,
+                "expanded_url": "https://linktr.ee/yagaminoue",
+                "start": 22,
+                "url": "https://t.co/AybrEksCht"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "etsy.com/shop/yagaminoue",
+                "end": 23,
+                "expanded_url": "https://www.etsy.com/shop/yagaminoue",
+                "start": 0,
+                "url": "https://t.co/fZqhcawCeq"
+              }
+            ]
+          }
+        },
+        "id": "900580700939735040",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086965081167028463",
+        "name": "yagaminoue",
+        "pinned_tweet_id": "1633996091623350272",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/900580700939735040/1657218919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1478611776795131904/3HJXjxK9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16834,
+          "following_count": 355,
+          "like_count": 3197,
+          "listed_count": 117,
+          "media_count": 191,
+          "tweet_count": 938
+        },
+        "url": "https://t.co/fZqhcawCeq",
+        "username": "yagaminoue",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2084857064078328297",
+    "created_at": "2026-08-05T05:31:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T06:31:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084874978898674040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1968300138222215168",
+          "start": 0,
+          "username": "wafuunai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084874978898674040",
+    "in_reply_to_user_id": "1968300138222215168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084870955642577247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wafuunai 补药msc…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2084857064078328297",
+        "created_at": "2026-08-05T05:31:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T06:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084874978898674040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1968300138222215168",
+              "start": 0,
+              "username": "wafuunai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084874978898674040",
+        "in_reply_to_user_id": "1968300138222215168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084870955642577247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wafuunai 补药msc…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1968300138222215168",
+        "conversation_id": "2084857064078328297",
+        "created_at": "2026-08-05T05:15:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T06:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084870955642577247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084870955642577247",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084857064078328297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 补药msc…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6580,
+          "following_count": 3770,
+          "like_count": 85737,
+          "listed_count": 10,
+          "media_count": 457,
+          "tweet_count": 10107
+        },
+        "url": "",
+        "username": "Rikka_Ela",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-17T13:05:04.000Z",
+        "description": "UTC +9｜不想转@UMichCSE 的 @UMichECE 学生将永远无法做@UMRobotics",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "UMichCSE"
+              },
+              {
+                "end": 31,
+                "start": 22,
+                "username": "UMichECE"
+              },
+              {
+                "end": 51,
+                "start": 40,
+                "username": "UMRobotics"
+              }
+            ]
+          }
+        },
+        "id": "1968300138222215168",
+        "name": "水无清奈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968300496143220736/_PytA9lN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 122,
+          "like_count": 13985,
+          "listed_count": 1,
+          "media_count": 112,
+          "tweet_count": 1638
+        },
+        "url": "",
+        "username": "wafuunai",
+        "verified": false
+      }
+    ]
+  }
+}

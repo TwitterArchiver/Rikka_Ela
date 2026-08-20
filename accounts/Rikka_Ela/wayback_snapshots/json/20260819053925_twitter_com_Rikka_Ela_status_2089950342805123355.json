@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089722918435786752"
+      ],
+      "media_source_tweet_id": [
+        "2089722932868305239"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "conversation_id": "2089950342805123355",
+    "created_at": "2026-08-19T05:39:25.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T06:39:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089950342805123355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "885949025295446020",
+          "start": 3,
+          "username": "shaokaotanzhu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tVDj4Y4PpS",
+          "end": 48,
+          "expanded_url": "https://x.com/shaokaotanzhu/status/2089722932868305239/photo/1",
+          "media_key": "3_2089722918435786752",
+          "start": 25,
+          "url": "https://t.co/tVDj4Y4PpS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089950342805123355",
+    "lang": "und",
+    "media_metadata": [
+      {
+        "media_key": "3_2089722918435786752"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 154
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089722932868305239",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shaokaotanzhu: 18/31 https://t.co/tVDj4Y4PpS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1059,
+        "media_key": "3_2089722918435786752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQAv7ChbkAAUMu1.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089722918435786752"
+          ],
+          "media_source_tweet_id": [
+            "2089722932868305239"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "2089950342805123355",
+        "created_at": "2026-08-19T05:39:25.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T06:39:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089950342805123355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "885949025295446020",
+              "start": 3,
+              "username": "shaokaotanzhu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tVDj4Y4PpS",
+              "end": 48,
+              "expanded_url": "https://x.com/shaokaotanzhu/status/2089722932868305239/photo/1",
+              "media_key": "3_2089722918435786752",
+              "start": 25,
+              "url": "https://t.co/tVDj4Y4PpS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089950342805123355",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2089722918435786752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 154
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089722932868305239",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shaokaotanzhu: 18/31 https://t.co/tVDj4Y4PpS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089722918435786752"
+          ]
+        },
+        "author_id": "885949025295446020",
+        "conversation_id": "2089722932868305239",
+        "created_at": "2026-08-18T14:35:47.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T15:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089722932868305239"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tVDj4Y4PpS",
+              "end": 29,
+              "expanded_url": "https://x.com/shaokaotanzhu/status/2089722932868305239/photo/1",
+              "media_key": "3_2089722918435786752",
+              "start": 6,
+              "url": "https://t.co/tVDj4Y4PpS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089722932868305239",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2089722918435786752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 9781,
+          "like_count": 883,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 154
+        },
+        "reply_settings": "everyone",
+        "text": "18/31 https://t.co/tVDj4Y4PpS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "is_identity_verified": false,
+        "location": "France",
+        "most_recent_tweet_id": "2089950342805123355",
+        "name": "Rika☁️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1418942200457662477/1700665945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6700,
+          "following_count": 3771,
+          "like_count": 86061,
+          "listed_count": 9,
+          "media_count": 459,
+          "tweet_count": 10190
+        },
+        "url": "",
+        "username": "Rikka_Ela",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-07-14T19:48:02.000Z",
+        "description": "enoig/乔内｜English /中文 【DO NOT USE/REPOST】ai🚫\n微博：enoigeee\n想吃掉葛德文:-I，杂食一体机",
+        "id": "885949025295446020",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089722932868305239",
+        "name": "Enoig",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/885949025295446020/1776617745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045908028071841792/OVDAXSBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6154,
+          "following_count": 393,
+          "like_count": 7705,
+          "listed_count": 19,
+          "media_count": 760,
+          "tweet_count": 1959
+        },
+        "url": "",
+        "username": "shaokaotanzhu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

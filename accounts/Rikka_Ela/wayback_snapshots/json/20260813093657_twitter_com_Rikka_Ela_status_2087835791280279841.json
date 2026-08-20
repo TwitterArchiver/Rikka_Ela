@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2087737607434457383",
+    "created_at": "2026-08-13T09:36:57.000Z",
+    "display_text_range": [
+      42,
+      67
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T10:36:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087835791280279841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1477943682808664068",
+          "start": 0,
+          "username": "dreamdissolved"
+        },
+        {
+          "end": 29,
+          "id": "1844926832967286785",
+          "start": 16,
+          "username": "ZX65535plus1"
+        },
+        {
+          "end": 41,
+          "id": "998386167010639872",
+          "start": 30,
+          "username": "Yuugiri0X0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087835791280279841",
+    "in_reply_to_user_id": "1477943682808664068",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087834928985825663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dreamdissolved @ZX65535plus1 @Yuugiri0X0 那完了就我transition之后还是做题曲😭😭😭"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2087834928985825663].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2087834928985825663",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2087834928985825663"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2087737607434457383",
+        "created_at": "2026-08-13T09:36:57.000Z",
+        "display_text_range": [
+          42,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T10:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087835791280279841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1477943682808664068",
+              "start": 0,
+              "username": "dreamdissolved"
+            },
+            {
+              "end": 29,
+              "id": "1844926832967286785",
+              "start": 16,
+              "username": "ZX65535plus1"
+            },
+            {
+              "end": 41,
+              "id": "998386167010639872",
+              "start": 30,
+              "username": "Yuugiri0X0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087835791280279841",
+        "in_reply_to_user_id": "1477943682808664068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087834928985825663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dreamdissolved @ZX65535plus1 @Yuugiri0X0 那完了就我transition之后还是做题曲😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "is_identity_verified": false,
+        "location": "France",
+        "most_recent_tweet_id": "2087835791280279841",
+        "name": "Rika☁️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1418942200457662477/1700665945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6657,
+          "following_count": 3779,
+          "like_count": 86044,
+          "listed_count": 10,
+          "media_count": 458,
+          "tweet_count": 10160
+        },
+        "url": "",
+        "username": "Rikka_Ela",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-03T10:03:36.000Z",
+        "description": "男|@HumanoidNO19|想像力豊かな人間になりたい|雑多",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "HumanoidNO19"
+              }
+            ]
+          }
+        },
+        "id": "1477943682808664068",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2085351318340907469",
+        "name": "Kagami⚧",
+        "pinned_tweet_id": "2085349320027672751",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1477943682808664068/1755957767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018227224684675072/VrVKpuEI_normal.png",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1152,
+          "following_count": 3445,
+          "like_count": 53519,
+          "listed_count": 6,
+          "media_count": 718,
+          "tweet_count": 9094
+        },
+        "url": "",
+        "username": "dreamdissolved",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-12T02:23:45.000Z",
+        "description": "挨揍不如嘴贱 brat统治世界  |  \n只要不去就诊我就是健全B  |  \n一直试图在没有血缘关系的人身上找到家 | \nMSCS |\n发现男的太傻逼但不太想否认自己历史，遂加入双性恋阵营 |\n我族长兴 天佑跨儿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/chat/group_join/g2043367970999832925/7jUBUlO2qh",
+                "start": 0,
+                "url": "https://t.co/pdJCzdgssh"
+              }
+            ]
+          }
+        },
+        "id": "1844926832967286785",
+        "is_identity_verified": false,
+        "location": "万达广场楼下",
+        "most_recent_tweet_id": "2087832067904270513",
+        "name": "笨蛋折筱喵喵🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1844926832967286785/1774464267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036702817168265216/LUEbpUzW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4918,
+          "following_count": 1431,
+          "like_count": 83394,
+          "listed_count": 12,
+          "media_count": 1231,
+          "tweet_count": 24735
+        },
+        "url": "https://t.co/pdJCzdgssh",
+        "username": "ZX65535plus1",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-05-21T02:13:06.000Z",
+        "description": "我要狠狠关注你们这些清水博主\n想出考斯普雷\n坏了不会有人觉得我是女生吧",
+        "id": "998386167010639872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087738816623001653",
+        "name": "Yuugiri",
+        "pinned_tweet_id": "2086419457292038514",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061391136850313216/bBWY0uLm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 689,
+          "like_count": 6474,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 1166
+        },
+        "url": "",
+        "username": "Yuugiri0X0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
