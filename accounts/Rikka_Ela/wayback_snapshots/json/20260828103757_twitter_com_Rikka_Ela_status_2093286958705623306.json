@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093275356023410689",
+        "3_2093275399837147136"
+      ],
+      "media_source_tweet_id": [
+        "2093275592435396940",
+        "2093275592435396940"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "conversation_id": "2093286958705623306",
+    "created_at": "2026-08-28T10:37:57.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T11:37:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093286958705623306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "857173942586441729",
+          "start": 3,
+          "username": "kieed23232"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/J3O12X5fi1",
+          "end": 42,
+          "expanded_url": "https://x.com/kieed23232/status/2093275592435396940/photo/1",
+          "media_key": "3_2093275356023410689",
+          "start": 19,
+          "url": "https://t.co/J3O12X5fi1"
+        },
+        {
+          "display_url": "pic.x.com/J3O12X5fi1",
+          "end": 42,
+          "expanded_url": "https://x.com/kieed23232/status/2093275592435396940/photo/1",
+          "media_key": "3_2093275399837147136",
+          "start": 19,
+          "url": "https://t.co/J3O12X5fi1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093286958705623306",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2093275356023410689"
+      },
+      {
+        "media_key": "3_2093275399837147136"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 226
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093275592435396940",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kieed23232: 再揭 https://t.co/J3O12X5fi1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2486,
+        "media_key": "3_2093275356023410689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQzO2Hza0AE8iiC.jpg",
+        "width": 1784
+      },
+      {
+        "height": 2486,
+        "media_key": "3_2093275399837147136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQzO4rBbYAANEon.jpg",
+        "width": 1784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093275356023410689",
+            "3_2093275399837147136"
+          ],
+          "media_source_tweet_id": [
+            "2093275592435396940",
+            "2093275592435396940"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "conversation_id": "2093286958705623306",
+        "created_at": "2026-08-28T10:37:57.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T11:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093286958705623306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "857173942586441729",
+              "start": 3,
+              "username": "kieed23232"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J3O12X5fi1",
+              "end": 42,
+              "expanded_url": "https://x.com/kieed23232/status/2093275592435396940/photo/1",
+              "media_key": "3_2093275356023410689",
+              "start": 19,
+              "url": "https://t.co/J3O12X5fi1"
+            },
+            {
+              "display_url": "pic.x.com/J3O12X5fi1",
+              "end": 42,
+              "expanded_url": "https://x.com/kieed23232/status/2093275592435396940/photo/1",
+              "media_key": "3_2093275399837147136",
+              "start": 19,
+              "url": "https://t.co/J3O12X5fi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093286958705623306",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2093275356023410689"
+          },
+          {
+            "media_key": "3_2093275399837147136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 226
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093275592435396940",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kieed23232: 再揭 https://t.co/J3O12X5fi1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093275356023410689",
+            "3_2093275399837147136"
+          ]
+        },
+        "author_id": "857173942586441729",
+        "conversation_id": "2093275592435396940",
+        "created_at": "2026-08-28T09:52:47.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T10:52:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093275592435396940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J3O12X5fi1",
+              "end": 26,
+              "expanded_url": "https://x.com/kieed23232/status/2093275592435396940/photo/1",
+              "media_key": "3_2093275356023410689",
+              "start": 3,
+              "url": "https://t.co/J3O12X5fi1"
+            },
+            {
+              "display_url": "pic.x.com/J3O12X5fi1",
+              "end": 26,
+              "expanded_url": "https://x.com/kieed23232/status/2093275592435396940/photo/1",
+              "media_key": "3_2093275399837147136",
+              "start": 3,
+              "url": "https://t.co/J3O12X5fi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093275592435396940",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2093275356023410689"
+          },
+          {
+            "media_key": "3_2093275399837147136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 180,
+          "impression_count": 23075,
+          "like_count": 2170,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 226
+        },
+        "reply_settings": "everyone",
+        "text": "再揭 https://t.co/J3O12X5fi1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "is_identity_verified": false,
+        "location": "France",
+        "most_recent_tweet_id": "2093286958705623306",
+        "name": "Rika☁️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1418942200457662477/1700665945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6752,
+          "following_count": 3762,
+          "like_count": 86262,
+          "listed_count": 8,
+          "media_count": 460,
+          "tweet_count": 10245
+        },
+        "url": "",
+        "username": "Rikka_Ela",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-04-26T10:06:08.000Z",
+        "description": "Illustrator，Hatsune Miku ♥/ Kasane Teto ♥\nNO AI🚫 didn`t use AI \ninstagram：https://t.co/Nk5RsY7YSJ\nbilibili: https://t.co/wLGByCsiwn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kieed0401/",
+                "end": 97,
+                "expanded_url": "https://www.instagram.com/kieed0401/",
+                "start": 74,
+                "url": "https://t.co/Nk5RsY7YSJ"
+              },
+              {
+                "display_url": "space.bilibili.com/25589919",
+                "end": 131,
+                "expanded_url": "https://space.bilibili.com/25589919",
+                "start": 108,
+                "url": "https://t.co/wLGByCsiwn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/11525066",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/11525066",
+                "start": 0,
+                "url": "https://t.co/iHBM2GdjPo"
+              }
+            ]
+          }
+        },
+        "id": "857173942586441729",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093275592435396940",
+        "name": "kieed",
+        "pinned_tweet_id": "1829852267304140916",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/857173942586441729/1761822571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/908705750075060224/ciddanZN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355976,
+          "following_count": 647,
+          "like_count": 1722,
+          "listed_count": 2151,
+          "media_count": 276,
+          "tweet_count": 449
+        },
+        "url": "https://t.co/iHBM2GdjPo",
+        "username": "kieed23232",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

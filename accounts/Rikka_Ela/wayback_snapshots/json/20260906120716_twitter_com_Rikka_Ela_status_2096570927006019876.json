@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2096564718890819791",
+    "created_at": "2026-09-06T12:07:16.000Z",
+    "display_text_range": [
+      12,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T13:07:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096570927006019876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1697725634133561344",
+          "start": 0,
+          "username": "HeXiaoQi77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096570927006019876",
+    "in_reply_to_user_id": "1697725634133561344",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096564718890819791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HeXiaoQi77 ?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2096564718890819791",
+        "created_at": "2026-09-06T12:07:16.000Z",
+        "display_text_range": [
+          12,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T13:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096570927006019876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1697725634133561344",
+              "start": 0,
+              "username": "HeXiaoQi77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096570927006019876",
+        "in_reply_to_user_id": "1697725634133561344",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096564718890819791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HeXiaoQi77 ?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697725634133561344",
+        "conversation_id": "2096564718890819791",
+        "created_at": "2026-09-06T11:42:35.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T12:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096564718890819791"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096564718890819791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 185,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的亲生儿子，之前我父母一直让他叫我“妈妈”，今天我终于让他叫了我一声“爸爸”。作为生父，有时候真的好想好想名正言顺的听他在别人面前叫我“爸爸”啊，真的本能就是这样子的。我的本能真的想让他叫我“爸爸”！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "is_identity_verified": false,
+        "location": "France",
+        "most_recent_tweet_id": "2096570927006019876",
+        "name": "Rika☁️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1418942200457662477/1700665945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6772,
+          "following_count": 3766,
+          "like_count": 86337,
+          "listed_count": 8,
+          "media_count": 464,
+          "tweet_count": 10286
+        },
+        "url": "",
+        "username": "Rikka_Ela",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-01T21:38:41.000Z",
+        "description": "已跨术女，离异带娃。日常不线下不推广，随机回fo。自用梯子https://t.co/lyPq1p3Yqp。蓝标来互fo，手术和心理咨询请私信。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "login.doumao.quest/#/register?cod…",
+                "end": 52,
+                "expanded_url": "https://login.doumao.quest/#/register?code=bo5Qmt30",
+                "start": 29,
+                "url": "https://t.co/lyPq1p3Yqp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HeXiaoQi77",
+                "end": 23,
+                "expanded_url": "https://t.me/HeXiaoQi77",
+                "start": 0,
+                "url": "https://t.co/r3aQCrjBuj"
+              }
+            ]
+          }
+        },
+        "id": "1697725634133561344",
+        "is_identity_verified": false,
+        "location": "WIH International Hospital",
+        "most_recent_tweet_id": "2096564718890819791",
+        "name": "柒_Rain☕️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1697725634133561344/1693604599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862795292178829312/I6s-XESc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14592,
+          "following_count": 465,
+          "like_count": 16816,
+          "listed_count": 55,
+          "media_count": 186,
+          "tweet_count": 13970
+        },
+        "url": "https://t.co/r3aQCrjBuj",
+        "username": "HeXiaoQi77",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

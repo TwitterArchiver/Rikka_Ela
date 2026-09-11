@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2093947385244475508",
+    "created_at": "2026-08-30T10:37:23.000Z",
+    "display_text_range": [
+      11,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T11:37:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094011591952052723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1855781466917228544",
+          "start": 0,
+          "username": "hy1194527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094011591952052723",
+    "in_reply_to_user_id": "1855781466917228544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093986333958254666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hy1194527 爸爸😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2093947385244475508",
+        "created_at": "2026-08-30T10:37:23.000Z",
+        "display_text_range": [
+          11,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T11:37:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094011591952052723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1855781466917228544",
+              "start": 0,
+              "username": "hy1194527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094011591952052723",
+        "in_reply_to_user_id": "1855781466917228544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093986333958254666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hy1194527 爸爸😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855781466917228544",
+        "conversation_id": "2093947385244475508",
+        "created_at": "2026-08-30T08:57:01.000Z",
+        "display_text_range": [
+          11,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T09:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093986333958254666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093986333958254666",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093982955064659982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 少炒作，多发点你和你爸爸妈妈斗智斗勇不让他们知道你做了手术的跨畜小日常"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "is_identity_verified": false,
+        "location": "France",
+        "most_recent_tweet_id": "2094011591952052723",
+        "name": "Rika☁️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1418942200457662477/1700665945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6744,
+          "following_count": 3761,
+          "like_count": 86243,
+          "listed_count": 8,
+          "media_count": 461,
+          "tweet_count": 10257
+        },
+        "url": "",
+        "username": "Rikka_Ela",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-11T01:16:04.000Z",
+        "description": "全网最尊重女性、跨畜和坂下六花的站街po主\n凌晨四点在 Valenkov站街 @genya1976 \n正道人坂下六花 @zhu6hua\n喜欢有个性的人 cn/en/ru",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 39,
+                "username": "genya1976"
+              },
+              {
+                "end": 67,
+                "start": 59,
+                "username": "zhu6hua"
+              }
+            ]
+          }
+        },
+        "id": "1855781466917228544",
+        "is_identity_verified": false,
+        "location": "Tallinn, Estonia",
+        "most_recent_tweet_id": "2093997584381850026",
+        "name": "Sparky Himlevich Shoemaker🇪🇪🇰🇿🇺🇿🇷🇺🇵🇱",
+        "pinned_tweet_id": "2061729963724951635",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1855781466917228544/1774377430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034069755624042496/4TbkDc-u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 943,
+          "like_count": 27449,
+          "listed_count": 1,
+          "media_count": 215,
+          "tweet_count": 1446
+        },
+        "url": "",
+        "username": "hy1194527",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
