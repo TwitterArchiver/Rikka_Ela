@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100045339336036352",
+        "3_2100045339336040448",
+        "3_2100045339763863552",
+        "3_2100045339369611264"
+      ]
+    },
+    "author_id": "1418942200457662477",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1294251834106732546",
+          "name": "University of California Los Angeles"
+        }
+      },
+      {
+        "domain": {
+          "description": "Colleges & universities around the world",
+          "id": "157",
+          "name": "Colleges & Universities"
+        },
+        "entity": {
+          "id": "1294251834106732546",
+          "name": "University of California Los Angeles"
+        }
+      }
+    ],
+    "conversation_id": "2100045353105903902",
+    "created_at": "2026-09-16T02:13:23.000Z",
+    "display_text_range": [
+      0,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T03:13:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100045353105903902"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZDLsi9lcxi",
+          "end": 81,
+          "expanded_url": "https://x.com/Rikka_Ela/status/2100045353105903902/photo/1",
+          "media_key": "3_2100045339336036352",
+          "start": 58,
+          "url": "https://t.co/ZDLsi9lcxi"
+        },
+        {
+          "display_url": "pic.x.com/ZDLsi9lcxi",
+          "end": 81,
+          "expanded_url": "https://x.com/Rikka_Ela/status/2100045353105903902/photo/1",
+          "media_key": "3_2100045339336040448",
+          "start": 58,
+          "url": "https://t.co/ZDLsi9lcxi"
+        },
+        {
+          "display_url": "pic.x.com/ZDLsi9lcxi",
+          "end": 81,
+          "expanded_url": "https://x.com/Rikka_Ela/status/2100045353105903902/photo/1",
+          "media_key": "3_2100045339763863552",
+          "start": 58,
+          "url": "https://t.co/ZDLsi9lcxi"
+        },
+        {
+          "display_url": "pic.x.com/ZDLsi9lcxi",
+          "end": 81,
+          "expanded_url": "https://x.com/Rikka_Ela/status/2100045353105903902/photo/1",
+          "media_key": "3_2100045339369611264",
+          "start": 58,
+          "url": "https://t.co/ZDLsi9lcxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100045353105903902",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100045339336036352"
+      },
+      {
+        "media_key": "3_2100045339336040448"
+      },
+      {
+        "media_key": "3_2100045339763863552"
+      },
+      {
+        "media_key": "3_2100045339369611264"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🤯昨天一口气收到了四封回复\np2是UCLA的导。这是积极回复吗，UCLA是强导师制吗🥺🥺🥺\n其他感觉都有点养鱼😭😭 https://t.co/ZDLsi9lcxi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 589,
+        "media_key": "3_2100045339336036352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSTcHA9W0AAV8ok.jpg",
+        "width": 1320
+      },
+      {
+        "height": 621,
+        "media_key": "3_2100045339336040448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSTcHA9W4AALvyI.jpg",
+        "width": 1320
+      },
+      {
+        "height": 812,
+        "media_key": "3_2100045339763863552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSTcHCjW8AAdhqZ.jpg",
+        "width": 1320
+      },
+      {
+        "height": 210,
+        "media_key": "3_2100045339369611264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSTcHBFXIAAPCqM.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100045339336036352",
+            "3_2100045339336040448",
+            "3_2100045339763863552",
+            "3_2100045339369611264"
+          ]
+        },
+        "author_id": "1418942200457662477",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1294251834106732546",
+              "name": "University of California Los Angeles"
+            }
+          },
+          {
+            "domain": {
+              "description": "Colleges & universities around the world",
+              "id": "157",
+              "name": "Colleges & Universities"
+            },
+            "entity": {
+              "id": "1294251834106732546",
+              "name": "University of California Los Angeles"
+            }
+          }
+        ],
+        "conversation_id": "2100045353105903902",
+        "created_at": "2026-09-16T02:13:23.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T03:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100045353105903902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZDLsi9lcxi",
+              "end": 81,
+              "expanded_url": "https://x.com/Rikka_Ela/status/2100045353105903902/photo/1",
+              "media_key": "3_2100045339336036352",
+              "start": 58,
+              "url": "https://t.co/ZDLsi9lcxi"
+            },
+            {
+              "display_url": "pic.x.com/ZDLsi9lcxi",
+              "end": 81,
+              "expanded_url": "https://x.com/Rikka_Ela/status/2100045353105903902/photo/1",
+              "media_key": "3_2100045339336040448",
+              "start": 58,
+              "url": "https://t.co/ZDLsi9lcxi"
+            },
+            {
+              "display_url": "pic.x.com/ZDLsi9lcxi",
+              "end": 81,
+              "expanded_url": "https://x.com/Rikka_Ela/status/2100045353105903902/photo/1",
+              "media_key": "3_2100045339763863552",
+              "start": 58,
+              "url": "https://t.co/ZDLsi9lcxi"
+            },
+            {
+              "display_url": "pic.x.com/ZDLsi9lcxi",
+              "end": 81,
+              "expanded_url": "https://x.com/Rikka_Ela/status/2100045353105903902/photo/1",
+              "media_key": "3_2100045339369611264",
+              "start": 58,
+              "url": "https://t.co/ZDLsi9lcxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100045353105903902",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100045339336036352"
+          },
+          {
+            "media_key": "3_2100045339336040448"
+          },
+          {
+            "media_key": "3_2100045339763863552"
+          },
+          {
+            "media_key": "3_2100045339369611264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🤯昨天一口气收到了四封回复\np2是UCLA的导。这是积极回复吗，UCLA是强导师制吗🥺🥺🥺\n其他感觉都有点养鱼😭😭 https://t.co/ZDLsi9lcxi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "is_identity_verified": false,
+        "location": "France",
+        "most_recent_tweet_id": "2100045353105903902",
+        "name": "Rika☁️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1418942200457662477/1700665945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6881,
+          "following_count": 3767,
+          "like_count": 86591,
+          "listed_count": 8,
+          "media_count": 470,
+          "tweet_count": 10363
+        },
+        "url": "",
+        "username": "Rikka_Ela",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

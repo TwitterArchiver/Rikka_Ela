@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2099831267240161469",
+    "created_at": "2026-09-15T12:52:09.000Z",
+    "display_text_range": [
+      7,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T13:52:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099843713321119767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1566739868688199680",
+          "start": 0,
+          "username": "wabnp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099843713321119767",
+    "in_reply_to_user_id": "1566739868688199680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099831267240161469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wabnp 带我"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15050,
+        "height": 720,
+        "media_key": "13_2099831192455618560",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099831192455618560/img/L0qb3gwmMaRd6Ho_.jpg",
+        "public_metrics": {
+          "view_count": 31
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099831192455618560/vid/avc1/480x270/IZ-oj3sMhbFM3UR9.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099831192455618560/vid/avc1/640x360/gKvNVbnnSs4S2hjj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099831192455618560/vid/avc1/1280x720/a-6_Rstke0NSgdwq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099831192455618560/pl/tFPAj-c23ufD-Z93.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2099831267240161469",
+        "created_at": "2026-09-15T12:52:09.000Z",
+        "display_text_range": [
+          7,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T13:52:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099843713321119767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1566739868688199680",
+              "start": 0,
+              "username": "wabnp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099843713321119767",
+        "in_reply_to_user_id": "1566739868688199680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099831267240161469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wabnp 带我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099831192455618560"
+          ]
+        },
+        "author_id": "1566739868688199680",
+        "conversation_id": "2099831267240161469",
+        "created_at": "2026-09-15T12:02:41.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T13:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099831267240161469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w7CGinXPz4",
+              "end": 36,
+              "expanded_url": "https://x.com/wabnp/status/2099831267240161469/video/1",
+              "media_key": "13_2099831192455618560",
+              "start": 13,
+              "url": "https://t.co/w7CGinXPz4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099831267240161469",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2099831192455618560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "烹饪二班鱼大厨我点的菜呢 https://t.co/w7CGinXPz4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "is_identity_verified": false,
+        "location": "France",
+        "most_recent_tweet_id": "2099843713321119767",
+        "name": "Rika☁️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1418942200457662477/1700665945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6864,
+          "following_count": 3768,
+          "like_count": 86577,
+          "listed_count": 8,
+          "media_count": 469,
+          "tweet_count": 10356
+        },
+        "url": "",
+        "username": "Rikka_Ela",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-05T10:47:56.000Z",
+        "description": "我得了一种只想吃苹果的病",
+        "id": "1566739868688199680",
+        "is_identity_verified": false,
+        "location": "Nov. 2023 ",
+        "most_recent_tweet_id": "2099831267240161469",
+        "name": "醬燒魚乾",
+        "pinned_tweet_id": "1935293435520630965",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1566739868688199680/1700402581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089790674715705344/4tasddmr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2479,
+          "following_count": 989,
+          "like_count": 276390,
+          "listed_count": 3,
+          "media_count": 725,
+          "tweet_count": 18414
+        },
+        "url": "",
+        "username": "wabnp",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

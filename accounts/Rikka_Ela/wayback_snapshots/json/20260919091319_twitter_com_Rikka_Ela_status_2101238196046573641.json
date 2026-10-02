@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2101238196046573641",
+    "created_at": "2026-09-19T09:13:19.000Z",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T10:13:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101238196046573641"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/liqwfe/status/…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/liqwfe/status/2100931809856876818",
+          "start": 17,
+          "url": "https://t.co/doD4rwV0ll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101238196046573641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100931809856876818",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？一眼看过去没几个不认识的😭😭😭 https://t.co/doD4rwV0ll"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2100931797756305408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSgCVr6WYAA346I.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2101238196046573641",
+        "created_at": "2026-09-19T09:13:19.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T10:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101238196046573641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liqwfe/status/…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/liqwfe/status/2100931809856876818",
+              "start": 17,
+              "url": "https://t.co/doD4rwV0ll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101238196046573641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100931809856876818",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？一眼看过去没几个不认识的😭😭😭 https://t.co/doD4rwV0ll"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100931797756305408"
+          ]
+        },
+        "author_id": "2041146061750956032",
+        "conversation_id": "2100931809856876818",
+        "created_at": "2026-09-18T12:55:51.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T13:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100931809856876818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LSEET4EBzb",
+              "end": 39,
+              "expanded_url": "https://x.com/Liqwfe/status/2100931809856876818/photo/1",
+              "media_key": "3_2100931797756305408",
+              "start": 16,
+              "url": "https://t.co/LSEET4EBzb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100931809856876818",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100931797756305408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2000,
+          "impression_count": 226907,
+          "like_count": 5969,
+          "quote_count": 34,
+          "reply_count": 214,
+          "retweet_count": 471
+        },
+        "reply_settings": "everyone",
+        "text": "发朋友圈有点恶俗 发推特刚刚好 https://t.co/LSEET4EBzb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "is_identity_verified": false,
+        "location": "France",
+        "most_recent_tweet_id": "2101238196046573641",
+        "name": "Rika☁️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1418942200457662477/1700665945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6914,
+          "following_count": 3765,
+          "like_count": 86682,
+          "listed_count": 8,
+          "media_count": 470,
+          "tweet_count": 10390
+        },
+        "url": "",
+        "username": "Rikka_Ela",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T13:29:04.000Z",
+        "description": "=林林｜07 intj ｜碎碎念发在threads找我请私联 \n单取/block不要告诉我pls🥺\n不要轻易关注我😿欢迎互fo \n随意称呼🫶",
+        "id": "2041146061750956032",
+        "is_identity_verified": false,
+        "location": "forever",
+        "most_recent_tweet_id": "2101238012306653258",
+        "name": "林刻雪（神秘发猫入）",
+        "pinned_tweet_id": "2097734198580945196",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041146061750956032/1785952011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086787459048964096/qdP_sb56_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 639,
+          "following_count": 378,
+          "like_count": 9234,
+          "listed_count": 0,
+          "media_count": 247,
+          "tweet_count": 1989
+        },
+        "url": "",
+        "username": "Liqwfe",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

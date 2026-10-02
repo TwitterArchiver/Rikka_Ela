@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1418942200457662477",
+    "conversation_id": "2102464756925800590",
+    "created_at": "2026-09-22T18:27:14.000Z",
+    "display_text_range": [
+      0,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T19:27:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102464756925800590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1810965133876940800",
+          "start": 3,
+          "username": "flyingpetal472"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102464756925800590",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 93
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102289166444970073",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @flyingpetal472: 学术界就像一个巨型公厕，\n现在的paper已经基本上厕纸化，但是没有厕纸的人走不出厕所。\n🤔🤔😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418942200457662477",
+        "conversation_id": "2102464756925800590",
+        "created_at": "2026-09-22T18:27:14.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T19:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102464756925800590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1810965133876940800",
+              "start": 3,
+              "username": "flyingpetal472"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102464756925800590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 93
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102289166444970073",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @flyingpetal472: 学术界就像一个巨型公厕，\n现在的paper已经基本上厕纸化，但是没有厕纸的人走不出厕所。\n🤔🤔😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810965133876940800",
+        "conversation_id": "2102289166444970073",
+        "created_at": "2026-09-22T06:49:30.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T07:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102289166444970073"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102289166444970073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 86805,
+          "like_count": 1242,
+          "quote_count": 24,
+          "reply_count": 39,
+          "retweet_count": 93
+        },
+        "reply_settings": "everyone",
+        "text": "学术界就像一个巨型公厕，\n现在的paper已经基本上厕纸化，但是没有厕纸的人走不出厕所。\n🤔🤔😅"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "France",
+              "geo": {
+                "coordinates": [
+                  2.0,
+                  46.0
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "is_identity_verified": false,
+        "location": "France",
+        "most_recent_tweet_id": "2102464756925800590",
+        "name": "Rika☁️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1418942200457662477/1700665945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6918,
+          "following_count": 3760,
+          "like_count": 86732,
+          "listed_count": 8,
+          "media_count": 471,
+          "tweet_count": 10415
+        },
+        "url": "",
+        "username": "Rikka_Ela",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-10T09:12:22.000Z",
+        "description": "A frustrated researcher in AI for efficient scaling and pretraining. We are bound to go to an unpredictable future. Opinions are my owns.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/flyingpetals520",
+                "end": 23,
+                "expanded_url": "https://github.com/flyingpetals520",
+                "start": 0,
+                "url": "https://t.co/0c284SgUsq"
+              }
+            ]
+          }
+        },
+        "id": "1810965133876940800",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2102444080433352919",
+        "name": "flyingpetals",
+        "pinned_tweet_id": "2017437082189500898",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1810965133876940800/1776080773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810988823591174144/jEW4lrJB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 966,
+          "following_count": 254,
+          "like_count": 27040,
+          "listed_count": 4,
+          "media_count": 46,
+          "tweet_count": 1597
+        },
+        "url": "https://t.co/0c284SgUsq",
+        "username": "flyingpetal472",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
